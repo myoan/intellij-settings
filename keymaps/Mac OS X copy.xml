@@ -1,0 +1,17 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="VimWindowDown">
+    <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="ctrl j" />
+  </action>
+  <action id="VimWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="ctrl h" />
+  </action>
+  <action id="VimWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="ctrl l" />
+  </action>
+  <action id="VimWindowUp">
+    <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="ctrl k" />
+  </action>
+</keymap>
