@@ -2,6 +2,12 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="VimMotionFirstColumn">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="VimMotionLastColumn">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="VimWindowDown">
     <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="ctrl j" />
   </action>

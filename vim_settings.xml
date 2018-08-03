@@ -2,22 +2,176 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1533271049197">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/protobuf/model.rb" timestamp="1533275495905">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="17" />
+      </file>
+      <file name="/a.dummy" timestamp="1533272730133">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/common_constant.rb" timestamp="1533273072492">
+        <mark key="'" line="26" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char.rb" timestamp="1533275665662">
+        <mark key="'" line="4" column="20" />
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" timestamp="1533270990221">
+        <mark key="'" line="337" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/master.rb" timestamp="1533274164941">
+        <mark key="'" line="31" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" timestamp="1533272664941">
+        <mark key="'" line="371" column="6" />
+        <mark key="[" line="313" column="17" />
+        <mark key="]" line="313" column="20" />
+        <mark key="." line="313" column="20" />
+        <mark key="^" line="313" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/model.rb" timestamp="1533274748374">
+        <mark key="'" line="11" column="39" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="20" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/initializers/00_load_files.rb" timestamp="1533272814892">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" timestamp="1533275830892">
+        <mark key="'" line="30" column="7" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/manager.rb" timestamp="1533273915484">
+        <mark key="'" line="74" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="22" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="371" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" />
+      <jump line="5" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char.rb" />
+      <jump line="20" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/common_constant.rb" />
+      <jump line="26" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/common_constant.rb" />
+      <jump line="24" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="4" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char.rb" />
+      <jump line="34" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/model.rb" />
+      <jump line="38" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/model.rb" />
+      <jump line="3" column="46" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/model.rb" />
+      <jump line="7" column="33" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/model.rb" />
+      <jump line="8" column="33" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/model.rb" />
+      <jump line="9" column="32" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/model.rb" />
+      <jump line="11" column="39" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/model.rb" />
+      <jump line="44" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/master.rb" />
+      <jump line="53" column="29" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/master.rb" />
+      <jump line="54" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/master.rb" />
+      <jump line="4" column="28" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/master.rb" />
+      <jump line="39" column="37" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/master.rb" />
+      <jump line="90" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/manager.rb" />
+      <jump line="12" column="48" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/manager.rb" />
+      <jump line="18" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/manager.rb" />
+      <jump line="74" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/manager.rb" />
+      <jump line="31" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/master.rb" />
+      <jump line="25" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="7" column="23" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="17" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="34" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="35" column="30" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="10" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="11" column="32" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+      <jump line="30" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY2xhc3NfYXR0cmlidXRlIDppbmNsdWRlZF9jbGFzc2VzLCBpbnN0YW5jZV93cml0ZXI6IGZhbHNlCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>master_data_name</text>
+      </register>
+      <register name="/" type="4">
+        <text>klass</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY2xhc3NfYXR0cmlidXRlIDptYXN0ZXJfZGF0YV9uYW1lLCBpbnN0YW5jZV93cml0ZXI6IGZhbHNlCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY2xhc3NfYXR0cmlidXRlIDppbmNsdWRlZF9jbGFzc2VzLCBpbnN0YW5jZV93cml0ZXI6IGZhbHNlCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY2xhc3NfYXR0cmlidXRlIDppbmNsdWRlZF9jbGFzc2VzLCBpbnN0YW5jZV93cml0ZXI6IGZhbHNlCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBpbmNsdWRlZF9jbGFzc2VzID0gW10K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNsYXNzIDw8IHNlbGYK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVuZAoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZWxmLmluY2x1ZGVkKGtsYXNzKQogICAgZW5kCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgc2VsZi5hZGRfaW5jbHVkZWRfY2xhc3NlcyhrbGFzcykK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>klass</last-search>
+      <last-offset />
+      <last-pattern>klass</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>name</entry>
+        <entry encoding="base64">XDxhcHBseV90YXJnZXRfbWFzdGVyc1w+</entry>
+        <entry encoding="base64">XDxtZF91cGxvYWRhYmxlXD4=</entry>
+        <entry>klass</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
