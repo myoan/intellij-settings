@@ -8,14 +8,18 @@
         <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/user/user_friend_sales_event.proto" timestamp="1533278263309">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="32" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/protobuf/model.rb" timestamp="1533275495905">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1533283959891">
+        <mark key="[" line="80" column="9" />
+        <mark key="]" line="80" column="9" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_friend_sales_event_spec.rb" timestamp="1533277988081">
         <mark key="'" line="0" column="0" />
@@ -36,12 +40,11 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" timestamp="1533270990221">
         <mark key="'" line="337" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event.rb" timestamp="1533278308288">
-        <mark key="'" line="48" column="6" />
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="6" />
-        <mark key="^" line="54" column="129" />
-        <mark key="." line="56" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event.rb" timestamp="1533283624450">
+        <mark key="'" line="77" column="6" />
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="49" column="6" />
+        <mark key="." line="49" column="6" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1533277951405">
         <mark key="'" line="0" column="0" />
@@ -67,6 +70,9 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/friend_sales_event_controller.rb" timestamp="1533283618395">
+        <mark key="'" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" timestamp="1533275830892">
         <mark key="'" line="30" column="7" />
@@ -126,10 +132,12 @@
       <jump line="406" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_friend_sales_event_spec.rb" />
+      <jump line="37" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/friend_sales_event_controller.rb" />
+      <jump line="77" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -137,8 +145,8 @@
       <register name="/" type="4">
         <text>to_proto</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIyBmcm9tX3VzZXJfc3VtbWFyeTogZnJvbV91c2VyLnRvX3VzZXJfc3VtbWFyeV9wcm90b2J1Zgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZnJvbV91c2VyX3N1bW1hcnk6IG5pbAo=</text>
@@ -168,7 +176,7 @@
         <text encoding="base64">ICAgIGNsYXNzIDw8IHNlbGYK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -189,8 +197,8 @@
         <entry>to_proto</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
