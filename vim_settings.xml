@@ -2,40 +2,22 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" timestamp="1533271008971">
-        <mark key="[" line="313" column="17" />
-        <mark key="]" line="313" column="20" />
-        <mark key="." line="313" column="20" />
-        <mark key="^" line="313" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533271049197">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" timestamp="1533270990221">
-        <mark key="'" line="337" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="337" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
-      </register>
-      <register name="-" type="4">
-        <text>e</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
