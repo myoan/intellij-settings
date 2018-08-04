@@ -79,16 +79,22 @@
         <mark key="." line="313" column="20" />
         <mark key="^" line="313" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.rb" timestamp="1533370459078">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/initializers/00_load_files.rb" timestamp="1533272814892">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.rb" timestamp="1533365510994">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.rb" timestamp="1533369569439">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="52" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/friend_sales_event_controller.rb" timestamp="1533283618395">
         <mark key="'" line="37" column="26" />
@@ -146,11 +152,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1533366049687">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1533369083914">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="35" column="26" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1533301226656">
         <mark key="'" line="421" column="0" />
@@ -161,9 +167,16 @@
         <mark key="." line="9" column="42" />
         <mark key="^" line="9" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.rb" timestamp="1533366464077">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.rb" timestamp="1533367317503">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.rb" timestamp="1533369576874">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" timestamp="1533275830892">
@@ -267,46 +280,47 @@
       <jump line="69" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="8" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.rb" />
       <jump line="10" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.rb" />
+      <jump line="17" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdXRzICJObyIK</text>
+        <text encoding="base64">cmV0dXJuIGlmIGluZGV4ID09IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>output_opt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdXRzICJObyIK</text>
+        <text encoding="base64">ICByZXR1cm4gaWYgaW5kZXggPT0gMTAwMDAwMDAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmV0dXJuIGlmIGluZGV4ID09IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwIGkK</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwIGRhdGEK</text>
+        <text encoding="base64">ICAgIHB1dHMgIiN7bX06ICN7cmVzdWx0fSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGF0YVswXS5zaXplLmVhY2ggZG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICBwdXRzICJtOiAje219IgogIHB1dHMgIiN7aW5kZXh9OiAje3Jlc3VsdH0iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICBwdXRzICJtOiAje219Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZW4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZW5kCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YS4K</text>
+        <text encoding="base64">KDEuLjE0KS5lYWNoIGRvIHxpfAogIHAgY2FsYyhwYXJhbXMsIGkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -335,6 +349,7 @@
       </history-search>
       <history-cmd>
         <entry>W</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
@@ -368,6 +383,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
