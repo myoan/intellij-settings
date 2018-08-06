@@ -9,8 +9,8 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_friend_sales_event_spec.rb" timestamp="1533277988081">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_friend_sales_event_spec.rb" timestamp="1533522607462">
+        <mark key="'" line="63" column="4" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/output/comparable.rb" timestamp="1533300176351">
         <mark key="'" line="29" column="0" />
@@ -36,11 +36,7 @@
         <mark key="^" line="9" column="40" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/base.rb" timestamp="1533350626406">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="32" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="32" />
+        <mark key="'" line="119" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/base.rb" timestamp="1533301232640">
         <mark key="'" line="27" column="4" />
@@ -80,6 +76,12 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/model.rb" timestamp="1533274748374">
+        <mark key="'" line="11" column="39" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="20" column="45" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.rb" timestamp="1533370459078">
         <mark key="[" line="18" column="30" />
         <mark key="]" line="18" column="30" />
@@ -113,9 +115,6 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" timestamp="1533351324167">
         <mark key="'" line="19" column="10" />
         <mark key="[" line="29" column="0" />
-        <mark key="]" line="35" column="9" />
-        <mark key="." line="34" column="10" />
-        <mark key="^" line="34" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1533351222845">
         <mark key="'" line="16" column="0" />
@@ -147,6 +146,12 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" timestamp="1533270990221">
         <mark key="'" line="337" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event.rb" timestamp="1533522623625">
+        <mark key="'" line="76" column="6" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1533369083914">
         <mark key="[" line="37" column="0" />
@@ -277,10 +282,11 @@
       <jump line="8" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.rb" />
       <jump line="10" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.rb" />
       <jump line="17" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.rb" />
+      <jump line="63" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_friend_sales_event_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZnJvbV91c2VyX2NvZGU6IGZyb21fdXNlci51c2VyX2NvZGUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -292,31 +298,31 @@
         <text encoding="base64">ICByZXR1cm4gaWYgaW5kZXggPT0gMTAwMDAwMDAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgZnJvbV91c2VyX2NvZGU6IGZyb21fdXNlci51c2VyX2NvZGUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW10ZGQK</text>
+        <text encoding="base64">ICAgICAgY29udGludWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW10ZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHByaW1lKGkpCmVuZAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIHByaW1lKGkpCmVuZAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmV0dXJuIGlmIGluZGV4ID09IAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
