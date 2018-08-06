@@ -129,6 +129,13 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1533540806667">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1533531057411">
         <mark key="'" line="30" column="2" />
         <mark key="[" line="85" column="6" />
@@ -228,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
-      <jump line="138" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="141" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="406" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
@@ -328,46 +333,48 @@
       <jump line="72" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/base.rb" />
       <jump line="30" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
+      <jump line="74" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>data_path</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBkZWYgc2VsZi5lYWNoX3Byb3RvZmlsZShwcm90b3MgPSBbXSkKICAgIHByb3Rvcy5lYWNoIGRvIHxwcm90b3wKICAgICAgeWllbGQgcHJvdG8KICAgICAgU1RET1VULndyaXRlICIuIgogICAgZW5kCiAgICBwdXRzICIiCiAgZW5k</text>
+        <text encoding="base64">KOWujOS6hikg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1cGVyY2xhc3MgbWlzbWF0Y2ggZm9yIGNsYXNzCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXplKGRhdGFfcGF0aCwgYXBpX3BhdGggPSAiIikKICAgICAgQGRhdGFfcGF0aCA9IGRhdGFfcGF0aAogICAgICBAYXBpX3BhdGggID0gYXBpX3BhdGgKICAgIGVuZAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgZW5kCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgbW9kdWxlIExhbmd1YWdlCiAgICBjbGFzcyBCYXNlCiAgICAgIGF0dHJfcmVhZGVyIDpkYXRhX3BhdGgsIDphcGlfcGF0aAoKICAgICAgZGVmIGluaXRpYWxpemUoZGF0YV9wYXRoLCBhcGlfcGF0aCA9ICIiKQogICAgICAgIEBkYXRhX3BhdGggPSBkYXRhX3BhdGgKICAgICAgICBAYXBpX3BhdGggID0gYXBpX3BhdGgKICAgICAgZW5kCgogICAgICBkZWYgbmFtZQogICAgICAgIHNlbGYuY2xhc3MubmFtZS5zcGxpdCgiOjoiKS5sYXN0CiAgICAgIGVuZAoKICAgICAgZGVmIGdlbmVyYXRlX3ZlcnNpb24KICAgICAgICBGaWxlLm9wZW4oRmlsZS5qb2luKHZlcnNpb25fZmlsZXBhdGgpLCAidyIpIGRvIHxmfAogICAgICAgICAgZi53cml0ZShnaXRfaGVhZF9zaGEpCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgZGVmIHZlcnNpb25fZmlsZXBhdGgKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yLCAiUGxlYXNlIG92ZXJyaWRlIHRoaXMgbWV0aG9kIgogICAgICBlbmQKCiAgICAgIGRlZiBnaXRfaGVhZF9zaGEKICAgICAgICBnID0gR2l0Lm9wZW4oUmFpbHMucm9vdCkKICAgICAgICBnLm9iamVjdCgiSEVBRCIpLnNoYQogICAgICBlbmQKCiAgICAgIGRlZiBnZW5lcmF0ZShtZXRob2QsIGFwaSkKICAgICAgZW5kCgogICAgICBkZWYgc2hvd19wcm90b19wYXRocyhzdWJfZGlyX3BhdGggPSAnJykKICAgICAgICBwYXRoID0gRmlsZS5leHBhbmRfcGF0aCgiLi4vLi4vLi4vLi4vcHJvdG9idWYvc2NoZW1hcyIsIF9fRklMRV9fKQogICAgICAgICItLXByb3RvX3BhdGg9I3twYXRofSIKICAgICAgZW5kCgogICAgICBkZWYgcHJlX2NvbXBpbGVfaG9vayhfc2VydmljZSkKICAgICAgICAjIG5vcAogICAgICBlbmQKCiAgICAgIGRlZiBwb3N0X2NvbXBpbGVfaG9vayhfc2VydmljZSkKICAgICAgICAjIG5vcAogICAgICBlbmQKCiAgICAgIGRlZiBzaG93X291dHB1dF9vcHRpb24odHlwZSwgc3ViX2Rpcl9wYXRoKQogICAgICAgIGNoZWNrX2FuZF9ta2Rpcih0eXBlLCBzdWJfZGlyX3BhdGgpCiAgICAgICAgb3V0cHV0X29wdGlvbih0eXBlLCBzdWJfZGlyX3BhdGgpCiAgICAgIGVuZAoKICAgICAgZGVmIGNoZWNrX2FuZF9ta2Rpcih0eXBlLCBzdWJfZGlyX3BhdGgpCiAgICAgICAgb3V0cHV0ID0gb3V0cHV0X3BhdGgodHlwZSwgc3ViX2Rpcl9wYXRoKQogICAgICAgIEZpbGVVdGlscy5ta2Rpcl9wKG91dHB1dCkgdW5sZXNzIERpci5leGlzdD8ob3V0cHV0KQogICAgICBlbmQKCiAgICAgIGRlZiBjcF90b19jdXJyZW50X2RpcihwYXRoKQogICAgICAgIEZpbGVVdGlscy5jcChwYXRoLCAiLiIpCiAgICAgIHJlc2N1ZSBFcnJubzo6RU5PRU5UCiAgICAgICAgcHV0cyAiW0Vycm9yXSAnI3twYXRofScgbm90IGZvdW5kIgogICAgICAgIGV4aXQgMQogICAgICBlbmQKCiAgICAgIGRlZiBvdXRwdXRfcGF0aHMKICAgICAgICBbCiAgICAgICAgICBvdXRwdXRfYmFzZSwKICAgICAgICAgIG91dHB1dF9lbnVtLAogICAgICAgICAgb3V0cHV0X2FwaSwKICAgICAgICAgIG91dHB1dF9tb2RlbAogICAgICAgIF0KICAgICAgZW5kCgogICAgICBkZWYgb3V0cHV0X2Jhc2Uoc3ViX2Rpcl9wYXRoID0gJycpCiAgICAgICAgcmFpc2UgTm90SW1wcmVtZW50ZWRFcnJvciwgIllvdSBtdXN0IGltcGxlbWVudCAje3NlbGYuY2xhc3N9IyN7X19tZXRob2RfX30iCiAgICAgIGVuZAoKICAgICAgZGVmIG91dHB1dF9lbnVtKHN1Yl9kaXJfcGF0aCA9ICcnKQogICAgICAgIHJhaXNlIE5vdEltcHJlbWVudGVkRXJyb3IsICJZb3UgbXVzdCBpbXBsZW1lbnQgI3tzZWxmLmNsYXNzfSMje19fbWV0aG9kX199IgogICAgICBlbmQKCiAgICAgIGRlZiBvdXRwdXRfYXBpKHN1Yl9kaXJfcGF0aCA9ICcnKQogICAgICAgIHJhaXNlIE5vdEltcHJlbWVudGVkRXJyb3IsICJZb3UgbXVzdCBpbXBsZW1lbnQgI3tzZWxmLmNsYXNzfSMje19fbWV0aG9kX199IgogICAgICBlbmQKCiAgICAgIGRlZiBvdXRwdXRfbW9kZWwoc3ViX2Rpcl9wYXRoID0gJycpCiAgICAgICAgcmFpc2UgTm90SW1wcmVtZW50ZWRFcnJvciwgIllvdSBtdXN0IGltcGxlbWVudCAje3NlbGYuY2xhc3N9IyN7X19tZXRob2RfX30iCiAgICAgIGVuZAoKICAgICAgZGVmIG91dHB1dF9wYXRoKHR5cGUsIHN1Yl9kaXJfcGF0aCkKICAgICAgICBjYXNlIHR5cGUKICAgICAgICB3aGVuIDpiYXNlCiAgICAgICAgICBvdXRwdXRfYmFzZShzdWJfZGlyX3BhdGgpCiAgICAgICAgd2hlbiA6ZW51bQogICAgICAgICAgb3V0cHV0X2VudW0oc3ViX2Rpcl9wYXRoKQogICAgICAgIHdoZW4gOmFwaQogICAgICAgICAgb3V0cHV0X2FwaShzdWJfZGlyX3BhdGgpCiAgICAgICAgd2hlbiA6bW9kZWwKICAgICAgICAgIG91dHB1dF9tb2RlbChzdWJfZGlyX3BhdGgpCiAgICAgICAgZWxzZQogICAgICAgICAgcGF0aAogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIGRlZiBjb252ZXJ0X3RvX3N1Yl9kaXJfcGF0aChzdWJfZGlyX3BhdGgpCiAgICAgICAgc3ViX2Rpcl9wYXRoCiAgICAgIGVuZAogICAgZW5k</text>
+      <register name="6" type="2">
+        <text encoding="base64">cmVtb3ZlIHByb21ldGhldXMgZWNzIGNsdXN0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXR0cl9yZWFkZXIgOmRhdGFfcGF0aCwgOmFwaV9wYXRoCg==</text>
+        <text encoding="base64">YWRkIGt5b3N1a2UudGFuYWthCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGF0dHJfcmVhZGVyIDpkYXRhX3BhdGgsIDphcGlfcGF0aAoK</text>
+      <register name="8" type="8">
+        <text encoding="base64">W+ODrOODk+ODpeODvOOBr+mgvOOCgOOBjG1lcmdl44Gv5b6F44Gj44GmXSAKW+ODrOODk+ODpeODvOOBr+mgvOOCgOOBjG1lcmdl44Gv5b6F44Gj44GmXSAKW+ODrOODk+ODpeODvOOBr+mgvOOCgOOBjG1lcmdl44Gv5b6F44Gj44GmXSA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">IzMyIGJ5IHBnbW90IHdhcyBtZXJnZWQgNSBkYXlzIGFnbyDigKIgQXBwcm92ZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
