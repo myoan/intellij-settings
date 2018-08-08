@@ -36,13 +36,6 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/base.rb" timestamp="1533552737504">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" timestamp="1533693104432">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="151" column="23" />
-        <mark key="]" line="151" column="34" />
-        <mark key="^" line="151" column="34" />
-        <mark key="." line="151" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" timestamp="1533272664941">
         <mark key="'" line="371" column="6" />
         <mark key="[" line="313" column="17" />
@@ -106,9 +99,10 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" timestamp="1533698715753">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="68" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" timestamp="1533699393433">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1533369083914">
         <mark key="[" line="37" column="0" />
@@ -186,11 +180,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/controllers/yuzuru/application_controller.rb" timestamp="1533698720105">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/controllers/yuzuru/application_controller.rb" timestamp="1533700200057">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp/base.rb" timestamp="1533654518021">
         <mark key="'" line="25" column="10" />
@@ -204,13 +198,6 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer/manager.rb" timestamp="1533273915484">
         <mark key="'" line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" timestamp="1533698411161">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="38" column="34" />
-        <mark key="." line="38" column="34" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby/enum.rb" timestamp="1533658666510">
         <mark key="'" line="5" column="0" />
@@ -253,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
-      <jump line="93" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp/base.rb" />
       <jump line="3" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp/base.rb" />
       <jump line="4" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp/base.rb" />
@@ -353,46 +338,48 @@
       <jump line="16" column="63" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby/base.rb" />
       <jump line="21" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="154" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
+      <jump line="61" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8gcmVxdWVzdC5yZW1vdGVfaXAK</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRwdXRfZ2VuZXJhdGVkX2FwaVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE1hY2Fyb246OkNvbmZpZy5zZXR0aW5nLmluY2x1ZGVfaW5fb2ZmaWNlX2lwPyhyZXF1ZXN0LnJlbW90ZV9pcCkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUgaWYgTWFjYXJvbjo6Q29uZmlnLnNldHRpbmcuaW5jbHVkZV9pbl9vZmZpY2VfaXA/KHJlcXVlc3QucmVtb3RlX2lwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUgaWYgcm9sZWRfdXNlcj8K</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8gcmVxdWVzdC5yZW1vdGVfaXAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUgdW5sZXNzIE1haW50ZW5hbmNlLnVuZGVyX21haW50ZW5hbmNlPwo=</text>
+        <text encoding="base64">ICAgICAgIyByZXR1cm4gdHJ1ZSBpZiByZXF1ZXN0LnJlbW90ZV9pcCA9PSAiMC4wLjAuMCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUgaWYgcmVxdWVzdC5yZW1vdGVfaWQgPT0gIjEyNy4wLjAuMSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgIm91dHB1dF9maWxlOiAje291dHB1dF9maWxlfSIK</text>
+        <text encoding="base64">ICAgICAgcmFpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlIHVubGVzcyBNYWNhcm9uOjpDb25maWcuc2V0dGluZy5mZXRjaCg6YWxsb3dfc2lnbnVwX2Zyb21fb2ZmaWNlX3doZW5fbWFpbnRlbmFuY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBmaWxlcGF0aCA9IHBhdGgubWF0Y2goJXJ7LisobW9kZWwvLiopJH0pWzJdLmdzdWIoLy5wcm90byQvLCAiIikK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlIHVubGVzcyByZXF1ZXN0LnBhdGggPT0gdXNlcl9zaWdudXBfcGF0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUgaWYgcm9sZWRfdXNlcj8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUgdW5sZXNzIE1haW50ZW5hbmNlLnVuZGVyX21haW50ZW5hbmNlPwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
