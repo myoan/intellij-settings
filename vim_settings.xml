@@ -235,12 +235,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/server-basic.puml" timestamp="1533870252827">
-        <mark key="'" line="13" column="36" />
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="33" />
-        <mark key="^" line="20" column="33" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/server-basic.puml" timestamp="1533891359294">
+        <mark key="'" line="32" column="10" />
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="10" />
+        <mark key="^" line="22" column="8" />
+        <mark key="." line="22" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/output/model.rb" timestamp="1533351245129">
         <mark key="[" line="9" column="42" />
@@ -272,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="17" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" />
       <jump line="167" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="116" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
@@ -372,65 +371,65 @@
       <jump line="25" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/server-basic.puml" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/server-basic.puml" />
       <jump line="14" column="36" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/server-basic.puml" />
+      <jump line="32" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/server-basic.puml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pull macaron-client</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>pull macaron-client</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>Planner</text>
+        <text>Client</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
+        <text encoding="base64">SmVua2lucyAtPiB1YjogcHVzaCBtYWNhcm9uLWFzc2V0YnVuZGxlCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">TWVtYmVyIC0+IEdpdGh1YjogcHVzaCBtYWNhcm9uLXNvdW5kCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IGJ1aWxkIEFzc2V0QnVuZGxlCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>BuildMachine
 BuildMachine
 BuildMachine</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">YWN0b3IgQgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">TWVtYmVyIC0+IEdpdGh1Yl9tYXN0ZXJfcGxhbmRhdGE6IGNvbW1lbnQgImNzdiIK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">TWVtYmVyIC0+IEdpdGh1Yl9tYXN0ZXJfYXNzZXRidW5kbGU6IG1lcmdlIFBSCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">TWVtYmVyIC0+IEdpdGh1Yl9tYXN0ZXJfYXNzZXRidW5kbGU6IG1lcmdlIFBSCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">YWN0aXZhdGUgSmVua2lucwpKZW5raW5zIC0+IEplbmtpbnM6IGNvbnZlcnQgeGxzeCB0byBjc3YKSmVua2lucyAtPiBHaXRodWJfbWFzdGVyX3BsYW5kYXRhOiBwdXNoCmRlYWN0aXZhdGUgSmVua2lucwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/Client/User/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Planner</last-search>
+      <last-search>Client</last-search>
       <last-offset />
-      <last-pattern>Planner</last-pattern>
-      <last-replace>Member</last-replace>
-      <last-substitute>Planner</last-substitute>
+      <last-pattern>Client</last-pattern>
+      <last-replace>User</last-replace>
+      <last-substitute>Client</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>output_file</entry>
         <entry>output_paths</entry>
         <entry>output_path</entry>
         <entry encoding="base64">XDxvdXRwdXRfZmlsZVw+</entry>
@@ -450,6 +449,7 @@ BuildMachine</text>
         <entry>model</entry>
         <entry>Model</entry>
         <entry>Planner</entry>
+        <entry>Client</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -469,6 +469,7 @@ BuildMachine</text>
         <entry>%/Planner/Member/g</entry>
         <entry>%s/Planner/Member/g</entry>
         <entry>w</entry>
+        <entry>%s/Client/User/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
