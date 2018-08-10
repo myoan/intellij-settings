@@ -23,6 +23,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/battle_category.proto" timestamp="1533807921624">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
         <mark key="[" line="49" column="0" />
@@ -36,11 +41,11 @@
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1533867633782">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.md" timestamp="1533894125290">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+        <mark key="." line="13" column="6" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/base.rb" timestamp="1533657627001">
         <mark key="'" line="6" column="0" />
@@ -129,6 +134,11 @@
         <mark key="]" line="49" column="0" />
         <mark key="^" line="17" column="24" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/README.md" timestamp="1533893887724">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1533605666637">
         <mark key="[" line="0" column="0" />
@@ -375,10 +385,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>Client</text>
@@ -387,33 +397,31 @@
         <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SmVua2lucyAtPiB1YjogcHVzaCBtYWNhcm9uLWFzc2V0YnVuZGxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
+        <text encoding="base64">KGh0dHBzOi8vdXNlci1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzcwODAzMC80Mzk1MDc5NS01M2E2YjNiOC05Y2NjLTExZTgtODlkNi01NzBmOGRlYWQyZjMucG5nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TWVtYmVyIC0+IEdpdGh1YjogcHVzaCBtYWNhcm9uLXNvdW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
+        <text encoding="base64">CiMjIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IGJ1aWxkIEFzc2V0QnVuZGxlCg==</text>
+        <text encoding="base64">SmVua2lucyAtPiB1YjogcHVzaCBtYWNhcm9uLWFzc2V0YnVuZGxlCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>BuildMachine
-BuildMachine
-BuildMachine</text>
+      <register name="6" type="2">
+        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWN0b3IgQgo=</text>
+        <text encoding="base64">TWVtYmVyIC0+IEdpdGh1YjogcHVzaCBtYWNhcm9uLXNvdW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TWVtYmVyIC0+IEdpdGh1Yl9tYXN0ZXJfcGxhbmRhdGE6IGNvbW1lbnQgImNzdiIK</text>
+        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TWVtYmVyIC0+IEdpdGh1Yl9tYXN0ZXJfYXNzZXRidW5kbGU6IG1lcmdlIFBSCg==</text>
+        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IGJ1aWxkIEFzc2V0QnVuZGxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Client/User/g</text>
