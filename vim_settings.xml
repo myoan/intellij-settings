@@ -10,12 +10,6 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/service_spec.rb" timestamp="1533826774182">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="2" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/output/comparable.rb" timestamp="1533300176351">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="32" column="0" />
@@ -135,6 +129,12 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1534215816703">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/README.md" timestamp="1533893887724">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -179,6 +179,18 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="13" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event.rb" timestamp="1534215223614">
+        <mark key="'" line="57" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1533825748952">
+        <mark key="'" line="56" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_selector.rb" timestamp="1534215293313">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/base_spec.rb" timestamp="1533832161642">
         <mark key="'" line="17" column="31" />
@@ -251,6 +263,12 @@
         <mark key="]" line="22" column="10" />
         <mark key="^" line="22" column="8" />
         <mark key="." line="22" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_sales_events_schema.rb" timestamp="1534215381966">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/output/model.rb" timestamp="1533351245129">
         <mark key="[" line="9" column="42" />
@@ -385,46 +403,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>Client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
+        <text encoding="base64">ICAjIOOCquODleOCo+OCueOChOOCpOODmeODs+ODiOOBq+eZu+WgtOOBmeOCi+OCreODo+ODqUlECiAgdC5pbnRlZ2VyICAgIDpjaGFyX2lkLCAgICAgICAgbnVsbDogZmFsc2UsIGRlZmF1bHQ6IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGh0dHBzOi8vdXNlci1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzcwODAzMC80Mzk1MDc5NS01M2E2YjNiOC05Y2NjLTExZTgtODlkNi01NzBmOGRlYWQyZjMucG5nKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">KGh0dHBzOi8vdXNlci1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzcwODAzMC80Mzk1MDc5NS01M2E2YjNiOC05Y2NjLTExZTgtODlkNi01NzBmOGRlYWQyZjMucG5nKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMjIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SmVua2lucyAtPiB1YjogcHVzaCBtYWNhcm9uLWFzc2V0YnVuZGxlCg==</text>
+        <text encoding="base64">CiMjIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
+        <text encoding="base64">SmVua2lucyAtPiB1YjogcHVzaCBtYWNhcm9uLWFzc2V0YnVuZGxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TWVtYmVyIC0+IEdpdGh1YjogcHVzaCBtYWNhcm9uLXNvdW5kCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">TWVtYmVyIC0+IEdpdGh1YjogcHVzaCBtYWNhcm9uLXNvdW5kCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IGJ1aWxkIEFzc2V0QnVuZGxlCg==</text>
+        <text encoding="base64">SmVua2lucyAtPiBHaXRodWI6IHB1bGwgbWFjYXJvbi1jbGllbnQK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Client/User/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -462,7 +480,6 @@
       <history-cmd>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>%s/Base/Model/g</entry>
         <entry>%s/base/model/g</entry>
         <entry>%s/base/api/g</entry>
@@ -476,8 +493,9 @@
         <entry>66</entry>
         <entry>%/Planner/Member/g</entry>
         <entry>%s/Planner/Member/g</entry>
-        <entry>w</entry>
         <entry>%s/Client/User/g</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
