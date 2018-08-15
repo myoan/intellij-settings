@@ -17,6 +17,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/battle_category.proto" timestamp="1533807921624">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
         <mark key="[" line="49" column="0" />
@@ -59,6 +64,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="59" />
         <mark key="." line="20" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char.rb" timestamp="1534300115233">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/sales_events_schema.rb" timestamp="1534294209882">
         <mark key="'" line="0" column="0" />
@@ -117,6 +127,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/README.md" timestamp="1533893887724">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" timestamp="1533275830892">
         <mark key="'" line="30" column="7" />
         <mark key="[" line="6" column="0" />
@@ -149,7 +164,7 @@
         <mark key="^" line="13" column="47" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event.rb" timestamp="1534293800541">
-        <mark key="'" line="63" column="0" />
+        <mark key="'" line="68" column="0" />
         <mark key="[" line="3" column="100" />
         <mark key="]" line="3" column="100" />
         <mark key="^" line="3" column="143" />
@@ -393,7 +408,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -405,31 +420,31 @@
         <text encoding="base64">ICAjIOOCreODo+ODqemBuOWumuadoeS7tuOBruimj+WJhwogIHQuaW50ZWdlciAgOmNoYXJfY29uZF9vcHIsIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgc2VsZi5nZXRfYnlfaWQoaWQpCiAgICBFeHRyYUNoYXIuZmluZF9ieShpZDogaWQpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2IgPSBzYWxlc19ldmVudF9ncm91cC5jYWxjX3Byb2Ioc2VsZi5jb3VudCkKICAgIHJldHVybiBpZiBSYW5kb20ucmFuZChNQVhfU1BBV05fUFJPQikgPiBwcm9iCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb2IgPSBjYWxjX3Byb2IoY291bnQpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBlbmQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgc2VsZi5nZXRfYnlfaWQoaWQpCiAgICBFeHRyYUNoYXIuZmluZF9ieShpZDogaWQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb2IgPSBzYWxlc19ldmVudF9ncm91cC5jYWxjX3Byb2Ioc2VsZi5jb3VudCkKICAgIHJldHVybiBpZiBSYW5kb20ucmFuZChNQVhfU1BBV05fUFJPQikgPiBwcm9iCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByb2IgPSBjYWxjX3Byb2IoY291bnQpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIOWun+ihjOWbnuaVsAogIHQuaW50ZWdlciAgICA6Y291bnQsICAgICAgICAgIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAwCg==</text>
+        <text encoding="base64">ICAgIHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiBldmVudC5uaWw/Cg==</text>
+        <text encoding="base64">ICAjIOWun+ihjOWbnuaVsAogIHQuaW50ZWdlciAgICA6Y291bnQsICAgICAgICAgIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
