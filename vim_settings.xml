@@ -227,6 +227,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user_purchase.rb" timestamp="1534745570090">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_23.rb" timestamp="1534411538816">
         <mark key="'" line="6" column="26" />
         <mark key="[" line="9" column="56" />
@@ -270,6 +273,9 @@
         <mark key="]" line="157" column="54" />
         <mark key="^" line="159" column="95" />
         <mark key="." line="157" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/amazon_app_store.rb" timestamp="1534745617490">
+        <mark key="'" line="69" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/user/user_friend_sales_event.proto" timestamp="1533297379228">
         <mark key="[" line="4" column="48" />
@@ -449,6 +455,9 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/settings.yml" timestamp="1534223361172">
         <mark key="'" line="324" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/Gemfile" timestamp="1534745650628">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/output/model.rb" timestamp="1533351245129">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="9" column="42" />
@@ -504,10 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="44" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
-      <jump line="31" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/shuffle_lunch.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/scheduler.rb" />
       <jump line="34" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/scheduler.rb" />
       <jump line="32" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/scheduler.rb" />
       <jump line="18" column="43" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/scheduler.rb" />
@@ -604,6 +609,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="114" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="218" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user_purchase.rb" />
+      <jump line="65" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/amazon_app_store.rb" />
+      <jump line="69" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/amazon_app_store.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,7 +622,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>amazon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnRleHQgIndoZW4gY291bnQgaXMgMyIgZG8KICAgICAgbGV0KDpjb3VudCkgeyAzIH0KICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZSBmYWxzZSB9CiAgICBlbmQK</text>
@@ -650,9 +659,9 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>amazon</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>amazon</last-pattern>
       <last-replace>User</last-replace>
       <last-substitute>Client</last-substitute>
       <last-dir>1</last-dir>
@@ -660,8 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loopable</entry>
-        <entry>denon</entry>
         <entry encoding="base64">XDxzYWxlc19ldmVudF9ncm91cF9jb3VudFw+</entry>
         <entry>choise</entry>
         <entry encoding="base64">XDxwcm9jZWVkX3RvXD4=</entry>
@@ -680,6 +687,8 @@
         <entry encoding="base64">XDxjb25zdW1lX2l0ZW1zXD4=</entry>
         <entry>consume_item</entry>
         <entry>list</entry>
+        <entry encoding="base64">XDxnZXRfcmVjZWlwdFw+</entry>
+        <entry>amazon</entry>
       </history-search>
       <history-cmd>
         <entry>%s/model/api/g</entry>
