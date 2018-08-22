@@ -106,12 +106,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/gacha_chars_schema.rb" timestamp="1534396413597">
         <mark key="'" line="5" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1533552461007">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="23" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1534920563451">
+        <mark key="'" line="131" column="11" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="^" line="182" column="0" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1534912572872">
         <mark key="[" line="10" column="0" />
@@ -674,9 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
-      <jump line="42" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
-      <jump line="58" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
       <jump line="110" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
       <jump line="168" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
@@ -774,13 +771,16 @@
       <jump line="85" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="108" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
+      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
+      <jump line="82" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
+      <jump line="131" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmFpc2UgUHJvdG9idWY6OkdlbmVyYXRlRXJyb3IsICJob2dlIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>hidde</text>
