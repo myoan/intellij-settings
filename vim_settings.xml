@@ -113,11 +113,6 @@
         <mark key="^" line="182" column="0" />
         <mark key="." line="182" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1534912572872">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.rb" timestamp="1533302318829">
         <mark key="'" line="5" column="15" />
         <mark key="[" line="1" column="2" />
@@ -783,7 +778,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>hidde</text>
+        <text>hoge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHJhaXNlIFByb3RvYnVmOjpHZW5lcmF0ZUVycm9yLCBzdGRlcnIgdW5sZXNzIHN0YXR1cy5zdWNjZXNzPwo=</text>
@@ -820,9 +815,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hidde</last-search>
+      <last-search>hoge</last-search>
       <last-offset />
-      <last-pattern>hidde</last-pattern>
+      <last-pattern>hoge</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
@@ -830,7 +825,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TODO</entry>
         <entry>sum_</entry>
         <entry>consume_item</entry>
         <entry>inform</entry>
@@ -850,6 +844,7 @@
         <entry>selected</entry>
         <entry>hide</entry>
         <entry>hidde</entry>
+        <entry>hoge</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Model/Api/g</entry>
