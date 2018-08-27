@@ -99,8 +99,8 @@
         <mark key="^" line="167" column="6" />
         <mark key="." line="167" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1535369341932">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1535369533595">
+        <mark key="'" line="182" column="15" />
         <mark key="[" line="180" column="8" />
         <mark key="]" line="180" column="15" />
         <mark key="^" line="180" column="15" />
@@ -330,11 +330,11 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/protobuf.rb" timestamp="1535116184734">
         <mark key="'" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/service_spec.rb" timestamp="1535369059804">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/service_spec.rb" timestamp="1535369539484">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
@@ -627,7 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" />
       <jump line="16" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="72" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
@@ -727,13 +726,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="185" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
+      <jump line="182" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0IHsgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>write</text>
@@ -742,31 +742,31 @@
         <text encoding="base64">cmVxdWlyZSAic3BlY19oZWxwZXIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0IHsgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgbAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgZWxzZQo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAjIFtob2dlL2Z1Z2EucHJvdG9dKCNhcGkvaG9nZS9mdWdhLnByb3RvKSDjgavlr77lv5wKICAgICAgICBpZiBsID1+ICVye14oLiopXCgjYXBpLyhcdyopLyguKylcKSguKikkfQogICAgICAgICAgZGF0YSArPSAiI3skMX0oI3tkaXJ9L2FwaS8jeyQyfS5tZCNhcGkvI3skMn0vI3skM30pI3skNH1cbiIKICAgICAgICAjIFtob2dlL2Z1Z2EucHJvdG9dKCNtb2RlbC9ob2dlL2Z1Z2EucHJvdG8pIOOBq+WvvuW/nAogICAgICAgIGVsc2lmIGwgPX4gJXJ7XiguKilcKCNtb2RlbC8oXHcqKS8oLispXCkoLiopJH0KICAgICAgICAgICAgZGF0YSArPSAiI3skMX0oI3tkaXJ9L21vZGVsLyN7JDJ9Lm1kI2FwaS8jeyQyfS8jeyQzfSkjeyQ0fVxuIgogICAgICAgICMgW2hvZ2UvZnVnYS5wcm90b10oI2VudW0vZnVnYS5wcm90bykg44Gr5a++5b+cCiAgICAgICAgZWxzaWYgbCA9fiAlcnteKC4qKVwoIyhcdyopLyguKylcKSguKikkfQogICAgICAgICAgZGF0YSArPSAiI3skMX0oI3tkaXJ9LyN7JDJ9Lm1kIyN7JDJ9LyN7JDN9KSN7JDR9XG4iCiAgICAgICAgIyBbR2VuZGVyXShEQy5EYXRhLkVudW0uR2VuZGVyKSDnrYnjgIFlbnVt44Gr5a++5b+cCiAgICAgICAgZWxzaWYgbCA9fiAlcnteKC4qKVwoIyhEQ1wuRGF0YS4rKVwpKC4qKSR9CiAgICAgICAgICBkYXRhICs9ICIjeyQxfSgje2Rpcn0vI3skMi5zcGxpdCgnLicpWzJdLmRvd25jYXNlfS5tZCMjeyQyfSkjeyQzfVxuIgogICAgICAgICMgW0NoYXJdKERDLkFwaS5CYXNlLkJhc2VSZXNwb25zZSkg562J44CBYmFzZeOBq+WvvuW/nAogICAgICAgIGVsc2lmIGwgPX4gJXJ7XiguKilcKCMoRENcLkFwaVwuQmFzZS4rKVwpKC4qKSR9CiAgICAgICAgICBkYXRhICs9ICIjeyQxfSgje2Rpcn0vI3skMi5zcGxpdCgnLicpWzJdLmRvd25jYXNlfS5tZCMjeyQyfSkjeyQzfVxuIgogICAgICAgICMgW0NoYXJdKERDLkFwaS5CYXR0bGUuU3RhcnRSZXF1ZXN0KSDnrYnjgIFtb2RlbC9hcGnjgavlr77lv5wKICAgICAgICBlbHNpZiBsID1+ICVye14oLiopXCgjKERDXC5BcGlcLiguKylcLi4rKVwpKC4qKSR9CiAgICAgICAgICBkYXRhICs9ICIjeyQxfSgje2Rpcn0vYXBpLyN7JDIuc3BsaXQoJy4nKVsyXS5kb3duY2FzZX0ubWQjI3skMn0pI3skNH1cbiIKICAgICAgICBlbHNpZiBsID1+ICVye14oLiopXCgjKERDXC5Nb2RlbFwuLitcLi4rKVwpKC4qKSR9CiAgICAgICAgICBkYXRhICs9ICIjeyQxfSgje2Rpcn0vbW9kZWwvI3skMi5zcGxpdCgnLicpWzJdLmRvd25jYXNlfS5tZCMjeyQyfSkjeyQzfVxuIgogICAgICAgIGVsc2lmIGwgPX4gJXJ7XiguKilcKCMoREMuKylcKSguKikkfQogICAgICAgICAgZGF0YSArPSAiI3skMX0oI3tkaXJ9LyN7JDIuc3BsaXQoJy4nKVsxXS5kb3duY2FzZX0ubWQjI3skMn0pI3skM31cbiIKICAgICAgICBlbHNlCiAgICAgICAgICBkYXRhICs9IGwKICAgICAgICBlbmQ=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgIiIK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgIiIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
