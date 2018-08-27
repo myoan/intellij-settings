@@ -34,6 +34,9 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="22" column="81" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" timestamp="1535367689629">
+        <mark key="'" line="128" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/protobuf.rake" timestamp="1535116176639">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="7" />
@@ -60,8 +63,8 @@
         <mark key="^" line="167" column="6" />
         <mark key="." line="167" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1535366269824">
-        <mark key="'" line="195" column="58" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1535367024508">
+        <mark key="'" line="118" column="8" />
         <mark key="[" line="107" column="8" />
         <mark key="]" line="107" column="8" />
         <mark key="^" line="197" column="77" />
@@ -427,9 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
-      <jump line="108" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
       <jump line="82" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
       <jump line="131" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
@@ -514,7 +514,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="129" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="49" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
-      <jump line="118" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="38" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/markdown.rb" />
@@ -527,6 +526,10 @@
       <jump line="62" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="171" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="195" column="58" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
+      <jump line="118" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
+      <jump line="108" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
+      <jump line="110" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
+      <jump line="128" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -536,7 +539,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>mkdir</text>
+        <text>write</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGRhdGEgKz0gIiN7JDF9KCN7ZGlyfS9hcGkvI3skMi5zcGxpdCgnLicpWzJdLmRvd25jYXNlfS5tZCMjeyQyfSlcbiIK</text>
@@ -573,9 +576,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mkdir</last-search>
+      <last-search>write</last-search>
       <last-offset />
-      <last-pattern>mkdir</last-pattern>
+      <last-pattern>write</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
@@ -583,7 +586,6 @@
     </search>
     <history>
       <history-search>
-        <entry>select_groups</entry>
         <entry>win_lott</entry>
         <entry encoding="base64">XDxjb21waWxlX2Jhc2VzXD4=</entry>
         <entry encoding="base64">XDxlYWNoX3Byb3RvZmlsZVw+</entry>
@@ -603,6 +605,7 @@
         <entry>rename</entry>
         <entry>URL</entry>
         <entry>mkdir</entry>
+        <entry>write</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Model/Api/g</entry>
