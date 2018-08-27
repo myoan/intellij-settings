@@ -60,12 +60,12 @@
         <mark key="^" line="167" column="6" />
         <mark key="." line="167" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1535363202485">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="102" column="8" />
-        <mark key="]" line="102" column="8" />
-        <mark key="." line="102" column="8" />
-        <mark key="^" line="102" column="8" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" timestamp="1535366269824">
+        <mark key="'" line="195" column="58" />
+        <mark key="[" line="107" column="8" />
+        <mark key="]" line="107" column="8" />
+        <mark key="^" line="197" column="77" />
+        <mark key="." line="107" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.rb" timestamp="1533302318829">
         <mark key="'" line="5" column="15" />
@@ -382,7 +382,7 @@
         <mark key="'" line="61" column="6" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/settings.yml" timestamp="1535363160940">
-        <mark key="'" line="15" column="0" />
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="18" />
         <mark key="^" line="5" column="18" />
@@ -427,10 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="88" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" />
-      <jump line="71" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
-      <jump line="61" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_enemy_info_cache.rb" />
-      <jump line="118" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="108" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
@@ -527,55 +523,59 @@
       <jump line="196" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="190" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
+      <jump line="61" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
+      <jump line="62" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
+      <jump line="171" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
+      <jump line="195" column="58" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>URL</text>
+        <text>mkdir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwaV9vdXRwdXRfcGF0aDoKICAgICAgY3NoYXJwOiAuLi9tYWNhcm9uLWNsaWVudC9NYWNhcm9uL0Fzc2V0cy9TY3JpcHRzL0FwaXMK</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGEgKz0gIiN7JDF9KCN7ZGlyfS9hcGkvI3skMi5zcGxpdCgnLicpWzJdLmRvd25jYXNlfS5tZCMjeyQyfSlcbiIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgdmVyc2lvbl9maWxlCiAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgcmVnZW5lcmF0ZV91cmwoIi4iLCAiZG9jL21vZGVsLm1kIikK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhdGgK</text>
+      <register name="3" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhdGggPSBGaWxlLmpvaW4odmVyc2lvbl9kaXIsICJiYXNlIiwgQGZpbGVuYW1lKQogICAgICAgICAgY2hlY2tfYW5kX21rZGlyKEZpbGUuZGlybmFtZShwYXRoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGEgKz0gIiN7JDF9KCN7ZGlyfS8jeyQyLnNwbGl0KCcuJylbMV0uZG93bmNhc2V9Lm1kIyN7JDJ9KVxuIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIF8sIHN0ZGVyciwgc3RhdHVzID0gT3BlbjMuY2FwdHVyZTMoInByb3RvYyAje3Nob3dfcHJvdG9fcGF0aHN9ICN7c2hvd19vdXRwdXRfb3B0aW9ufSAje3BhdGh9IikK</text>
+        <text encoding="base64">ICAgICAgICBwIG1vZGVscy5qb2luKCIgIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgcHJvdG9fcGF0aHMgPSBhcGlzKGxhbmcpLmZpcnN0LnNob3dfcHJvdG9fcGF0aHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlLm9wZW4odmVyc2lvbl9maWxlLCAidyIpIGRvIHxmfAogICAgICAgICAgZi53cml0ZShzZWxmLnRvX21kNSkK</text>
+        <text encoding="base64">ICAgICAgICBkZGtrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEaWdlc3Q6Ok1ENS5maWxlKHBhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlLmpvaW4oUmFpbHMucm9vdCwgInByb3RvYnVmLy5wcm90b2J1Zl9nZW5lcmF0ZWRfdmVyc2lvbnMiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwIHRvcF9kaXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>URL</last-search>
+      <last-search>mkdir</last-search>
       <last-offset />
-      <last-pattern>URL</last-pattern>
+      <last-pattern>mkdir</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
@@ -583,7 +583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enable</entry>
         <entry>select_groups</entry>
         <entry>win_lott</entry>
         <entry encoding="base64">XDxjb21waWxlX2Jhc2VzXD4=</entry>
@@ -603,6 +602,7 @@
         <entry>%w</entry>
         <entry>rename</entry>
         <entry>URL</entry>
+        <entry>mkdir</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Model/Api/g</entry>
