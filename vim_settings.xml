@@ -120,12 +120,12 @@
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" timestamp="1535425580657">
-        <mark key="'" line="106" column="8" />
-        <mark key="[" line="95" column="35" />
-        <mark key="]" line="96" column="29" />
-        <mark key="^" line="96" column="29" />
-        <mark key="." line="96" column="29" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" timestamp="1535426597395">
+        <mark key="'" line="95" column="27" />
+        <mark key="[" line="81" column="34" />
+        <mark key="]" line="81" column="36" />
+        <mark key="." line="81" column="36" />
+        <mark key="^" line="81" column="36" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char.rb" timestamp="1534906515081">
         <mark key="'" line="4" column="20" />
@@ -394,6 +394,7 @@
         <mark key="^" line="3" column="78" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master.md" timestamp="1535426542813" />
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/docker-compose.yml" timestamp="1534760230097">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="7" column="10" />
@@ -451,7 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/protobuf.rake" />
       <jump line="154" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="22" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp_spec.rb" />
@@ -551,57 +551,57 @@
       <jump line="84" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
       <jump line="66" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
       <jump line="91" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
+      <jump line="94" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>next
-next</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>r[</text>
+        <text encoding="base64">XDxwcm90b1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB1bnVzZWRfdGl0bGU/KGwpCiAgICAgICBsLm1hdGNoKCVye148YSBuYW1lPSIuK1wucHJvdG8iPjwvYT5cbiR9KQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUgaWYgdW51c2VkX3RpdGxlX2FfdGFnPyhsKQo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiB1bnVzZWRfdGl0bGVfdXJsPyhsKQogICAgICBsLm1hdGNoKCVye148YSBuYW1lPSIuK1wucHJvdG8iPjwvYT5cbiR9KQo=</text>
+      </register>
+      <register name="4" type="8">
         <text>next
 next</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAogICAgZGVmIHVudXNlZF90aXRsZT8obCkKICAgICAgbC5tYXRjaCglcntePGEgbmFtZT0iLitcLnByb3RvIj48L2E+XG4kfSkKICAgIGVuZAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIiN7JDF9KCN7ZGlyfS9hcGkvI3skMn0ubWQjYXBpLyN7JDJ9LyN7JDN9KSN7JDR9XG4iCiAgICAgICI8YSBuYW1lPSJtb2RlbC9tYXN0ZXIvYWJpbGl0eS5wcm90byI+PC9hPiIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gIiN7JDF9KCN7ZGlyfS9tb2RlbC8jeyQyfS5tZCNtb2RlbC8jeyQyfS8jeyQzfSkjeyQ0fVxuIgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiN7JDF9KCN7ZGlyfS8jeyQyfS5tZCMjeyQyfS8jeyQzfSkjeyQ0fVxuIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSAicHJvdG9idWYvc2VydmljZSIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSAicHJvdG9idWYvZG9jdW1lbnRfZ2VuZXJhdG9yIgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiN7JDF9KCN7ZGlyfS8jeyQyfS5tZCMjeyQyfS8jeyQzfSkjeyQ0fVxuIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>r[</last-search>
+      <last-search encoding="base64">XDxwcm90b1w+</last-search>
       <last-offset />
-      <last-pattern>r[</last-pattern>
+      <last-pattern encoding="base64">XDxwcm90b1w+</last-pattern>
       <last-replace />
       <last-substitute>r[</last-substitute>
       <last-dir>1</last-dir>
@@ -609,7 +609,6 @@ next</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21waWxlX2Jhc2VzXD4=</entry>
         <entry encoding="base64">XDxlYWNoX3Byb3RvZmlsZVw+</entry>
         <entry encoding="base64">XDxjaGVja19hbmRfbWtkaXJcPg==</entry>
         <entry>add_bom</entry>
@@ -629,6 +628,7 @@ next</text>
         <entry>mkdir</entry>
         <entry>write</entry>
         <entry>r[</entry>
+        <entry encoding="base64">XDxwcm90b1w+</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
