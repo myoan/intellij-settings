@@ -95,6 +95,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" timestamp="1535522495036">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/macaron/time_traveler_spec.rb" timestamp="1535512229094">
         <mark key="[" line="33" column="8" />
         <mark key="]" line="33" column="9" />
@@ -107,13 +112,6 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1535453959413">
-        <mark key="'" line="166" column="13" />
-        <mark key="[" line="234" column="55" />
-        <mark key="]" line="234" column="55" />
-        <mark key="." line="234" column="55" />
-        <mark key="^" line="234" column="28" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_dividend_caches_schema.rb" timestamp="1535456931990">
         <mark key="[" line="7" column="0" />
@@ -377,7 +375,7 @@
         <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/user_controller.rb" timestamp="1535511938496">
-        <mark key="'" line="16" column="0" />
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="13" column="11" />
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="14" />
@@ -671,31 +669,31 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbHMubWFwKCY6cGF0aCkuam9pbignICcpfSIK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfaGVhZGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEBhcHAuY2FsbChlbnYpIGlmIHRyYXZlbF9pbmZvLm5pbD8K</text>
+        <text encoding="base64">ICAgICAgICBjbWQgPSAicHJvdG9jICN7cHJvdG9fcGF0aHN9IC0tZG9jX291dD0uL2RvYy9tb2RlbCAtLWRvY19vcHQ9bWFya2Rvd24sI3t0b3BfZGlyfS5tZCAje21vZGVscy5tYXAoJjpwYXRoKS5qb2luKCcgJyl9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbHMubWFwKCY6cGF0aCkuam9pbignICcpfSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcm91dGUuZGVmYXVsdHMubWVyZ2UgcGFyYW1ldGVycy50cmFuc2Zvcm1fdmFsdWVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgcm91dGUuZGVmYXVsdHMubWVyZ2UgcGFyYW1ldGVycy50cmFuc2Zvcm1fdmFsdWVzCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
@@ -704,10 +702,10 @@
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
