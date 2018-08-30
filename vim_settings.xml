@@ -320,7 +320,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/ssh_config" timestamp="1535607822459" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/ssh_config" timestamp="1535612600255">
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+        <mark key="." line="46" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/markdown/api.rb" timestamp="1535538848254">
         <mark key="'" line="57" column="10" />
         <mark key="[" line="34" column="10" />
@@ -737,8 +742,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/build-common.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -746,8 +751,22 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZV9kb2NfbW9kZWxcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbmFtZXNwYWNlcyA9IGtsYXNzLnNwbGl0KCcuJylbMl0uZG93bmNhc2UgKyAiLm1kIgo=</text>
+      <register name="0" type="4">
+        <text>#############################
+# turn (dev)
+#############################
+Host turn-dev-ec2user
+  HostName 52.199.115.93
+  User ec2-user
+  UserKnownHostsFile /dev/null
+  StrictHostKeyChecki
+  IdentityFile ../ec2/macaron-ops.pem
+
+Host turn-dev-xflag
+  HostName 52.199.115.93
+  User xflag
+  UserKnownHostsFile /dev/null
+  StrictHostKeyChecking no</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
