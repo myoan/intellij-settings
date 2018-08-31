@@ -388,12 +388,12 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535725631439">
-        <mark key="'" line="65" column="43" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="1" />
-        <mark key="^" line="86" column="1" />
-        <mark key="." line="86" column="1" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535730670976">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="89" column="37" />
+        <mark key="]" line="90" column="3" />
+        <mark key="^" line="90" column="3" />
+        <mark key="." line="90" column="3" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
@@ -443,7 +443,7 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn-user/tasks/main.yml" timestamp="1535726634446">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn-user/tasks/main.yml" timestamp="1535730666864">
         <mark key="'" line="2" column="2" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="8" column="13" />
@@ -670,8 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/users_schema.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_dividend_caches_schema.rb" />
       <jump line="16" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/time_traveler.rb" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/time_traveler.rb" />
       <jump line="8" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/time_traveler.rb" />
@@ -770,10 +768,18 @@
       <jump line="357" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn-user/tasks/main.yml" />
       <jump line="89" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn-user/tasks/main.yml" />
+      <jump line="80" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="81" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LSBuYW1lOiBNYWtlIGRpciBmb3IgRUJTCiAgZmlsZTogcGF0aD0vZGF0YSBzdGF0ZT1kaXJlY3Rvcnkgb3duZXI9ZWMyLXVzZXIgZ3JvdXA9ZWMyLXVzZXIgbW9kZT0wNzU1CgojIC0gbmFtZTogQ3JlYXRlIGEgeGZzIGZpbGVzeXN0ZW0gb24gL2Rldi9zZGIKIyAgIGZpbGVzeXN0ZW06CiMgICAgIGZzdHlwZTogeGZzCiMgICAgIGRldjogL2Rldi9zZGIKIwojIC0gbmFtZTogTW91bnQgRUJTCiMgICBtb3VudDoKIyAgICAgcGF0aDogL2RhdGEKIyAgICAgYm9vdDogbm8KIyAgICAgc3JjOiAvZGV2L3NkYgojICAgICBmc3R5cGU6IHhmcwojICAgICBmc3RhYjogL2V0Yy9mc3RhYgojICAgICBzdGF0ZTogbW91bnRlZAojCiMgLSBycG1fa2V5OgojICAgICBrZXk6IGh0dHA6Ly9vcGVuc291cmNlLndhbmRpc2NvLmNvbS9SUE0tR1BHLUtFWS1XQU5kaXNjbwojCiMgLSBuYW1lOiBBZGQgV0FOZGlzY28gcmVwb3NpdG9yeSBmb3IgbGF0ZXN0IHN2bgojICAgeXVtX3JlcG9zaXRvcnk6CiMgICAgIG5hbWU6IHdhbmRpc2NvCiMgICAgIGRlc2NyaXB0aW9uOiBXQU5EaXNjbyByZXBvc2l0b3J5IGZvciBsYXRlc3Qgc3ZuCiMgICAgIGJhc2V1cmw6IGh0dHA6Ly9vcGVuc291cmNlLndhbmRpc2NvLmNvbS9yaGVsLzcvc3ZuLTEuMTAvUlBNUy8kYmFzZWFyY2gvCiMgICAgIGdwZ2NoZWNrOiB5ZXMKIyAgICAgZW5hYmxlZDogeWVzCiMgICAgIGdwZ2tleTogZmlsZTovLy9ldGMvcGtpL3JwbS1ncGcvUlBNLUdQRy1LRVktV0FOZGlzY28KIwojIC0gbmFtZTogSW5zdGFsbCBzdm4gZGVwZW5kZW5jaWVzCiMgICBiZWNvbWU6IHRydWUKIyAgIHl1bToKIyAgICAgbmFtZTogInt7IHBhY2thZ2VzIH19IgojICAgICBzdGF0ZTogbGF0ZXN0CiMgICB2YXJzOgojICAgICBwYWNrYWdlczoKIyAgICAgICAtIGFwcgojICAgICAgIC0gYXByLXV0aWwKIyAgICAgICAtIGh0dHBkCiMKIyAtIG5hbWU6IEluc3RhbGwgc3ZuCiMgICBiZWNvbWU6IHRydWUKIyAgIHl1bToKIyAgICAgbmFtZTogInt7IHBhY2thZ2VzIH19IgojICAgICBzdGF0ZTogbGF0ZXN0CiMgICAgIGVuYWJsZXJlcG86IHdhbmRpc2NvCiMgICAgIGRpc2FibGVyZXBvOiBhbXpuMi1jb3JlCiMgICB2YXJzOgojICAgICBwYWNrYWdlczoKIyAgICAgICAtIHN1YnZlcnNpb24KIyAgICAgICAtIG1vZF9kYXZfc3ZuCgotIG5hbWU6IE1ha2UgZGlyIGZvciBzdm4gcmVwbwogIGZpbGU6IHBhdGg9L2RhdGEvc3ZuIHN0YXRlPWRpcmVjdG9yeSBvd25lcj1hcGFjaGUgZ3JvdXA9YXBhY2hlIG1vZGU9MDc1NSByZWN1cnNlPXllcwoKLSBuYW1lOiBDaGVjayBzdm4gcmVwb3NpdG9yeQogIHNoZWxsOiBscyAtbCAvZGF0YS9zdm4vIHwgYXdrICd7cHJpbnQgJDN9JwogIHJlZ2lzdGVyOiBzdm5fcmVwb19saXN0CiAgYWx3YXlzX3J1bjogeWVzCiAgY2hhbmdlZF93aGVuOiBmYWxzZQoKLSBuYW1lOiBDcmVhdGUgc3ZuIHJlcG9zaXRvcnkKICBzaGVsbDogc3ZuYWRtaW4gY3JlYXRlIC9kYXRhL3N2bi9yZXNvdXJjZS8KICB3aGVuOiBzdm5fcmVwb19saXN0LnN0ZG91dF9saW5lcy5jb3VudCgiYXBhY2hlIikgPCAxCgotIG5hbWU6IEdlbmVyYXRlIHN1YnZlcnNpb24uY29uZgogIHRlbXBsYXRlOiBzcmM9c3VidmVyc2lvbi5jb25mLmoyIGRlc3Q9L2V0Yy9odHRwZC9jb25mLmQvc3VidmVyc2lvbi5jb25mCiAgdmFyczoKICAgIHN2bl9yZXBvX3BhdGg6IC9kYXRhL3N2bi9yZXNvdXJjZQoKLSBuYW1lOiBDaGVjayBkYXZfc3ZuX21vZHVsZSBpcyBsb2FkZWQ/CiAgc2hlbGw6IGNhdCAvZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZiB8IGdyZXAgJ0xvYWRNb2R1bGUnCiAgcmVnaXN0ZXI6IGh0dHBkX21vZHVsZXMKICBhbHdheXNfcnVuOiB5ZXMKICBjaGFuZ2VkX3doZW46IGZhbHNlCgotIG5hbWU6IFNldCBodHRwZC5jb25mCiAgZmlsZTogc3JjPWh0dHBkLmNvbmYuajIgZGVzdD0vZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZgoKLSBuYW1lOiBDb3B5IHNlcnZpY2UKICBiZWNvbWU6IHRydWUKICBjb3B5OgogICAgc3JjOiBodHRwZC5jb25mCiAgICBkZXN0OiAvZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZgojICAgbm90aWZ5OiByZXN0YXJ0IGh0dHBkCgotIG5hbWU6IFN0YXJ0IGh0dHBkCiAgc2VydmljZTogbmFtZT1odHRwZCBzdGF0ZT1yZXN0YXJ0ZWQ=</text>
+        <text>- htpasswd:
+    path: /etc/nginx/passwdfile
+    name: janedoe
+    password: '9s36?;fyNp'
+    owner: root
+    group: www-data
+    mode: 0640</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -782,7 +788,13 @@
         <text>auth</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">LSBuYW1lOiBDb3B5IHNlcnZpY2UKICBiZWNvbWU6IHRydWUKICBjb3B5OgogICAgc3JjOiBjb3R1cm4uc2VydmljZQogICAgZGVzdDogL2V0Yy9zeXN0ZW1kL3N5c3RlbS9jb3R1cm4uc2VydmljZQogIG5vdGlmeTogcmVzdGFydCBjb3R1cm4K</text>
+        <text>- htpasswd:
+    path: /etc/nginx/passwdfile
+    name: janedoe
+    password: '9s36?;fyNp'
+    owner: root
+    group: www-data
+    mode: 0640</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">LSBuYW1lOiBNYWtlIGRpciBmb3IgRUJTCiAgZmlsZTogcGF0aD0vZGF0YSBzdGF0ZT1kaXJlY3Rvcnkgb3duZXI9ZWMyLXVzZXIgZ3JvdXA9ZWMyLXVzZXIgbW9kZT0wNzU1CgojIC0gbmFtZTogQ3JlYXRlIGEgeGZzIGZpbGVzeXN0ZW0gb24gL2Rldi9zZGIKIyAgIGZpbGVzeXN0ZW06CiMgICAgIGZzdHlwZTogeGZzCiMgICAgIGRldjogL2Rldi9zZGIKIwojIC0gbmFtZTogTW91bnQgRUJTCiMgICBtb3VudDoKIyAgICAgcGF0aDogL2RhdGEKIyAgICAgYm9vdDogbm8KIyAgICAgc3JjOiAvZGV2L3NkYgojICAgICBmc3R5cGU6IHhmcwojICAgICBmc3RhYjogL2V0Yy9mc3RhYgojICAgICBzdGF0ZTogbW91bnRlZAojCiMgLSBycG1fa2V5OgojICAgICBrZXk6IGh0dHA6Ly9vcGVuc291cmNlLndhbmRpc2NvLmNvbS9SUE0tR1BHLUtFWS1XQU5kaXNjbwojCiMgLSBuYW1lOiBBZGQgV0FOZGlzY28gcmVwb3NpdG9yeSBmb3IgbGF0ZXN0IHN2bgojICAgeXVtX3JlcG9zaXRvcnk6CiMgICAgIG5hbWU6IHdhbmRpc2NvCiMgICAgIGRlc2NyaXB0aW9uOiBXQU5EaXNjbyByZXBvc2l0b3J5IGZvciBsYXRlc3Qgc3ZuCiMgICAgIGJhc2V1cmw6IGh0dHA6Ly9vcGVuc291cmNlLndhbmRpc2NvLmNvbS9yaGVsLzcvc3ZuLTEuMTAvUlBNUy8kYmFzZWFyY2gvCiMgICAgIGdwZ2NoZWNrOiB5ZXMKIyAgICAgZW5hYmxlZDogeWVzCiMgICAgIGdwZ2tleTogZmlsZTovLy9ldGMvcGtpL3JwbS1ncGcvUlBNLUdQRy1LRVktV0FOZGlzY28KIwojIC0gbmFtZTogSW5zdGFsbCBzdm4gZGVwZW5kZW5jaWVzCiMgICBiZWNvbWU6IHRydWUKIyAgIHl1bToKIyAgICAgbmFtZTogInt7IHBhY2thZ2VzIH19IgojICAgICBzdGF0ZTogbGF0ZXN0CiMgICB2YXJzOgojICAgICBwYWNrYWdlczoKIyAgICAgICAtIGFwcgojICAgICAgIC0gYXByLXV0aWwKIyAgICAgICAtIGh0dHBkCiMKIyAtIG5hbWU6IEluc3RhbGwgc3ZuCiMgICBiZWNvbWU6IHRydWUKIyAgIHl1bToKIyAgICAgbmFtZTogInt7IHBhY2thZ2VzIH19IgojICAgICBzdGF0ZTogbGF0ZXN0CiMgICAgIGVuYWJsZXJlcG86IHdhbmRpc2NvCiMgICAgIGRpc2FibGVyZXBvOiBhbXpuMi1jb3JlCiMgICB2YXJzOgojICAgICBwYWNrYWdlczoKIyAgICAgICAtIHN1YnZlcnNpb24KIyAgICAgICAtIG1vZF9kYXZfc3ZuCgotIG5hbWU6IE1ha2UgZGlyIGZvciBzdm4gcmVwbwogIGZpbGU6IHBhdGg9L2RhdGEvc3ZuIHN0YXRlPWRpcmVjdG9yeSBvd25lcj1hcGFjaGUgZ3JvdXA9YXBhY2hlIG1vZGU9MDc1NSByZWN1cnNlPXllcwoKLSBuYW1lOiBDaGVjayBzdm4gcmVwb3NpdG9yeQogIHNoZWxsOiBscyAtbCAvZGF0YS9zdm4vIHwgYXdrICd7cHJpbnQgJDN9JwogIHJlZ2lzdGVyOiBzdm5fcmVwb19saXN0CiAgYWx3YXlzX3J1bjogeWVzCiAgY2hhbmdlZF93aGVuOiBmYWxzZQoKLSBuYW1lOiBDcmVhdGUgc3ZuIHJlcG9zaXRvcnkKICBzaGVsbDogc3ZuYWRtaW4gY3JlYXRlIC9kYXRhL3N2bi9yZXNvdXJjZS8KICB3aGVuOiBzdm5fcmVwb19saXN0LnN0ZG91dF9saW5lcy5jb3VudCgiYXBhY2hlIikgPCAxCgotIG5hbWU6IEdlbmVyYXRlIHN1YnZlcnNpb24uY29uZgogIHRlbXBsYXRlOiBzcmM9c3VidmVyc2lvbi5jb25mLmoyIGRlc3Q9L2V0Yy9odHRwZC9jb25mLmQvc3VidmVyc2lvbi5jb25mCiAgdmFyczoKICAgIHN2bl9yZXBvX3BhdGg6IC9kYXRhL3N2bi9yZXNvdXJjZQoKLSBuYW1lOiBDaGVjayBkYXZfc3ZuX21vZHVsZSBpcyBsb2FkZWQ/CiAgc2hlbGw6IGNhdCAvZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZiB8IGdyZXAgJ0xvYWRNb2R1bGUnCiAgcmVnaXN0ZXI6IGh0dHBkX21vZHVsZXMKICBhbHdheXNfcnVuOiB5ZXMKICBjaGFuZ2VkX3doZW46IGZhbHNlCgotIG5hbWU6IFNldCBodHRwZC5jb25mCiAgZmlsZTogc3JjPWh0dHBkLmNvbmYuajIgZGVzdD0vZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZgoKLSBuYW1lOiBDb3B5IHNlcnZpY2UKICBiZWNvbWU6IHRydWUKICBjb3B5OgogICAgc3JjOiBodHRwZC5jb25mCiAgICBkZXN0OiAvZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZgojICAgbm90aWZ5OiByZXN0YXJ0IGh0dHBkCgotIG5hbWU6IFN0YXJ0IGh0dHBkCiAgc2VydmljZTogbmFtZT1odHRwZCBzdGF0ZT1yZXN0YXJ0ZWQ=</text>
