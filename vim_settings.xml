@@ -374,11 +374,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535695947408">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="17" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535705721619">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
         <mark key="^" line="7" column="14" />
-        <mark key="." line="8" column="17" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
@@ -449,11 +449,12 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1535457162457">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="37" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1535708763297">
+        <mark key="'" line="49" column="2" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="109" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/build-common.yml" timestamp="1535607498579">
         <mark key="'" line="7" column="0" />
@@ -636,7 +637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
       <jump line="68" column="51" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="84" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/api/stamina.md" />
@@ -736,51 +736,47 @@
       <jump line="56" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="63" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/hosts/dev/ec2.ini" />
       <jump line="21" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/ssh_config" />
+      <jump line="50" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZV9kb2NfbW9kZWxcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LSBuYW1lOiBNb3VudCBFQlMKICBtb3VudDoKICAgIHBhdGg6IC9kYXRhCiAgICBzcmM6IC9kZXYvc2RiCiAgICBmc3R5cGU6IHhmcwogICAgc3RhdGU6IG1vdW50ZWQK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICJ0aW1lc3RhbXAiOiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBtb3VudGVkCg==</text>
+        <text encoding="base64">ICAgICJtZXRob2QiOiAiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZzdHlwZTogeGZzCg==</text>
+        <text encoding="base64">eyJtZXRob2QiOiJHRVQiLCJwYXRoIjoiL3BpbmciLCJmb3JtYXQiOiIqLyoiLCJjb250cm9sbGVyIjoiUm9vdENvbnRyb2xsZXIiLCJhY3Rpb24iOiJwaW5nIiwic3RhdHVzIjoyMDAsImR1cmF0aW9uIjowLjI3LCJ2aWV3IjowLjEzLCJ1c2VyX2FnZW50IjoiY3VybC83LjU0LjAiLCJwYXJhbXMiOnt9LCJ1c2VyX2lkIjpudWxsLCJob3N0IjoiYXBpLWZlYXR1cmUtbG9nLmRjLnhmbGFnLmNvbSIsIkB0aW1lc3RhbXAiOiIyMDE4LTA4LTMxVDA3OjI1OjUxLjcxMVoiLCJAdmVyc2lvbiI6IjEiLCJtZXNzYWdlIjoiWzIwMF0gR0VUIC9waW5nIChSb290Q29udHJvbGxlciNwaW5nKSJ9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNyYzogL2Rldi9zZGIK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtb3VudDoKICAgIHBhdGg6IC9kYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CntkZGQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>- name: Install subversion build dependencies
-  become: true
-  yum: name={{ item }} state=latest
-  with_items:
-    - subversion
-    - mod_dav_svn</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIHN1YnZlcnNpb24gYnVpbGQgZGVwZW5kZW5jaWVzCiAgYmVjb21lOiB0cnVlCiAgeXVtOiBuYW1lPXt7IGl0ZW0gfX0gc3RhdGU9bGF0ZXN0CiAgd2l0aF9pdGVtczoKICAgIC0gc3VidmVyc2lvbgog</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiaWdub3JlX2Fib3ZlIjogMjU2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBkZWJ1ZwogIGRlYnVnOiB2YXI9YW1hem9uX2xpbnV4X3ZlcnNpb25fY2hlY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAidHlwZSI6ICJrZXl3b3JkIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
