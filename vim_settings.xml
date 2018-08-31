@@ -298,11 +298,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/ssh_config" timestamp="1535615170032">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/ssh_config" timestamp="1535683801495">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/hosts/dev/ec2.ini" timestamp="1535683255172">
         <mark key="'" line="63" column="0" />
@@ -636,7 +637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
       <jump line="94" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
       <jump line="68" column="51" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
@@ -736,13 +736,14 @@
       <jump line="11" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="56" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="63" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/hosts/dev/ec2.ini" />
+      <jump line="21" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/ssh_config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cm91dGU1MyA9IEZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZV9kb2NfbW9kZWxcPg==</text>
