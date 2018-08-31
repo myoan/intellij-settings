@@ -105,10 +105,10 @@
         <mark key="^" line="33" column="9" />
         <mark key="." line="33" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" timestamp="1535733744366">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="2" column="33" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" timestamp="1535736268578">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
         <mark key="^" line="2" column="33" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/start.rb" timestamp="1534839178206">
@@ -405,12 +405,12 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535733793008">
-        <mark key="'" line="63" column="2" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="76" column="37" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535735400864">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="59" />
+        <mark key="^" line="5" column="59" />
+        <mark key="." line="5" column="59" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
@@ -474,8 +474,8 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" timestamp="1535725173277">
-        <mark key="'" line="357" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" timestamp="1535736188786">
+        <mark key="'" line="53" column="2" />
         <mark key="[" line="363" column="40" />
         <mark key="]" line="363" column="44" />
         <mark key="." line="363" column="44" />
@@ -687,12 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/time_traveler.rb" />
-      <jump line="27" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/time_traveler.rb" />
-      <jump line="4" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/time_traveler.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.4.0/gems/actionpack-5.2.1/lib/action_dispatch/journey/router.rb" />
-      <jump line="34" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.4.0/gems/actionpack-5.2.1/lib/action_dispatch/journey/router.rb" />
       <jump line="67" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.4.0/gems/actionpack-5.2.1/lib/action_dispatch/journey/router.rb" />
       <jump line="335" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.4.0/gems/rack-2.0.5/lib/rack/request.rb" />
       <jump line="342" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.4.0/gems/rack-2.0.5/lib/rack/request.rb" />
@@ -787,55 +781,61 @@
       <jump line="84" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="62" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="72" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="70" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="362" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
+      <jump line="363" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
+      <jump line="47" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
+      <jump line="53" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text encoding="base64">XDxMb2FkTW9kdWxlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LSBuYW1lOiBDb3B5IHNlcnZpY2UKICBiZWNvbWU6IHRydWUKICBjb3B5OgogICAgc3JjOiBodHRwZC5jb25mCiAgICBkZXN0OiAvZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZgo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">LSBuYW1lOiBDaGFuZ2UgcmVwb3NpdG9yeSBkaXIgb3duZXIKICBmaWxlOiBwYXRoPS9kYXRhL3N2bi9yZXNvdXJjZSBzdGF0ZT1kaXJlY3Rvcnkgb3duZXI9YXBhY2hlIGdyb3VwPWFwYWNoZSBtb2RlPTA3NTUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBTVk5MaXN0UGFyZW50UGF0aCBvbgogIFNWTkxpc3RQYXJlbnRQYXRoIG9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXJzOgogICAgc3ZuX3JlcG9fcGF0aDogL2RhdGEvc3ZuL3Jlc291cmNlCg==</text>
+        <text encoding="base64">ICBTVk5MaXN0UGFyZW50UGF0aCBvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBuYW1lOiBHZW5lcmF0ZSBzdWJ2ZXJzaW9uLmNvbmYKICB0ZW1wbGF0ZTogc3JjPXN1YnZlcnNpb24uY29uZiBkZXN0PS9ldGMvaHR0cGQvY29uZi5kL3N1YnZlcnNpb24uY29uZgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXJzOgogICAgc3ZuX3JlcG9fcGF0aDogL2RhdGEvc3ZuL3Jlc291cmNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBCQVNJQ+iqjeiovOioreWumgoK</text>
+        <text encoding="base64">LSBuYW1lOiBHZW5lcmF0ZSBzdWJ2ZXJzaW9uLmNvbmYKICB0ZW1wbGF0ZTogc3JjPXN1YnZlcnNpb24uY29uZiBkZXN0PS9ldGMvaHR0cGQvY29uZi5kL3N1YnZlcnNpb24uY29uZgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="7" type="2">
+        <text encoding="base64">IyBCQVNJQ+iqjeiovOioreWumgoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIwojIAojIAojIAojIAojIAojIAojIAojIAojCiMgCiMgCiMKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IGRjdXNlcgogICAgcGFzczogcmVkbGlkcmEKICAtIG5hbWU6IGRjZ3Vlc3QKICAgIHBhc3M6IG1peGkzOTQxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search encoding="base64">XDxMb2FkTW9kdWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern encoding="base64">XDxMb2FkTW9kdWxlXD4=</last-pattern>
       <last-replace />
       <last-substitute>r[</last-substitute>
       <last-dir>1</last-dir>
@@ -843,9 +843,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stamina_recover</entry>
-        <entry>stamina_re</entry>
-        <entry encoding="base64">XDxlbmRcPg==</entry>
         <entry>@env</entry>
         <entry encoding="base64">XDx0aW1ldHJhdmVsZXJfZW52XD4=</entry>
         <entry>uuid</entry>
@@ -863,6 +860,9 @@
         <entry>yum</entry>
         <entry>j2</entry>
         <entry>auth</entry>
+        <entry>ph</entry>
+        <entry>php</entry>
+        <entry encoding="base64">XDxMb2FkTW9kdWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
