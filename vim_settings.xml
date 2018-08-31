@@ -374,11 +374,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535691466357">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535695947408">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
@@ -738,44 +738,49 @@
       <jump line="21" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/ssh_config" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZV9kb2NfbW9kZWxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIGNvdHVybiBidWlsZCBkZXBlbmRlbmNpZXMKICBiZWNvbWU6IHRydWUKICB5dW06IG5hbWU9e3sgaXRlbSB9fSBzdGF0ZT1sYXRlc3QKICB3aXRoX2l0ZW1zOgogICAgLSBtYWtlCiAgICAtIGdjYwogICAgLSBvcGVuc3NsLWRldmVsCiAgICAtIGxpYmV2ZW50CiAgICAtIGxpYmV2ZW50LWRldmVsCgo=</text>
+        <text encoding="base64">LSBuYW1lOiBNb3VudCBFQlMKICBtb3VudDoKICAgIHBhdGg6IC9kYXRhCiAgICBzcmM6IC9kZXYvc2RiCiAgICBmc3R5cGU6IHhmcwogICAgc3RhdGU6IG1vdW50ZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRlOiBtb3VudGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBuYW1lOiBkZWJ1ZwogIGRlYnVnOiB2YXI9YW1hem9uX2xpbnV4X3ZlcnNpb25fY2hlY2sK</text>
+        <text encoding="base64">ICAgIGZzdHlwZTogeGZzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWJ1ZzogdmFyPWFtYXpvbl9saW51eF92ZXJzaW9uX2NoZWNrCg==</text>
+        <text encoding="base64">ICAgIHNyYzogL2Rldi9zZGIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gY29tbW9ucwo=</text>
+        <text encoding="base64">ICBtb3VudDoKICAgIHBhdGg6IC9kYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBuYW1lOiB5dW0gdXBkYXRlCiAgeXVtOiBzdGF0ZT1sYXRlc3QgbmFtZT0qCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wdHM6IHJvLG5vYXV0bwo=</text>
+      <register name="6" type="4">
+        <text>- name: Install subversion build dependencies
+  become: true
+  yum: name={{ item }} state=latest
+  with_items:
+    - subversion
+    - mod_dav_svn</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cm91dGU1MyA9IEZhbHNlCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIHN1YnZlcnNpb24gYnVpbGQgZGVwZW5kZW5jaWVzCiAgYmVjb21lOiB0cnVlCiAgeXVtOiBuYW1lPXt7IGl0ZW0gfX0gc3RhdGU9bGF0ZXN0CiAgd2l0aF9pdGVtczoKICAgIC0gc3VidmVyc2lvbgog</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cm91dGU1MyA9IEZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cm91dGU1MyA9IEZhbHNlCg==</text>
+        <text encoding="base64">LSBuYW1lOiBkZWJ1ZwogIGRlYnVnOiB2YXI9YW1hem9uX2xpbnV4X3ZlcnNpb25fY2hlY2sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
