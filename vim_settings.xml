@@ -203,16 +203,16 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/templates/subversion.conf.j2" timestamp="1535721530271">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="31" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/templates/subversion.conf.j2" timestamp="1535723935599">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/commons/tasks/user.yml" timestamp="1535721419504">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/commons/tasks/user.yml" timestamp="1535725330557">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="77" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="53" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/sudoku/sample/sample1.txt" timestamp="1534766087367">
         <mark key="'" line="7" column="0" />
@@ -384,16 +384,16 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/coturn/tasks/main.yml" timestamp="1535623075075">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/coturn/tasks/main.yml" timestamp="1535725515904">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535722428080">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535725631439">
         <mark key="'" line="65" column="43" />
-        <mark key="[" line="80" column="20" />
-        <mark key="]" line="80" column="20" />
-        <mark key="^" line="80" column="20" />
-        <mark key="." line="80" column="20" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="1" />
+        <mark key="^" line="86" column="1" />
+        <mark key="." line="86" column="1" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
@@ -449,6 +449,13 @@
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="14" />
         <mark key="^" line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" timestamp="1535725173277">
+        <mark key="'" line="357" column="0" />
+        <mark key="[" line="363" column="40" />
+        <mark key="]" line="363" column="44" />
+        <mark key="." line="363" column="44" />
+        <mark key="^" line="363" column="44" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char.rb" timestamp="1534906515081">
         <mark key="'" line="4" column="20" />
@@ -656,8 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="102" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/stamina.rb" />
-      <jump line="10" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/stamina.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/users_schema.rb" />
       <jump line="21" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/users_schema.rb" />
       <jump line="8" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/users_schema.rb" />
@@ -756,55 +761,68 @@
       <jump line="3" column="1" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/commons/tasks/user.yml" />
       <jump line="68" column="43" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="30" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
+      <jump line="357" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>j2</text>
+        <text>auth</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB3aGVuOiBzdm5fcmVwb19saXN0LnN0ZG91dF9saW5lcy5jb3VudCgiYXBhY2hlIikgPCAxCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">LSBuYW1lOiBDb3B5IHNlcnZpY2UKICBiZWNvbWU6IHRydWUKICBjb3B5OgogICAgc3JjOiBjb3R1cm4uc2VydmljZQogICAgZGVzdDogL2V0Yy9zeXN0ZW1kL3N5c3RlbS9jb3R1cm4uc2VydmljZQogIG5vdGlmeTogcmVzdGFydCBjb3R1cm4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhcmdzOgogICAgY3JlYXRlczogL3RtcC9oZWxsbwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICByZWdpc3RlcjogdG91Y2hfbG9nCiAgY2hhbmdlZF93aGVuOiB0b3VjaF9sb2cuZGlmZi5iZWZvcmUuc3RhdGUgIT0gImZpbGUiCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBuYW1lOiBkZWJ1ZwogIGRlYnVnOiB2YXI9c3ZuX3JlcG9fbGlzdC5zdGRvdXRfbGluZXMuY291bnQoImFwYWNoZSIpCg==</text>
+        <text encoding="base64">LSBuYW1lOiB0b3VjaCB+Ly5zc2gvYXV0aG9yaXplZCBrZXlzIGFzIDYwMAogIGZpbGU6IGRlc3Q9e3t1c2VyLmhvbWVkaXJ9fS8uc3NoL2F1dGhvcml6ZWRfa2V5cyBzdGF0ZT10b3VjaCBvd25lcj17e3VzZXIudXNlcm5hbWV9fSBncm91cD17e3VzZXIudXNlcm5hbWV9fSBtb2RlPTYwMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aGVuOiAgKGFuc2libGVfZGlzdHJpYnV0aW9uID09ICJDZW50T1MiIGFuZCBhbnNpYmxlX2Rpc3RyaWJ1dGlvbl9tYWpvcl92ZXJzaW9uID09ICI2IikK</text>
+        <text encoding="base64">ICB2YXJzOgogICAgc3ZuX3JlcG9fcGF0aDogL2RhdGEvc3ZuL3Jlc291cmNlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">dGFza3M6Ci0gbmFtZTogCiAgYmxvY2tpbmZpbGU6CiAgICBkZXN0OiAvZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZgogICAgY29udGVudDogfAogICAgICBMb2FkTW9kdWxlIGRhdl9zdm5fbW9kdWxlIG1vZHVsZXMvbW9kX2Rhdl9zdm4uc28KICAgICAgTG9hZE1vZHVsZSBhdXRoel9zdm5fbW9kdWxlIG1vZHVsZXMvbW9kX2F1dGh6X3N2bi5zbwogIHdoZW46IGh0dHBkX21vZHVsZXMuc3Rkb3V0X2xpbmVzLmNvdW50KCJMb2FkTW9kdWxlIGRhdl9zdm5fbW9kdWxlIG1vZHVsZXMvbW9kX2Rhdl9zdm4uc28iKSA9PSAwCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LSBuYW1lOiBDaGFuZ2UgcGVybWlzc2lvbiBmb3IgYXBhY2hlIGFjY2VzcwogIGZpbGU6IHBhdGg9L2RhdGEvc3ZuL3JlcG9zIHN0YXRlPWRpcmVjdG9yeSBvd25lcj1lYzItdXNlciBncm91cD1lYzItdXNlciBtb2RlPTA3NTUK</text>
+      <register name="7" type="4">
+        <text>#
+# Dynamic Shared Object (DSO) Support
+#
+# To be able to use the functionality of a module which was built as a DSO you
+# have to place corresponding `LoadModule' lines at this location so the
+# directives contained in it are actually available _before_ they are used.
+# Statically compiled modules (those listed by `httpd -l') do not need
+# to be loaded here.
+#
+# Example:
+# LoadModule foo_module modules/mod_foo.so
+#</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IwojIExpc3RlbjogQWxsb3dzIHlvdSB0byBiaW5kIEFwYWNoZSB0byBzcGVjaWZpYyBJUCBhZGRyZXNzZXMgYW5kL29yCiMgcG9ydHMsIGluc3RlYWQgb2YgdGhlIGRlZmF1bHQuIFNlZSBhbHNvIHRoZSA8VmlydHVhbEhvc3Q+CiMgZGlyZWN0aXZlLgojCiMgQ2hhbmdlIHRoaXMgdG8gTGlzdGVuIG9uIHNwZWNpZmljIElQIGFkZHJlc3NlcyBhcyBzaG93biBiZWxvdyB0byAKIyBwcmV2ZW50IEFwYWNoZSBmcm9tIGdsb21taW5nIG9udG8gYWxsIGJvdW5kIElQIGFkZHJlc3Nlcy4KIwojTGlzdGVuIDEyLjM0LjU2Ljc4Ojgw</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LSBuYW1lOiBNYWtlIGRpciBmb3IgU1ZOIHJlcG8KICBmaWxlOiBwYXRoPS9kYXRhL3N2biBzdGF0ZT1kaXJlY3Rvcnkgb3duZXI9ZWMyLXVzZXIgZ3JvdXA9ZWMyLXVzZXIgbW9kZT0wNzU1Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IwojIFRoaXMgaXMgdGhlIG1haW4gQXBhY2hlIEhUVFAgc2VydmVyIGNvbmZpZ3VyYXRpb24gZmlsZS4gIEl0IGNvbnRhaW5zIHRoZQojIGNvbmZpZ3VyYXRpb24gZGlyZWN0aXZlcyB0aGF0IGdpdmUgdGhlIHNlcnZlciBpdHMgaW5zdHJ1Y3Rpb25zLgojIFNlZSA8VVJMOmh0dHA6Ly9odHRwZC5hcGFjaGUub3JnL2RvY3MvMi40Lz4gZm9yIGRldGFpbGVkIGluZm9ybWF0aW9uLgojIEluIHBhcnRpY3VsYXIsIHNlZSAKIyA8VVJMOmh0dHA6Ly9odHRwZC5hcGFjaGUub3JnL2RvY3MvMi40L21vZC9kaXJlY3RpdmVzLmh0bWw+CiMgZm9yIGEgZGlzY3Vzc2lvbiBvZiBlYWNoIGNvbmZpZ3VyYXRpb24gZGlyZWN0aXZlLgojCiMgRG8gTk9UIHNpbXBseSByZWFkIHRoZSBpbnN0cnVjdGlvbnMgaW4gaGVyZSB3aXRob3V0IHVuZGVyc3RhbmRpbmcKIyB3aGF0IHRoZXkgZG8uICBUaGV5J3JlIGhlcmUgb25seSBhcyBoaW50cyBvciByZW1pbmRlcnMuICBJZiB5b3UgYXJlIHVuc3VyZQojIGNvbnN1bHQgdGhlIG9ubGluZSBkb2NzLiBZb3UgaGF2ZSBiZWVuIHdhcm5lZC4gIAojCiMgQ29uZmlndXJhdGlvbiBhbmQgbG9nZmlsZSBuYW1lczogSWYgdGhlIGZpbGVuYW1lcyB5b3Ugc3BlY2lmeSBmb3IgbWFueQojIG9mIHRoZSBzZXJ2ZXIncyBjb250cm9sIGZpbGVzIGJlZ2luIHdpdGggIi8iIChvciAiZHJpdmU6LyIgZm9yIFdpbjMyKSwgdGhlCiMgc2VydmVyIHdpbGwgdXNlIHRoYXQgZXhwbGljaXQgcGF0aC4gIElmIHRoZSBmaWxlbmFtZXMgZG8gKm5vdCogYmVnaW4KIyB3aXRoICIvIiwgdGhlIHZhbHVlIG9mIFNlcnZlclJvb3QgaXMgcHJlcGVuZGVkIC0tIHNvICdsb2cvYWNjZXNzX2xvZycKIyB3aXRoIFNlcnZlclJvb3Qgc2V0IHRvICcvd3d3JyB3aWxsIGJlIGludGVycHJldGVkIGJ5IHRoZQojIHNlcnZlciBhcyAnL3d3dy9sb2cvYWNjZXNzX2xvZycsIHdoZXJlIGFzICcvbG9nL2FjY2Vzc19sb2cnIHdpbGwgYmUKIyBpbnRlcnByZXRlZCBhcyAnL2xvZy9hY2Nlc3NfbG9nJy4KCiMKIyBTZXJ2ZXJSb290OiBUaGUgdG9wIG9mIHRoZSBkaXJlY3RvcnkgdHJlZSB1bmRlciB3aGljaCB0aGUgc2VydmVyJ3MKIyBjb25maWd1cmF0aW9uLCBlcnJvciwgYW5kIGxvZyBmaWxlcyBhcmUga2VwdC4KIwojIERvIG5vdCBhZGQgYSBzbGFzaCBhdCB0aGUgZW5kIG9mIHRoZSBkaXJlY3RvcnkgcGF0aC4gIElmIHlvdSBwb2ludAojIFNlcnZlclJvb3QgYXQgYSBub24tbG9jYWwgZGlzaywgYmUgc3VyZSB0byBzcGVjaWZ5IGEgbG9jYWwgZGlzayBvbiB0aGUKIyBNdXRleCBkaXJlY3RpdmUsIGlmIGZpbGUtYmFzZWQgbXV0ZXhlcyBhcmUgdXNlZC4gIElmIHlvdSB3aXNoIHRvIHNoYXJlIHRoZQojIHNhbWUgU2VydmVyUm9vdCBmb3IgbXVsdGlwbGUgaHR0cGQgZGFlbW9ucywgeW91IHdpbGwgbmVlZCB0byBjaGFuZ2UgYXQKIyBsZWFzdCBQaWRGaWxlLgoj</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>j2</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>j2</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace />
       <last-substitute>r[</last-substitute>
       <last-dir>1</last-dir>
@@ -812,7 +830,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm90b1w+</entry>
         <entry>stamina_recover</entry>
         <entry>stamina_re</entry>
         <entry encoding="base64">XDxlbmRcPg==</entry>
@@ -832,6 +849,7 @@
         <entry encoding="base64">XDxnZW5lcmF0ZV9kb2NfbW9kZWxcPg==</entry>
         <entry>yum</entry>
         <entry>j2</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
@@ -852,8 +870,8 @@
         <entry>838</entry>
         <entry>wq</entry>
         <entry>45</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
