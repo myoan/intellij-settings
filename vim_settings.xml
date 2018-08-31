@@ -369,11 +369,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535623913011">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535682040263">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
@@ -734,11 +734,11 @@
       <jump line="56" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5lcmF0ZV9kb2NfbW9kZWxcPg==</text>
@@ -747,31 +747,31 @@
         <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIGNvdHVybiBidWlsZCBkZXBlbmRlbmNpZXMKICBiZWNvbWU6IHRydWUKICB5dW06IG5hbWU9e3sgaXRlbSB9fSBzdGF0ZT1sYXRlc3QKICB3aXRoX2l0ZW1zOgogICAgLSBtYWtlCiAgICAtIGdjYwogICAgLSBvcGVuc3NsLWRldmVsCiAgICAtIGxpYmV2ZW50CiAgICAtIGxpYmV2ZW50LWRldmVsCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9wdHM6IHJvLG5vYXV0bwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAjICQgeXVtIGluc3RhbGwgc3VidmVyc2lvbgogICMgJCB5dW0gaW5zdGFsbCBtb2RfZGF2X3N2bgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">LSBuYW1lOiBJbnN0YWxsIHN1YnZlcnNpb24gYnVpbGQgZGVwZW5kZW5jaWVzCiAgYmVjb21lOiB0cnVlCiAgeXVtOiBuYW1lPXt7IGl0ZW0gfX0gc3RhdGU9bGF0ZXN0CiAgd2l0aF9pdGVtczoKICAgIC0gc3VidmVyc2lvbgogICAgLSBtb2RfZGF2X3N2bgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG9wdHM6IHJvLG5vYXV0bwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gbW9kX2Rhdl9zdm4K</text>
+        <text encoding="base64">ICAjICQgeXVtIGluc3RhbGwgc3VidmVyc2lvbgogICMgJCB5dW0gaW5zdGFsbCBtb2RfZGF2X3N2bgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbGliZXZlbnQKICAgIC0gbGliZXZlbnQtZGV2ZWwK</text>
+        <text encoding="base64">ICAgIC0gbW9kX2Rhdl9zdm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gJCB5dW0gaW5zdGFsbCBzdWJ2ZXJzaW9uCiAgJCB5dW0gaW5zdGFsbCBtb2RfZGF2X3N2bgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LSBuYW1lOiBjaGVjayBhbWF6b24gbGludXggdmVyc2lvbgogIHNoZWxsOiBncmVwICJyZWxlYXNlIDIiIC9ldGMvc3lzdGVtLXJlbGVhc2UKICByZWdpc3RlcjogYW1hem9uX2xpbnV4X3ZlcnNpb25fY2hlY2sKICBmYWlsZWRfd2hlbjogYW1hem9uX2xpbnV4X3ZlcnNpb25fY2hlY2sucmMgbm90IGluIFswLCAxXQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC0gbGliZXZlbnQKICAgIC0gbGliZXZlbnQtZGV2ZWwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC0gJCB5dW0gaW5zdGFsbCBzdWJ2ZXJzaW9uCiAgJCB5dW0gaW5zdGFsbCBtb2RfZGF2X3N2bgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
