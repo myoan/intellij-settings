@@ -115,11 +115,12 @@
         <mark key="^" line="33" column="9" />
         <mark key="." line="33" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" timestamp="1535736268578">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="2" column="33" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" timestamp="1535973065638">
+        <mark key="'" line="2" column="19" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/start.rb" timestamp="1534839178206">
         <mark key="'" line="66" column="2" />
@@ -706,7 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" />
       <jump line="190" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="26" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" />
       <jump line="25" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language.rb" />
@@ -806,46 +806,47 @@
       <jump line="52" column="53" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/svn.yml" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="481" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/config.php" />
+      <jump line="2" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ips</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">W2lsbHVzdC9dCmRjaWxsdXN0Z3Vlc3QgPSByCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PExvY2F0aW9uIC9kYXRhL3N2bj4KICBEQVYgc3ZuCiAgU1ZOUGFyZW50UGF0aCAvZGF0YS9zdm4KICBTVk5MaXN0UGFyZW50UGF0aCBvbgogIEF1dGhUeXBlIEJhc2ljCiAgQXV0aE5hbWUgIlN1YnZlcnNpb24gcmVwb3NpdG9yeSIKICBBdXRoelNWTkFjY2Vzc0ZpbGUgL2V0Yy9zdWJ2ZXJzaW9uL2NvbmYvYXV0aHpzdm4uY29uZgogIEF1dGhVc2VyRmlsZSAvZXRjL3N1YnZlcnNpb24vY29uZi9hdXRodXNlci5jb25mCiAgUmVxdWlyZSB2YWxpZC11c2VyCjwvTG9jYXRpb24+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGNndWVzdCA9IHIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb21tYW5kOiBtdiAvdmFyL3d3dy9odG1sL3dlYnN2bi0yLjMuMyAvdmFyL3d3dy9odG1sL3dlYnN2bgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LSBuYW1lOiBDaGVjayBkYXZfc3ZuX21vZHVsZSBpcyBsb2FkZWQ/CiAgc2hlbGw6IGNhdCAvZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZiB8IGdyZXAgJ0xvYWRNb2R1bGUnCiAgcmVnaXN0ZXI6IGh0dHBkX21vZHVsZXMKICBhbHdheXNfcnVuOiB5ZXMKICBjaGFuZ2VkX3doZW46IGZhbHNlCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PExvY2F0aW9uIC93ZWJzdm4+CiAgREFWIHN2bgogIFNWTlBhcmVudFBhdGggL2RhdGEvc3ZuCiAgU1ZOTGlzdFBhcmVudFBhdGggb24KICBBdXRoVHlwZSBCYXNpYwogIEF1dGhOYW1lICJTdWJ2ZXJzaW9uIHJlcG9zaXRvcnkiCiAgQXV0aHpTVk5BY2Nlc3NGaWxlIC9ldGMvc3VidmVyc2lvbi9jb25mL2F1dGh6c3ZuLmNvbmYKICBBdXRoVXNlckZpbGUgL2V0Yy9zdWJ2ZXJzaW9uL2NvbmYvYXV0aHVzZXIuY29uZgogIFJlcXVpcmUgdmFsaWQtdXNlcgo8L0xvY2F0aW9uPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGNndWVzdCA9IHIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb21tYW5kOiBtdiAvdmFyL3d3dy9odG1sL3dlYnN2bi0yLjMuMyAvdmFyL3d3dy9odG1sL3dlYnN2bgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBhYnNlbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNyYzogL3Zhci93d3cvaHRtbC93ZWJzdm4tMi4zLjMK</text>
+      <register name="6" type="4">
+        <text encoding="base64">LSBuYW1lOiBDaGVjayBkYXZfc3ZuX21vZHVsZSBpcyBsb2FkZWQ/CiAgc2hlbGw6IGNhdCAvZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZiB8IGdyZXAgJ0xvYWRNb2R1bGUnCiAgcmVnaXN0ZXI6IGh0dHBkX21vZHVsZXMKICBhbHdheXNfcnVuOiB5ZXMKICBjaGFuZ2VkX3doZW46IGZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmaWxlOgo=</text>
+        <text encoding="base64">ICAgIHN0YXRlOiBhYnNlbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci0gbmFtZTogRGVsZXRlIHVuYXJjaGl2ZWQgZGlyCg==</text>
+        <text encoding="base64">ICAgIHNyYzogL3Zhci93d3cvaHRtbC93ZWJzdm4tMi4zLjMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbW90ZV9zcmM6IHllcwo=</text>
+        <text encoding="base64">ICBmaWxlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
