@@ -62,11 +62,12 @@
         <mark key="^" line="35" column="9" />
         <mark key="." line="35" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/config.php" timestamp="1535962042576">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="0" />
-        <mark key="." line="291" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/config.php" timestamp="1535965249438">
+        <mark key="'" line="482" column="0" />
+        <mark key="[" line="82" column="51" />
+        <mark key="]" line="82" column="56" />
+        <mark key="." line="82" column="56" />
+        <mark key="^" line="82" column="56" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/master_data.yml" timestamp="1534233818709">
         <mark key="'" line="4" column="0" />
@@ -135,11 +136,11 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user_purchase.rb" timestamp="1534745570090">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/authzsvn.conf" timestamp="1535963314531">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/authzsvn.conf" timestamp="1535965349199">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" timestamp="1533275830892">
         <mark key="'" line="30" column="7" />
@@ -199,12 +200,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="24" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/svn.yml" timestamp="1535964500510">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/svn.yml" timestamp="1535965282159">
         <mark key="'" line="52" column="53" />
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="51" column="47" />
-        <mark key="^" line="51" column="47" />
-        <mark key="." line="51" column="47" />
+        <mark key="[" line="86" column="15" />
+        <mark key="]" line="86" column="17" />
+        <mark key="^" line="86" column="17" />
+        <mark key="." line="86" column="17" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_spec.rb" timestamp="1534753332356">
         <mark key="'" line="0" column="0" />
@@ -705,7 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="76" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" />
       <jump line="190" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="26" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" />
@@ -805,46 +805,47 @@
       <jump line="4" column="59" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/coturn/tasks/main.yml" />
       <jump line="52" column="53" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/svn.yml" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="481" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>ips</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmaWxlOiBwYXRoPS9kYXRhIHN0YXRlPWRpcmVjdG9yeSBvd25lcj1hcGFjaGUgZ3JvdXA9YXBhY2hlIG1vZGU9MDc1NQo=</text>
+        <text encoding="base64">W2lsbHVzdC9dCmRjaWxsdXN0Z3Vlc3QgPSByCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb21tYW5kOiBtdiAvdmFyL3d3dy9odG1sL3dlYnN2bi0yLjMuMyAvdmFyL3d3dy9odG1sL3dlYnN2bgo=</text>
+        <text encoding="base64">ZGNndWVzdCA9IHIK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBjb21tYW5kOiBtdiAvdmFyL3d3dy9odG1sL3dlYnN2bi0yLjMuMyAvdmFyL3d3dy9odG1sL3dlYnN2bgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LSBuYW1lOiBDaGVjayBkYXZfc3ZuX21vZHVsZSBpcyBsb2FkZWQ/CiAgc2hlbGw6IGNhdCAvZXRjL2h0dHBkL2NvbmYvaHR0cGQuY29uZiB8IGdyZXAgJ0xvYWRNb2R1bGUnCiAgcmVnaXN0ZXI6IGh0dHBkX21vZHVsZXMKICBhbHdheXNfcnVuOiB5ZXMKICBjaGFuZ2VkX3doZW46IGZhbHNlCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHN0YXRlOiBhYnNlbnQK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHNyYzogL3Zhci93d3cvaHRtbC93ZWJzdm4tMi4zLjMK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBmaWxlOgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ci0gbmFtZTogRGVsZXRlIHVuYXJjaGl2ZWQgZGlyCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbW90ZV9zcmM6IHllcwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG93bmVyOiBhcGFjaGUKICAgIGdyb3VwOiBhcGFjaGUK</text>
+        <text encoding="base64">ICAgIHJlbW90ZV9zcmM6IHllcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
