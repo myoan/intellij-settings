@@ -406,12 +406,12 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535942281570">
-        <mark key="'" line="67" column="28" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="135" column="3" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535943495329">
+        <mark key="'" line="134" column="8" />
+        <mark key="[" line="136" column="26" />
+        <mark key="]" line="136" column="30" />
+        <mark key="^" line="136" column="30" />
+        <mark key="." line="136" column="30" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
@@ -688,12 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.4.0/gems/rack-2.0.5/lib/rack/request.rb" />
-      <jump line="84" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.4.0/gems/rack-2.0.5/lib/rack/request.rb" />
-      <jump line="82" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.4.0/gems/rack-2.0.5/lib/rack/request.rb" />
-      <jump line="65" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.4.0/gems/rack-2.0.5/lib/rack/request.rb" />
-      <jump line="2832" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master.md" />
       <jump line="2785" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master.md" />
       <jump line="420" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master.md" />
       <jump line="128" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
@@ -773,7 +767,6 @@
       <jump line="27" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/vars/main.yml" />
       <jump line="89" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
-      <jump line="84" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="62" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="72" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
@@ -782,61 +775,77 @@
       <jump line="363" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
       <jump line="47" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
       <jump line="53" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
-      <jump line="4" column="23" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="1" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/ssh_config" />
       <jump line="126" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="102" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="44" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="67" column="28" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="103" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="82" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="88" column="32" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="84" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="69" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="128" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
+      <jump line="134" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2FkTW9kdWxlXD4=</text>
+        <text encoding="base64">XDxwZWFyX2luc3RhbGxlZF9jaGFubmVsX2FsaWFzZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzaGVsbDogcGVhciBjaGFubmVsLWRpc2NvdmVyIHBlYXIuZ2VzaGkub3JnCg==</text>
+      <register name="0" type="4">
+        <text>- name: Check pear.geshi.org is installed?
+  shell: pear list-channels | awk '{print $2}'
+  register: pear_installed_channel_aliases
+  always_run: yes
+  changed_when: false</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vZGU6IDA2NDAK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG93bmVyOiByb290CiAgICBncm91cDogYXBhY2hlCg==</text>
+      <register name="2" type="8">
+        <text>#
+#
+#
+#
+#
+#</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICJ7e2l0ZW0ubmFtZX19IgogICAgcGFzc3dvcmQ6ICJ7e2l0ZW0ucGFzc319Igo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIwojIAojIAojIAojIAojIAojIAojIAojIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBodHBhc3N3ZDoKICAgIHBhdGg6IC9ldGMvc3VidmVyc2lvbi9jb25mL2F1dGh1c2VyLmNvbmYK</text>
+        <text encoding="base64">ICAgIG1vZGU6IDA2NDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG93bmVyOiByb290CiAgICBncm91cDogYXBhY2hlCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAtIG5hbWU6IEluc3RhbGwgcGFja2FnZXMKICBodHBhc3N3ZDoKICAgIHBhdGg6IC9ldGMvc3VidmVyc2lvbi9jb25mL2F1dGh1c2VyLmNvbmYKICAgIG5hbWU6ICJ7e2l0ZW0ubmFtZX19IgogICAgcGFzc3dvcmQ6ICJ7e2l0ZW0ucGFzc319IgogICAgb3duZXI6IHJvb3QKICAgIGdyb3VwOiBhcGFjaGUKICAgIG1vZGU6IDA2NDAKICB3aXRoX2l0ZW1zOgogICAgLSBBcmNoaXZlX1RhcgogICAgLSBnZXNoaS9nZXNoaQogICAgLSBUZXh0X0RpZmY=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG5hbWU6ICJ7e2l0ZW0ubmFtZX19IgogICAgcGFzc3dvcmQ6ICJ7e2l0ZW0ucGFzc319Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFzczogbWl4aTM5NDEK</text>
+        <text encoding="base64">ICBodHBhc3N3ZDoKICAgIHBhdGg6IC9ldGMvc3VidmVyc2lvbi9jb25mL2F1dGh1c2VyLmNvbmYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGFzczogcmVkbGlkcmEKICAgIC0gbmFtZTogZGNndWVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAtIG5hbWU6IEluc3RhbGwgcGFja2FnZXMKICBodHBhc3N3ZDoKICAgIHBhdGg6IC9ldGMvc3VidmVyc2lvbi9jb25mL2F1dGh1c2VyLmNvbmYKICAgIG5hbWU6ICJ7e2l0ZW0ubmFtZX19IgogICAgcGFzc3dvcmQ6ICJ7e2l0ZW0ucGFzc319IgogICAgb3duZXI6IHJvb3QKICAgIGdyb3VwOiBhcGFjaGUKICAgIG1vZGU6IDA2NDAKICB3aXRoX2l0ZW1zOgogICAgLSBBcmNoaXZlX1RhcgogICAgLSBnZXNoaS9nZXNoaQogICAgLSBUZXh0X0RpZmY=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2FkTW9kdWxlXD4=</last-search>
+      <last-search encoding="base64">XDxwZWFyX2luc3RhbGxlZF9jaGFubmVsX2FsaWFzZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2FkTW9kdWxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwZWFyX2luc3RhbGxlZF9jaGFubmVsX2FsaWFzZXNcPg==</last-pattern>
       <last-replace />
       <last-substitute>r[</last-substitute>
       <last-dir>1</last-dir>
@@ -844,8 +853,6 @@
     </search>
     <history>
       <history-search>
-        <entry>@env</entry>
-        <entry encoding="base64">XDx0aW1ldHJhdmVsZXJfZW52XD4=</entry>
         <entry>uuid</entry>
         <entry encoding="base64">XDxzZWFyY2hfdXNlcl9pZFw+</entry>
         <entry>find_routes</entry>
@@ -864,6 +871,8 @@
         <entry>ph</entry>
         <entry>php</entry>
         <entry encoding="base64">XDxMb2FkTW9kdWxlXD4=</entry>
+        <entry encoding="base64">XDxodHRwZF9tb2R1bGVzXD4=</entry>
+        <entry encoding="base64">XDxwZWFyX2luc3RhbGxlZF9jaGFubmVsX2FsaWFzZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
