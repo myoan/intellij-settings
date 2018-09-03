@@ -59,22 +59,17 @@
         <mark key="^" line="33" column="9" />
         <mark key="." line="33" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" timestamp="1535973823960">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" timestamp="1535975456135">
         <mark key="'" line="2" column="19" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="34" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user_purchase.rb" timestamp="1534745570090">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/authzsvn.conf" timestamp="1535965349199">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/authzsvn.conf" timestamp="1535975939896" />
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" timestamp="1534742887248">
         <mark key="'" line="190" column="50" />
       </file>
@@ -84,12 +79,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_enemy.rb" timestamp="1535950172904">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/svn.yml" timestamp="1535974767345">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/svn.yml" timestamp="1535975491880">
         <mark key="'" line="52" column="53" />
-        <mark key="[" line="86" column="15" />
-        <mark key="]" line="86" column="17" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
         <mark key="^" line="86" column="17" />
-        <mark key="." line="86" column="17" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_spec.rb" timestamp="1534753332356">
         <mark key="'" line="0" column="0" />
@@ -402,8 +397,8 @@
       <jump line="2" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGN1c2VyID0gcncK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -412,19 +407,19 @@
         <text>ips</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">fGRlc2lnbiByZXBv44G444Gu5qip6ZmQfOiqreOBv+i+vOOBv+ODu+abuOOBjei+vOOBv3zjgarjgZd86Kqt44G/6L6844G/fAo=</text>
+        <text encoding="base64">ZGN1c2VyID0gcncK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGNpbGx1c3RndWVzdCA9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBuYW1lOiBTZXQgaHR0cGQuY29uZgogIGZpbGU6IHNyYz1odHRwZC5jb25mIGRlc3Q9L2V0Yy9odHRwZC9jb25mL2h0dHBkLmNvbmYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -432,17 +427,17 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiMjIyBkY3VzZXIKCiMjIyMg5Yqg5YWl5p2h5Lu2CgpEQ+OBruODoeODs+ODkOODvOOBp+OBguOCiwoKIyMjIyDmqKnpmZAKCmlsbHVzdC9kZXNpZ27jga7kuKHjg6zjg53jgrjjg4jjg6rjga7oqq3jgb/ovrzjgb/mqKnpmZDjg7vmm7jjgY3ovrzjgb/mqKnpmZDjgpLmjIHjgaPjgabjgYTjgb7jgZkKCiMjIyBkY2lsbHVzdGd1ZXN0CiMjIyBkY2Rlc2lnbmd1ZXN0</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyMgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fGlsbHVzdCByZXBv44G444Gu5qip6ZmQfGFhYXxhYWF8YWFhYWF8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -496,8 +491,8 @@
         <entry>838</entry>
         <entry>45</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
