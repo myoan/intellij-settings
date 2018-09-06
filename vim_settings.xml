@@ -184,11 +184,11 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/Gemfile" timestamp="1536199295942">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/Gemfile" timestamp="1536212352037">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" timestamp="1535960554362">
         <mark key="'" line="53" column="2" />
@@ -210,11 +210,12 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/app.rb" timestamp="1536200511593">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="37" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/app.rb" timestamp="1536212374942">
+        <mark key="'" line="20" column="14" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/stages_schema.rb" timestamp="1535981134152">
         <mark key="'" line="0" column="0" />
@@ -276,8 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language.rb" />
-      <jump line="31" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/ruby.rb" />
       <jump line="110" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="113" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="102" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
@@ -376,43 +375,45 @@
       <jump line="2" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/stages_schema.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage_background.proto" />
+      <jump line="11" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/app.rb" />
+      <jump line="19" column="14" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/app.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JCBhbnNpYmxlLXBsYXlib29rIC4vYnVpbGQtdHVybi55bWwgLWkgaG9zdHMvaW52ZW50b3J5IC12Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>ips</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBjb3R1cm7jga7jgqTjg7Pjgrnjg4jjg7zjg6ssIOioreWumumFjeW4gwokIGFuc2libGUtcGxheWJvb2sgLi9idWlsZC10dXJuLnltbCAtaSBob3N0cy9pbnZlbnRvcnkgLXYK</text>
+        <text encoding="base64">cmVxdWlyZSAibm9rb2dpcmkiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JCBhbnNpYmxlLXBsYXlib29rIC4vYnVpbGQtdHVybi55bWwgLWkgaG9zdHMvaW52ZW50b3J5IC12Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBnZW0gInJhaWxzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIOOBguOBqOS4gOaBryBCR00g44OV44Kh44Kk44Or5ZCNCiAgdC5zdHJpbmcgIDpjbGltYXhfYmdtX2ZpbGVfbmFtZSwgICAgICAgICAgICBudWxsOiBmYWxzZSwgZGVmYXVsdDogIiIK</text>
+        <text encoding="base64">ICBkb2MgPSBOb2tvZ2lyaTo6SFRNTChzZWNvbmRfc3RhZ2UuY29udGVudC50b3V0ZjgpCiAgcHV0cyBkb2MudG9faHRtbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIEJHTSDjg5XjgqHjgqTjg6vlkI0KICB0LnN0cmluZyAgOmJnbV9maWxlX25hbWUsICAgICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAiIgo=</text>
+        <text encoding="base64">ICBwYWdlLmZvcm1fd2l0aChuYW1lOiAibG9naW5mb3JtIikgZG8gfGZvcm18Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fCBjb3N0IHwgW2ludDMyXSgjaW50MzIpIHwgIHwgIHwK</text>
+        <text encoding="base64">ICAgICMgZm9ybS5QYXNzd2QgPSBFTlZbIm9zX3Bhc3N3b3JkIl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fCBtYXBfZmlsZV9uYW1lIHwgW3N0cmluZ10oI3N0cmluZykgfCAgfCAgfAp8IGpvYl9lbGVtZW50IHwgW0RDLkRhdGEuRW51bS5Kb2JFbGVtZW50LkpvYkVsZW1lbnRdKC4uLy4uL2VudW0ubWQjREMuRGF0YS5FbnVtLkpvYkVsZW1lbnQuSm9iRWxlbWVudCkgfCAgfCAgfAo=</text>
+        <text encoding="base64">ICAgIHAgZm9ybQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fCBzdGFnZV9jbGFzcyB8IFtEQy5EYXRhLkVudW0uU3RhZ2VDbGFzcy5TdGFnZUNsYXNzXSguLi8uLi9lbnVtLm1kI0RDLkRhdGEuRW51bS5TdGFnZUNsYXNzLlN0YWdlQ2xhc3MpIHwgIHwgIHwKfCBzdGFnZV90eXBlIHwgW0RDLkRhdGEuRW51bS5TdGFnZVR5cGUuU3RhZ2VUeXBlXSguLi8uLi9lbnVtLm1kI0RDLkRhdGEuRW51bS5TdGFnZVR5cGUuU3RhZ2VUeXBlKSB8ICB8ICB8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
