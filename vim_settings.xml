@@ -59,11 +59,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage.proto" timestamp="1535981109240">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="27" column="18" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage.proto" timestamp="1536232177664">
+        <mark key="'" line="25" column="51" />
+        <mark key="[" line="29" column="92" />
+        <mark key="]" line="29" column="92" />
+        <mark key="." line="29" column="92" />
+        <mark key="^" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/authzsvn.conf" timestamp="1535975939896" />
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/svn.yml" timestamp="1536208450031">
@@ -220,11 +221,11 @@
         <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage_background.proto" timestamp="1535981269108">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="31" />
-        <mark key="^" line="30" column="31" />
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="86" column="31" />
+        <mark key="]" line="86" column="31" />
+        <mark key="." line="86" column="31" />
+        <mark key="^" line="86" column="31" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/websvn.yml" timestamp="1535964062087">
         <mark key="[" line="53" column="45" />
@@ -279,10 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
-      <jump line="93" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
-      <jump line="265" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service.rb" />
       <jump line="6" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
       <jump line="75" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
       <jump line="41" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/document_generator.rb" />
@@ -379,55 +376,59 @@
       <jump line="15" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" />
       <jump line="27" column="12" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" />
       <jump line="34" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" />
+      <jump line="136" column="1" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage.proto" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage.proto" />
+      <jump line="103" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage.proto" />
+      <jump line="25" column="51" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBicmVhawo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ips</text>
+        <text>npc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBGaWxlLm9wZW4odGl0bGUuc3BsaXQuZmlyc3QgKyAiLm1kIiwgInciKSB7IHxmfCBmLndyaXRlKG1kKSB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBicmVhawo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IyMjIOODquODquODvOOCueW+jOOBrmlk5o6h55Wq44Gr44Gk44GE44GmCgrigLvjg4fjg7zjgr/jga7mlbTlkIjmgKfjgavjgaTjgYTjgabjga/kvIHnlLvlgbTjgafjgZTliKTmlq3poZjjgYTjgb7jgZkKCnwg5L+u5q2j5YaF5a65IHwg44GX44Gm44KC6Imv44GE44GL44Gp44GG44GLIHwKfCAtLS0gfCAtLS0gfAp8IOi/veWKoCB8IOKXiyB8Cnwg5YmK6ZmkIHwg5Y6f5YmH56aB5q2i44CC44Om44O844K244Gu6Ziy6KGb44Oe44OD44OX44GM5Yip55So44Gn44GN44Gq44GP44Gq44KL5Y+v6IO95oCn44GC44KK44CCIOOBn+OBoOOBl+OAgeacrOeVquOBq+ODquODquODvOOCueOBl+OBpuOBhOOCi+OBkeOBqeOAgemYsuihm+ODnuODg+ODl+OBp+WIqeeUqOOBleOCjOOBpuOBhOOBquOBhOWgtOWQiOOBr+OAgeimgeebuOirh+OAgiB8Cnwg5aSJ5pu0IHwg5Y6f5YmH56aB5q2i44CC44Om44O844K244Gu6Ziy6KGb44Oe44OD44OX44Gu5YaF5a6544GM5aSJ44KP44KL5Y+v6IO95oCn44GC44KK44CCIOOBn+OBoOOBl+OAgeacrOeVquOBq+ODquODquODvOOCueOBl+OBpuOBhOOCi+OBkeOBqeOAgemYsuihm+ODnuODg+ODl+OBp+WIqeeUqOOBleOCjOOBpuOBhOOBquOBhOWgtOWQiOOBr+OAgeimgeebuOirh+OAgiB8Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdXRzICItLS0tLS0tLS0tIgo=</text>
+        <text encoding="base64">ICBicmVhawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwdXRzICItLS0tLS0tLS0tIgogIHB1dHMgIiBNQVJLIERPV04iCg==</text>
+        <text encoding="base64">ICBwdXRzICItLS0tLS0tLS0tIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdXRzIG1kCg==</text>
+        <text encoding="base64">ICBwdXRzICItLS0tLS0tLS0tIgogIHB1dHMgIiBNQVJLIERPV04iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdXRzIHRpdGxlLgo=</text>
+        <text encoding="base64">ICBwdXRzIG1kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXQuCg==</text>
+        <text encoding="base64">ICBwdXRzIHRpdGxlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdXRzICItLS0tLS0tLS0tIgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ips</last-search>
+      <last-search>npc</last-search>
       <last-offset />
-      <last-pattern>ips</last-pattern>
+      <last-pattern>npc</last-pattern>
       <last-replace />
       <last-substitute>r[</last-substitute>
       <last-dir>1</last-dir>
@@ -435,7 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWFyY2hfdXNlcl9pZFw+</entry>
         <entry>find_routes</entry>
         <entry>bind</entry>
         <entry encoding="base64">XDxzZXRfaGVhZGVyXD4=</entry>
@@ -455,6 +455,7 @@
         <entry encoding="base64">XDxwZWFyX2luc3RhbGxlZF9jaGFubmVsX2FsaWFzZXNcPg==</entry>
         <entry encoding="base64">XDxodHRwZF9tb2R1bGVzXD4=</entry>
         <entry>ips</entry>
+        <entry>npc</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
