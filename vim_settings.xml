@@ -321,12 +321,12 @@
         <mark key="^" line="125" column="21" />
         <mark key="." line="125" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" timestamp="1536330174363">
+      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" timestamp="1536334284299">
         <mark key="'" line="58" column="4" />
-        <mark key="[" line="47" column="2" />
-        <mark key="]" line="47" column="7" />
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="60" column="26" />
         <mark key="^" line="47" column="7" />
-        <mark key="." line="47" column="7" />
+        <mark key="." line="60" column="26" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_custom_floors_schema.rb" timestamp="1535456944660">
         <mark key="[" line="14" column="58" />
@@ -473,11 +473,11 @@
         <mark key="^" line="125" column="3" />
         <mark key="." line="125" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/table_body.rb" timestamp="1536330770007">
+      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/table_body.rb" timestamp="1536333980379">
         <mark key="'" line="50" column="6" />
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="37" column="42" />
-        <mark key="." line="37" column="42" />
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
         <mark key="^" line="37" column="42" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/parameter/battle_prepare.rb" timestamp="1534837036773">
@@ -635,19 +635,19 @@
         <mark key="." line="47" column="52" />
         <mark key="^" line="47" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/table.rb" timestamp="1536329940856">
-        <mark key="'" line="6" column="7" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="13" column="74" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/table.rb" timestamp="1536334297626">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="58" column="39" />
+        <mark key="." line="58" column="39" />
+        <mark key="^" line="58" column="39" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage_background.proto" timestamp="1535981269108">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="31" />
-        <mark key="^" line="30" column="31" />
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/gender.proto" timestamp="1535333875198">
         <mark key="'" line="3" column="12" />
@@ -752,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/commons/tasks/user.yml" />
       <jump line="68" column="43" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" />
       <jump line="30" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
       <jump line="357" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" />
@@ -852,13 +851,14 @@
       <jump line="50" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/table_body.rb" />
       <jump line="6" column="7" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/table.rb" />
       <jump line="27" column="26" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content.rb" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/table.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2hlbWFfZGVmaW5pdGlvblw+</text>
