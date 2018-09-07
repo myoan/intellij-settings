@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" timestamp="1535367689629">
         <mark key="'" line="128" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/config.php" timestamp="1535974749894">
-        <mark key="'" line="482" column="0" />
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
-        <mark key="^" line="220" column="65" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/config.php" timestamp="1536297518514">
+        <mark key="'" line="483" column="0" />
+        <mark key="[" line="81" column="52" />
+        <mark key="]" line="81" column="58" />
+        <mark key="." line="81" column="58" />
+        <mark key="^" line="81" column="58" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/master_data.yml" timestamp="1534233818709">
         <mark key="'" line="4" column="0" />
@@ -87,7 +87,6 @@
         <mark key="." line="29" column="92" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/authzsvn.conf" timestamp="1535975939896" />
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" timestamp="1534742887248">
         <mark key="'" line="190" column="50" />
       </file>
@@ -97,12 +96,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_enemy.rb" timestamp="1535950172904">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/svn.yml" timestamp="1536208450031">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/svn.yml" timestamp="1536298012119">
         <mark key="'" line="52" column="53" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="86" column="17" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_spec.rb" timestamp="1534753332356">
         <mark key="'" line="0" column="0" />
@@ -195,12 +194,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/protobuf.rb" timestamp="1535116184734">
         <mark key="'" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1535963617111">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/tasks/main.yml" timestamp="1536297940689">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="70" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="1" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" timestamp="1536284701210">
         <mark key="'" line="195" column="20" />
@@ -473,43 +472,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>add_bom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBGaWxlLm9wZW4odGl0bGUuc3BsaXQuZmlyc3QgKyAiLm1kIiwgInciKSB7IHxmfCBmLndyaXRlKG1kKSB9Cg==</text>
+        <text encoding="base64">JGNvbmZpZy0+YWRkUmVwb3NpdG9yeSgnSWxsdXN0JywgJ2ZpbGU6Ly8vZGF0YS9zdm4vaWxsdXN0Jyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IyMjIOODquODquODvOOCueW+jOOBrmlk5o6h55Wq44Gr44Gk44GE44GmCgrigLvjg4fjg7zjgr/jga7mlbTlkIjmgKfjgavjgaTjgYTjgabjga/kvIHnlLvlgbTjgafjgZTliKTmlq3poZjjgYTjgb7jgZkKCnwg5L+u5q2j5YaF5a65IHwg44GX44Gm44KC6Imv44GE44GL44Gp44GG44GLIHwKfCAtLS0gfCAtLS0gfAp8IOi/veWKoCB8IOKXiyB8Cnwg5YmK6ZmkIHwg5Y6f5YmH56aB5q2i44CC44Om44O844K244Gu6Ziy6KGb44Oe44OD44OX44GM5Yip55So44Gn44GN44Gq44GP44Gq44KL5Y+v6IO95oCn44GC44KK44CCIOOBn+OBoOOBl+OAgeacrOeVquOBq+ODquODquODvOOCueOBl+OBpuOBhOOCi+OBkeOBqeOAgemYsuihm+ODnuODg+ODl+OBp+WIqeeUqOOBleOCjOOBpuOBhOOBquOBhOWgtOWQiOOBr+OAgeimgeebuOirh+OAgiB8Cnwg5aSJ5pu0IHwg5Y6f5YmH56aB5q2i44CC44Om44O844K244Gu6Ziy6KGb44Oe44OD44OX44Gu5YaF5a6544GM5aSJ44KP44KL5Y+v6IO95oCn44GC44KK44CCIOOBn+OBoOOBl+OAgeacrOeVquOBq+ODquODquODvOOCueOBl+OBpuOBhOOCi+OBkeOBqeOAgemYsuihm+ODnuODg+ODl+OBp+WIqeeUqOOBleOCjOOBpuOBhOOBquOBhOWgtOWQiOOBr+OAgeimgeebuOirh+OAgiB8Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBicmVhawo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwdXRzICItLS0tLS0tLS0tIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwdXRzICItLS0tLS0tLS0tIgogIHB1dHMgIiBNQVJLIERPV04iCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwdXRzIG1kCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwdXRzIHRpdGxlLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICByZXQuCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LSBuYW1lOiBDaGFuZ2UgcmVwb3NpdG9yeSBkaXIgb3duZXIKICBmaWxlOiBwYXRoPS9kYXRhL3N2bi9yZXNvdXJjZSBzdGF0ZT1kaXJlY3Rvcnkgb3duZXI9YXBhY2hlIGdyb3VwPWFwYWNoZSBtb2RlPTA3NTUK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IyMjIOODquODquODvOOCueW+jOOBrmlk5o6h55Wq44Gr44Gk44GE44GmCgrigLvjg4fjg7zjgr/jga7mlbTlkIjmgKfjgavjgaTjgYTjgabjga/kvIHnlLvlgbTjgafjgZTliKTmlq3poZjjgYTjgb7jgZkKCnwg5L+u5q2j5YaF5a65IHwg44GX44Gm44KC6Imv44GE44GL44Gp44GG44GLIHwKfCAtLS0gfCAtLS0gfAp8IOi/veWKoCB8IOKXiyB8Cnwg5YmK6ZmkIHwg5Y6f5YmH56aB5q2i44CC44Om44O844K244Gu6Ziy6KGb44Oe44OD44OX44GM5Yip55So44Gn44GN44Gq44GP44Gq44KL5Y+v6IO95oCn44GC44KK44CCIOOBn+OBoOOBl+OAgeacrOeVquOBq+ODquODquODvOOCueOBl+OBpuOBhOOCi+OBkeOBqeOAgemYsuihm+ODnuODg+ODl+OBp+WIqeeUqOOBleOCjOOBpuOBhOOBquOBhOWgtOWQiOOBr+OAgeimgeebuOirh+OAgiB8Cnwg5aSJ5pu0IHwg5Y6f5YmH56aB5q2i44CC44Om44O844K244Gu6Ziy6KGb44Oe44OD44OX44Gu5YaF5a6544GM5aSJ44KP44KL5Y+v6IO95oCn44GC44KK44CCIOOBn+OBoOOBl+OAgeacrOeVquOBq+ODquODquODvOOCueOBl+OBpuOBhOOCi+OBkeOBqeOAgemYsuihm+ODnuODg+ODl+OBp+WIqeeUqOOBleOCjOOBpuOBhOOBquOBhOWgtOWQiOOBr+OAgeimgeebuOirh+OAgiB8Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBicmVhawo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwdXRzICItLS0tLS0tLS0tIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwdXRzICItLS0tLS0tLS0tIgogIHB1dHMgIiBNQVJLIERPV04iCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwdXRzIG1kCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwdXRzIHRpdGxlLgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
