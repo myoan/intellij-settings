@@ -439,6 +439,9 @@
         <mark key="." line="4" column="104" />
         <mark key="^" line="4" column="104" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/mission.rb" timestamp="1536908782499">
+        <mark key="'" line="97" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_enemy_info_cache.rb" timestamp="1534906372424">
         <mark key="'" line="61" column="6" />
       </file>
@@ -461,6 +464,9 @@
         <mark key="]" line="18" column="62" />
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_mission.rb" timestamp="1536908746321">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/shuffle_lunch.rb" timestamp="1534470453795">
         <mark key="'" line="6" column="0" />
@@ -597,8 +603,8 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1536849518115">
-        <mark key="'" line="314" column="5" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1536908762899">
+        <mark key="'" line="125" column="4" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/stage_class.proto" timestamp="1536805406591">
         <mark key="[" line="3" column="19" />
@@ -987,11 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" />
-      <jump line="31" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" />
-      <jump line="1" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence.rb" />
       <jump line="32" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/raw_client.rb" />
       <jump line="9" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/paragraph.rb" />
       <jump line="6" column="13" filename="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/paragraph.rb" />
@@ -1087,6 +1088,11 @@
       <jump line="314" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="0" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_28.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_mission.rb" />
+      <jump line="282" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="125" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/mission.rb" />
+      <jump line="97" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/mission.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1096,7 +1102,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>finish</text>
+        <text encoding="base64">XDxtaXNzaW9uX2l0ZW1zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGF0YSA8PCBDaGFyLm5ldyhpZDogMSwgbmFtZTogImZvbyIpCg==</text>
@@ -1136,9 +1142,9 @@
       </register>
     </registers>
     <search>
-      <last-search>finish</last-search>
+      <last-search encoding="base64">XDxtaXNzaW9uX2l0ZW1zXD4=</last-search>
       <last-offset />
-      <last-pattern>finish</last-pattern>
+      <last-pattern encoding="base64">XDxtaXNzaW9uX2l0ZW1zXD4=</last-pattern>
       <last-replace />
       <last-substitute>r[</last-substitute>
       <last-dir>1</last-dir>
@@ -1146,11 +1152,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ph</entry>
-        <entry>php</entry>
-        <entry encoding="base64">XDxMb2FkTW9kdWxlXD4=</entry>
-        <entry encoding="base64">XDxwZWFyX2luc3RhbGxlZF9jaGFubmVsX2FsaWFzZXNcPg==</entry>
-        <entry encoding="base64">XDxodHRwZF9tb2R1bGVzXD4=</entry>
         <entry>ips</entry>
         <entry>npc</entry>
         <entry>add_bom</entry>
@@ -1166,6 +1167,11 @@
         <entry encoding="base64">XDxzZW5kX3ByZXNlbnRfb3JfYXBvbG9neVw+</entry>
         <entry>char_conver</entry>
         <entry>finish</entry>
+        <entry>add_</entry>
+        <entry>add_item</entry>
+        <entry>rewards</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
+        <entry encoding="base64">XDxtaXNzaW9uX2l0ZW1zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>290</entry>
