@@ -247,8 +247,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1536890471058">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/custom_controller.rb" timestamp="1536928393181">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/custom_controller.rb" timestamp="1537506005270">
         <mark key="'" line="3" column="20" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_spec.rb" timestamp="1534753332356">
         <mark key="'" line="0" column="0" />
@@ -773,12 +777,12 @@
         <mark key="." line="36" column="63" />
         <mark key="^" line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/continuous-battle.puml" timestamp="1537500614233">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/continuous-battle.puml" timestamp="1537506180214">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="18" />
+        <mark key="[" line="10" column="87" />
+        <mark key="]" line="10" column="88" />
+        <mark key="." line="10" column="88" />
+        <mark key="^" line="10" column="88" />
       </file>
     </filemarks>
     <jumps>
@@ -885,53 +889,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5pc2hfb3BlcmF0aW9uX2Zvcl9zb2xvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>shared_examples &quot;release sales_event_group&quot; do
-  context &quot;when released&quot; do
-    it &quot;call method&quot; do
-      expect(UserSalesEventGroup).to receive(:available!).at_least(:once)
-      subject
-    end
-  end
-end</text>
+      <register name="0" type="2">
+        <text encoding="base64">VXNlclNhbGVzRXZlbnRHcm91cCAtLT4gU2FsZXNFdmVudEdyb3VwQ29uZGl0aW9uQmF0dGxlU3RhdHVzQ29udGludW91czogcmVsZWFzZWRfc2FsZXNfZXZlbnRfZ3JvdXBzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXNlckJhdHRsZVN0YXR1c0NvbnRpbnVvdXNDb3VudGVyIC0tPiBVc2VyQmF0dGxlU3RhdHVzQ29udGludW91c0NvdW50ZXI6IHNhdmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXNlciAtLT4gVXNlcjogaW5jcmVtZW50X2NvbnRpbnVvdXNfdmlzdG9yeV9hbmRfbG9zZV9jb3VudAo=</text>
+        <text encoding="base64">VXNlciAtLT4gVXNlcjogc2F2ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkCg==</text>
+        <text encoding="base64">VXNlciAtLT4gVXNlcjogc2F2ZQo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKZW4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">VXNlckJhdHRsZUNvbnRpbnVvdXNDb3VudGVyIC0tPiBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb250ZXh0ICJ3aGVuIHJlbGVhc2VkIiBkbwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkCg==</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKZW4=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb250ZXh0ICJ3aGVuIHJlbGVhc2VkIiBkbwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">VXNlciAtLT4gVXNlcjogaW5jcmVtZW50X2NvbnRpbnVvdXNfdmlzdG9yeV9hbmRfbG9zZV9jb3VudAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkCg==</text>
+      </register>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKZW4=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb250ZXh0ICJ3aGVuIHJlbGVhc2VkIiBkbwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -985,8 +982,8 @@ end</text>
         <entry>ew</entry>
         <entry>wq</entry>
         <entry>66</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
