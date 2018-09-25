@@ -335,11 +335,11 @@
         <mark key="." line="102" column="53" />
         <mark key="^" line="102" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" timestamp="1537855758840">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" timestamp="1537857701977">
+        <mark key="'" line="65" column="20" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/char_type.proto" timestamp="1536804389334">
         <mark key="'" line="11" column="2" />
@@ -683,12 +683,6 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_32.rb" timestamp="1537326825187">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="11" column="9" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/spec_helper.rb" timestamp="1535512295958">
         <mark key="'" line="80" column="4" />
       </file>
@@ -839,18 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="176" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="49" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="54" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="55" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="113" column="35" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="119" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="131" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="143" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="149" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="97" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="45" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="72" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
       <jump line="22" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
@@ -939,98 +921,74 @@
       <jump line="35" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
       <jump line="7" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="25" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="19" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="55" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="59" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="57" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="49" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="12" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="52" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="51" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="65" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>号</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWN0b3IgVXNlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>号</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>plandata</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UGxhbm5lciAtLT4gU2xhY2sgOiBjcmVhdGUgUFIgdG8gdW5zdGFibGUK</text>
+        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Qm90IC0tPiBTbGFjayA6IFBS44Gr5YWl44KM44KL44OV44Kp44Or44OA44KS6IG05Y+WCg==</text>
+        <text encoding="base64">YWN0b3IgVXNlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXNlciAtLT4gUHJvZHVjdGlvblNlcnZlciA6IOalveOBl+OBhCEhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWN0aXZhdGUgQm90Cg==</text>
+        <text encoding="base64">YWN0b3Igd2FrYWJhX0JvdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UGxhbm5lciAtLT4gUHJvZHVjdGlvblNlcnZlciA6IOaMmeWLleeiuuiqjQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWN0aXZhdGUgQm90Cg==</text>
+        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">W1BsYW5uZXJdIC0tIFtjaGFycy5jc3ZdIDog44Kz44OU44O8Cg==</text>
+        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
       </register>
-      <register name="9" type="4">
-        <text>actor &quot;Planner&quot;
-agent &quot;Jenkins&quot;
-
-package &quot;macaron-plan.git&quot; {
-  frame &quot;branch: unstable&quot; {
-    folder &quot;Unstable&quot; {
-      [chars.csv]
-    }
-    folder &quot;Staging&quot; {
-    }
-    folder &quot;Production&quot; {
-    }
-  }
-  frame &quot;branch: staging&quot; {
-    folder &quot;Unstable&quot; {
-      [chars.csv]
-    }
-    folder &quot;Staging&quot; {
-      [chars.csv]
-    }
-    folder &quot;Production&quot; {
-    }
-  }
-  frame &quot;branch: production&quot; {
-    folder &quot;Unstable&quot; {
-      [chars.csv]
-    }
-    folder &quot;Staging&quot; {
-    }
-    folder &quot;Production&quot; {
-    }
-  }
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">UGxhbm5lciAtLT4gU3RhZ2luZ1NlcnZlciA6IOaMmeWLleeiuuiqjQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/plandata/plandata.git/g</text>
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>plandata</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">XDxjbnRfb2ZfYWRob2NfcGxheWVyXD4=</last-substitute>
+      <last-pattern>plandata</last-pattern>
+      <last-replace>plandata.git</last-replace>
+      <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkcmF3X2l0ZW1zXD4=</entry>
-        <entry encoding="base64">XDxpbmNyZW1lbnRfYmF0dGxlX2NsZWFyX2NvdW50XD4=</entry>
-        <entry>total_gold</entry>
-        <entry>add_cel</entry>
         <entry>finish!</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9mb3JfcGxheVw+</entry>
         <entry>validate_for_play</entry>
@@ -1047,12 +1005,12 @@ package &quot;macaron-plan.git&quot; {
         <entry encoding="base64">XDxsaW5lX21hdGNoaW5nX3JlZGlyZWN0X3VybFw+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9saW5lX21lc3NhZ2VcPg==</entry>
         <entry>static</entry>
+        <entry>PR_Bot</entry>
+        <entry>ServerBot</entry>
+        <entry>planexcel</entry>
+        <entry>plandata</entry>
       </history-search>
       <history-cmd>
-        <entry>172</entry>
-        <entry>252</entry>
-        <entry>197</entry>
-        <entry>111</entry>
         <entry>131</entry>
         <entry>118</entry>
         <entry>180</entry>
@@ -1069,6 +1027,10 @@ package &quot;macaron-plan.git&quot; {
         <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>%s/PR_Bot/Bot(wakaba)/g</entry>
+        <entry>%s/ServerBot/wakaba_Bot/g</entry>
+        <entry>%s/planexcel/planexcel.git/g</entry>
+        <entry>%s/plandata/plandata.git/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
