@@ -221,12 +221,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/amazon_app_store.rb" timestamp="1534745617490">
         <mark key="'" line="69" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_component.puml" timestamp="1537840080668">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_component.puml" timestamp="1537926124113">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="37" column="33" />
-        <mark key="]" line="37" column="33" />
-        <mark key="^" line="37" column="35" />
-        <mark key="." line="37" column="33" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="8" column="9" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/helpers/yuzuru/sales_event_helper.rb" timestamp="1533825751865">
         <mark key="'" line="13" column="58" />
@@ -541,6 +541,13 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/puml/dev_flow_component_2.puml" timestamp="1537926304177">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_char.rb" timestamp="1536913147701">
         <mark key="'" line="16" column="11" />
       </file>
@@ -833,13 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="72" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
-      <jump line="22" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
-      <jump line="65" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
-      <jump line="183" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
-      <jump line="48" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
-      <jump line="177" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
       <jump line="176" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group_condition_mission.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" />
@@ -933,46 +933,53 @@
       <jump line="28" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
       <jump line="51" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
       <jump line="65" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dev_flow_create_staging.puml" />
+      <jump line="11" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/puml/dev_flow_component_2.puml" />
+      <jump line="14" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/puml/dev_flow_component_2.puml" />
+      <jump line="25" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/puml/dev_flow_component_2.puml" />
+      <jump line="38" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/puml/dev_flow_component_2.puml" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/puml/dev_flow_component_2.puml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/puml/dev_flow_component_2.puml" />
+      <jump line="36" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/puml/dev_flow_component_2.puml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWN0b3IgVXNlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>plandata</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
+        <text encoding="base64">W1BsYW5uZXJdIC0tIFtjaGFycy5jc3ZdIDogTW92ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWN0b3IgVXNlcgo=</text>
+        <text encoding="base64">ICAgICAgW2NoYXJzLmNzdl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VXNlciAtLT4gUHJvZHVjdGlvblNlcnZlciA6IOalveOBl+OBhCEhCg==</text>
+        <text encoding="base64">ICAgICAgW2NoYXJzLmNzdl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWN0b3Igd2FrYWJhX0JvdAo=</text>
+        <text encoding="base64">ICAgICAgW2NoYXJzLmNzdl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UGxhbm5lciAtLT4gUHJvZHVjdGlvblNlcnZlciA6IOaMmeWLleeiuuiqjQo=</text>
+        <text encoding="base64">YWN0b3IgVXNlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
+        <text encoding="base64">VXNlciAtLT4gUHJvZHVjdGlvblNlcnZlciA6IOalveOBl+OBhCEhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
+        <text encoding="base64">YWN0b3Igd2FrYWJhX0JvdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
+        <text encoding="base64">UGxhbm5lciAtLT4gUHJvZHVjdGlvblNlcnZlciA6IOaMmeWLleeiuuiqjQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UGxhbm5lciAtLT4gU3RhZ2luZ1NlcnZlciA6IOaMmeWLleeiuuiqjQo=</text>
+        <text encoding="base64">YWN0b3IgRW5naW5lZXIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/plandata/plandata.git/g</text>
