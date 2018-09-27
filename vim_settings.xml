@@ -419,11 +419,11 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="22" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/Gemfile" timestamp="1538010280583">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/Gemfile" timestamp="1538012848383">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer.rb" timestamp="1536833302845">
         <mark key="'" line="0" column="0" />
@@ -513,23 +513,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1537508588054">
-        <mark key="'" line="69" column="46" />
-        <mark key="]" line="175" column="1" />
-        <mark key="^" line="175" column="1" />
-        <mark key="." line="175" column="1" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_container_spec.rb" timestamp="1537509571559">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="2" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" timestamp="1536284701210">
         <mark key="'" line="195" column="20" />
@@ -773,6 +762,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/adhoc_bonus.rb" timestamp="1536927668081">
         <mark key="'" line="53" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/test_helper.rb" timestamp="1538013056600">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/README.md" timestamp="1535433518526">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="4" column="69" />
@@ -834,6 +829,12 @@
         <mark key="]" line="100" column="39" />
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" timestamp="1538013065539">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/docker-compose.yml" timestamp="1534760230097">
         <mark key="'" line="7" column="4" />
@@ -975,10 +976,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>plandata</text>
@@ -986,34 +987,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwdXRzICJhOiAiICsgYQo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Z2VtICJyc3BlYyIK</text>
+      </register>
+      <register name="3" type="8">
         <text>&quot; + a
 &quot; + b</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBwdXRzIGIK</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>params[
 params[</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBkZAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB1cmxTdHIgPDwgIiYje3BhcmFtc1tpZHhdfT0je3BhcmFtc1tpZHgrMV19Igo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAjcmVzcG9uc2UucmVwbHkoIuODkeODqeODoeODvOOCvyBrZXlbI3twYXJhbXNbaWR4XX1dIHZhbHVlWyN7cGFyYW1zW2lkeCsxXX1dIikK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">R3Vlc3QgLS0+IEd1ZXN0IDogVVJM44KS44K/44OD44OXCg==</text>
+        <text encoding="base64">ICB1cmxTdHIgPDwgIiYje3BhcmFtc1tpZHhdfT0je3BhcmFtc1tpZHgrMV19Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
