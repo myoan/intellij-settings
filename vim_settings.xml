@@ -75,12 +75,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="22" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" timestamp="1538028966638">
-        <mark key="'" line="26" column="24" />
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="48" column="2" />
-        <mark key="." line="48" column="2" />
-        <mark key="^" line="25" column="1" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" timestamp="1538030133139">
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+        <mark key="^" line="27" column="5" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" timestamp="1535367689629">
         <mark key="'" line="128" column="6" />
@@ -800,7 +800,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538028952425">
+      <file name="/Dummy.txt" timestamp="1538030231373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -845,8 +845,8 @@
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" timestamp="1538029407199">
-        <mark key="'" line="20" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" timestamp="1538030225876">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="97" column="31" />
         <mark key="]" line="97" column="31" />
         <mark key="." line="97" column="31" />
@@ -889,11 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="50" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="157" column="50" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="69" column="46" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="46" column="52" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle_status_continuous_counter.rb" />
       <jump line="29" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle_status_continuous_counter.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_container_spec.rb" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_container_spec.rb" />
@@ -989,46 +984,51 @@
       <jump line="26" column="24" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
       <jump line="93" column="21" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="68" column="16" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="27" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
+      <jump line="36" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
+      <jump line="104" column="16" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWZvcmVfcGluc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCBAZ2FtZS5zY29yZSwgMTYK</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSBpZiBsYXN0X2ZyYW1lPwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhbGxfZ3V0dGVyX3JvbGwoQGdhbWUsIDE3KQo=</text>
+        <text encoding="base64">ICAgIEBnYW1lLnJvbGwoMikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBnYW1lLnJvbGwoMSkKICAgIEBnYW1lLnJvbGwoOSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1dHMgImFkZCBib251czogI3sgcGlucyAqIEBib251c19jb3VudGVycy5sZW5ndGggfSIK</text>
+        <text encoding="base64">ICBhbGxfZ3V0dGVyX3JvbGwoQGdhbWUsIDE3KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAgQGJvbnVzX2NvdW50ZXJzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZF9ib251c19jb3VudGVyKDIpIGlmIHN0cmlrZT8ocGlucykK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1dHMgImFkZCBib251czogI3sgcGlucyAqIEBib251c19jb3VudGVycy5sZW5ndGggfSIK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHAgQGJvbnVzX2NvdW50ZXJzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFkZF9ib251c19jb3VudGVyKDIpIGlmIHN0cmlrZT8ocGlucykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAgQGJvbnVzX2NvdW50ZXJzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHAgQGJvbnVzX2NvdW50ZXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
