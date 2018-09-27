@@ -75,11 +75,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="22" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" timestamp="1538018563956">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="12" column="23" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" timestamp="1538021510877">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" timestamp="1535367689629">
         <mark key="'" line="128" column="6" />
@@ -593,6 +594,13 @@
         <mark key="." line="363" column="44" />
         <mark key="^" line="363" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/.github/ISSUE_TEMPLATE/join_leave_account_flow.md" timestamp="1538022386330">
+        <mark key="'" line="14" column="10" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char.rb" timestamp="1534906515081">
         <mark key="'" line="4" column="20" />
         <mark key="[" line="49" column="0" />
@@ -792,7 +800,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538018058744">
+      <file name="/Dummy.txt" timestamp="1538020815361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -837,12 +845,12 @@
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" timestamp="1538018619937">
-        <mark key="'" line="33" column="31" />
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="31" />
-        <mark key="^" line="33" column="31" />
-        <mark key="." line="33" column="31" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" timestamp="1538020809880">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="30" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="78" column="28" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/docker-compose.yml" timestamp="1534760230097">
         <mark key="'" line="7" column="4" />
@@ -881,17 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle_status_continuous_counter.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/sharding_sequencers.yml" />
-      <jump line="100" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/sharding_sequencers.yml" />
-      <jump line="48" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/sharding_sequencers.yml" />
-      <jump line="101" column="38" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/sharding_sequencers.yml" />
-      <jump line="15" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle_status_continuous_counter.rb" />
-      <jump line="17" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle_status_continuous_counter.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_battle_status_continuous_counters_schema.rb" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_battle_status_continuous_counters_schema.rb" />
-      <jump line="167" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="82" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="83" column="37" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="84" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="95" column="73" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
@@ -974,62 +971,73 @@
       <jump line="35" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="38" column="16" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="4" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="29" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="8" column="20" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
-      <jump line="40" column="15" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
-      <jump line="33" column="31" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="45" column="8" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="40" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="33" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="20" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
+      <jump line="44" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
+      <jump line="4" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
+      <jump line="21" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
+      <jump line="59" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="9" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="29" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
+      <jump line="16" column="9" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
+      <jump line="12" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/.github/ISSUE_TEMPLATE/join_leave_account_flow.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>plandata</text>
+        <text encoding="base64">XDxiZWZvcmVfcGluc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgZGVmIHRlc3Rfc2ltcGxlX3NwYXJlCiAgICBAZ2FtZS5yb2xsKDMpCiAgICBAZ2FtZS5yb2xsKDcpCiAgICBAZ2FtZS5yb2xsKDcpCiAgICBhbGxfZ3V0dGVyX3JvbGwoQGdhbWUsIDE3KQogICAgYXNzZXJ0X2VxdWFsIEBnYW1lLnNjb3JlLCAyNAogIGVuZA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">LSBbIF0gR29vZ2xlRHJpdmUoTGVhZGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBzY29yZSArPSBwaW5zIGlmIHNwYXJlPyhwaW5zKQo=</text>
+        <text encoding="base64">LSBbIF0g44Kz44Oz44OV44Or44Gu5aC05omA44KS5pWZ44GI44KLCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBnYW1lLnJvbGwoMSkK</text>
+      <register name="2" type="8">
+        <text encoding="base64">QGJvbnVzX2NvdW50ZXIgPSAKQGJvbnVzX2NvdW50ZXIgPSA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBkZWYgdGVzdF9zcGFyZV9waW5zX2JldHdlZW5fZnJhbWVfaXNfMTAKICAgIEBnYW1lLnJvbGwoNSkKICAgIEBnYW1lLnJvbGwoMykKICAgIEBnYW1lLnJvbGwoNykKICAgIEBnYW1lLnJvbGwoMSkKICAgIGFsbF9ndXR0ZXJfcm9sbChAZ2FtZSwgMTYpCiAgICBhc3NlcnRfZXF1YWwgQGdhbWUuc2NvcmUsIDE2CiAgZW5kCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdhbWUgPSBCb3dsaW5nR2FtZS5uZXcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdhbWUgPSBCb3dsaW5nR2FtZS5uZXcK</text>
+        <text encoding="base64">ICAgIGFsbF9ndXR0ZXJfcm9sbChAZ2FtZSwgMTYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdhbWUgPSBCb3dsaW5nR2FtZS5uZXcK</text>
+        <text encoding="base64">ICAgIEBnYW1lLnJvbGwoMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdhbWUgPSBCb3dsaW5nR2FtZS5uZXcK</text>
+        <text encoding="base64">ICAgIEBnYW1lLnJvbGwoMTApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>plandata</last-search>
+      <last-search encoding="base64">XDxiZWZvcmVfcGluc1w+</last-search>
       <last-offset />
-      <last-pattern>plandata</last-pattern>
+      <last-pattern encoding="base64">XDxiZWZvcmVfcGluc1w+</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1037,7 +1045,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finish!</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9mb3JfcGxheVw+</entry>
         <entry>validate_for_play</entry>
         <entry>validate_for</entry>
@@ -1057,6 +1064,7 @@
         <entry>ServerBot</entry>
         <entry>planexcel</entry>
         <entry>plandata</entry>
+        <entry encoding="base64">XDxiZWZvcmVfcGluc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>131</entry>
