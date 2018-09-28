@@ -784,7 +784,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/adhoc_bonus.rb" timestamp="1536927668081">
         <mark key="'" line="53" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/test_helper.rb" timestamp="1538013056600">
+      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/test_helper.rb" timestamp="1538109994513">
+        <mark key="'" line="0" column="23" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="23" />
         <mark key="^" line="1" column="23" />
@@ -807,7 +808,7 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538033800720">
+      <file name="/Dummy.txt" timestamp="1538109996901">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -852,12 +853,12 @@
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" timestamp="1538030225876">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="97" column="31" />
-        <mark key="]" line="97" column="31" />
-        <mark key="." line="97" column="31" />
-        <mark key="^" line="97" column="31" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" timestamp="1538109992414">
+        <mark key="'" line="27" column="16" />
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/docker-compose.yml" timestamp="1534760230097">
         <mark key="'" line="7" column="4" />
@@ -896,8 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/user_battle_status_continuous_counter.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_status_continuous_counter_spec.rb" />
       <jump line="48" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_status_continuous_counter_spec.rb" />
       <jump line="22" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_status_continuous_counter_spec.rb" />
       <jump line="59" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_status_continuous_counter_spec.rb" />
@@ -996,19 +995,21 @@
       <jump line="46" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
       <jump line="43" column="1" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lib/kms_wrapper.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/money_controller.rb" />
+      <jump line="27" column="16" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
+      <jump line="0" column="23" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/test_helper.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZWZvcmVfcGluc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZSBpZiBsYXN0X2ZyYW1lPwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9lcXVhbCAxMiwgQGdhbWUuc2NvcmUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBnYW1lLnJvbGwoMikK</text>
@@ -1038,7 +1039,7 @@
         <text encoding="base64">ICAgIHAgQGJvbnVzX2NvdW50ZXJzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1092,8 +1093,8 @@
         <entry>%s/ServerBot/wakaba_Bot/g</entry>
         <entry>%s/planexcel/planexcel.git/g</entry>
         <entry>%s/plandata/plandata.git/g</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
