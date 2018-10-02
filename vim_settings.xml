@@ -225,12 +225,6 @@
         <mark key="^" line="19" column="47" />
         <mark key="." line="19" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.puml" timestamp="1538365034342">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" timestamp="1533275830892">
         <mark key="'" line="30" column="7" />
         <mark key="[" line="6" column="0" />
@@ -859,11 +853,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" timestamp="1538483933123">
-        <mark key="[" line="25" column="63" />
-        <mark key="]" line="25" column="63" />
-        <mark key="." line="25" column="63" />
-        <mark key="^" line="25" column="63" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" timestamp="1538487812693">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="102" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_enemy_info_cache.rb" timestamp="1534906372424">
         <mark key="'" line="61" column="6" />
@@ -956,9 +951,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.puml" />
-      <jump line="9" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer4.rb" />
-      <jump line="9" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/Gemfile" />
       <jump line="17" column="30" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="25" column="14" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="35" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
@@ -1056,13 +1048,16 @@
       <jump line="62" column="20" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto.rb" />
       <jump line="28" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/runner.rb" />
       <jump line="12" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" />
+      <jump line="19" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" />
+      <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bXNfcmVwbyA9IFJ1Z2dlZDo6UmVwb3NpdG9yeS5uZXcoJy9Vc2Vycy9tb3Rva2kueW9hbi9kZXYvc3JjL2dpdGh1Yi5jb20vbW9uc3RlcnN0cmlrZS9tYWNhcm9uLXNlcnZlcicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWFkX2NvbW1pdF9zaGFcPg==</text>
@@ -1071,32 +1066,31 @@
         <text encoding="base64">cHAgbGZfcmVwby5pbmRleC5kaWZmLnBhdGNoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bXNfcmVwby5jb21taXQubmV3Cg==</text>
+        <text encoding="base64">bXNfcmVwbyA9IFJ1Z2dlZDo6UmVwb3NpdG9yeS5uZXcoJy9Vc2Vycy9tb3Rva2kueW9hbi9kZXYvc3JjL2dpdGh1Yi5jb20vbW9uc3RlcnN0cmlrZS9tYWNhcm9uLXNlcnZlcicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJlZSA9IG1zX3JlcG8ubG9va3VwKCJmNzEzMDNjMDljOWE1ODc3ZDlkYWQzMmM3ZTAzMGEzNmIzODYxMjNhIikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwcCBpZHgKZW5kCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">cHAgbXNfcmVwby5pbmRleC5kaWZmLnBhdGNoCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">cCBtc19yZXBvLmhlYWQuY2xhc3MK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IHBwIG1zX3JlcG8uaGVhZC50YXJnZXQudHJlZS5kaWZmLnBhdGNoCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cHAgbXNfcmVwby5pbmRleC5kaWZmKG1zX3JlcG8uaGVhZC50YXJnZXQudHJlZSkucGF0Y2gK</text>
+        <text encoding="base64">cHAgbXNfcmVwby5oZWFkLmNsYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHAgbXNfcmVwby5oZWFkLm1ldGhvZHMK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHAgbXNfcmVwby5pbmRleC5kaWZmLm1ldGhvZHMK</text>
+        <text encoding="base64">ICBwdXRzIGkuaW5zcGVjdCBpZiBpWzpwYXRoXSA9fiAvYmF0dGxlXC9maW5pc2gvCg==</text>
       </register>
-      <register name="8" type="8">
-        <text>lf
-lf</text>
+      <register name="8" type="2">
+        <text encoding="base64">cHAgbXNfcmVwby5pbmRleC5jb3VudAptc19yZXBvLmluZGV4LmVhY2ggZG8gfGl8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyByZXBvID0gUnVnZ2VkOjpSZXBvc2l0b3J5Lm5ldygnL1VzZXJzL21vdG9raS55b2FuL2Rldi9zcmMvZ2l0aHViLmNvbS9tb25zdGVyc3RyaWtlL21hY2Fyb24tc2VydmVyJykKIyBwIHJlcG8uaGVhZC50YXJnZXQub2lkCg==</text>
+        <text encoding="base64">cHAgbGZfcmVwby5pbmRleC5kaWZmKHRyZWUpLnBhdGNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
