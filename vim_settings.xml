@@ -333,8 +333,8 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/libgit2/rugged/ext/rugged/rugged_index.c" timestamp="1538555665993">
-        <mark key="'" line="175" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/libgit2/rugged/ext/rugged/rugged_index.c" timestamp="1538561603663">
+        <mark key="'" line="30" column="37" />
         <mark key="[" line="717" column="20" />
         <mark key="]" line="717" column="21" />
         <mark key="." line="717" column="21" />
@@ -584,8 +584,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle_status_continuous_counter.rb" timestamp="1538461070849">
         <mark key="'" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/git/repository.rb" timestamp="1538465204242">
-        <mark key="'" line="64" column="10" />
+      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/git/repository.rb" timestamp="1538561241997">
+        <mark key="'" line="73" column="0" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="25" />
       </file>
@@ -805,6 +805,13 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/libgit2/rugged/lib/rugged/index.rb" timestamp="1538561613837">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="111" column="20" />
+        <mark key="]" line="112" column="16" />
+        <mark key="^" line="112" column="16" />
+        <mark key="." line="112" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" timestamp="1537497253705">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="124" column="7" />
@@ -996,12 +1003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
-      <jump line="59" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
-      <jump line="9" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
-      <jump line="29" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
-      <jump line="16" column="9" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/bowling_game.rb" />
-      <jump line="12" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/.github/ISSUE_TEMPLATE/join_leave_account_flow.md" />
       <jump line="72" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="93" column="21" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
@@ -1096,13 +1097,19 @@
       <jump line="90" column="0" filename="$USER_HOME$/dev/src/github.com/libgit2/rugged/ext/rugged/rugged_index.c" />
       <jump line="708" column="13" filename="$USER_HOME$/dev/src/github.com/libgit2/rugged/ext/rugged/rugged_index.c" />
       <jump line="175" column="0" filename="$USER_HOME$/dev/src/github.com/libgit2/rugged/ext/rugged/rugged_index.c" />
+      <jump line="30" column="37" filename="$USER_HOME$/dev/src/github.com/libgit2/rugged/ext/rugged/rugged_index.c" />
+      <jump line="57" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/git/repository.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/git/repository.rb" />
+      <jump line="15" column="6" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/git/repository.rb" />
+      <jump line="73" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/git/repository.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/libgit2/rugged/lib/rugged/index.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>index_to_work</text>
