@@ -640,6 +640,13 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/money_controller.rb" timestamp="1538034530658">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rugged-0.27.4/ext/rugged/rugged_index.c" timestamp="1538542786887">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="716" column="51" />
+        <mark key="]" line="716" column="54" />
+        <mark key="." line="716" column="54" />
+        <mark key="^" line="716" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/httpd.conf" timestamp="1535960554362">
         <mark key="'" line="53" column="2" />
         <mark key="[" line="363" column="40" />
@@ -951,7 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="14" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="35" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="38" column="16" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
@@ -1051,19 +1057,20 @@
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" />
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rugged-0.27.4/ext/rugged/rugged_index.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBwcCBtc19yZXBvLmluZGV4LmRpZmYucGF0Y2gK</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWFkX2NvbW1pdF9zaGFcPg==</text>
+        <text>git_diff_index_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHAgbGZfcmVwby5pbmRleC5kaWZmLnBhdGNoCg==</text>
+        <text encoding="base64">CWVycm9yID0gZ2l0X2RpZmZfaW5kZXhfdG9fd29ya2RpcigmZGlmZiwgcmVwbywgaW5kZXgsICZvcHRzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBwcCBtc19yZXBvLmluZGV4LmRpZmYucGF0Y2gK</text>
@@ -1097,9 +1104,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWFkX2NvbW1pdF9zaGFcPg==</last-search>
+      <last-search>git_diff_index_</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWFkX2NvbW1pdF9zaGFcPg==</last-pattern>
+      <last-pattern>git_diff_index_</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1107,7 +1114,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0ZV9saW5lX21lc3NhZ2VcPg==</entry>
         <entry>static</entry>
         <entry>PR_Bot</entry>
         <entry>ServerBot</entry>
@@ -1127,6 +1133,7 @@
         <entry>IndentationWidth</entry>
         <entry encoding="base64">XDxoZWFkXD4=</entry>
         <entry encoding="base64">XDxoZWFkX2NvbW1pdF9zaGFcPg==</entry>
+        <entry>git_diff_index_</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
