@@ -98,10 +98,6 @@
         <mark key="^" line="35" column="9" />
         <mark key="." line="35" column="9" />
       </file>
-      <file name="/sharding_sequencers.yml" timestamp="1538446207815">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="53" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_floor.rb" timestamp="1537239721231">
         <mark key="'" line="0" column="0" />
       </file>
@@ -346,6 +342,9 @@
         <mark key="]" line="4" column="42" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/hoge" timestamp="1538548221606">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/prepare.rb" timestamp="1534838389819">
         <mark key="'" line="7" column="4" />
@@ -958,7 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="5" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="38" column="16" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="4" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
@@ -1058,6 +1056,7 @@
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_35.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rugged-0.27.4/ext/rugged/rugged_index.c" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/hoge" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1067,7 +1066,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>git_diff_index_</text>
+        <text>hoge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWVycm9yID0gZ2l0X2RpZmZfaW5kZXhfdG9fd29ya2RpcigmZGlmZiwgcmVwbywgaW5kZXgsICZvcHRzKTsK</text>
@@ -1104,9 +1103,9 @@
       </register>
     </registers>
     <search>
-      <last-search>git_diff_index_</last-search>
+      <last-search>hoge</last-search>
       <last-offset />
-      <last-pattern>git_diff_index_</last-pattern>
+      <last-pattern>hoge</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1114,7 +1113,6 @@
     </search>
     <history>
       <history-search>
-        <entry>static</entry>
         <entry>PR_Bot</entry>
         <entry>ServerBot</entry>
         <entry>planexcel</entry>
@@ -1134,6 +1132,7 @@
         <entry encoding="base64">XDxoZWFkXD4=</entry>
         <entry encoding="base64">XDxoZWFkX2NvbW1pdF9zaGFcPg==</entry>
         <entry>git_diff_index_</entry>
+        <entry>hoge</entry>
       </history-search>
       <history-cmd>
         <entry>118</entry>
