@@ -877,11 +877,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/parameter/battle_start.rb" timestamp="1534836865690">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1537838803293">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1538641076028">
+        <mark key="'" line="10" column="24" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/macaron/protobuf/model_spec.rb" timestamp="1534925409613">
         <mark key="'" line="5" column="13" />
@@ -1003,7 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="93" column="21" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
       <jump line="68" column="16" filename="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/test/bowling_game_test.rb" />
@@ -1103,10 +1103,11 @@
       <jump line="15" column="6" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/git/repository.rb" />
       <jump line="73" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/git/repository.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/libgit2/rugged/lib/rugged/index.rb" />
+      <jump line="14" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -1117,35 +1118,35 @@
       <register name="0" type="4">
         <text encoding="base64">cmVxdWlyZSAicnVnZ2VkIgpyZXF1aXJlICdwcCcKCm1zX3JlcG8gPSBSdWdnZWQ6OlJlcG9zaXRvcnkubmV3KCcvVXNlcnMvbW90b2tpLnlvYW4vZGV2L3NyYy9naXRodWIuY29tL21vbnN0ZXJzdHJpa2UvbWFjYXJvbi1zZXJ2ZXInKQojIGxmX3JlcG8gPSBSdWdnZWQ6OlJlcG9zaXRvcnkubmV3KCcvVXNlcnMvbW90b2tpLnlvYW4vZGV2L3NyYy9naXRodWIuY29tL215b2FuL2xpZmUtZ2FtZScpCgpwdXRzICItLS0gbGlmZS1nYW1lIC0tLSIKIyBwIGxmX3JlcG8uaGVhZC50YXJnZXQub2lkCiMgcHAgbGZfcmVwby5pbmRleC5kaWZmLnBhdGNoCgpwdXRzICIiCgojIOWQjOOBmGRpZmbjgpLnlKjmhI/jgZfjgabjgYTjgovjgaTjgoLjgorjgYxydWdnZWTjgafkuIDmlrnjga7ntZDmnpzjga/lt67liIbjgYzjgafjgarjgYQKIyB0YXJnZXQgb2lk44Gv5oOz5a6a6YGT55CGCiMg5Luu6KqsOiDmr5TovIPlhYPjgYznlbDjgarjgaPjgabjgYTjgosgLT4g6YGV44GGLCDmr5TovIPlhYPjgo/jgYvjgonjgarjgYQKIyBodHRwczovL2dpdGh1Yi5jb20vbGliZ2l0Mi9ydWdnZWQvaXNzdWVzLzU0OAoKcHV0cyAiLS0tIG1hY2Fyb24tc2VydmVyIC0tLSIKcCBtc19yZXBvLmhlYWQudGFyZ2V0Lm9pZApwcCBtc19yZXBvLmluZGV4LmRpZmYucGF0Y2gKIyBwcCBtc19yZXBvLmhlYWQudGFyZ2V0LmRpZmYobXNfcmVwby5pbmRleCkucGF0Y2gKIyBwcCBtc19yZXBvLmhlYWQudGFyZ2V0LnRyZWUuZGlmZi5wYXRjaAojIHBwIG1zX3JlcG8uaW5kZXguZGlmZi5wYXRjaAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyDku67oqqw6IOavlOi8g+WFg+OBjOeVsOOBquOBo+OBpuOBhOOCiyAtPiDpgZXjgYYsIOavlOi8g+WFg+OCj+OBi+OCieOBquOBhAojIGh0dHBzOi8vZ2l0aHViLmNvbS9saWJnaXQyL3J1Z2dlZC9pc3N1ZXMvNTQ4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyDlkIzjgZhkaWZm44KS55So5oSP44GX44Gm44GE44KL44Gk44KC44KK44GMcnVnZ2Vk44Gn5LiA5pa544Gu57WQ5p6c44Gv5beu5YiG44GM44Gn44Gq44GECiMgdGFyZ2V0IG9pZOOBr+aDs+WumumBk+eQhgo=</text>
+        <text encoding="base64">44O7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwcCBtc19yZXBvLmluZGV4LmRpZmYucGF0Y2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBwcCBtc19yZXBvLmhlYWQudGFyZ2V0LmRpZmYobXNfcmVwby5pbmRleCkucGF0Y2gKIyBwcCBtc19yZXBvLmhlYWQudGFyZ2V0LnRyZWUuZGlmZi5wYXRjaAo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHV0cyAiaG9nZSIK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSAicnVnZ2VkIgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHV0cyAicnVnZ2VkIgo=</text>
+        <text encoding="base64">IyDku67oqqw6IOavlOi8g+WFg+OBjOeVsOOBquOBo+OBpuOBhOOCiyAtPiDpgZXjgYYsIOavlOi8g+WFg+OCj+OBi+OCieOBquOBhAojIGh0dHBzOi8vZ2l0aHViLmNvbS9saWJnaXQyL3J1Z2dlZC9pc3N1ZXMvNTQ4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHV0cyAncnVnZ2VkJwoK</text>
+        <text encoding="base64">IyDlkIzjgZhkaWZm44KS55So5oSP44GX44Gm44GE44KL44Gk44KC44KK44GMcnVnZ2Vk44Gn5LiA5pa544Gu57WQ5p6c44Gv5beu5YiG44GM44Gn44Gq44GECiMgdGFyZ2V0IG9pZOOBr+aDs+WumumBk+eQhgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1197,10 +1198,10 @@
         <entry>%s/ServerBot/wakaba_Bot/g</entry>
         <entry>%s/planexcel/planexcel.git/g</entry>
         <entry>%s/plandata/plandata.git/g</entry>
-        <entry>q</entry>
         <entry>q!</entry>
         <entry>ew</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
