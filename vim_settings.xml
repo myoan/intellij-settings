@@ -331,9 +331,9 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1538711369769">
         <mark key="'" line="50" column="4" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/enum_spec.rb" timestamp="1533832164936">
         <mark key="'" line="17" column="31" />
@@ -515,9 +515,6 @@
         <mark key="." line="4" column="104" />
         <mark key="^" line="4" column="104" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538730184074">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_enemy_info_cache.rb" timestamp="1534906372424">
         <mark key="'" line="61" column="6" />
       </file>
@@ -644,6 +641,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/sales_event_group_condition_battle_status_continuous_counters_schema.rb" timestamp="1538731317209">
+        <mark key="[" line="9" column="91" />
+        <mark key="]" line="9" column="92" />
+        <mark key="^" line="9" column="92" />
+        <mark key="." line="9" column="92" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.rb" timestamp="1533302318829">
         <mark key="'" line="5" column="15" />
@@ -809,12 +812,12 @@
         <mark key="^" line="34" column="9" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" timestamp="1538730000666">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" timestamp="1538731584520">
         <mark key="'" line="66" column="6" />
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="65" column="56" />
-        <mark key="." line="65" column="56" />
-        <mark key="^" line="65" column="56" />
+        <mark key="[" line="64" column="71" />
+        <mark key="]" line="64" column="72" />
+        <mark key="." line="64" column="72" />
+        <mark key="^" line="64" column="72" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_34.rb" timestamp="1538464845606">
         <mark key="[" line="0" column="0" />
@@ -958,9 +961,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" timestamp="1538723279905">
-        <mark key="'" line="125" column="7" />
-        <mark key="^" line="47" column="52" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" timestamp="1538731597212">
+        <mark key="'" line="120" column="9" />
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/labo_controller.rb" timestamp="1538708664002">
         <mark key="'" line="26" column="0" />
@@ -1053,7 +1059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="1" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/sharding_sequencers.yml" />
       <jump line="75" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/sharding_sequencers.yml" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/labo_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/sharding_sequencers.yml" />
@@ -1153,6 +1158,7 @@
       <jump line="64" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="66" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="46" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/sales_event_group_condition_battle_status_continuous_count.md" />
+      <jump line="120" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
