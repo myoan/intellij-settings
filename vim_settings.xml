@@ -368,8 +368,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/routes.rb" timestamp="1536912526741">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_gold.rb" timestamp="1539048820808">
-        <mark key="'" line="26" column="35" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_gold.rb" timestamp="1539051519242">
+        <mark key="'" line="49" column="4" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rugged-0.27.4/lib/rugged/repository.rb" timestamp="1538554916939">
         <mark key="'" line="37" column="0" />
@@ -827,9 +827,9 @@
         <mark key="." line="22" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_golds_schema.rb" timestamp="1539050960568">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
         <mark key="^" line="4" column="42" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/acquired_char_distributor_spec.rb" timestamp="1536848856955">
@@ -1099,8 +1099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="13" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/cli.rb" />
-      <jump line="5" column="4" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/cli.rb" />
       <jump line="92" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/cli.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/cli.rb" />
       <jump line="31" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/lib/pronto/cli.rb" />
@@ -1199,6 +1197,8 @@
       <jump line="4" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_record_schema.rb" />
       <jump line="282" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="118" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_record/base.rb" />
+      <jump line="75" column="29" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_gold.rb" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_gold.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1208,7 +1208,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>accumu</text>
+        <text encoding="base64">XDx1cGRhdGVfY291bnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICsgYWRkKGNvdW50LCBzY2VuZV9pZCwgcmVhc29uX2lkKQo=</text>
@@ -1245,9 +1245,9 @@
       </register>
     </registers>
     <search>
-      <last-search>accumu</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVfY291bnRcPg==</last-search>
       <last-offset />
-      <last-pattern>accumu</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVfY291bnRcPg==</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1255,7 +1255,6 @@
     </search>
     <history>
       <history-search>
-        <entry>for_solo</entry>
         <entry>start</entry>
         <entry>unstaged</entry>
         <entry encoding="base64">XDxjb21taXRfb3B0aW9uc1w+</entry>
@@ -1275,6 +1274,7 @@
         <entry>available!</entry>
         <entry>accum</entry>
         <entry>accumu</entry>
+        <entry encoding="base64">XDx1cGRhdGVfY291bnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>180</entry>
