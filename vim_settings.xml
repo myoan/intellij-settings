@@ -382,11 +382,11 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/routes.rb" timestamp="1536912526741">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_gold.rb" timestamp="1539058184905">
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="26" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_gold.rb" timestamp="1539059325044">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="24" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_char.rb" timestamp="1536913147701">
         <mark key="'" line="16" column="11" />
@@ -737,12 +737,6 @@
         <mark key="]" line="19" column="47" />
         <mark key="^" line="19" column="47" />
         <mark key="." line="19" column="47" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.puml" timestamp="1538365034342">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_money.rb" timestamp="1539055364611">
         <mark key="'" line="29" column="4" />
@@ -1231,44 +1225,44 @@
       <jump line="5" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_gold_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2VsZltjb3VudF9jb2x1bW5zXSArPSBjb3VudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb252ZXJ0ZWRfY2hhcmdlX2NvdW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>(scene_id, reason_id, old_count, free_count, converted_free_count, converted_charge_count)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmWzpjb252ZXJ0ZWRfZnJlZV9jb3VudF0gKz0gZnJlZV9jb3VudAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZltjb3VudF9jb2x1bW5zXSArPSBjb3VudAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY291bnRfY29sdW1ucyA9IHJlYXNvbl9pZCA9PSBSZWFzb25JRDo6TW9uZXlVc2U6OkZSRUUgPyA6Y29udmVydGVkX2ZyZWVfY291bnQgOiA6Y29udmVydGVkX2NoYXJnZV9jb3VudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBVc2VyR29sZEhpc3Rvcnkuc2hhcmRfZm9yKHNlbGYudXNlcl9pZCkuY3JlYXRlISgKICAgICAgdXNlcl9pZDogc2VsZi51c2VyX2lkLAogICAgICBhY3Rpb25fdHlwZTogVXNlckdvbGRIaXN0b3J5OjpBY3Rpb25UeXBlOjpBRERJVElPTiwKICAgICAgc2NlbmVfaWQ6IHNjZW5lX2lkLAogICAgICByZWFzb25faWQ6IHJlYXNvbl9pZCwKICAgICAgb2xkX2NvdW50OiBvbGRfY291bnQsCiAgICAgIG5ld19jb3VudDogc2VsZi50b3RhbF9jb3VudCwKICAgICAgZnJlZV9jb3VudDogZnJlZV9jb3VudCwKICAgICAgY29udmVydGVkX2ZyZWVfY291bnQ6IGNvbnZlcnRlZF9mcmVlX2NvdW50LAogICAgICBjb252ZXJ0ZWRfY2hhcmdlX2NvdW50OiBjb252ZXJ0ZWRfY2hhcmdlX2NvdW50CiAgICAp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBlbmQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvdW50X2NvbHVtbnMuZWFjaCB7IHxjb2x1bW58IHNlbGZbY29sdW1uXSArPSBjb3VudCB9CiAgICBzZWxmLnNhdmUhIGlmIHNlbGYuY2hhbmdlZD8K</text>
+        <text encoding="base64">CiAgZGVmIF91cGRhdGVfc2NlbmVfbW9uZXlfdXNlIShjb3VudCwgcmVhc29uX2lkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvdW50X2NvbHVtbnMgPSBbOmZyZWVfY291bnQsIDphY2N1bXVsYXRlZF9mcmVlX2NvdW50XQo=</text>
+        <text encoding="base64">ICBkZWYgX3VwZGF0ZSEoY291bnQsIHJlYXNvbl9pZCkKICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgX3VwZGF0ZV9zY2VuZV9tb25leV91c2UhKGNvdW50LCByZWFzb25faWQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgX3VwZGF0ZV9zY2VuZV9tb25leV91c2UhKGNvdW50LCByZWFzb25faWQpCiAgICAgIGNvdW50X2NvbHVtbnMgPSByZWFzb25faWQgPT0gUmVhc29uSUQ6Ok1vbmV5VXNlOjpGUkVFID8gOmNvbnZlcnRlZF9mcmVlX2NvdW50IDogOmNvbnZlcnRlZF9jaGFyZ2VfY291bnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
