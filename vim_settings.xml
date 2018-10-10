@@ -695,6 +695,9 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/sales_event_group.md" timestamp="1539144942154">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1538707821532">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="0" column="0" />
@@ -722,11 +725,12 @@
         <mark key="." line="65" column="28" />
         <mark key="^" line="65" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_container.rb" timestamp="1539142168529">
-        <mark key="[" line="7" column="44" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_container.rb" timestamp="1539145231923">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="16" column="65" />
+        <mark key="]" line="16" column="65" />
+        <mark key="." line="16" column="65" />
+        <mark key="^" line="16" column="65" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" timestamp="1535975456135">
         <mark key="'" line="2" column="19" />
@@ -1157,9 +1161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/acquired_char_distributor.rb" />
-      <jump line="129" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
-      <jump line="8" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/acquired_char_manager.rb" />
       <jump line="4" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/acquired_char_manager_spec.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/chars_schema.rb" />
       <jump line="51" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char.rb" />
@@ -1257,10 +1258,13 @@
       <jump line="6" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/gacha_controller.rb" />
       <jump line="43" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/acquired_char_manager.rb" />
       <jump line="80" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char.rb" />
+      <jump line="8" column="1" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_container.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/sales_event_group.md" />
+      <jump line="5" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_container.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFVzZXJNaXNzaW9uLmNoZWNrX2FuZF9hY2hpZXZlIShAdXNlci5pZCwgW01pc3Npb25Db25kaXRpb25UeXBlOjpDT1VOVF9PRl9HT1RfQ0hBUiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1pc3Npb25Db25kaXRpb25UeXBlOjpDT1VOVF9PRl9HT1RfSE9QRV9DSEFSLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWlzc2lvbkNvbmRpdGlvblR5cGU6OkNPVU5UX09GX0dPVF9GVVRVUkVfQ0hBUiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1pc3Npb25Db25kaXRpb25UeXBlOjpDT1VOVF9PRl9HT1RfRFJFQU1fQ0hBUl0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>@converted_char_ids</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1268,35 +1272,35 @@
       <register name="/" type="4">
         <text>char_converted_info</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFVzZXJNaXNzaW9uLmNoZWNrX2FuZF9hY2hpZXZlIShAdXNlci5pZCwgW01pc3Npb25Db25kaXRpb25UeXBlOjpDT1VOVF9PRl9HT1RfQ0hBUiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1pc3Npb25Db25kaXRpb25UeXBlOjpDT1VOVF9PRl9HT1RfSE9QRV9DSEFSLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTWlzc2lvbkNvbmRpdGlvblR5cGU6OkNPVU5UX09GX0dPVF9GVVRVUkVfQ0hBUiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1pc3Npb25Db25kaXRpb25UeXBlOjpDT1VOVF9PRl9HT1RfRFJFQU1fQ0hBUl0pCg==</text>
+      <register name="0" type="4">
+        <text>@converted_char_ids</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgc2V0X2FjcXVpcmVkX2NoYXJfbWFuYWdlcih1c2VyKQogICAgQGFjcXVpcmVkX2NoYXJfbWFuYWdlciB8fD0gQWNxdWlyZWRDaGFyTWFuYWdlci5uZXcodXNlcikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWxlZ2F0ZSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAKICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBlbmQK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgc2V0X2FjcXVpcmVkX2NoYXJfbWFuYWdlcih1c2VyKQogICAgQGFjcXVpcmVkX2NoYXJfbWFuYWdlciB8fD0gQWNxdWlyZWRDaGFyTWFuYWdlci5uZXcodXNlcikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkZWxlZ2F0ZSAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAKICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgYWNxdWlyZWRfY2hhcl9tYW5hbmdlcgogICAgQGFjcXVpcmVkX2NoYXJfbWFuYWdlcgo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgYWNxdWlyZWRfY2hhcl9tYW5hbmdlcgogICAgQGFjcXVpcmVkX2NoYXJfbWFuYWdlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
