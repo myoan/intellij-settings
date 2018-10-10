@@ -543,12 +543,8 @@
         <mark key="." line="63" column="44" />
         <mark key="^" line="63" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/acquired_char_manager.rb" timestamp="1539137417585">
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="10" column="20" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/acquired_char_manager.rb" timestamp="1539138014273">
+        <mark key="'" line="29" column="46" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/sales_event_groups_schema.rb" timestamp="1535457011876">
         <mark key="'" line="15" column="0" />
@@ -1077,7 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="12" column="7" filename="$USER_HOME$/dev/src/github.com/myoan/item_container/test/user_char_container_test.rb" />
       <jump line="6" column="12" filename="$USER_HOME$/dev/src/github.com/myoan/item_container/test/user_char_container_test.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/item_container/test/user_char_container_test.rb" />
@@ -1177,46 +1172,47 @@
       <jump line="29" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/acquired_char_manager.rb" />
       <jump line="26" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/acquired_char_manager.rb" />
       <jump line="11" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/acquired_char_manager.rb" />
+      <jump line="30" column="46" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/acquired_char_manager.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBjb252ZXJ0ZWRfaXRlbXMgPSBbXQogICAgQGNvbXBhbnlfZXhwZXJpZW5jZSA9IDAK</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>@user_char</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAjICAgQGNvbnZlcnRlZF9pdGVtcyA9IFtdCiAgIyAgIEBjb21wYW55X2V4cGVyaWVuY2UgPSAwCg==</text>
+        <text encoding="base64">ICAgIEBjb252ZXJ0ZWRfaXRlbXMgKz0gQXJyYXkubmV3KGNvdW50KSB7IGNoYXJzLmZpcnN0LmNvbnZlcnRfdG9faXRlbShmYWxzZSkgfQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIEB1c2VyX2NoYXJzID0gdXNlci51c2VyX2NoYXJzCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIEBjb252ZXJ0ZWRfaXRlbXMgPSBbXQogICAgQGNvbXBhbnlfZXhwZXJpZW5jZSA9IDAK</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
-      </register>
       <register name="3" type="8">
-        <text encoding="base64">IyAgIAojICAg</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
+        <text encoding="base64">IyAgIAojICAg</text>
       </register>
       <register name="5" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
+      </register>
+      <register name="6" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIGNvbnRleHQgInNhbXBsZSIgZG8KICAgICAgaXQgZG8KICAgICAgICBvYmouYWRkX2l0ZW0oW10pCiAgICAgICAgb2JqLnNob3cKICAgICAgZW5kCiAgICBlbmQ=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1dHMgImFkZF9pdGVtIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
