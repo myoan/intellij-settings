@@ -1178,12 +1178,12 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_storage.rb" timestamp="1539248046974">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_storage.rb" timestamp="1539249072031">
         <mark key="'" line="11" column="17" />
-        <mark key="[" line="22" column="54" />
-        <mark key="]" line="22" column="58" />
-        <mark key="^" line="22" column="58" />
-        <mark key="." line="22" column="58" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="22" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -1290,10 +1290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -1329,7 +1329,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1383,8 +1383,8 @@
         <entry>201</entry>
         <entry>117</entry>
         <entry>142</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
