@@ -90,13 +90,6 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.rb" timestamp="1539765811302">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/output/enum.rb" timestamp="1533351215309">
         <mark key="'" line="33" column="31" />
         <mark key="[" line="32" column="0" />
@@ -386,12 +379,11 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/nginx/tasks/main.yml" timestamp="1535713774956">
         <mark key="'" line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_player_spec.rb" timestamp="1540190507156">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="8" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_player_spec.rb" timestamp="1540195064882">
+        <mark key="'" line="7" column="2" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/scheduler.rb" timestamp="1534471182973">
         <mark key="'" line="7" column="0" />
@@ -1536,11 +1528,11 @@
       <jump line="8" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_player_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBrawo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>regist</text>
@@ -1549,31 +1541,31 @@
         <text encoding="base64">ICAgICAgaXQgImFkZHMgZ29sZCIgZG8KICAgICAgICB1c2VyID0gVXNlci5zaWdudXAodXVpZCwgbmFtZSkKICAgICAgICBleHBlY3QodXNlci50b3RhbF9nb2xkKS50byBlcSBVc2VyOjpHb2xkOjpDT1VOVF9PRl9TSUdOVVAKICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHJ1ZS5zaG91bGQgPT0gZmFsc2UK</text>
+        <text encoding="base64">ICBrawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBpdCAnc2hvdWxkIGRvIHNvbWV0aGluZycgZG8KCiAgICB0cnVlLnNob3VsZCA9PSBmYWxzZQogIGVuZAplbmQ=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVzY3JpYmUgJ015IGJlaGF2aW91cicgZG8K</text>
+        <text encoding="base64">ICAgIGVuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSAncnNwZWMnCg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgICAgdHJ1ZS5zaG91bGQgPT0gZmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
