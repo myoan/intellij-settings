@@ -460,12 +460,6 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/pickup_gacha_item_converter.rb" timestamp="1539675969686">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rugged-0.27.4/lib/rugged/index.rb" timestamp="1538554851803">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -538,11 +532,12 @@
         <mark key="." line="65" column="56" />
         <mark key="^" line="63" column="112" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/user_controller.rb" timestamp="1539763654574">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/user_controller.rb" timestamp="1540202330031">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group_appearance_manager.rb" timestamp="1539767277225">
         <mark key="[" line="11" column="87" />
@@ -599,11 +594,11 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group_condition_floor.rb" timestamp="1540186477707">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="2" />
-        <mark key="." line="16" column="0" />
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/sales_event_group_condition_missions_schema.rb" timestamp="1539743822345">
         <mark key="'" line="9" column="0" />
@@ -662,12 +657,6 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition.rb" timestamp="1539768887045">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="19" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/sales_event_group_condition_floor.rb" timestamp="1539309194095">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="44" />
@@ -702,7 +691,7 @@
         <mark key="." line="4" column="104" />
         <mark key="^" line="4" column="104" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540175100275">
+      <file name="/Dummy.txt" timestamp="1540202071926">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -782,6 +771,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/rails_helper.rb" timestamp="1540202804621">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/activerecord-sharding/.ruby-version" timestamp="1540178310782">
         <mark key="[" line="0" column="2" />
@@ -889,8 +883,13 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1540186526879">
-        <mark key="'" line="59" column="2" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1540200548488">
+        <mark key="'" line="30" column="17" />
+        <mark key="[" line="30" column="34" />
+        <mark key="]" line="30" column="37" />
+        <mark key="^" line="30" column="37" />
+        <mark key="." line="30" column="37" />
+        <mark key="n" line="30" column="17" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/sales_event_group.md" timestamp="1539144942154">
         <mark key="'" line="0" column="0" />
@@ -901,12 +900,6 @@
         <mark key="]" line="4" column="38" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/sales_event_group_condition_battle_status_continuous_counters_schema.rb" timestamp="1539743817501">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="27" />
-        <mark key="^" line="9" column="92" />
-        <mark key="." line="9" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.rb" timestamp="1533302318829">
         <mark key="'" line="5" column="15" />
@@ -929,6 +922,13 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="17" column="63" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/macaron/time_traveler_spec.rb" timestamp="1540201913529">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" timestamp="1535975456135">
         <mark key="'" line="2" column="19" />
         <mark key="[" line="17" column="29" />
@@ -943,12 +943,13 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1540182396344">
-        <mark key="'" line="57" column="20" />
-        <mark key="[" line="60" column="59" />
-        <mark key="]" line="60" column="59" />
-        <mark key="." line="60" column="59" />
-        <mark key="^" line="60" column="59" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1540204044829">
+        <mark key="'" line="116" column="20" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="70" column="7" />
+        <mark key="n" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user_purchase.rb" timestamp="1534745570090">
         <mark key="'" line="0" column="0" />
@@ -959,12 +960,6 @@
         <mark key="]" line="19" column="47" />
         <mark key="^" line="19" column="47" />
         <mark key="." line="19" column="47" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/pickup_gacha_item_distributor.rb" timestamp="1539774659427">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_money.rb" timestamp="1539135695524">
         <mark key="'" line="37" column="50" />
@@ -1123,12 +1118,6 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="22" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/class_gacha_item_distributor.rb" timestamp="1539774652364">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/base_item_distributor.rb" timestamp="1540172945564">
         <mark key="'" line="69" column="3" />
         <mark key="[" line="22" column="0" />
@@ -1202,12 +1191,6 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/special_point.rb" timestamp="1539763708798">
         <mark key="'" line="13" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/class_gacha_item_converter.rb" timestamp="1539675967254">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" timestamp="1539767098760">
         <mark key="'" line="15" column="4" />
@@ -1352,11 +1335,11 @@
         <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" timestamp="1540184702194">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="50" column="22" />
-        <mark key="." line="50" column="22" />
-        <mark key="^" line="50" column="22" />
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="22" />
+        <mark key="." line="49" column="22" />
+        <mark key="^" line="49" column="22" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/labo_controller.rb" timestamp="1538708664002">
         <mark key="'" line="26" column="0" />
@@ -1476,15 +1459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="25" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/base_item_distributor_spec.rb" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/user_controller.rb" />
-      <jump line="13" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/user_controller.rb" />
-      <jump line="71" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
-      <jump line="104" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event.rb" />
-      <jump line="37" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" />
-      <jump line="297" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" />
-      <jump line="122" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
-      <jump line="54" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="28" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="195" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="79" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
@@ -1576,55 +1550,64 @@
       <jump line="0" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/data/dc/enum/floor_type_pb.rb" />
       <jump line="8" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_player_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/routes.rb" />
+      <jump line="31" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="436" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="431" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="24" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/macaron/time_traveler_spec.rb" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/macaron/time_traveler_spec.rb" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="70" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="116" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>regist</text>
+        <text encoding="base64">XDx1cGRhdGVfbG9naW5fYXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsZXQoOnVzZXIpIHsgY3JlYXRlX25ld191c2VyKHdpdGhfZ2FjaGFfbXV0ZXg6IHRydWUpIH0K</text>
+        <text encoding="base64">ICAgICMgTWFjYXJvbjo6TmVzdGVkVHJhbnNhY3Rpb24ubmV3KFVzZXIsIFVzZXJNaXNzaW9uLCBVc2VyQ29tcGFueUhpc3RvcnksIFVzZXJHb2xkLCBVc2VyR29sZEhpc3RvcnksIFVzZXJDaGFyVGVhbVJlY29yZDo6V2Vla2x5SGlnaFNjb3JlLCBVc2VyU2FsZXNFdmVudEdyb3VwLCBVc2VyTWFpbCkuc2hhcmRfZm9yKHNlbGYuaWQpIGRvCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBrawo=</text>
+        <text encoding="base64">ICAgIFVzZXIuc2hhcmRfZm9yKHNlbGYuaWQpLnRyYW5zYWN0aW9uIGRvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgVXNlclN0YWdlRXZlbnQuc2hhcmRfZm9yKHNlbGYuaWQpLnRyYW5zYWN0aW9uIGRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEpCg==</text>
+        <text encoding="base64">ICAgIFVzZXIuc2hhcmRfZm9yKHNlbGYuaWQpLnRyYW5zYWN0aW9uIGRvCiAgICAgIFVzZXJTdGFnZUV2ZW50LnNoYXJkX2ZvcihzZWxmLmlkKS50cmFuc2FjdGlvbiBkbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuCg==</text>
+        <text encoding="base64">ICAgICAgIyBleGVjdXRlX2ZpcnN0X2xvZ2luX3Rhc2sgaWYgZmlyc3RfbG9naW5fb2ZfZGF5Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>44</text>
       </register>
     </registers>
     <search>
-      <last-search>regist</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVfbG9naW5fYXRcPg==</last-search>
       <last-offset />
-      <last-pattern>regist</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVfbG9naW5fYXRcPg==</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1632,9 +1615,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTl9QUk9HUkVTU1w+</entry>
-        <entry encoding="base64">XDxTVEFSVEVEXD4=</entry>
-        <entry>draw</entry>
         <entry encoding="base64">XDxleGVjdXRlX2ZpcnN0X2xvZ2luX3Rhc2tcPg==</entry>
         <entry encoding="base64">XDxoaWRlX3VudGlsX25leHRfYXByaWxcPg==</entry>
         <entry encoding="base64">XDxoaWRkZW5fdGVybVw+</entry>
@@ -1652,9 +1632,11 @@
         <entry>Condition</entry>
         <entry>CharCondition</entry>
         <entry>regist</entry>
+        <entry encoding="base64">XDxjb25zdW1lX2l0ZW1fZm9yX2dhY2hhXD4=</entry>
+        <entry encoding="base64">XDxjb25zdW1lX2Zlc190aWNrZXRcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVfbG9naW5fYXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/plandata/plandata.git/g</entry>
         <entry>ew</entry>
         <entry>we</entry>
         <entry>13</entry>
@@ -1674,6 +1656,7 @@
         <entry>53</entry>
         <entry encoding="base64">cSAg</entry>
         <entry>w</entry>
+        <entry>44</entry>
       </history-cmd>
       <history-expr />
       <history-input />
