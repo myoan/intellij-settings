@@ -10,6 +10,7 @@
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="EditorPageDown" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl b" />
   </action>
