@@ -1367,8 +1367,8 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" timestamp="1540184702194">
-        <mark key="'" line="53" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" timestamp="1540263278376">
+        <mark key="'" line="36" column="6" />
         <mark key="[" line="50" column="15" />
         <mark key="]" line="50" column="22" />
         <mark key="." line="50" column="22" />
@@ -1492,7 +1492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
       <jump line="131" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="81" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/user_controller.rb" />
@@ -1592,6 +1591,7 @@
       <jump line="21" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_consume_item.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/fes_ticket.rb" />
       <jump line="4" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/fes_ticket.rb" />
+      <jump line="36" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1601,7 +1601,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdW1lX2Zlc190aWNrZXRcPg==</text>
+        <text encoding="base64">XDxjYWxjX3Byb2JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsZXQoOnVzZXIpIHsgY3JlYXRlX25ld191c2VyKHdpdGhfZmVzX3RpY2tldDogdHJ1ZSkgfQo=</text>
@@ -1638,9 +1638,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdW1lX2Zlc190aWNrZXRcPg==</last-search>
+      <last-search encoding="base64">XDxjYWxjX3Byb2JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdW1lX2Zlc190aWNrZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjX3Byb2JcPg==</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1648,7 +1648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hideable</entry>
         <entry encoding="base64">XDxlbmFibGVfaGlkZV9vcHRpb25cPg==</entry>
         <entry>hid</entry>
         <entry encoding="base64">XDxsb29wYWJsZVw+</entry>
@@ -1668,6 +1667,7 @@
         <entry encoding="base64">XDxnYWNoYV9jb25zdW1lX2l0ZW1zXD4=</entry>
         <entry>consume</entry>
         <entry encoding="base64">XDxjb25zdW1lX2Zlc190aWNrZXRcPg==</entry>
+        <entry encoding="base64">XDxjYWxjX3Byb2JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
