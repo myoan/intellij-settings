@@ -52,10 +52,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="22" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" timestamp="1540258446378">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" timestamp="1540261286221">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pronto-0.9.5/bin/pronto" timestamp="1538463345685">
         <mark key="[" line="5" column="0" />
@@ -268,8 +269,8 @@
         <mark key="." line="40" column="15" />
         <mark key="^" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/fes_ticket.rb" timestamp="1540205327962">
-        <mark key="'" line="19" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/fes_ticket.rb" timestamp="1540261039168">
+        <mark key="'" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/sudoku/sample/sample1.txt" timestamp="1534766087367">
         <mark key="'" line="7" column="0" />
@@ -1487,7 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="8" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/hidden_term_calcurator_spec.rb" />
       <jump line="57" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
       <jump line="131" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
@@ -1587,13 +1587,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_item_consumer_spec.rb" />
       <jump line="438" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_consume_item.rb" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/fes_ticket.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBsZXQoOnVzZXIpIHsgY3JlYXRlX25ld191c2VyKHdpdGhfZmVzX3RpY2tldDogdHJ1ZSkgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdW1lX2Zlc190aWNrZXRcPg==</text>
@@ -1602,31 +1603,31 @@
         <text encoding="base64">ICBsZXQoOnVzZXIpIHsgY3JlYXRlX25ld191c2VyKHdpdGhfZmVzX3RpY2tldDogdHJ1ZSkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlclRpY2tldFNwZWMKZW5kCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbgo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgIiIgZG8KICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gKOe2mee2mikgW0RPIE5PVCBNRVJHRV3osqDojbfoqabpqJPnlKjjg5bjg6njg7Pjg4EK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gKOe2mee2mikgUnVieSAyLjUuMwo=</text>
+        <text encoding="base64">Y2xhc3MgVXNlclRpY2tldFNwZWMKZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gKOe2mee2mikg44K/44Kk44Og44OI44Op44OZ44Or5b6M44Gu44K744OD44K344On44Oz44Ko44Op44O85L+u5q2jCg==</text>
+        <text encoding="base64">ICBlbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gKOe2mee2mikgW0RPIE5PVCBNRVJHRV3osqDojbfoqabpqJPnlKjjg5bjg6njg7Pjg4EK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gKOe2mee2mikg44Oi44OH44Or5pWweOOCt+ODo+ODvOODieaVsHh1bmljb3Ju44OX44Ot44K744K55pWw44GuZXN0YWJsaXNoX2Nvbm5lY3Rpb27jgYzosrzjgonjgozjgabjgZfjgb7jgYYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
