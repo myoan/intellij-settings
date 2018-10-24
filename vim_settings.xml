@@ -1217,8 +1217,8 @@
         <mark key="^" line="73" column="30" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" timestamp="1536926914038">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" timestamp="1540367805324">
+        <mark key="'" line="285" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/sudoku/spec/sudoku/data_validator_spec.rb" timestamp="1534765391737">
         <mark key="'" line="24" column="32" />
@@ -1381,6 +1381,13 @@
         <mark key="]" line="161" column="15" />
         <mark key="." line="161" column="15" />
         <mark key="^" line="161" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" timestamp="1540367979366">
+        <mark key="'" line="1840" column="21" />
+        <mark key="[" line="679" column="4" />
+        <mark key="]" line="679" column="5" />
+        <mark key="^" line="679" column="5" />
+        <mark key="." line="679" column="5" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/special_attack.rb" timestamp="1534316574040">
         <mark key="'" line="0" column="0" />
@@ -1560,21 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
-      <jump line="76" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
-      <jump line="31" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_ticket.rb" />
-      <jump line="16" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_ticket.rb" />
-      <jump line="37" column="25" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
-      <jump line="36" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
-      <jump line="32" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
-      <jump line="18" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_ticket.rb" />
-      <jump line="40" column="1" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
-      <jump line="48" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
-      <jump line="53" column="39" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
-      <jump line="50" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
-      <jump line="43" column="43" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
       <jump line="62" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
       <jump line="64" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
       <jump line="36" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
@@ -1660,6 +1652,21 @@
       <jump line="29" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/routes.rb" />
       <jump line="72" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_gold.rb" />
       <jump line="435" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="173" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" />
+      <jump line="285" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" />
+      <jump line="800" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="810" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="22" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="650" column="97" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="845" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="134" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="692" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="695" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="693" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="679" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="1812" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
+      <jump line="1840" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1669,7 +1676,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdW1lX2l0ZW1fZm9yX2dhY2hhXD4=</text>
+        <text encoding="base64">XDxnZXRfdXNlcl9tb25leV9vYmpcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWRkX2NoYXJzKHVzZXIsIHRha2VuX2l0ZW1zICsgZ2FjaGFfZ2lmdF9hc19pdGVtcykK</text>
@@ -1706,9 +1713,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdW1lX2l0ZW1fZm9yX2dhY2hhXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRfdXNlcl9tb25leV9vYmpcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdW1lX2l0ZW1fZm9yX2dhY2hhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfdXNlcl9tb25leV9vYmpcPg==</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1716,10 +1723,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXh0X2hpZGRlbl9tb250aFw+</entry>
-        <entry>Condition</entry>
-        <entry>CharCondition</entry>
-        <entry>regist</entry>
         <entry encoding="base64">XDx1cGRhdGVfbG9naW5fYXRcPg==</entry>
         <entry>item</entry>
         <entry encoding="base64">XDxnYWNoYV9jb25zdW1lX2l0ZW1zXD4=</entry>
@@ -1736,6 +1739,10 @@
         <entry encoding="base64">XDx1c2VyX2dhY2hhX2NoYXJfZ3JvdXBfaGFzaFw+</entry>
         <entry encoding="base64">XDx1c2VyX2dhY2hhX2NoYXJfZ3JvdXBcPg==</entry>
         <entry encoding="base64">XDxjb25zdW1lX2l0ZW1fZm9yX2dhY2hhXD4=</entry>
+        <entry>login</entry>
+        <entry>from_own</entry>
+        <entry>money</entry>
+        <entry encoding="base64">XDxnZXRfdXNlcl9tb25leV9vYmpcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
