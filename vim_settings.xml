@@ -197,6 +197,9 @@
         <mark key="." line="119" column="45" />
         <mark key="^" line="119" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/robot.rb" timestamp="1540438890784">
+        <mark key="'" line="144" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_converted_info.rb" timestamp="1539590214627">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="1" column="50" />
@@ -1403,6 +1406,9 @@
         <mark key="^" line="679" column="5" />
         <mark key="." line="679" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/handler/common.rb" timestamp="1540438852203">
+        <mark key="'" line="87" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/special_attack.rb" timestamp="1534316574040">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1604,13 +1610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
-      <jump line="256" column="29" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
-      <jump line="44" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_gold.rb" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_gold_spec.rb" />
-      <jump line="96" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_gold_spec.rb" />
-      <jump line="21" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_gold_spec.rb" />
-      <jump line="98" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_gold_spec.rb" />
       <jump line="55" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/base_item_distributor.rb" />
       <jump line="24" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
       <jump line="29" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
@@ -1704,6 +1703,13 @@
       <jump line="41" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/unstable.rb" />
       <jump line="85" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/unstable.rb" />
       <jump line="20" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/dev_scene.rb" />
+      <jump line="202" column="10" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/handler/common.rb" />
+      <jump line="87" column="38" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/handler/common.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/robot.rb" />
+      <jump line="53" column="79" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/robot.rb" />
+      <jump line="121" column="8" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/robot.rb" />
+      <jump line="133" column="8" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/robot.rb" />
+      <jump line="144" column="6" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/robot.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1713,7 +1719,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>to_proto</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC0gcmVkaXM6Ly9kYy1kZXYueW9jaHcwLm5nLjAwMDEuYXBuZTEuY2FjaGUuYW1hem9uYXdzLmNvbTo2Mzc5LzAK</text>
@@ -1750,9 +1756,9 @@
       </register>
     </registers>
     <search>
-      <last-search>to_proto</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>to_proto</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1760,8 +1766,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnYWNoYV9jb25zdW1lX2l0ZW1zXD4=</entry>
-        <entry>consume</entry>
         <entry encoding="base64">XDxjb25zdW1lX2Zlc190aWNrZXRcPg==</entry>
         <entry encoding="base64">XDxjYWxjX3Byb2JcPg==</entry>
         <entry>user_ticket</entry>
@@ -1780,6 +1784,8 @@
         <entry encoding="base64">XDxnZXRfdXNlcl9tb25leV9vYmpcPg==</entry>
         <entry>lita</entry>
         <entry>to_proto</entry>
+        <entry encoding="base64">XDxyZWRpc19uYW1lc3BhY2VcPg==</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>340</entry>
