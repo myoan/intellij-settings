@@ -180,8 +180,11 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" timestamp="1540451702897">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" timestamp="1540522795538">
         <mark key="'" line="9" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer4.rb" timestamp="1537956682079">
         <mark key="'" line="9" column="6" />
@@ -234,10 +237,11 @@
         <mark key="^" line="65" column="78" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/docker-compose.yml" timestamp="1540520502270">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/docker-compose.yml" timestamp="1540522978631">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="76" />
+        <mark key="." line="6" column="76" />
+        <mark key="^" line="6" column="76" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/sales_event_group_condition_mission.rb" timestamp="1537253255929">
         <mark key="[" line="1" column="11" />
@@ -448,9 +452,6 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config_local.rb" timestamp="1540519087488">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/application_controller.rb" timestamp="1536803425821">
         <mark key="'" line="0" column="6" />
       </file>
@@ -538,6 +539,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="17" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/scene_reserve.rb" timestamp="1540384037172">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
       </file>
       <file name="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rugged-0.27.4/lib/rugged/index.rb" timestamp="1538554851803">
         <mark key="[" line="109" column="0" />
@@ -1115,11 +1122,10 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/kick_client_jenkins.rb" timestamp="1540384975186">
         <mark key="'" line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/bot.yml" timestamp="1540520602586">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="4" column="6" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/bot.yml" timestamp="1540521630656">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/amazon_app_store.rb" timestamp="1534745617490">
         <mark key="'" line="69" column="10" />
@@ -1370,8 +1376,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/nested_transaction.rb" timestamp="1540205185232">
         <mark key="'" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config.rb" timestamp="1540519193110">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config.rb" timestamp="1540523536954">
+        <mark key="'" line="1" column="2" />
         <mark key="[" line="6" column="86" />
         <mark key="]" line="6" column="87" />
         <mark key="^" line="6" column="87" />
@@ -1651,9 +1657,9 @@
         <mark key="^" line="30" column="21" />
         <mark key="." line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/redis.yml" timestamp="1540518459198">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/redis.yml" timestamp="1540523528288">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="68" />
+        <mark key="]" line="9" column="67" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/docker-compose.yml" timestamp="1534760230097">
         <mark key="'" line="7" column="4" />
@@ -1684,8 +1690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="810" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
       <jump line="22" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
       <jump line="650" column="97" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
       <jump line="845" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" />
@@ -1763,7 +1767,6 @@
       <jump line="7" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" />
       <jump line="10" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config_local.rb" />
       <jump line="12" column="1" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config_local.rb" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config_local.rb" />
@@ -1778,52 +1781,55 @@
       <jump line="18" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/dev_scene_spec.rb" />
       <jump line="6" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config.rb" />
       <jump line="2" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/connected.rb" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config_local.rb" />
       <jump line="26" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/dev_scene_spec.rb" />
       <jump line="22" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/dev_scene_spec.rb" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/dev_scene_spec.rb" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/README.md" />
+      <jump line="1" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF3c2xvZ3MtcmVnaW9uOiAiYXAtbm9ydGhlYXN0LTEiCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICBjb250ZXh0ICJ3aGVuIHNlbGVjdGVkIHNjZW5lIGlzIGxvY2tlZCIgZG8KICAgICAgYmVmb3JlIGRvCiAgICAgICAgc2VuZF9tZXNzYWdlKCJsb2NrIHNjZW5lIGhvZ2UiLCBhczogYWxpY2UpCiAgICAgIGVuZAoKICAgICAgaXQgInJlcGxpZXMiIGRvCiAgICAgICAgc2VuZF9tZXNzYWdlKCJsb2NrIHNjZW5lIGhvZ2UiLCBhczogYm9iKQogICAgICAgIGV4cGVjdChyZXBsaWVzLmxhc3QpLnRvIGVxKCJgaG9nZWAg44GvIEBBbGljZSDjgZXjgpPjgYzliKnnlKjjgZfjgabjgYTjgb7jgZkiKQogICAgICBlbmQKICAgIGVuZA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICByZWRpczovL2RjLWRldi55b2NodzAubmcuMDAwMS5hcG5lMS5jYWNoZS5hbWF6b25hd3MuY29tOjYzNzkvMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF3c2xvZ3MtcmVnaW9uOiAiYXAtbm9ydGhlYXN0LTEiCg==</text>
+        <text encoding="base64">ICAjIGNvbmZpZy5yZWRpc1s6aG9zdF0gPSAiMTI3LjAuMC4xIgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVkaXM6CiAgaW1hZ2U6IHJlZGlzOmxhdGVzdAo=</text>
+        <text encoding="base64">IyBBREQgLiAvbGl0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBERCBHZW1maWxlLmxvY2sgL2xpdGEvR2VtZmlsZS5sb2NrCiMgVU4gYnVuZGxlIGluc3RhbGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gcmVkaXMK</text>
+        <text encoding="base64">IyBPUktESVIgL2xpdGEKIyBERCBHZW1maWxlIC9saXRhL0dlbWZpbGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgogICAgICAtIHJlZGlzCg==</text>
+        <text encoding="base64">CiMgVU4gbWtkaXIgL2xpdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGltYWdlOiByZWRpczpsYXRlc3QK</text>
+        <text encoding="base64">IyAmJiBhcHQtZ2V0IGNsZWFuCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyYmIGFwdC1nZXQgdXBncmFkZSAteSBcCiMgJiYgYXB0LWdldCBpbnN0YWxsIC15IGJ1aWxkLWVzc2VudGlhbCBcCg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICBjb250ZXh0ICJ3aGVuIG90aGVyIHNjZW5lIGlzIHNlbGVjdGVkIiBkbwogICAgICBiZWZvcmUgZG8KICAgICAgICBzZW5kX21lc3NhZ2UoImxvY2sgc2NlbmUgaG9nZSIsIGFzOiBhbGljZSkKICAgICAgZW5kCgogICAgICBpdCAicmVwbGllcyIgZG8KICAgICAgICBzZW5kX21lc3NhZ2UoImxvY2sgc2NlbmUgaG9nZSIsIGFzOiBib2IpCiAgICAgICAgZXhwZWN0KHJlcGxpZXMubGFzdCkudG8gZXEoImBob2dlYCDjga8gQEFsaWNlIOOBleOCk+OBjOWIqeeUqOOBl+OBpuOBhOOBvuOBmSIpCiAgICAgIGVuZAogICAgZW5k</text>
+        <text encoding="base64">IFVOIGFwdC1nZXQgdXBkYXRlIFwKIyA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
