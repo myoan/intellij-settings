@@ -537,6 +537,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/scene_reserve.rb" timestamp="1540384037172">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/bin/build-rails.sh" timestamp="1540532391763">
         <mark key="'" line="25" column="86" />
       </file>
@@ -1030,20 +1036,21 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1540627447791">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="34" column="64" />
-        <mark key="." line="32" column="62" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1540629426966">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+        <mark key="^" line="44" column="24" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/sales_event_group.md" timestamp="1539144942154">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1540627421439">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1540629621400">
         <mark key="'" line="6" column="2" />
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.rb" timestamp="1533302318829">
         <mark key="'" line="5" column="15" />
@@ -1283,12 +1290,12 @@
       <file name="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/cli.rb" timestamp="1540531023750">
         <mark key="'" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/base_item_distributor.rb" timestamp="1540354970550">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="24" column="1" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/base_item_distributor.rb" timestamp="1540630177523">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/acquired_char_distributor_spec.rb" timestamp="1539673222199">
         <mark key="'" line="97" column="2" />
@@ -1633,10 +1640,6 @@
         <mark key="^" line="30" column="21" />
         <mark key="." line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/redis.yml" timestamp="1540528312352">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="67" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/docker-compose.yml" timestamp="1534760230097">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="7" column="10" />
@@ -1769,43 +1772,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>plandata</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSBhZGRfY2hhcnMK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGRpc3RyaWJ1dGVfaXRlbXMgPSBJdGVtLmRpc3RyaWJ1dGVfaXRlbXMoaXRlbXMpCiAgICBkaXN0cmlidXRlX2l0ZW1zLmVhY2ggZG8gfHR5cGUsIGl0ZW1fbGlzdHwKICAgICAgaWYgdHlwZSA9PSBJdGVtVHlwZTo6Q0hBUgogICAgICAgIHRha2VuX2NoYXJzKGl0ZW1fbGlzdCkuZ3JvdXBfYnkoJjppZCkuZWFjaCBkbyB8Y2hhcl9pZCwgY2hhcnN8CiAgICAgICAgICB0YWtlX2NoYXJfb3JfY29udmVydF9pdGVtKGNoYXJfaWQsIGNoYXJzKQogICAgICAgIGVuZAogICAgICBlbHNlCiAgICAgICAgQHVzZXIuYWRkX2l0ZW1zKGl0ZW1fbGlzdCkKICAgICAgZW5kCiAgICBlbmQ=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgICAKICAgICAgICAgIAogICAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZV9mb3JfcGxheQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgCnoK</text>
+        <text encoding="base64">ICBkZWYgZ2V0X2l0ZW0oKQogIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">OncK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVmIF91bmxvY2soKQogICAgICAgIAo=</text>
+        <text encoding="base64">Z29sZCAgIC0+IGNoYXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdXNlci5hZGQocmVzdWx0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJb1QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwIHRhcmdldF9uYW1lCiAgICAgICAgcCBzY2VuZXMK</text>
+        <text encoding="base64">ICAgIHRha2VuX2l0ZW1zIC5tYXAgeyB8Y2hhcl9pZHwgSXRlbS5uZXcoSXRlbVR5cGU6OkNIQVIsIGNoYXJfaWQsIDEsIFNjZW5lSUQ6OkdBQ0hBLCBzZWxmLmdhY2hhX3R5cGUpIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
