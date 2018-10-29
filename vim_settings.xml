@@ -1328,12 +1328,12 @@
       <file name="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/cli.rb" timestamp="1540531023750">
         <mark key="'" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/base_item_distributor.rb" timestamp="1540804349216">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/base_item_distributor.rb" timestamp="1540805057543">
         <mark key="'" line="22" column="4" />
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="24" column="68" />
-        <mark key="^" line="24" column="68" />
-        <mark key="." line="24" column="68" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/acquired_char_distributor_spec.rb" timestamp="1539673222199">
         <mark key="'" line="97" column="2" />
@@ -1811,11 +1811,11 @@
       <jump line="61" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/item.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdW1lX2Zlc190aWNrZXRcPg==</text>
@@ -1824,31 +1824,31 @@
         <text encoding="base64">ICAgICAgaWYgdHlwZSA9PSBJdGVtVHlwZTo6Q0hBUgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYXJfaWRzLmlkX2FuZF9jb3VudF9oYXNoLmVhY2ggZG8gfGNoYXJfaWQsIGNvdW50fAo=</text>
+        <text encoding="base64">ICBkZWYgZGlzdHJpYnV0ZSEKICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGFrZW5fY2hhcnMoaXRlbV9saXN0KS5ncm91cF9ieSgmOmlkKS5lYWNoIGRvIHxjaGFyX2lkLCBjaGFyc3wK</text>
+        <text encoding="base64">ICAgICAgbmV4dCB1bmxlc3MgdHlwZSA9PSBJdGVtVHlwZTo6Q0hBUgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZQogICAgICAgIHJldCArPSBBcnJheS5uZXcoY2hhcnMuY291bnQpIHsgY2hhcl9pZCB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICAKZWwKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgb3ZlcnN0b2NrX2NvdW50KGNvdW50KQogICAgY291bnQgLSByZW1haW5pbmdfc3RvcmFnZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyX2NoYXIub3ZlcnN0b2NrPyhjaGFycy5jb3VudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgb3ZlcnN0b2NrX2NvdW50KGNvdW50KQogIGVuZAo=</text>
+        <text encoding="base64">ICAgIGNoYXJfaWRzLmlkX2FuZF9jb3VudF9oYXNoLmVhY2ggZG8gfGNoYXJfaWQsIGNvdW50fAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
