@@ -117,12 +117,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" timestamp="1540777409694">
-        <mark key="'" line="75" column="4" />
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="26" />
-        <mark key="." line="38" column="26" />
-        <mark key="^" line="37" column="20" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" timestamp="1540780190032">
+        <mark key="'" line="28" column="2" />
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="51" column="65" />
+        <mark key="." line="51" column="65" />
+        <mark key="^" line="51" column="65" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_33.rb" timestamp="1538010023516">
         <mark key="[" line="9" column="10" />
@@ -340,11 +340,11 @@
         <mark key="." line="149" column="3" />
         <mark key="^" line="149" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/deposit_item.rb" timestamp="1540778120782">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="76" />
-        <mark key="^" line="21" column="76" />
-        <mark key="." line="21" column="76" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/deposit_item.rb" timestamp="1540780177807">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="38" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/helper.rb" timestamp="1540290849929">
         <mark key="[" line="57" column="113" />
@@ -917,8 +917,8 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1540777015159">
-        <mark key="'" line="66" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1540780010060">
+        <mark key="'" line="12" column="6" />
         <mark key="[" line="43" column="37" />
         <mark key="]" line="43" column="49" />
         <mark key="." line="43" column="49" />
@@ -979,6 +979,13 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1540780026919">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="34" />
+        <mark key="n" line="12" column="0" />
+        <mark key="." line="31" column="410" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/api/friend/delete_request.proto" timestamp="1536765997280">
         <mark key="'" line="19" column="47" />
@@ -1073,12 +1080,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_consume_item.rb" timestamp="1540777169120">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_consume_item.rb" timestamp="1540780254531">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
+        <mark key="[" line="24" column="63" />
+        <mark key="]" line="24" column="63" />
+        <mark key="." line="24" column="63" />
+        <mark key="^" line="24" column="63" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/docker-compose_local.yml" timestamp="1540454120160">
         <mark key="'" line="5" column="4" />
@@ -1473,15 +1480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/README.md" />
-      <jump line="1" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config.rb" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/docker/Dockerfile.rails" />
-      <jump line="66" column="4" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/cli.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/cli.rb" />
-      <jump line="72" column="15" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/cli.rb" />
       <jump line="141" column="23" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/cli.rb" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/cli.rb" />
       <jump line="64" column="21" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/configuration_builder.rb" />
@@ -1573,55 +1571,64 @@
       <jump line="29" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" />
       <jump line="75" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/item.rb" />
+      <jump line="43" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" />
+      <jump line="39" column="35" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" />
+      <jump line="59" column="29" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" />
+      <jump line="55" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" />
+      <jump line="63" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
+      <jump line="12" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="76" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" />
+      <jump line="28" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_consume_item_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>plandata</text>
+        <text encoding="base64">XDxnYWNoYV9jb25zdW1lX2l0ZW1zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZ29sZD8KICAgIGl0ZW1fdHlwZSA9PSBJdGVtVHlwZTo6R09MRAogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3ViamVjdC5maXJzdC5pdGVtX3R5cGUpLnRvIGVxIEl0ZW1UeXBlOjpHT0xECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGYuZnJlZV9jb3VudCAgID0gZnJlZV9jb3VudAogICAgc2VsZi5jaGFyZ2VfY291bnQgPSBjaGFyZ2VfY291bnQK</text>
+        <text encoding="base64">ICBjb3VudCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY291bnQgICAgICAgID0gY291bnQK</text>
+        <text encoding="base64">ICAgIGNvdW50IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKGl0ZW1fdHlwZSwgaXRlbV9pZCwgZnJlZV9jb3VudCArIGNoYXJnZV9jb3VudCwgc2NlbmVfaWQsIHJlYXNvbl9pZCkK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3ViamVjdC5maXJzdC5pdGVtX3R5cGUpLnRvIGVxIEl0ZW1UeXBlOjpHT0xECg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcm90b2J1Zl9jbGFzcyBEQzo6TW9kZWw6OkNvbW1vbjo6SXRlbQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">UlNwZWM6Ok1hdGNoZXJzLmRlZmluZSA6YmVfaXRlbSBkbyB8ZXhwZWN0ZWR8CiAgbWF0Y2ggZG8gfGFjdHVhbHwKICAgIFsKICAgICAgZXhwZWN0ZWQuaXRlbV90eXBlID09IGFjdHVhbC5pdGVtX3R5cGUsCiAgICAgIGV4cGVjdGVkLml0ZW1faWQgICA9PSBhY3R1YWwuaXRlbV9pZAogICAgXS5hbGw/CiAgZW5kCgogIGRlc2NyaXB0aW9uIGRvCiAgICAiYmUgaXRlbSAje2V4cGVjdGVkfSIKICBlbmQKZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIE1hY2Fyb246OlByb3RvYnVmOjpNb2RlbAogIHByb3RvYnVmX2F0dHJpYnV0ZXMgOml0ZW1faWQsIDppdGVtX3R5cGUsIDpjb3VudAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF0dHJfYWNjZXNzb3IgOml0ZW1fdHlwZSwgOml0ZW1faWQsIDpjb3VudCwgOnNjZW5lX2lkLCA6cmVhc29uX2lkCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkLmNvdW50ICAgICA9PSBhY3R1YWwuY291bnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gZnJlZV9jb3VudCArIGNoYXJnZV9jb3VudCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYucmVhc29uX2lkID0gcmVhc29uX2lkCg==</text>
+        <text encoding="base64">ICAgIFtdIGlmIGNvdW50Lgo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>plandata</last-search>
+      <last-search encoding="base64">XDxnYWNoYV9jb25zdW1lX2l0ZW1zXD4=</last-search>
       <last-offset />
-      <last-pattern>plandata</last-pattern>
+      <last-pattern encoding="base64">XDxnYWNoYV9jb25zdW1lX2l0ZW1zXD4=</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1629,8 +1636,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnYWNoYV9naWZ0X29wZXJhdGlvblw+</entry>
-        <entry encoding="base64">XDxpbmNyZW1lbnRfZ2FjaGFfcmVjb3JkXD4=</entry>
         <entry encoding="base64">XDxzYXZlX3VzZXJfZ2FjaGFfY2hhcl9ncm91cHNcPg==</entry>
         <entry encoding="base64">XDx1c2VyX2dhY2hhX2NoYXJfZ3JvdXBfaGFzaFw+</entry>
         <entry encoding="base64">XDx1c2VyX2dhY2hhX2NoYXJfZ3JvdXBcPg==</entry>
@@ -1649,6 +1654,8 @@
         <entry>redis</entry>
         <entry encoding="base64">XDxJTUFHRV9UQUdcPg==</entry>
         <entry>plandata</entry>
+        <entry>consume</entry>
+        <entry encoding="base64">XDxnYWNoYV9jb25zdW1lX2l0ZW1zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>117</entry>
@@ -1666,11 +1673,11 @@
         <entry>44</entry>
         <entry>1q</entry>
         <entry>wq</entry>
-        <entry>ws</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>ws</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
