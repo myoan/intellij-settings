@@ -1377,12 +1377,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/special_point.rb" timestamp="1539763708798">
         <mark key="'" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_storage_spec.rb" timestamp="1540977079818">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_storage_spec.rb" timestamp="1540978293054">
         <mark key="'" line="33" column="8" />
-        <mark key="[" line="0" column="47" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="50" />
-        <mark key="^" line="0" column="50" />
+        <mark key="[" line="160" column="50" />
+        <mark key="]" line="160" column="50" />
+        <mark key="." line="160" column="50" />
+        <mark key="^" line="160" column="50" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/nested_transaction.rb" timestamp="1540205185232">
         <mark key="'" line="8" column="8" />
@@ -1664,12 +1664,12 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_storage.rb" timestamp="1540977561029">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="55" column="59" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_storage.rb" timestamp="1540978345765">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="58" column="11" />
+        <mark key="]" line="58" column="25" />
+        <mark key="^" line="58" column="25" />
+        <mark key="." line="58" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -1776,16 +1776,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>add_exp</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgbGV0KDp1c2VyX2NoYXIpIHsgVXNlckNoYXIuc2hhcmRfZm9yKHVzZXIuaWQpLm5ldyh1c2VyX2lkOiB1c2VyLmlkLCBjaGFyX2lkOiBjaGFyLmlkKSB9CiAgICAgIGNvbnRleHQgInN0b3JhZ2UgaXMgemVybyIgZG8KICAgICAgICBsZXQoOnN0b3JhZ2UpIHsgMCB9CiAgICAgICAgaXQgInN0b2NrIHVzZXJfY2hhciBzdG9yYWdlIGFuZCByZXR1cm4gMCIgZG8KICAgICAgICAgIHN1YmplY3QKICAgICAgICAgIGV4cGVjdCh1c2VyX2NoYXIuc3RvcmFnZSkudG8gZXEgMAogICAgICAgIGVuZAogICAgICBlbmQKCiAgICAgIGNvbnRleHQgInN0b3JhZ2UgaXMgb25lIiBkbwogICAgICAgIGxldCg6c3RvcmFnZSkgeyAxIH0KICAgICAgICBpdCAic3RvY2sgdXNlcl9jaGFyIHN0b3JhZ2UgYW5kIHJldHVybiAwIiBkbwogICAgICAgICAgc3ViamVjdAogICAgICAgICAgZXhwZWN0KHVzZXJfY2hhci5zdG9yYWdlKS50byBlcSAwCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgY29udGV4dCAic3RvcmFnZSBpcyBzYW1lIGFzIHN0b2NrYWJsZSBjb3VudCIgZG8KICAgICAgICBsZXQoOnN0b3JhZ2UpIHsgdXNlcl9jaGFyLmNoYXIuc3RvY2thYmxlX2NvdW50IH0KICAgICAgICBpdCAic3RvY2sgdXNlcl9jaGFyIHN0b3JhZ2UgYW5kIHJldHVybiBzdG9ja2FibGVfY291bnQgLSAxIiBkbwogICAgICAgICAgc3ViamVjdAogICAgICAgICAgZXhwZWN0KHVzZXJfY2hhci5zdG9yYWdlKS50byBlcSB1c2VyX2NoYXIuY2hhci5zdG9ja2FibGVfY291bnQgLSAxCiAgICAgICAgZW5kCiAgICAgIGVuZAoKICAgICAgY29udGV4dCAic3RvcmFnZSBpcyBvdmVyIHN0b2NrYWJsZSBjb3VudCIgZG8KICAgICAgICBsZXQoOnN0b3JhZ2UpIHsgdXNlcl9jaGFyLmNoYXIuc3RvY2thYmxlX2NvdW50ICsgMn0KICAgICAgICBpdCAic3RvY2sgdXNlcl9jaGFyIHN0b3JhZ2UgYW5kIHJldHVybiBzdG9ja2FibGVfY291bnQiIGRvCiAgICAgICAgICBzdWJqZWN0CiAgICAgICAgICBleHBlY3QodXNlcl9jaGFyLnN0b3JhZ2UpLnRvIGVxIHVzZXJfY2hhci5jaGFyLnN0b2NrYWJsZV9jb3VudAogICAgICAgICAgZXhwZWN0KHVzZXJfY2hhci5vdmVyc3RvY2suY291bnQpLnRvIGVxIDEKICAgICAgICBlbmQKICAgICAgZW5k</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHAgc2VsZi5jaGFyLnN0b2NrYWJsZV9jb3VudAo=</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">IyAKIyAKIyA=</text>
