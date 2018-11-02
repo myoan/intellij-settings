@@ -114,12 +114,11 @@
         <mark key="." line="1" column="129" />
         <mark key="^" line="1" column="129" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_item_distributor_spec.rb" timestamp="1541159768080">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="7" column="105" />
-        <mark key="]" line="7" column="110" />
-        <mark key="^" line="7" column="110" />
-        <mark key="." line="7" column="110" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_item_distributor_spec.rb" timestamp="1541160804770">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_38.rb" timestamp="1539765811302">
         <mark key="'" line="0" column="0" />
@@ -441,6 +440,12 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data_importer.rb" timestamp="1536833302845">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_player.rb" timestamp="1540894855069">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/master_controller.rb" timestamp="1536833286814">
         <mark key="'" line="0" column="0" />
@@ -1711,7 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_storage.rb" />
       <jump line="26" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_storage_spec.rb" />
       <jump line="137" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_storage_spec.rb" />
       <jump line="16" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_converter_spec.rb" />
@@ -1811,13 +1815,14 @@
       <jump line="11" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_item_distributor_spec.rb" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_item_distributor_spec.rb" />
       <jump line="11" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
+      <jump line="5" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_item_distributor_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>add_gacha_ticket</text>
@@ -1826,15 +1831,18 @@
         <text encoding="base64">ICAgIGNvbnZlcnRlci5yZWdpc3Rlcl9jb252ZXJ0X21ldGhvZCB7IEl0ZW0ubmV3KEl0ZW1UeXBlOjpTUEVDSUFMX1BPSU5ULCAxLCAxLCAxLCAxKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cCBhCg==</text>
+        <text encoding="base64">ICAgIGNvbnZlcnRlci5yZWdpc3Rlcl9jb252ZXJ0X21ldGhvZCB7IHxfLCBmcmVlLCBjaGFyZ2V8IERlcG9zaXRJdGVtLm5ldyhJdGVtVHlwZTo6U1BFQ0lBTF9QT0lOVCwgMSwgZnJlZSwgY2hhcmdlLCAxKSB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cCBhLmdyb3VwX2J5KCY6dHlwZSkuemlwKGMpCg==</text>
+        <text encoding="base64">cCBhCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">cCBhLmdyb3VwX2J5KCY6dHlwZSkuemlwKGMpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>class GachaTicketItemDistributor
   def initialize(user)
     @user = user
@@ -1852,17 +1860,14 @@
   end
 end</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgZGVmIGFkZCEKICAgIGFkZAogICAgc2F2ZV9hbGwhCiAgZW5kCgogIGRlZiBzYXZlX2FsbCEKICBlbmQ=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBpdGVtID0gaXRlbXMK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBpdGVtID0gaXRlbXMK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
