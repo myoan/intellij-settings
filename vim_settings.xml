@@ -1058,13 +1058,13 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1541132219930">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1541158640607">
         <mark key="'" line="30" column="17" />
-        <mark key="[" line="40" column="61" />
-        <mark key="]" line="40" column="5" />
+        <mark key="[" line="42" column="106" />
+        <mark key="]" line="42" column="111" />
         <mark key="m" line="30" column="17" />
-        <mark key="." line="40" column="5" />
-        <mark key="^" line="40" column="5" />
+        <mark key="." line="42" column="111" />
+        <mark key="^" line="42" column="111" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/sales_event_group.md" timestamp="1539144942154">
         <mark key="'" line="0" column="0" />
@@ -1819,10 +1819,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>add_gacha_ticket</text>
