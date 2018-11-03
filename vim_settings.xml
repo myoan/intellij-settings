@@ -863,6 +863,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/ticket_item_distributor_spec.rb" timestamp="1541243997211">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/sales_event_groups_schema.rb" timestamp="1535457011876">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="18" column="60" />
@@ -1060,11 +1065,11 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1541242719081">
         <mark key="'" line="298" column="2" />
-        <mark key="[" line="302" column="91" />
-        <mark key="]" line="302" column="97" />
+        <mark key="[" line="298" column="91" />
+        <mark key="]" line="298" column="97" />
         <mark key="n" line="12" column="0" />
-        <mark key="^" line="302" column="97" />
-        <mark key="." line="302" column="97" />
+        <mark key="^" line="298" column="97" />
+        <mark key="." line="298" column="97" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/api/friend/delete_request.proto" timestamp="1536765997280">
         <mark key="'" line="19" column="47" />
@@ -1293,12 +1298,12 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" timestamp="1541241898680">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" timestamp="1541243930646">
         <mark key="'" line="11" column="14" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="22" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="33" />
+        <mark key="^" line="30" column="9" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/libgit2/rugged/lib/rugged/index.rb" timestamp="1538561613837">
         <mark key="'" line="2" column="0" />
@@ -1674,43 +1679,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFkZF9mZXNfdGlja2V0X2J5X2l0ZW1zKGl0ZW1zKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>add_items</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAdXNlci5hZGRfY2hhcl90aWNrZXRfYnlfaXRlbXMoaXRlbXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBUaWNrZXRJdGVtRGlzdHJpYnV0b3IubmV3KEB1c2VyKS5kaXN0cmlidXRlIShpdGVtcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkZF9mZXNfdGlja2V0X2J5X2l0ZW1zKGl0ZW1zKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yIHsgIlVzZXIjYWRkX2dhY2hhX3RpY2tldCB1bnN1cHBvcnRlZCBpdGVtX2lkKCN7dW5zdXBwb3J0ZWQubWFwKCY6aXRlbV9pZCkufSkiIH0K</text>
+        <text encoding="base64">cmVxdWlyZSAncnNwZWMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LVhtczEyOG0KLVhteDc1MG0K</text>
+        <text encoding="base64">ICAgICAgd2hlbiBJdGVtVHlwZTo6R0FDSEFfVElDS0VUCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgd2hlbiBJdGVtVHlwZTo6R0FDSEFfVElDS0VUCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGFkZF9mZXNfdGlja2V0X2J5X2l0ZW1zKGl0ZW1zKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgd2hlbiBJdGVtSWQ6OkdhY2hhVGlja2V0OjpGRVNfSUQKICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yIHsgIlVzZXIjYWRkX2dhY2hhX3RpY2tldCB1bnN1cHBvcnRlZCBpdGVtX2lkKCN7dW5zdXBwb3J0ZWQubWFwKCY6aXRlbV9pZCkufSkiIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0ZW1zLmVhY2ggZG8gfGl0ZW18CiAgICAgIGNhc2UgaXRlbS5pdGVtX2lkCg==</text>
+        <text encoding="base64">LVhtczEyOG0KLVhteDc1MG0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRfZmVzX3RpY2tldChpdGVtLmNvdW50KQo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
