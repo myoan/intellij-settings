@@ -45,12 +45,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_item_consumer.rb" timestamp="1541395334865">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_item_consumer.rb" timestamp="1541397118069">
         <mark key="'" line="8" column="2" />
-        <mark key="[" line="12" column="56" />
-        <mark key="]" line="12" column="64" />
-        <mark key="." line="12" column="64" />
-        <mark key="^" line="12" column="64" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/base_char_item_converter.rb" timestamp="1539675978965">
         <mark key="'" line="46" column="0" />
@@ -803,7 +802,7 @@
         <mark key="." line="4" column="104" />
         <mark key="^" line="4" column="104" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541394913335">
+      <file name="/Dummy.txt" timestamp="1541397559946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -1012,6 +1011,13 @@
         <mark key="]" line="4" column="1" />
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1541397515309">
+        <mark key="'" line="28" column="12" />
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="31" />
+        <mark key="^" line="54" column="32" />
+        <mark key="." line="54" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1540630840144">
         <mark key="'" line="32" column="4" />
@@ -1302,12 +1308,12 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" timestamp="1541395363057">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" timestamp="1541397096982">
         <mark key="'" line="23" column="9" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="9" />
-        <mark key="^" line="17" column="9" />
-        <mark key="." line="17" column="9" />
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="34" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="26" column="34" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/libgit2/rugged/lib/rugged/index.rb" timestamp="1538561613837">
         <mark key="'" line="2" column="0" />
@@ -1363,12 +1369,10 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" timestamp="1540627454451">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" timestamp="1541397459892">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_ticket_histories_schema.rb" timestamp="1540293514731">
         <mark key="[" line="7" column="36" />
@@ -1589,11 +1593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
-      <jump line="1" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/deposit_item.rb" />
-      <jump line="22" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/deposit_item.rb" />
-      <jump line="21" column="1" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/deposit_item.rb" />
-      <jump line="32" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
       <jump line="0" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/deposit_item.rb" />
       <jump line="64" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
       <jump line="6" column="44" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.puml" />
@@ -1689,55 +1688,60 @@
       <jump line="40" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_consume_item.rb" />
       <jump line="8" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha_item_consumer.rb" />
       <jump line="23" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
+      <jump line="67" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
+      <jump line="50" column="53" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_spec.rb" />
+      <jump line="28" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdXNlcl90aWNrZXQgPSBVc2VyVGlja2V0LmdldF9vcl9pbml0aWFsaXplX2J5X3VzZXJfaWRfaXRlbV90eXBlX2l0ZW1faWQodXNlci5pZCwgaXRlbS5pdGVtX3R5cGUsIGl0ZW0uaXRlbV9pZCkK</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>add_items</text>
+        <text encoding="base64">XDxpbmNyZW1lbnRfZ2FjaGFfcmVjb3JkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3VtYWJsZV90aWNrZXRfY291bnQgPSBbdXNlci5mZXNfdGlja2V0LmNvdW50LCBjb3VudF0ubWluCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdXNlcl90aWNrZXQgPSBVc2VyVGlja2V0LmdldF9vcl9pbml0aWFsaXplX2J5X3VzZXJfaWRfaXRlbV90eXBlX2l0ZW1faWQodXNlci5pZCwgaXRlbS5pdGVtX3R5cGUsIGl0ZW0uaXRlbV9pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICMgZXhwZWN0X2FueV9pbnN0YW5jZV9vZihVc2VyKS50byByZWNlaXZlKDpjb25zdW1lX2l0ZW1fZm9yX2dhY2hhKS53aXRoKGdhY2hhLmdhY2hhX2NvbnN1bWVfaXRlbXMsIGNudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHAgdXNlcl9jaGFyCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwIFVzZXJDaGFyLmdldF9ieV9jaGFyX2lkX2FuZF91c2VyX2lkKGNoYXIuaWQsIHVzZXIuaWQpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHAgQGNvbnZlcnRlci5jb21wYW55X2V4cGVyaWVuY2UK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAdXNlci5hZGRfZ2FjaGFfdGlja2V0KGl0ZW1zKQogICAgICAgIEB1c2VyLmFkZF9jaGFyX3RpY2tldChJdGVtLnN1bV9jb3VudChpdGVtcykpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2hlbiBJdGVtVHlwZTo6R0FDSEFfVElDS0VUCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdXNlcl90aWNrZXQgPSBVc2VyVGlja2V0LmdldF9vcl9pbml0aWFsaXplX2J5X3VzZXJfaWRfaXRlbV90eXBlX2l0ZW1faWQodXNlci5pZCwgaXRlbS5pdGVtX3R5cGUsIGl0ZW0uaXRlbV9pZCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHAgdXNlcl9jaGFyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwIFVzZXJDaGFyLmdldF9ieV9jaGFyX2lkX2FuZF91c2VyX2lkKGNoYXIuaWQsIHVzZXIuaWQpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHAgQGNvbnZlcnRlci5jb21wYW55X2V4cGVyaWVuY2UK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBAdXNlci5hZGRfZ2FjaGFfdGlja2V0KGl0ZW1zKQogICAgICAgIEB1c2VyLmFkZF9jaGFyX3RpY2tldChJdGVtLnN1bV9jb3VudChpdGVtcykpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3aGVuIDEKICAgIHB1dHMgIjEiCg==</text>
+        <text encoding="base64">ICAgICAgd2hlbiBJdGVtVHlwZTo6R0FDSEFfVElDS0VUCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>add_items</last-search>
+      <last-search encoding="base64">XDxpbmNyZW1lbnRfZ2FjaGFfcmVjb3JkXD4=</last-search>
       <last-offset />
-      <last-pattern>add_items</last-pattern>
+      <last-pattern encoding="base64">XDxpbmNyZW1lbnRfZ2FjaGFfcmVjb3JkXD4=</last-pattern>
       <last-replace>plandata.git</last-replace>
       <last-substitute>plandata</last-substitute>
       <last-dir>1</last-dir>
@@ -1745,9 +1749,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add_</entry>
-        <entry>add_item</entry>
-        <entry>add_gacha_tick</entry>
         <entry>add_gold</entry>
         <entry>add_user</entry>
         <entry encoding="base64">XDxhZGRfZmxvb3JzX2J5X2l0ZW1zXD4=</entry>
@@ -1765,6 +1766,9 @@
         <entry>add_char_ticket</entry>
         <entry encoding="base64">XDxhZGRfY2hhcl90aWNrZXRcPg==</entry>
         <entry>add_items</entry>
+        <entry>gacha play</entry>
+        <entry>consume_item_for_gacha</entry>
+        <entry encoding="base64">XDxpbmNyZW1lbnRfZ2FjaGFfcmVjb3JkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
