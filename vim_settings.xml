@@ -739,6 +739,9 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user_receive.rb" timestamp="1541753337563">
+        <mark key="'" line="79" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.puml" timestamp="1540812874372">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="11" column="27" />
@@ -1341,6 +1344,9 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" timestamp="1541753336512">
+        <mark key="'" line="87" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/sudoku/spec/sudoku/data_validator_spec.rb" timestamp="1534765391737">
         <mark key="'" line="24" column="32" />
         <mark key="[" line="21" column="0" />
@@ -1729,8 +1735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="24" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/sales_event_controller.rb" />
       <jump line="24" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="29" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="126" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
@@ -1829,6 +1833,8 @@
       <jump line="42" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/generators/document/templates/model.md.erb" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/generators/document/templates/model.md.erb" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/generators/document/templates/model.md.erb" />
+      <jump line="87" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user_receive.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
