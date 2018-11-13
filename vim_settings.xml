@@ -614,12 +614,11 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="7" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/dev_scene_spec.rb" timestamp="1540624947282">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="165" column="41" />
-        <mark key="]" line="165" column="44" />
-        <mark key="." line="165" column="44" />
-        <mark key="^" line="165" column="44" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/dev_scene_spec.rb" timestamp="1542103123130">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/service_spec.rb" timestamp="1535374115918">
         <mark key="'" line="23" column="6" />
@@ -1895,8 +1894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="82" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/generators/document/document_generator.rb" />
-      <jump line="116" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/thor-0.20.0/lib/thor/actions/file_manipulation.rb" />
       <jump line="121" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/thor-0.20.0/lib/thor/actions/file_manipulation.rb" />
       <jump line="67" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/generators/document/templates/model.md.erb" />
       <jump line="10" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_41.rb" />
@@ -1995,10 +1992,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_appearance_manager_spec.rb" />
       <jump line="12" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group_appearance_manager.rb" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group_appearance_manager.rb" />
+      <jump line="165" column="44" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/dev_scene_spec.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/dev_scene_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -2009,33 +2008,33 @@
       <register name="0" type="4">
         <text>グループ最後のイベント終了後の発生禁止期間(月)</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="8">
         <text>@useg
 @useg</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICBwcml2YXRlCgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBkZWYgdXBkYXRlX21vbnRoIQogICAgQHVzZWcuaGlkZGVuX21vbnRoID0gbmV4dF9hcHBlYXJfbW9udGgKICAgIEB1c2VnLnNhdmUhIGlmIEB1c2VnLmNoYW5nZWQ/CiAgZW5k</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHVzZXIgLQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgYWxsb3dfYW55X2luc3RhbmNlX29mKFNhbGVzRXZlbnRHcm91cEFwcGVhcmFuY2VNYW5hZ2VyKS50byByZWNlaXZlKDpoaWRlYWJsZT8pLmFuZF9yZXR1cm4oZmFsc2UpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
