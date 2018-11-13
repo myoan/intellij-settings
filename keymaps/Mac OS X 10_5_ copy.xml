@@ -2,6 +2,10 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="ctrl t" />
   </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl a" />
+  </action>
   <action id="Debug" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl d" />
