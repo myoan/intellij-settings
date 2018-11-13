@@ -27,6 +27,9 @@
   </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
+  <action id="RestoreDefaultLayout">
+    <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="ctrl r" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="shift ctrl t" />
