@@ -745,12 +745,12 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1541653571925">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1542177911659">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/battle_controller.rb" timestamp="1541732593451">
         <mark key="'" line="50" column="8" />
@@ -1979,11 +1979,11 @@
       <jump line="42" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_selector.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>@user_chars</text>
@@ -1992,39 +1992,37 @@
         <text encoding="base64">ICAgIHVzZXJfY2hhciA9IEB1c2VyLnVzZXJfY2hhcnMuZmluZCB7IHx1Y3wgdWMuY2hhcl9pZCA9PSBjaGFyX2lkIH0gfHwgVXNlckNoYXIuc2hhcmRfZm9yKEB1c2VyLmlkKS5uZXcodXNlcl9pZDogQHVzZXIuaWQsIGNoYXJfaWQ6IGNoYXJfaWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEB1c2VyX2NoYXJzICAgICAgICAgPSBAdXNlci51c2VyX2NoYXJzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">a2sK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEB1c2VyX2NoYXJzICAgICAgICAgPSBAdXNlci51c2VyX2NoYXJzCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIEB1c2VyX2NoYXJzID0gQHVzZXIudXNlcl9jaGFycwo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="6" type="8">
         <text>let(:
 let(:
 let(:
 let(:</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text>!
 !
 !
 !</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgYWxsb3coQW5ub3VuY2VtZW50KS50byByZWNlaXZlKDpnZXRfYWxsX29mX3RvZGF5cykuYW5kX3JldHVybihbYWZ0ZXJfc2Vzc2lvbl9zYW1lX2RheSwgYmVmb3JlX3Nlc3Npb25fc2FtZV9kYXldICsgaW5fc2Vzc2lvbl9hbm5vdW5jZW1lbnRzKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgcHV0cyAiYmVmb3JlIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyAiYmVmb3JlIgo=</text>
-      </register>
-      <register name="8" type="8">
-        <text>!
-!
-!</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
