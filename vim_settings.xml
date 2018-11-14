@@ -10,12 +10,11 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_ticket.rb" timestamp="1541488361334">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="5" />
-        <mark key="." line="103" column="9" />
-        <mark key="^" line="108" column="3" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_ticket.rb" timestamp="1542165043819">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/initializers/api_generator.rb" timestamp="1542075779001">
         <mark key="[" line="0" column="0" />
@@ -91,8 +90,8 @@
         <mark key="." line="73" column="30" />
         <mark key="^" line="49" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" timestamp="1541476002427">
-        <mark key="'" line="20" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" timestamp="1542165020040">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="153" column="59" />
         <mark key="]" line="153" column="81" />
         <mark key="." line="153" column="81" />
@@ -463,11 +462,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/deposit_item.rb" timestamp="1541496740682">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="10" />
-        <mark key="." line="24" column="10" />
-        <mark key="^" line="24" column="10" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/deposit_item.rb" timestamp="1542164971480">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/menu.proto" timestamp="1542075757924">
         <mark key="'" line="47" column="13" />
@@ -914,7 +913,7 @@
         <mark key="." line="4" column="104" />
         <mark key="^" line="4" column="104" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542103728536">
+      <file name="/Dummy.txt" timestamp="1542165143896">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1226,7 +1225,7 @@
         <mark key="." line="47" column="43" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1542159936317">
-        <mark key="'" line="231" column="6" />
+        <mark key="'" line="230" column="6" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_event.rb" timestamp="1542104939608">
         <mark key="'" line="42" column="6" />
@@ -1911,7 +1910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="107" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/special_stage_probability.md" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/weekly_high_score_reward_item.md" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/weekly_high_score_reward.md" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/dc_mail.md" />
@@ -2011,13 +2009,14 @@
       <jump line="223" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="80" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="231" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_ticket_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmNyZW1lbnRfY291bnRfb2ZfY29udGludW91c19sb2dpblw+</text>
@@ -2026,31 +2025,31 @@
         <text encoding="base64">bW9kdWxlIExpdGEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRpY2tldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHNlbGYuc2hhcmRfZm9yKHVzZXJfaWQpLm5ldyh1c2VyX2lkOiB1c2VyX2lkLCBpdGVtX3R5cGU6IGl0ZW1fdHlwZSwgaXRlbV9pZDogaXRlbV9pZCkgaWYgdGlja2V0Lm5pbD8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZWxmLnNoYXJkX2Zvcih1c2VyX2lkKS5uZXcodXNlcl9pZDogdXNlcl9pZCwgaXRlbV90eXBlOiBpdGVtX3R5cGUsIGl0ZW1faWQ6IGl0ZW1faWQpIGlmIHRpY2tldC5uaWw/CiAgICB0aWNrZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtb2R1bGUgTWFuYWdlcgogIGVuZAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBAdGlja2V0X2l0ZW0gaWYgQHRpY2tldF9pdGVtCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VyICAgICA9IFNjZW5lTWFuYWdlci5uZXcocmVkaXMpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VyICAgICAgPSBTY2VuZU1hbmFnZXIubmV3KHJlZGlzKQo=</text>
+        <text encoding="base64">ICBtb2R1bGUgTWFuYWdlcgogIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtZW50aW9uX25hbWUgPSByZXNwb25zZS51c2VyLm1lbnRpb25fbmFtZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2089,7 +2088,6 @@
         <entry encoding="base64">XDxpbmNyZW1lbnRfY291bnRfb2ZfY29udGludW91c19sb2dpblw+</entry>
       </history-search>
       <history-cmd>
-        <entry>142</entry>
         <entry>147</entry>
         <entry>51</entry>
         <entry>110</entry>
@@ -2108,6 +2106,7 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>64</entry>
+        <entry>22</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
