@@ -1278,12 +1278,11 @@
         <mark key="." line="52" column="44" />
         <mark key="^" line="52" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1542607563195">
-        <mark key="'" line="57" column="47" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="57" column="47" />
-        <mark key="." line="2" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1542612295094">
+        <mark key="'" line="10" column="2" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.rb" timestamp="1533302318829">
         <mark key="'" line="5" column="15" />
@@ -2068,8 +2067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
-      <jump line="120" column="33" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="16" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="23" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="33" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
@@ -2168,13 +2165,15 @@
       <jump line="119" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
       <jump line="68" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
       <jump line="61" column="47" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
+      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
+      <jump line="10" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IzE0NjYgYnkgY3VyaTExMTkgd2FzIG1lcmdlZCA0IGRheXMgYWdvIOKAoiBBcHByb3ZlZAoxCg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>win_lot</text>
@@ -2183,31 +2182,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNlbGVjdCgmOndpbl9sb3R0ZXJ5PykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IzE0NjYgYnkgY3VyaTExMTkgd2FzIG1lcmdlZCA0IGRheXMgYWdvIOKAoiBBcHByb3ZlZAoxCg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MQo=</text>
+        <text encoding="base64">ICAtICjntpnntpopIFtQcmV2aWV3IHRvb2xdIOOCrOODgeODo+S4gOimp+eUu+mdogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IzE0NzggYnkgb25vcG9uIHdhcyBtZXJnZWQgMiBob3VycyBhZ28g4oCiIEFwcHJvdmVkCg==</text>
+        <text encoding="base64">ICAtICjntpnntpopIFtQcmV2aWV3IHRvb2xdIOODkOODiuODvOS4gOimpwogIC0gKOe2mee2mikgW1ByZXZpZXcgdG9vbF0g44Kt44Oj44Oz44Oa44O844Oz55S76Z2iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkX2dyb3VwcyA9IG9wZW5fZ3JvdXBzLnNlbGVjdCB7IHx1c2VnfCB1c2VnLnNhbGVzX2V2ZW50X2dyb3VwLmF2YWlsYWJsZV9ldmVudHM/KHVzZXIpIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNlbGVjdCgmOndpbl9sb3R0ZXJ5PykK</text>
+        <text encoding="base64">ICAtICjntpnntpopIFtEQy0zMTkzXeWWtualreOCpOODmeODs+ODiOOCkumAlOS4reS4reaWreOBleOBm+OCi+ODnuOCueOCv+ODvOODh+ODvOOCv+OCkui/veWKoAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkX2dyb3VwcyA9IGF2YWlsYWJsZV9ncm91cHMucmVqZWN0IHsgfHNlZ3wgaGlkZGVuX2dyb3VwX2lkcy5pbmNsdWRlPyhzZWcuaWQpIH0K</text>
+        <text encoding="base64">ICAtICjntpnntpopIFvjg5Xjg6zjg7Pjg4nllrbmpa3ph47oia/jg57jg4Pjg4Hjg7PjgrBdIOODqeODs+ODgOODoOODpuODvOOCtuOBqOODnuODg+ODgeODs+OCsAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkX2dyb3VwcyA9IGF2YWlsYWJsZV9ncm91cHMucmVqZWN0IHsgfHNlZ3wgaGlkZGVuX2dyb3VwX2lkcy5pbmNsdWRlPyhzZWcuaWQpIH0K</text>
+        <text encoding="base64">ICAtICjntpnntpopIOOCueODiOODvOODquODvOOCpOODmeODs+ODiOacqumWi+Wni+aZguOAgeODn+ODg+OCt+ODp+ODs+OCkumBlOaIkOeKtuaFi+OBq+OBl+OBquOBhCblm57mlbDjgpLjgqvjgqbjg7Pjg4jjgZfjgarjgYQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAtICjntpnntpopIFvjg5Xjg6zjg7Pjg4nllrbmpa3ph47oia/jg57jg4Pjg4Hjg7PjgrBdIOmHjuiJr+ODpuODvOOCtuOCkuOCreODo+ODg+OCt+ODpeOBq+OBiuOBjwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBkZWYgc2VsZi5jbG9zZV9leHBpcmVkX3VzZXJfc2FsZXNfZXZlbnRfZ3JvdXBzISh1c2VyX2lkLCBzYWxlc19ldmVudF9ncm91cF9pZHMsIHVzZXJfc2FsZXNfZXZlbnRfZ3JvdXBzKQogICAgZXhwaXJlZF91c2VyX3NhbGVzX2V2ZW50X2dyb3VwcyA9IHVzZXJfc2FsZXNfZXZlbnRfZ3JvdXBzLnJlamVjdCB7IHxnfCBzYWxlc19ldmVudF9ncm91cF9pZHMuaW5jbHVkZT8oZy5zYWxlc19ldmVudF9ncm91cF9pZCkgfQogICAgVXNlclNhbGVzRXZlbnRHcm91cC5zaGFyZF9mb3IodXNlcl9pZCkudHJhbnNhY3Rpb24gZG8KICAgICAgZXhwaXJlZF91c2VyX3NhbGVzX2V2ZW50X2dyb3Vwcy5tYXAoJjpjbG9zZSEpCiAgICBlbmQKICBlbmQK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAtICjntpnntpopIFvjg5Xjg6zjg7Pjg4nllrbmpa3ph47oia/jg57jg4Pjg4Hjg7PjgrBdIOWWtualreOBq+ihjOOBo+OBn+mHjuiJr+ODpuODvOOCtuOCkuOCreODo+ODg+OCt+ODpeOBi+OCiea2iOOBmQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
