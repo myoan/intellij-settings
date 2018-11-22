@@ -309,8 +309,8 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="39" column="115" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1542871574015">
-        <mark key="'" line="79" column="29" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1542874952763">
+        <mark key="'" line="110" column="6" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="69" column="11" />
@@ -1962,9 +1962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="98" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
-      <jump line="73" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
-      <jump line="76" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="78" column="48" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="119" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="132" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
@@ -2062,6 +2059,9 @@
       <jump line="46" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event.rb" />
       <jump line="38" column="24" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" />
       <jump line="13" column="25" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/stress.rb" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
+      <jump line="53" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
+      <jump line="110" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2071,7 +2071,7 @@
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYW1wbGVfYnlfY2hhcl9jb25kaXRpb25cPg==</text>
+        <text>start!</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgICBjb250ZXh0ICJ3aGVuIGV2ZW50IHN0YXJ0IGFuZCBlbmQgaW4gdG9kYXkgYnV0IG5vdCBzdGFydCB5ZXQiIGRvCiAgICAgIGxldCEoOmdyb3VwKSB7IEZhY3RvcnlCb3QuY3JlYXRlKDpzYWxlc19ldmVudF9ncm91cCwgZ2FtZXRpbWVfc3RhcnRfeWVhcjogMCwgZ2FtZXRpbWVfZW5kX3llYXI6IDEwMCwgdXNlcl9yYW5rX21heDogMTAsIHN0YXJ0X2F0OiBub3cgKyAxLmhvdXIsIGVuZF9hdDogdG9tb3Jyb3cgLSAxLmhvdXIpIH0KICAgICAgbGV0KDpldmVudCkgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6c2FsZXNfZXZlbnQsIG1vbnRoX2ZsYWc6IDQwOTUsIHNhbGVzX2V2ZW50X2dyb3VwX2lkOiBncm91cC5pZCkgfQogICAgICBpdCAibm90IGRyYXciIGRvCiAgICAgICAgZXhwZWN0eyBzdWJqZWN0IH0ubm90X3RvIGNoYW5nZSB7IFVzZXJTYWxlc0V2ZW50Lmxpc3QodXNlci5pZCkgfQogICAgICBlbmQKICAgIGVuZAo=</text>
@@ -2114,9 +2114,9 @@ client.master_list</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYW1wbGVfYnlfY2hhcl9jb25kaXRpb25cPg==</last-search>
+      <last-search>start!</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYW1wbGVfYnlfY2hhcl9jb25kaXRpb25cPg==</last-pattern>
+      <last-pattern>start!</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxjcmVhdGVfd2l0aF9pbml0aWFsX3BhcmFtX2FuZF9pZFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2124,7 +2124,6 @@ client.master_list</text>
     </search>
     <history>
       <history-search>
-        <entry>next_sales_eve</entry>
         <entry>win_lott</entry>
         <entry encoding="base64">XDxwcm9iXD4=</entry>
         <entry>available_</entry>
@@ -2144,6 +2143,7 @@ client.master_list</text>
         <entry encoding="base64">XDxzZWxlY3RfZXZlbnRzXD4=</entry>
         <entry encoding="base64">XDxzYWxlc19ldmVudF9jaGFyXD4=</entry>
         <entry encoding="base64">XDxzYW1wbGVfYnlfY2hhcl9jb25kaXRpb25cPg==</entry>
+        <entry>start!</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
