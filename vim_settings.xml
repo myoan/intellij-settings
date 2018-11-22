@@ -306,12 +306,11 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="39" column="115" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1542874952763">
-        <mark key="'" line="116" column="6" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="75" column="11" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1542879300370">
+        <mark key="'" line="205" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/generators/document/USAGE" timestamp="1542016067901">
         <mark key="[" line="4" column="39" />
@@ -1942,8 +1941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" />
-      <jump line="163" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="122" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="123" column="33" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="125" column="30" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
@@ -2004,7 +2001,6 @@
       <jump line="46" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="106" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
-      <jump line="62" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="77" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
       <jump line="145" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" />
@@ -2042,33 +2038,39 @@
       <jump line="347" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
+      <jump line="205" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCg6dG9tb3Jyb3cpIHsgdG9kYXkgKyAxLmRheSB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>update_and_draw</text>
+        <text>retire</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxldCg6bm93KSB7IFRpbWUuY3VycmVudC5iZWdpbm5pbmdfb2ZfZGF5ICsgMy5ob3VyIH0KICAgIGxldCg6dG9kYXkpIHsgbm93LmJlZ2lubmluZ19vZl9kYXkgfQogICAgbGV0KDp0b21vcnJvdykgeyB0b2RheSArIDEuZGF5IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCg6dG9tb3Jyb3cpIHsgdG9kYXkgKyAxLmRheSB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCg6bm93KSB7IFRpbWUuY3VycmVudC5iZWdpbm5pbmdfb2ZfZGF5ICsgMy5ob3VyIH0KICAgIGxldCg6dG9kYXkpIHsgbm93LmJlZ2lubmluZ19vZl9kYXkgfQo=</text>
+        <text encoding="base64">ICAgIGxldCg6dG9tb3Jyb3cpIHsgdG9kYXkgKyAxLmRheSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCg6bm93KSB7IFRpbWUuY3VycmVudCArIDMuaG91ciB9Cg==</text>
+        <text encoding="base64">ICAgIGxldCg6bm93KSB7IFRpbWUuY3VycmVudC5iZWdpbm5pbmdfb2ZfZGF5ICsgMy5ob3VyIH0KICAgIGxldCg6dG9kYXkpIHsgbm93LmJlZ2lubmluZ19vZl9kYXkgfQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGxldCg6bm93KSB7IFRpbWUuY3VycmVudCArIDMuaG91ciB9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>require &quot;./lib/macaron/client&quot;
 require &quot;pp&quot;
 
@@ -2077,26 +2079,23 @@ client.user_signup
 client.user_logi
 client.master_list</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAgICAKICAgICA=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IAogCiA=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICA=</text>
-      </register>
       <register name="9" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICA=</text>
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update_and_draw</last-search>
+      <last-search>retire</last-search>
       <last-offset />
-      <last-pattern>update_and_draw</last-pattern>
+      <last-pattern>retire</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxjcmVhdGVfd2l0aF9pbml0aWFsX3BhcmFtX2FuZF9pZFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2104,7 +2103,6 @@ client.master_list</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9iXD4=</entry>
         <entry>available_</entry>
         <entry>avaiables</entry>
         <entry>available</entry>
@@ -2124,6 +2122,7 @@ client.master_list</text>
         <entry encoding="base64">XDxzYW1wbGVfYnlfY2hhcl9jb25kaXRpb25cPg==</entry>
         <entry>start!</entry>
         <entry>update_and_draw</entry>
+        <entry>retire</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5x</entry>
