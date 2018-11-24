@@ -1066,7 +1066,7 @@
         <mark key="." line="4" column="104" />
         <mark key="^" line="4" column="104" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543036616707">
+      <file name="/Dummy.txt" timestamp="1543038455859">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -1105,11 +1105,11 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/billing_product_item_distributor_spec.rb" timestamp="1543034110979">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/billing_product_item_distributor_spec.rb" timestamp="1543038347420">
+        <mark key="'" line="14" column="52" />
+        <mark key="[" line="15" column="56" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
         <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/acquired_char_manager_spec.rb" timestamp="1539166607233">
@@ -2223,8 +2223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" />
-      <jump line="78" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" />
       <jump line="5" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp_spec.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp_spec.rb" />
       <jump line="1" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp_spec.rb" />
@@ -2323,6 +2321,8 @@
       <jump line="20" column="42" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/billing_pack.rb" />
       <jump line="26" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/billing_pack.rb" />
       <jump line="27" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/support_pack_item.rb" />
+      <jump line="12" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/billing_product_item_distributor_spec.rb" />
+      <jump line="14" column="52" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/billing_product_item_distributor_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2425,10 +2425,10 @@ support_</text>
         <entry>49</entry>
         <entry>176</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>95</entry>
         <entry>%s/support_//g</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
