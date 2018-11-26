@@ -689,6 +689,9 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1543210006097">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_item_consumer_spec.rb" timestamp="1541470615228">
         <mark key="'" line="24" column="12" />
         <mark key="[" line="1" column="0" />
@@ -2190,8 +2193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/app/models/event_data_extension.rb" />
-      <jump line="502" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="14" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/billing_support_pack_groups_schema.rb" />
       <jump line="16" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/billing_products_schema.rb" />
       <jump line="1" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/billing_support_packs_schema.rb" />
@@ -2290,6 +2291,8 @@
       <jump line="157" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="158" column="35" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="160" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
+      <jump line="65" column="90" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2299,7 +2302,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBlYXJhbmNlX21hbmFnZXJcPg==</text>
+        <text>UserMiss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PGEgbmFtZT0iREMuRGF0YS5FbnVtLkdlbmRlci5HZW5kZXIiPjwvYT4K</text>
@@ -2336,9 +2339,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBlYXJhbmNlX21hbmFnZXJcPg==</last-search>
+      <last-search>UserMiss</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBlYXJhbmNlX21hbmFnZXJcPg==</last-pattern>
+      <last-pattern>UserMiss</last-pattern>
       <last-replace />
       <last-substitute>support_</last-substitute>
       <last-dir>1</last-dir>
@@ -2346,7 +2349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tomm</entry>
         <entry>_with</entry>
         <entry>fetch</entry>
         <entry>update_sales_event_groups</entry>
@@ -2366,6 +2368,7 @@
         <entry>hidden?</entry>
         <entry>hidd</entry>
         <entry encoding="base64">XDxhcHBlYXJhbmNlX21hbmFnZXJcPg==</entry>
+        <entry>UserMiss</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
