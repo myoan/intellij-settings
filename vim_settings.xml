@@ -936,8 +936,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/app/models/user_purchase_history.rb" timestamp="1543302235351">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event/client.rb" timestamp="1543306311198">
-        <mark key="'" line="18" column="49" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event/client.rb" timestamp="1543457789292">
+        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_storage_spec.rb" timestamp="1541500557779">
         <mark key="'" line="148" column="10" />
@@ -2361,7 +2361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/railties-5.2.1/lib/rails/generators.rb" />
       <jump line="43" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event/reward.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/chars_schema.rb" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/chars_schema.rb" />
@@ -2461,6 +2460,7 @@
       <jump line="24" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/result_code.rb" />
       <jump line="9" column="24" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/result_code.rb" />
       <jump line="23" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/result_code.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event/client.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2470,7 +2470,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>API</text>
+        <text>fetch_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpdCAicmVwbGllcyIgZG8KICAgICAgICAgIHNlbmRfbWVzc2FnZSgibG9jayBzY2VuZSBob2dlICAgICAgZnVnYSIsIGFzOiBhbGljZSkKICAgICAgICAgIGV4cGVjdChyZXBsaWVzLmxhc3QpLnRvIGVxKCJgaG9nZSwgZnVnYWAg44KS44Ot44OD44Kv44GX44G+44GX44GfXG7jgYLjgarjgZ/jga8gYGhvZ2UsIGZ1Z2FgIOOCkuODreODg+OCr+OBl+OBpuOBhOOBvuOBmSIpCiAgICAgICAgZW5kCg==</text>
@@ -2507,9 +2507,9 @@
       </register>
     </registers>
     <search>
-      <last-search>API</last-search>
+      <last-search>fetch_</last-search>
       <last-offset />
-      <last-pattern>API</last-pattern>
+      <last-pattern>fetch_</last-pattern>
       <last-replace />
       <last-substitute>support_</last-substitute>
       <last-dir>1</last-dir>
@@ -2517,7 +2517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user_friend</entry>
         <entry encoding="base64">XDx0b3RhbF9yYXRpb1w+</entry>
         <entry>char_ids</entry>
         <entry>add_item</entry>
@@ -2537,6 +2536,7 @@
         <entry encoding="base64">XDxzcGxpdFw+</entry>
         <entry>VER</entry>
         <entry>API</entry>
+        <entry>fetch_</entry>
       </history-search>
       <history-cmd>
         <entry>91</entry>
