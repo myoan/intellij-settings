@@ -1849,6 +1849,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/terraform/s3.tf" timestamp="1543904240676">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="^" line="150" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/users_schema.rb" timestamp="1543282514853">
         <mark key="'" line="4" column="0" />
       </file>
@@ -2428,8 +2434,8 @@
       <jump line="164" column="8" filename="$USER_HOME$/dev/src/github.com/litaio/lita/lib/lita/cli.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -2441,31 +2447,56 @@
         <text encoding="base64">ICAgICAgY2xhc3MgQVBJCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="8">
-        <text encoding="base64">IyAKIyAKIyA=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLnNlbmRfbWVzc2FnZXMoc291cmNlLCAi44GK44Gv44KI44GG44GU44GW44GE44G+44GX44GfIikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSBMaXRhOjpBZGFwdGVyczo6U2xhY2s6OkFQSS4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwIGFhYQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgY2hhbm5lbHNfaW5mbyhjaGFubmVsX2lkKQogICAgICAgICAgY2FsbF9hcGkoImNoYW5uZWxzLmluZm8iLCBjaGFubmVsOiBjaGFubmVsX2lkKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text>{
+  &quot;Version&quot;: &quot;2012-10-17&quot;,
+  &quot;Id&quot;: &quot;S3PolicyId1&quot;,
+  &quot;Statement&quot;: [
+    {
+      &quot;Sid&quot;: &quot;IPAllow&quot;,
+      &quot;Effect&quot;: &quot;Allow&quot;,
+      &quot;Principal&quot;: &quot;*&quot;,
+      &quot;Action&quot;: &quot;s3:GetObject&quot;,
+      &quot;Resource&quot;: &quot;arn:aws:s3:::macaron-assetbundles/*&quot;,
+      &quot;Condition&quot;: {
+        &quot;IpAddress&quot;: {
+          &quot;aws:SourceIp&quot;: [
+            &quot;118.238.222.60/32&quot;,
+            &quot;202.32.29.8/29&quot;,
+            &quot;118.238.222.60/32&quot;,
+            &quot;114.31.110.175/32&quot;,
+            &quot;114.160.57.248/32&quot;,
+            &quot;125.206.207.240/32&quot;,
+            &quot;124.35.199.42/32&quot;
+          ]
+        }
+      }
+    }
+  ]
+}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwLnNlbmRfbWVzc2FnZXMoc291cmNlLCAi44GK44Gv44KI44GG44GU44GW44GE44G+44GX44GfIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXQgPSBMaXRhOjpBZGFwdGVyczo6U2xhY2s6OkFQSS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwIGFhYQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIyBAYXBpIHByaXZhdGUK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgY2hhbm5lbHNfaW5mbyhjaGFubmVsX2lkKQogICAgICAgICAgY2FsbF9hcGkoImNoYW5uZWxzLmluZm8iLCBjaGFubmVsOiBjaGFubmVsX2lkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnB1dHMgImxvY2FsIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
