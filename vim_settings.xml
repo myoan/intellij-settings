@@ -170,10 +170,10 @@
         <mark key="]" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/gacha_controller.rb" timestamp="1541416800576">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/gacha_controller.rb" timestamp="1544064388035">
         <mark key="'" line="6" column="4" />
-        <mark key="[" line="14" column="54" />
-        <mark key="]" line="14" column="54" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="67" />
         <mark key="." line="14" column="54" />
         <mark key="^" line="14" column="58" />
       </file>
@@ -653,7 +653,7 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544057944701">
+      <file name="/Dummy.txt" timestamp="1544064416501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -1118,12 +1118,11 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/money_controller.rb" timestamp="1544061162320">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/money_controller.rb" timestamp="1544064390458">
         <mark key="'" line="48" column="8" />
-        <mark key="[" line="48" column="29" />
-        <mark key="]" line="48" column="61" />
-        <mark key="." line="48" column="61" />
-        <mark key="^" line="48" column="61" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/company_history.md" timestamp="1542004534353">
         <mark key="[" line="5" column="64" />
@@ -1431,6 +1430,12 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1543907978862">
+        <mark key="'" line="125" column="96" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_tickets_schema.rb" timestamp="1541475720850">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="4" />
@@ -1720,10 +1725,10 @@
         <mark key="'" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" timestamp="1544057853752">
-        <mark key="'" line="207" column="0" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group_condition_battle_status_continuous_counter.rb" timestamp="1539053616194">
         <mark key="'" line="12" column="3" />
@@ -2214,6 +2219,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="24" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/billing_pack_group.rb" timestamp="1543989566543">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_converter.rb" timestamp="1541471159898">
         <mark key="'" line="58" column="12" />
         <mark key="[" line="67" column="3" />
@@ -2385,6 +2396,12 @@
         <mark key="]" line="37" column="11" />
         <mark key="." line="37" column="11" />
         <mark key="^" line="37" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer5.txt" timestamp="1543817434978">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/special_stage_probability.rb" timestamp="1538381263538">
         <mark key="[" line="1" column="30" />
@@ -2715,7 +2732,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByb2JvdC5zZW5kX21lc3NhZ2VzKHNvdXJjZSwgaGlzdG9yeVsibWVzc2FnZXMiXSkK</text>
+        <text encoding="base64">ICAgICAgdXNlcl9jaGFyX2NvbnRhaW5lcjogZ2FjaGEudXNlcl9jaGFyX2NvbnRhaW5lci50b19wcm90b2J1ZiwK</text>
       </register>
       <register name="-" type="4">
         <text>history[&quot;messages&quot;]</text>
@@ -2724,37 +2741,37 @@
         <text encoding="base64">XDxiaWxsaW5nX3Byb2R1Y3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByb2JvdC5zZW5kX21lc3NhZ2VzKHNvdXJjZSwgaGlzdG9yeVsibWVzc2FnZXMiXSkK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyX2NoYXJfY29udGFpbmVyOiBnYWNoYS51c2VyX2NoYXJfY29udGFpbmVyLnRvX3Byb3RvYnVmLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb2JvdC5zZW5kX21lc3NhZ2VzKHNvdXJjZSwgaGlzdG9yeVsibWVzc2FnZXMiXSkK</text>
+        <text encoding="base64">ICAgICAgdXNlcl9jaGFyX2NvbnRhaW5lcjogZ2FjaGEudXNlcl9jaGFyX2NvbnRhaW5lci50b19wcm90b2J1ZiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByb2JvdC5zZW5kX21lc3NhZ2VzKHNvdXJjZSwgaGlzdG9yeVsibWVzc2FnZXMiXSkK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2808,8 +2825,8 @@
         <entry>7</entry>
         <entry>205</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
