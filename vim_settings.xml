@@ -114,12 +114,12 @@
         <mark key="^" line="34" column="4" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/lets_lunch.rb" timestamp="1543982581471">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/lets_lunch.rb" timestamp="1544060560007">
         <mark key="'" line="18" column="6" />
-        <mark key="[" line="8" column="62" />
-        <mark key="]" line="8" column="62" />
-        <mark key="." line="8" column="62" />
-        <mark key="^" line="8" column="72" />
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="60" />
+        <mark key="." line="39" column="60" />
+        <mark key="^" line="39" column="60" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/output/enum.rb" timestamp="1533351215309">
         <mark key="'" line="33" column="31" />
@@ -2710,43 +2710,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByb2JvdC5zZW5kX21lc3NhZ2VzKHNvdXJjZSwgaGlzdG9yeVsibWVzc2FnZXMiXSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>history[&quot;messages&quot;]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaWxsaW5nX3Byb2R1Y3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEZhY3RvcnlCb3QuY3JlYXRlKDpmZXNfdGlja2V0X2l0ZW0pCg==</text>
+        <text encoding="base64">ICAgICAgICByb2JvdC5zZW5kX21lc3NhZ2VzKHNvdXJjZSwgaGlzdG9yeVsibWVzc2FnZXMiXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByb2JvdC5zZW5kX21lc3NhZ2VzKHNvdXJjZSwgaGlzdG9yeVsibWVzc2FnZXMiXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW5kCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgZGlzdHJpYnV0ZSEodXNlcikKICBlbmQK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2802,8 +2802,8 @@
         <entry>32</entry>
         <entry>7</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>205</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
