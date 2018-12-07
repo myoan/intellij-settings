@@ -1927,8 +1927,8 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lib/kms_wrapper.rb" timestamp="1544176544814">
-        <mark key="'" line="20" column="4" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lib/kms_wrapper.rb" timestamp="1544177780169">
+        <mark key="'" line="44" column="6" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -2625,7 +2625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
       <jump line="207" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
       <jump line="6" column="55" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/billing_product_item_distributor_spec.rb" />
       <jump line="1" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/billing_product_item_distributor_spec.rb" />
@@ -2725,6 +2724,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_spec.rb" />
       <jump line="113" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_spec.rb" />
       <jump line="20" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lib/kms_wrapper.rb" />
+      <jump line="44" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lib/kms_wrapper.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2734,7 +2734,7 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>availables</text>
+        <text encoding="base64">XDxkZWNyeXB0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJhc2U2NCA9IEJhc2U2NC5lbmNvZGU2NChlbmNfZGF0YS5jaXBoZXJ0ZXh0X2Jsb2IpCg==</text>
@@ -2771,9 +2771,9 @@
       </register>
     </registers>
     <search>
-      <last-search>availables</last-search>
+      <last-search encoding="base64">XDxkZWNyeXB0XD4=</last-search>
       <last-offset />
-      <last-pattern>availables</last-pattern>
+      <last-pattern encoding="base64">XDxkZWNyeXB0XD4=</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>@user</last-substitute>
       <last-dir>1</last-dir>
@@ -2781,7 +2781,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiaWxsaW5nX3Byb2R1Y3RcPg==</entry>
         <entry encoding="base64">XDxzdGFydF9vcGVyYXRpb25fZm9yX3NvbG9fb3JfaG9zdFw+</entry>
         <entry>stage</entry>
         <entry>stage_enemy</entry>
@@ -2801,6 +2800,7 @@
         <entry encoding="base64">XDxkcmF3X2FzX25vcm1hbFw+</entry>
         <entry>import</entry>
         <entry>availables</entry>
+        <entry encoding="base64">XDxkZWNyeXB0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
