@@ -123,11 +123,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_score_record_spec.rb" timestamp="1544157896819">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_score_record_spec.rb" timestamp="1544158735940">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
+        <mark key="[" line="109" column="12" />
+        <mark key="]" line="109" column="14" />
+        <mark key="." line="109" column="14" />
+        <mark key="^" line="109" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group_condition_mission.rb" timestamp="1539324336727">
         <mark key="'" line="14" column="0" />
@@ -308,8 +309,8 @@
         <mark key="^" line="9" column="100" />
         <mark key="." line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_score_record.rb" timestamp="1542017745765">
-        <mark key="'" line="0" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_score_record.rb" timestamp="1544158383238">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/bowling_game_kata/Gemfile" timestamp="1539072114753">
         <mark key="'" line="9" column="2" />
@@ -1230,12 +1231,6 @@
         <mark key="]" line="5" column="56" />
         <mark key="^" line="37" column="35" />
         <mark key="." line="5" column="56" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/item.rb" timestamp="1543489406796">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/generators/document/sharding_generator.rb" timestamp="1541741120204">
         <mark key="'" line="3" column="13" />
@@ -2473,7 +2468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_pack_group.rb" />
       <jump line="17" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/billing_product_item_distributor_spec.rb" />
       <jump line="56" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
       <jump line="36" column="46" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/billing_product_item_distributor.rb" />
@@ -2573,55 +2567,56 @@
       <jump line="117" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_score_record_spec.rb" />
       <jump line="124" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_score_record_spec.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_score_record_spec.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_score_record.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgaXQgeyBleHBlY3Qoc3ViamVjdCkudG8gYmVfYWxsIHsgfGRpc3RyaWJ1dGVkX3JlY29yZHwgZGlzdHJpYnV0ZWRfcmVjb3JkLnVzZXJfY2hhcl9zY29yZXMubWFwKCY6dG90YWxfc2NvcmUpID09ICgxLi5tYXhfZGlzcGxheV9jb3VudCkudG9fYS5yZXZlcnNlIH0gfQo=</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>klass</text>
+        <text>increment!</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgVXNlckNoYXJTY29yZVJlY29yZC5pbmNyZW1lbnQhKHVzZXIuaWQsIGNoYXIuaWQsIGNudCkK</text>
+        <text encoding="base64">ICAgICAgICBwdXRzICJiZWZvcmU6ICN7VGltZS5jdXJyZW50LnRvX2Z9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgaXQgeyBleHBlY3Qoc3ViamVjdCkudG8gYmVfYWxsIHsgfGRpc3RyaWJ1dGVkX3JlY29yZHwgZGlzdHJpYnV0ZWRfcmVjb3JkLnVzZXJfY2hhcl9zY29yZXMubWFwKCY6dG90YWxfc2NvcmUpID09ICgxLi5tYXhfZGlzcGxheV9jb3VudCkudG9fYS5yZXZlcnNlIH0gfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdXRzICJCOiAje1RpbWUuY3VycmVudC50b19mfSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgaXQgeyBleHBlY3Qoc3ViamVjdC5jb3VudCkudG8gZXEgam9iX2VsZW1lbnRfc3ltYm9scy5jb3VudCB9CiAgICAjIGl0IHsgZXhwZWN0KHN1YmplY3QpLnRvIGJlX2FsbCB7IHxkaXN0cmlidXRlZF9yZWNvcmR8IGRpc3RyaWJ1dGVkX3JlY29yZC51c2VyX2NoYXJfc2NvcmVzLmNvdW50ID09IG1heF9kaXNwbGF5X2NvdW50IH0gfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdXRzICJhZnRlcjogI3tUaW1lLmN1cnJlbnQudG9faX0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgaXQgeyBpc19leHBlY3RlZC50byBiZV9raW5kX29mIEFycmF5IH0KICAgICMgaXQgeyBleHBlY3Qoc3ViamVjdCkudG8gYWxsIGJlX2tpbmRfb2YgVXNlckNoYXJTY29yZVJlY29yZDo6RGlzdHJpYnV0ZWRVc2VyQ2hhclNjb3JlUmVjb3JkIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdXRzICJiZWZvcmU6ICN7VGltZS5jdXJyZW50LnRvX2l9Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIFRpbWUuY3VycmVudC50b19pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICMgYmVmb3JlIGRvCiAgICAjICAgam9iX2VsZW1lbnRfdmFsdWVzID0gam9iX2VsZW1lbnRfc3ltYm9scy5tYXAgeyB8Y29uc3Rfc3ltYm9sfCBDaGFyOjpKb2JFbGVtZW50LmNvbnN0X2dldChjb25zdF9zeW1ib2wpIH0KCiAgICAjICAgam9iX2VsZW1lbnRfdmFsdWVzLmVhY2ggZG8gfGpvYl9lbGVtZW50fAogICAgIyAgICAgKG1heF9kaXNwbGF5X2NvdW50ICsgMSkudGltZXMgZG8gfGNudHwKICAgICMgICAgICAgY2hhciA9IEZhY3RvcnlCb3QuY3JlYXRlKDpjaGFyLCBqb2JfZWxlbWVudDogam9iX2VsZW1lbnQpCiAgICAjICAgICAgIEFjcXVpcmVkQ2hhckRpc3RyaWJ1dG9yLm5ldyh1c2VyLCBbY2hhcl0pLmV4ZWN1dGUhCiAgICAjICAgICAgIFVzZXJDaGFyU2NvcmVSZWNvcmQuaW5jcmVtZW50ISh1c2VyLmlkLCBjaGFyLmlkLCBjbnQpCiAgICAjICAgICBlbmQKICAgICMgICBlbmQKICAgICMgZW5kCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgaXQgeyBleHBlY3Qoc3ViamVjdCkudG8gYmVfYWxsIHsgfGRpc3RyaWJ1dGVkX3JlY29yZHwgZGlzdHJpYnV0ZWRfcmVjb3JkLnVzZXJfY2hhcl9zY29yZXMubWFwKCY6dG90YWxfc2NvcmUpID09ICgxLi5tYXhfZGlzcGxheV9jb3VudCkudG9fYS5yZXZlcnNlIH0gfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaXQgeyBleHBlY3Qoc3ViamVjdC5jb3VudCkudG8gZXEgam9iX2VsZW1lbnRfc3ltYm9scy5jb3VudCB9CiAgICAjIGl0IHsgZXhwZWN0KHN1YmplY3QpLnRvIGJlX2FsbCB7IHxkaXN0cmlidXRlZF9yZWNvcmR8IGRpc3RyaWJ1dGVkX3JlY29yZC51c2VyX2NoYXJfc2NvcmVzLmNvdW50ID09IG1heF9kaXNwbGF5X2NvdW50IH0gfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgeyBrbGFzcy5nZXRfZGlzdHJpYnV0ZWRfcmVjb3Jkc19ieV91c2VyX2lkKHVzZXIuaWQpIH0K</text>
+        <text encoding="base64">ICAgICMgaXQgeyBpc19leHBlY3RlZC50byBiZV9raW5kX29mIEFycmF5IH0KICAgICMgaXQgeyBleHBlY3Qoc3ViamVjdCkudG8gYWxsIGJlX2tpbmRfb2YgVXNlckNoYXJTY29yZVJlY29yZDo6RGlzdHJpYnV0ZWRVc2VyQ2hhclNjb3JlUmVjb3JkIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyQ2hhclNjb3JlUmVjb3JkLmluY3JlbWVudCEodXNlci5pZCwgY2hhci5pZCwgY250KQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICMgYmVmb3JlIGRvCiAgICAjICAgam9iX2VsZW1lbnRfdmFsdWVzID0gam9iX2VsZW1lbnRfc3ltYm9scy5tYXAgeyB8Y29uc3Rfc3ltYm9sfCBDaGFyOjpKb2JFbGVtZW50LmNvbnN0X2dldChjb25zdF9zeW1ib2wpIH0KCiAgICAjICAgam9iX2VsZW1lbnRfdmFsdWVzLmVhY2ggZG8gfGpvYl9lbGVtZW50fAogICAgIyAgICAgKG1heF9kaXNwbGF5X2NvdW50ICsgMSkudGltZXMgZG8gfGNudHwKICAgICMgICAgICAgY2hhciA9IEZhY3RvcnlCb3QuY3JlYXRlKDpjaGFyLCBqb2JfZWxlbWVudDogam9iX2VsZW1lbnQpCiAgICAjICAgICAgIEFjcXVpcmVkQ2hhckRpc3RyaWJ1dG9yLm5ldyh1c2VyLCBbY2hhcl0pLmV4ZWN1dGUhCiAgICAjICAgICAgIFVzZXJDaGFyU2NvcmVSZWNvcmQuaW5jcmVtZW50ISh1c2VyLmlkLCBjaGFyLmlkLCBjbnQpCiAgICAjICAgICBlbmQKICAgICMgICBlbmQKICAgICMgZW5kCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>129</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>klass</last-search>
+      <last-search>increment!</last-search>
       <last-offset />
-      <last-pattern>klass</last-pattern>
+      <last-pattern>increment!</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>@user</last-substitute>
       <last-dir>1</last-dir>
@@ -2629,7 +2624,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BONUS</entry>
         <entry>user_char_cont</entry>
         <entry>user_char</entry>
         <entry>user</entry>
@@ -2649,6 +2643,7 @@
         <entry encoding="base64">XDx2YWxpZGF0ZV9hbmRfc2V0X25hbWVcPg==</entry>
         <entry>bootsna</entry>
         <entry>klass</entry>
+        <entry>increment!</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
@@ -2668,9 +2663,9 @@
         <entry>q</entry>
         <entry>200</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>122</entry>
         <entry>129</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
