@@ -280,6 +280,17 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-partitions-1.105.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.122.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-partitions-1.122.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-partitions-1.122.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v3.0.1, rbenv: 2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -718,6 +729,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.30.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.44.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.44.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.44.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-costandusagereportservice (v1.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
@@ -1235,6 +1257,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-lambda-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-lambda (v1.16.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-lambda-1.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-lambda-1.16.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-lambdapreview (v1.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
@@ -4527,6 +4560,31 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
       </excluded>
     </library>
+    <library name="rake (v10.5.0, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </excluded>
+    </library>
     <library name="rake (v12.3.0, rbenv: 2.5.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5127,6 +5185,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.1/test" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.0/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.1/samples" />
+      </excluded>
+    </library>
+    <library name="rubyzip (v1.2.2, rbenv: 2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/rubyzip-1.2.2/samples" />
       </excluded>
     </library>
     <library name="rugged (v0.27.4, rbenv: 2.5.1) [gem]" type="rubylib">
