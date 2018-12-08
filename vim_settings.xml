@@ -263,7 +263,8 @@
         <mark key="." line="54" column="119" />
         <mark key="^" line="54" column="137" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" timestamp="1544260486540">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" timestamp="1544261749505">
+        <mark key="'" line="40" column="41" />
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="50" />
         <mark key="^" line="25" column="50" />
@@ -1226,11 +1227,11 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/app_news_uploader/lambda_function.rb" timestamp="1544260592834">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/app_news_uploader/lambda_function.rb" timestamp="1544261707945">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/first_friend_reward.md" timestamp="1542015867226">
         <mark key="'" line="37" column="0" />
@@ -2562,7 +2563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="70" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="118" column="37" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="14" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
@@ -2662,13 +2662,14 @@
       <jump line="8" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" />
       <jump line="25" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" />
+      <jump line="40" column="41" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dF9maWxlcGF0aFw+</text>
@@ -2686,28 +2687,28 @@ end</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdXRzICJoZWxsbywgd29ybGQiCg==</text>
+        <text encoding="base64">ICBwdXRzICJob2dlaG9nZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwdXRzICJoZWxsbywgd29ybGQiCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRGlyLm1rZGlyKGZ1bmNfcGF0aCkKICAgICAgRmlsZVV0aWxzLmNwKCIje0Rpci5wd2R9L2RhdGEvbGFtYmRhX2Z1bmN0aW9uLnJiIiwgIiN7ZnVuY19wYXRofS8iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRGlyLm1rZGlyKGZ1bmNfcGF0aCkKICAgICAgRmlsZVV0aWxzLmNwKCIje0Rpci5wd2R9L2RhdGEvbGFtYmRhX2Z1bmN0aW9uLnJiIiwgIiN7ZnVuY19wYXRofS8iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBmdW5jX3BhdGgK</text>
+        <text encoding="base64">ICAgICAgRGlyLm1rZGlyKGZ1bmNfcGF0aCkKICAgICAgRmlsZVV0aWxzLmNwKCIje0Rpci5wd2R9L2RhdGEvbGFtYmRhX2Z1bmN0aW9uLnJiIiwgIiN7ZnVuY19wYXRofS8iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBmdW5jX3BhdGgK</text>
+        <text encoding="base64">ICAgICAgRGlyLm1rZGlyKGZ1bmNfcGF0aCkKICAgICAgRmlsZVV0aWxzLmNwKCIje0Rpci5wd2R9L2RhdGEvbGFtYmRhX2Z1bmN0aW9uLnJiIiwgIiN7ZnVuY19wYXRofS8iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzICIgICN7aX0iCg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyBmdW5jX3BhdGgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2763,8 +2764,8 @@ end</text>
         <entry>200</entry>
         <entry>122</entry>
         <entry>129</entry>
-        <entry>q</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
