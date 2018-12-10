@@ -644,8 +644,8 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/friend_sales_event_controller.rb" timestamp="1543476786609">
-        <mark key="'" line="5" column="46" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/friend_sales_event_controller.rb" timestamp="1544441650863">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="13" column="57" />
         <mark key="]" line="13" column="55" />
         <mark key="^" line="13" column="55" />
@@ -1510,7 +1510,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="39" column="115" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1544439880964">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1544441665812">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="234" column="0" />
         <mark key="]" line="234" column="0" />
@@ -2618,8 +2618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="32" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/billing_product.md" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/billing_pack.md" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/billing_pack.md" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/pack_item.md" />
@@ -2712,12 +2710,14 @@
       <jump line="38" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/app/models/char.rb" />
       <jump line="123" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/lib/tasks/data/import.rake" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/sales_event_controller.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="91" column="23" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="137" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="303" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event.rb" />
       <jump line="57" column="25" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_friend_sales_event.rb" />
+      <jump line="232" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/friend_sales_event_controller.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
