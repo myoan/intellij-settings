@@ -202,6 +202,9 @@
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/development.rb" timestamp="1544515175929">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/custom_controller.rb" timestamp="1537506005270">
         <mark key="'" line="3" column="20" />
         <mark key="[" line="1" column="14" />
@@ -687,12 +690,11 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/char.rb" timestamp="1542266892097">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/mission_checker/count_of_level_up_floor_checker.rb" timestamp="1544512652539">
-        <mark key="'" line="11" column="9" />
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/mission_checker/count_of_level_up_floor_checker.rb" timestamp="1544514761457">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/ansible/roles/svn/files/subversion.conf" timestamp="1535975456135">
         <mark key="'" line="2" column="19" />
@@ -1365,8 +1367,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_custom_floor.rb" timestamp="1543233866192">
         <mark key="'" line="52" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/unstable.rb" timestamp="1542699424208">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/unstable.rb" timestamp="1544515188981">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="100" />
         <mark key="." line="54" column="0" />
@@ -2037,8 +2039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/pack_item.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/billing_pack.md" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/billing_pack.md" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/billing_pack_group.proto" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/billing_pack_group.md" />
@@ -2137,43 +2137,45 @@
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="9" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/mission_checker/count_of_level_up_floor_checker.rb" />
       <jump line="10" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/mission_checker/count_of_level_up_floor_checker.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/development.rb" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/unstable.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>userZ_off</text>
+        <text>iden</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z2V0X2FuZF9zYXZlKCJ3ZWJ2aWV3L2Fzc2V0cy9jb21tb24vY3NzL3NwLmNzcyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">YXNzZXRzL2NvbW1vbi9jc3Mvc3AuY3NzCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>https://dev-mt.dc.xflag.com/
 https://dev-mt.dc.xflag.com/
 https://dev-mt.dc.xflag.com/</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>entry = get
 entry = get</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">RmlsZS5vcGVuKCJ3ZWJ2aWV3L2Fzc2V0cy9jb21tb24vanMvbGlicy9zbGljay5jc3MiLCAidyIpIHsgfGZ8IGYucHV0cyhlbnRyeS5ib2R5KSB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">RmlsZS5vcGVuKCJ3ZWJ2aWV3L2Fzc2V0cy9jb21tb24vanMvbGlicy9zbGljay5jc3MiLCAidyIpIHsgfGZ8IGYucHV0cyhlbnRyeS5ib2R5KSB9Cg==</text>
@@ -2186,9 +2188,9 @@ entry = get</text>
       </register>
     </registers>
     <search>
-      <last-search>userZ_off</last-search>
+      <last-search>iden</last-search>
       <last-offset />
-      <last-pattern>userZ_off</last-pattern>
+      <last-pattern>iden</last-pattern>
       <last-replace>user</last-replace>
       <last-substitute>@user</last-substitute>
       <last-dir>1</last-dir>
@@ -2196,7 +2198,6 @@ entry = get</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkcmF3X2FzX25vcm1hbFw+</entry>
         <entry>import</entry>
         <entry>availables</entry>
         <entry encoding="base64">XDxkZWNyeXB0XD4=</entry>
@@ -2216,6 +2217,7 @@ entry = get</text>
         <entry>full</entry>
         <entry encoding="base64">XDx0YXJnZXRfdXNlcl9mbG9vclw+</entry>
         <entry>userZ_off</entry>
+        <entry>iden</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
