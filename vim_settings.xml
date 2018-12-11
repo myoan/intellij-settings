@@ -342,6 +342,12 @@
         <mark key="^" line="9" column="100" />
         <mark key="." line="33" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/test/library_test.rb" timestamp="1544523843123">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char_score_record.rb" timestamp="1544158925888">
         <mark key="'" line="54" column="4" />
       </file>
@@ -2385,11 +2391,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader.rb" timestamp="1544256985512">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader.rb" timestamp="1544523408941">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/config/deploy.rb" timestamp="1544427732367">
         <mark key="'" line="508" column="12" />
@@ -2633,6 +2638,10 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/test/lambda_uploader_test.rb" timestamp="1544523465674">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="2" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_37.rb" timestamp="1539663166685">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="3" />
@@ -2772,43 +2781,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYW5ub3VuY2VtZW50cyA9IHN1YmplY3RbOmFubm91bmNlbWVudHNdKS50byBiZV9raW5kX29mIEFycmF5IH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVxdWlyZSAidGVzdF9oZWxwZXIiCgpjbGFzcyBMYW1iZGFVcGxvYWRlclRlc3QgPCBNaW5pdGVzdDo6VGVzdAogIGRlZiB0ZXN0X3RoYXRfaXRfaGFzX2FfdmVyc2lvbl9udW1iZXIKICAgIHJlZnV0ZV9uaWwgOjpMYW1iZGFVcGxvYWRlcjo6VkVSU0lPTgogIGVuZAoKICBkZWYgdGVzdF9pdF9kb2VzX3NvbWV0aGluZ191c2VmdWwKICAgIGFzc2VydCBmYWxzZQogIGVuZAplbmQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgdGVzdF90aGF0X2l0X2hhc19hX3ZlcnNpb25fbnVtYmVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZnV0ZV9uaWwgOjpMYW1iZGFVcGxvYWRlcjo6VkVSU0lPTgogIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGl0IHsgZXhwZWN0KHN1YmplY3RbOmFubm91bmNlbWVudHNdKS50byBiZV9raW5kX29mIEFycmF5IH0KICAgIGl0IHsgZXhwZWN0KHN1YmplY3RbOmFubm91bmNlbWVudHNdLm1hcCB7IHxhbm5vdW5jZXwgYW5ub3VuY2VbOmlkXSB9KS50byBtYXRjaF9hcnJheSBpbl9zZXNzaW9uX2Fubm91bmNlbWVudHMubWFwKCY6aWQpIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyAiZGlmZjogI3tUaW1lLmN1cnJlbnQudG9fZiAtIGJ9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYiA9IFRpbWUuY3VycmVudC50b19mCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCg6aW5fc2Vzc2lvbl9hbm5vdW5jZW1lbnRzKSAgICAgICB7IEZhY3RvcnlCb3QuY3JlYXRlX2xpc3QoOmFubm91bmNlbWVudCwgMywgOmluX3Nlc3Npb24sIG5vdzogdGltZSkgfQogICAgbGV0KDpiZWZvcmVfc2Vzc2lvbl9hbm5vdW5jZW1lbnRzKSAgIHsgRmFjdG9yeUJvdC5jcmVhdGVfbGlzdCg6YW5ub3VuY2VtZW50LCAzLCA6YmVmb3JlX3Nlc3Npb25fd2l0aGluX3NhbWVfZGF5LCBub3c6IHRpbWUpIH0KICAgIGxldCg6b3V0X29mX3Nlc3Npb25fYW5ub3VuY2VtZW50cykgICB7IEZhY3RvcnlCb3QuY3JlYXRlX2xpc3QoOmFubm91bmNlbWVudCwgMywgOmFmdGVyX3Nlc3Npb25fd2l0aGluX3NhbWVfZGF5LCBub3c6IHRpbWUpIH0KICAgIGxldCg6ZGlzYWJsZWRfc2Vzc2lvbl9hbm5vdW5jZW1lbnRzKSB7IEZhY3RvcnlCb3QuY3JlYXRlX2xpc3QoOmFubm91bmNlbWVudCwgMywgZW5hYmxlZDogZmFsc2UsIG5vdzogdGltZSkgfQo=</text>
+        <text encoding="base64">ICAgIGl0IHsgZXhwZWN0KHN1YmplY3RbOmFubm91bmNlbWVudHNdKS50byBiZV9raW5kX29mIEFycmF5IH0KICAgIGl0IHsgZXhwZWN0KHN1YmplY3RbOmFubm91bmNlbWVudHNdLm1hcCB7IHxhbm5vdW5jZXwgYW5ub3VuY2VbOmlkXSB9KS50byBtYXRjaF9hcnJheSBpbl9zZXNzaW9uX2Fubm91bmNlbWVudHMubWFwKCY6aWQpIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyAiZGlmZjogI3tUaW1lLmN1cnJlbnQudG9fZiAtIGJ9Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
