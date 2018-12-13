@@ -585,11 +585,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/bin/test.rb" timestamp="1544690817628">
-        <mark key="[" line="6" column="63" />
-        <mark key="]" line="6" column="63" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/bin/test.rb" timestamp="1544691314102">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="63" />
-        <mark key="." line="6" column="63" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lib/macaron_bot/aws/ecs.rb" timestamp="1544607730467">
         <mark key="'" line="22" column="0" />
@@ -2872,8 +2872,8 @@
       <jump line="222" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs/task_definitions.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgZXhlYyBgcnN5bmMgLXZ2IC1heiAtZSAic3NoIC1wIDIyIC1pICN7QGtleV9wYXRofSIgI3tzcmN9ICN7ZHN0fWAK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -2885,31 +2885,31 @@
         <text encoding="base64">ICAgIGV4ZWMgYHJzeW5jIC12diAtYXogLWUgInNzaCAtcCAyMiAtaSAje0BrZXlfcGF0aH0iICN7c3JjfSAje2RzdH1gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHV0cyAiaGVsbG8sIHdvcmxkIgo=</text>
+        <text encoding="base64">ICAgICMgZXhlYyBgcnN5bmMgLXZ2IC1heiAtZSAic3NoIC1wIDIyIC1pICN7QGtleV9wYXRofSIgI3tzcmN9ICN7ZHN0fWAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">cHV0cyAiaGVsbG8sIHdvcmxkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleGVjIGAgcnN5bmMgLXZ2IC1heiAtZSAic3NoIC1wIDIyIC1pIC9Vc2Vycy9tb3Rva2kueW9hbi9kZXYvc3JjL2dpdGh1Yi5jb20vbW9uc3RlcnN0cmlrZS9tYWNhcm9uLW9wcy9lYzIiIGVjMi11c2VyQDUyLjE5Mi44OC4yMzg6L2RhdGEvZmlsZS9zdGF0aWMgLmAK</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHJzeW5jKHNyYywgZHN0KQogICMgcnN5bmMgLXZ2IC1heiAtZSAic3NoIC1wIDIyIC1pIC9Vc2Vycy9tb3Rva2kueW9hbi9kZXYvc3JjL2dpdGh1Yi5jb20vbW9uc3RlcnN0cmlrZS9tYWNhcm9uLW9wcy9lYzIiIGVjMi11c2VyQDUyLjE5Mi44OC4yMzg6L2RhdGEvZmlsZS9zdGF0aWMgLgo=</text>
+        <text encoding="base64">ICBleGVjIGAgcnN5bmMgLXZ2IC1heiAtZSAic3NoIC1wIDIyIC1pIC9Vc2Vycy9tb3Rva2kueW9hbi9kZXYvc3JjL2dpdGh1Yi5jb20vbW9uc3RlcnN0cmlrZS9tYWNhcm9uLW9wcy9lYzIiIGVjMi11c2VyQDUyLjE5Mi44OC4yMzg6L2RhdGEvZmlsZS9zdGF0aWMgLmAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHJzeW5jKHNyYywgZHN0KQogICMgcnN5bmMgLXZ2IC1heiAtZSAic3NoIC1wIDIyIC1pIC9Vc2Vycy9tb3Rva2kueW9hbi9kZXYvc3JjL2dpdGh1Yi5jb20vbW9uc3RlcnN0cmlrZS9tYWNhcm9uLW9wcy9lYzIiIGVjMi11c2VyQDUyLjE5Mi44OC4yMzg6L2RhdGEvZmlsZS9zdGF0aWMgLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUm9vbQplbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
