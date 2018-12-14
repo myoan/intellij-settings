@@ -585,11 +585,11 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/bin/test.rb" timestamp="1544691314102">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="63" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/bin/test.rb" timestamp="1544752699242">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lib/macaron_bot/aws/ecs.rb" timestamp="1544607730467">
         <mark key="'" line="22" column="0" />
@@ -2872,11 +2872,11 @@
       <jump line="222" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs/task_definitions.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgZXhlYyBgcnN5bmMgLXZ2IC1heiAtZSAic3NoIC1wIDIyIC1pICN7QGtleV9wYXRofSIgI3tzcmN9ICN7ZHN0fWAK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>command</text>
