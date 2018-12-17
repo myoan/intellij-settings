@@ -109,8 +109,8 @@
         <mark key="^" line="34" column="4" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/lets_lunch.rb" timestamp="1544603067446">
-        <mark key="'" line="26" column="2" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/lets_lunch.rb" timestamp="1545041516087">
+        <mark key="'" line="46" column="0" />
         <mark key="[" line="39" column="55" />
         <mark key="]" line="39" column="60" />
         <mark key="." line="39" column="60" />
@@ -176,11 +176,6 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_char.rb" timestamp="1544002207651">
         <mark key="'" line="74" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/cli.rb" timestamp="1544795419111">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Dockerfile" timestamp="1540522795538">
         <mark key="'" line="9" column="0" />
@@ -2836,7 +2831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
       <jump line="125" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
       <jump line="3003" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/aws-sdk-ecs-1.26.0/lib/aws-sdk-ecs/client.rb" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
@@ -2936,6 +2930,7 @@
       <jump line="14" column="43" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/rsync.rb" />
       <jump line="20" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/rsync.rb" />
       <jump line="6" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/docker-compose.yml" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/lets_lunch.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
