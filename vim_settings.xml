@@ -1582,6 +1582,13 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/docker-compose.yml" timestamp="1545039378886">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="69" />
+        <mark key="^" line="8" column="69" />
+        <mark key="." line="8" column="69" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/sales_event_group_condition_mission.rb" timestamp="1537253255929">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="45" />
@@ -2829,7 +2836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
       <jump line="50" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
       <jump line="125" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
       <jump line="3003" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/aws-sdk-ecs-1.26.0/lib/aws-sdk-ecs/client.rb" />
@@ -2929,6 +2935,7 @@
       <jump line="10" column="73" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/rsync.rb" />
       <jump line="14" column="43" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/rsync.rb" />
       <jump line="20" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/rsync.rb" />
+      <jump line="6" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
