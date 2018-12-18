@@ -1554,12 +1554,12 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/cli.rb" timestamp="1545036143882">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/cli.rb" timestamp="1545102204876">
         <mark key="'" line="11" column="19" />
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="28" column="35" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/api_spec.rb" timestamp="1542950380811">
         <mark key="[" line="1" column="28" />
@@ -1978,12 +1978,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" timestamp="1545043897483">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="7" column="61" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" timestamp="1545102679140">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer4.rb" timestamp="1537956682079">
         <mark key="'" line="9" column="6" />
@@ -2914,44 +2914,44 @@
       <jump line="63" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>secrets</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IjQiLCIxMDAwMDQiLCLjgrbjgrPph43oppZNQVA0IiwiMiIsIjE4IiwiNTAwIgo=</text>
+        <text encoding="base64">ICAgICAgICAiPT09IGV4ZWMgPT09Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IjQiLCIxMDAwMDQiLCLjgrbjgrPph43oppZNQVA1IiwiMiIsIjE4IiwiNTAwIgoiNCIsIjEwMDAwNCIsIuOCtuOCs+mHjeimlk1BUDYiLCIyIiwiMTgiLCI1MDAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgb2JqZWN0LmtleQogICAgICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBAczMuYnVja2V0cy5jb250ZW50cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kID0gInJzeW5jICN7IGRyeV9ydW4gPyAnLS1kcnktcnVuJyA6ICcnIH0gLWF6IC1lIFwic3NoIC1wIDIyIC1pIC4vaWQucGVtXCIgI3tAY29uZmlnWzp1c2VybmFtZV19QCN7QGNvbmZpZ1s6aG9zdF19OiN7c3JjfSAje2RzdH0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOmFjY2Vzc19rZXlfaWQgICAgID0+ICd4eHh4eHgnLAogICAgICAgICAgICA6c2VjcmV0X2FjY2Vzc19rZXkgPT4gJ3h4eHh4eCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwIHN0YXR1cwo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9iaiAgPSBAczMuYnVja2V0KEBjb25maWdbOmJ1Y2tldF0pLm9iamVjdChwYXRoKQogICAgICAgICAgb2JqLnVwbG9hZF9maWxlKGZpbGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIHN0YXR1cy50b19pCg==</text>
+        <text encoding="base64">ICAgICAgICBwIGxpc3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHB1dHMgb2JqZWN0LmtleQogICAgICAgIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICBiaiAgPSBAczMuYnVja2V0KEBjb25maWdbOmJ1Y2tldF0pLm9iamVjdChwYXRoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwIHN0YXR1cwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIDpkZXN0cm95CiAgICAgICAgICBDb21tYW5kOjpVcGxvYWQubmV3KEBjb25maWcpLmV4ZWMhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3008,8 +3008,8 @@
         <entry>wq</entry>
         <entry>%s/secrets/@config/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
