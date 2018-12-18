@@ -695,7 +695,7 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545044889976">
+      <file name="/Dummy.txt" timestamp="1545130539395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -1737,7 +1737,6 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/lita_config_local.rb" timestamp="1545037848074" />
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_orbs_schema.rb" timestamp="1540368185500">
         <mark key="'" line="3" column="2" />
         <mark key="[" line="0" column="90" />
@@ -1987,12 +1986,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" timestamp="1545124499267">
-        <mark key="'" line="38" column="26" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" timestamp="1545130610917">
+        <mark key="'" line="41" column="24" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="9" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="20" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer4.rb" timestamp="1537956682079">
         <mark key="'" line="9" column="6" />
@@ -2821,9 +2820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/terraform/modules/codepipeline_rails/pipeline.tf" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" />
       <jump line="2" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" />
       <jump line="6" column="25" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/lambda_uploader/lib/lambda_uploader/cli.rb" />
@@ -2921,46 +2917,49 @@
       <jump line="33" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/upload.rb" />
       <jump line="16" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/cli.rb" />
+      <jump line="13" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" />
+      <jump line="45" column="35" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" />
+      <jump line="41" column="24" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaXIgICAgICAgICA9IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>&quot;#{File.basename(@source)}/**/*&quot;</text>
       </register>
       <register name="/" type="4">
         <text>secrets</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5leHQgaWYgb2JqLmV0YWcuZGVsZXRlKCciJykgPT0gRGlnZXN0OjpNRDUuZmlsZShmaWxlKS50b19zCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgIHBhdGggPSBGaWxlLmpvaW4oRmlsZS5kaXJuYW1lKEBzb3VyY2UpLCBmaWxlKS5nc3ViKCVye14vZGF0YS9maWxlL3N0YXRpYy99LCAiIikKICAgICAgICAgIG9iaiAgPSBzM19vYmplY3RzLmZpbmQgeyB8b3wgby5rZXkgPT0gcGF0aCB9CiAgICAgICAgICB1bmxlc3Mgb2JqLm5pbD8KICAgICAgICAgICAgZXhpc3RfZmlsZXMgPDwgb2JqCiAgICAgICAgICAgIHB1dHMgb2JqLmV0YWcuZGVsZXRlKCciJykKICAgICAgICAgICAgcHV0cyBEaWdlc3Q6Ok1ENS5maWxlKGZpbGUpLnRvX3MKICAgICAgICAgICAgbmV4dCB1bmxlc3MgY2hhbmdlZD8ob2JqLCBmaWxlKQogICAgICAgICAgZW5kCiAgICAgICAgICBwdXRzICJ1cGxvYWQ6ICN7cGF0aH0iCiAgICAgICAgICBAY2xpZW50LnB1dF9vYmplY3QoCiAgICAgICAgICAgICAgYnVja2V0OiBAY29uZmlnWzpidWNrZXRdLAogICAgICAgICAgICAgIGtleTogICAgcGF0aCwKICAgICAgICAgICAgICBib2R5OiAgIEZpbGUucmVhZChmaWxlKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaXIgICAgICAgICA9IAo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdXRzIGRpcm5hbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAicHJ5Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgRGlnZXN0OjpNRDUuZmlsZShmaWxlKS50b19zCiAgICAgICAgICBuZXh0IHVubGVzcyBjaGFuZ2VkPyhvYmosIGZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgb2JqLmV0YWcuZGVsZXRlKCciJykK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICMgcGF0aCA9IEZpbGUuam9pbihGaWxlLmRpcm5hbWUoQHNvdXJjZSksIGZpbGUpLmdzdWIoJXJ7Xi9kYXRhL2ZpbGUvc3RhdGljL30sICIiKQogICAgICAgICAgIyBvYmogID0gczNfb2JqZWN0cy5maW5kIHsgfG98IG8ua2V5ID09IHBhdGggfQogICAgICAgICAgIyB1bmxlc3Mgb2JqLm5pbD8KICAgICAgICAgICMgICBleGlzdF9maWxlcyA8PCBvYmoKICAgICAgICAgICMgICBwdXRzIG9iai5ldGFnLmRlbGV0ZSgnIicpCiAgICAgICAgICAjICAgcHV0cyBEaWdlc3Q6Ok1ENS5maWxlKGZpbGUpLnRvX3MKICAgICAgICAgICMgICBuZXh0IHVubGVzcyBjaGFuZ2VkPyhvYmosIGZpbGUpCiAgICAgICAgICAjIGVuZAogICAgICAgICAgIyBwdXRzICJ1cGxvYWQ6ICN7cGF0aH0iCiAgICAgICAgICAjIEBjbGllbnQucHV0X29iamVjdCgKICAgICAgICAgICMgICAgIGJ1Y2tldDogQGNvbmZpZ1s6YnVja2V0XSwKICAgICAgICAgICMgICAgIGtleTogICAgcGF0aCwKICAgICAgICAgICMgICAgIGJvZHk6ICAgRmlsZS5yZWFkKGZpbGUpKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4aXN0X2ZpbGVzIDw8IG9iago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1dHMgcGF0aAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAoczNfb2JqZWN0cyAtIGV4aXN0X2ZpbGVzKS5lYWNoIGRvIHxvYmp8CiAgICAgICAgICBwdXRzICJkZWxldGU6ICN7b2JqLmtleX0iCiAgICAgICAgICAjIEBjbGllbnQuZGVsZXRlX29iamVjdCgKICAgICAgICAgICMgICAgIGJ1Y2tldDogQGNvbmZpZ1s6YnVja2V0XSwKICAgICAgICAgICMgICAgIGtleTogICAgb2JqLmtleSkKICAgICAgICBlbmQ=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIGRpcgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHV0cyAiY3JlYXRlOiAje3BhdGh9Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
