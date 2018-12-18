@@ -142,11 +142,6 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/docker/Dockerfile.rails" timestamp="1544596794487">
-        <mark key="'" line="30" column="19" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="72" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_char_score_record_spec.rb" timestamp="1544163530630">
         <mark key="'" line="101" column="13" />
         <mark key="[" line="109" column="0" />
@@ -417,11 +412,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="43" column="4" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/dev_scene_spec.rb" timestamp="1544603855857">
-        <mark key="'" line="91" column="6" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="56" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/service_spec.rb" timestamp="1535374115918">
         <mark key="'" line="23" column="6" />
@@ -1839,11 +1829,6 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage_enemy.proto" timestamp="1542883608179">
         <mark key="'" line="54" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile.lock" timestamp="1545022409404">
-        <mark key="'" line="437" column="2" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/app/models/event_data_extension.rb" timestamp="1543029670969">
         <mark key="'" line="7" column="11" />
       </file>
@@ -1888,8 +1873,8 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" timestamp="1544688158930">
-        <mark key="'" line="27" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" timestamp="1545094614643">
+        <mark key="'" line="63" column="0" />
         <mark key="[" line="309" column="0" />
         <mark key="]" line="309" column="0" />
         <mark key="." line="309" column="0" />
@@ -2827,7 +2812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
       <jump line="3003" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/aws-sdk-ecs-1.26.0/lib/aws-sdk-ecs/client.rb" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
       <jump line="86" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/cli.rb" />
@@ -2927,6 +2911,7 @@
       <jump line="20" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/rsync.rb" />
       <jump line="6" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/docker-compose.yml" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/lets_lunch.rb" />
+      <jump line="63" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
