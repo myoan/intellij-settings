@@ -1282,6 +1282,12 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1545184034009">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_model.rb" timestamp="1539053981522">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="15" />
@@ -1562,12 +1568,12 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/cli.rb" timestamp="1545120117867">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/cli.rb" timestamp="1545184593443">
         <mark key="'" line="13" column="8" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="7" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/protobuf/language/csharp/api_spec.rb" timestamp="1542950380811">
         <mark key="[" line="1" column="28" />
@@ -2923,10 +2929,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXIgICAgICAgICA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;#{File.basename(@source)}/**/*&quot;</text>
+        <text>い</text>
       </register>
       <register name="/" type="4">
         <text>secrets</text>
@@ -2935,31 +2941,31 @@
         <text encoding="base64">ICAgICAgICAgIHBhdGggPSBGaWxlLmpvaW4oRmlsZS5kaXJuYW1lKEBzb3VyY2UpLCBmaWxlKS5nc3ViKCVye14vZGF0YS9maWxlL3N0YXRpYy99LCAiIikKICAgICAgICAgIG9iaiAgPSBzM19vYmplY3RzLmZpbmQgeyB8b3wgby5rZXkgPT0gcGF0aCB9CiAgICAgICAgICB1bmxlc3Mgb2JqLm5pbD8KICAgICAgICAgICAgZXhpc3RfZmlsZXMgPDwgb2JqCiAgICAgICAgICAgIHB1dHMgb2JqLmV0YWcuZGVsZXRlKCciJykKICAgICAgICAgICAgcHV0cyBEaWdlc3Q6Ok1ENS5maWxlKGZpbGUpLnRvX3MKICAgICAgICAgICAgbmV4dCB1bmxlc3MgY2hhbmdlZD8ob2JqLCBmaWxlKQogICAgICAgICAgZW5kCiAgICAgICAgICBwdXRzICJ1cGxvYWQ6ICN7cGF0aH0iCiAgICAgICAgICBAY2xpZW50LnB1dF9vYmplY3QoCiAgICAgICAgICAgICAgYnVja2V0OiBAY29uZmlnWzpidWNrZXRdLAogICAgICAgICAgICAgIGtleTogICAgcGF0aCwKICAgICAgICAgICAgICBib2R5OiAgIEZpbGUucmVhZChmaWxlKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXIgICAgICAgICA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIGRpcm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICBkaXIgICAgICAgICA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSAicHJ5Igo=</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIGRpcm5hbWUK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">cmVxdWlyZSAicHJ5Igo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICMgcGF0aCA9IEZpbGUuam9pbihGaWxlLmRpcm5hbWUoQHNvdXJjZSksIGZpbGUpLmdzdWIoJXJ7Xi9kYXRhL2ZpbGUvc3RhdGljL30sICIiKQogICAgICAgICAgIyBvYmogID0gczNfb2JqZWN0cy5maW5kIHsgfG98IG8ua2V5ID09IHBhdGggfQogICAgICAgICAgIyB1bmxlc3Mgb2JqLm5pbD8KICAgICAgICAgICMgICBleGlzdF9maWxlcyA8PCBvYmoKICAgICAgICAgICMgICBwdXRzIG9iai5ldGFnLmRlbGV0ZSgnIicpCiAgICAgICAgICAjICAgcHV0cyBEaWdlc3Q6Ok1ENS5maWxlKGZpbGUpLnRvX3MKICAgICAgICAgICMgICBuZXh0IHVubGVzcyBjaGFuZ2VkPyhvYmosIGZpbGUpCiAgICAgICAgICAjIGVuZAogICAgICAgICAgIyBwdXRzICJ1cGxvYWQ6ICN7cGF0aH0iCiAgICAgICAgICAjIEBjbGllbnQucHV0X29iamVjdCgKICAgICAgICAgICMgICAgIGJ1Y2tldDogQGNvbmZpZ1s6YnVja2V0XSwKICAgICAgICAgICMgICAgIGtleTogICAgcGF0aCwKICAgICAgICAgICMgICAgIGJvZHk6ICAgRmlsZS5yZWFkKGZpbGUpKQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAoczNfb2JqZWN0cyAtIGV4aXN0X2ZpbGVzKS5lYWNoIGRvIHxvYmp8CiAgICAgICAgICBwdXRzICJkZWxldGU6ICN7b2JqLmtleX0iCiAgICAgICAgICAjIEBjbGllbnQuZGVsZXRlX29iamVjdCgKICAgICAgICAgICMgICAgIGJ1Y2tldDogQGNvbmZpZ1s6YnVja2V0XSwKICAgICAgICAgICMgICAgIGtleTogICAgb2JqLmtleSkKICAgICAgICBlbmQ=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0cyAiY3JlYXRlOiAje3BhdGh9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
