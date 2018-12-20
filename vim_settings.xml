@@ -1137,12 +1137,12 @@
         <mark key="." line="363" column="44" />
         <mark key="^" line="363" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" timestamp="1545300448170">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_group_spec.rb" timestamp="1545302497493">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="277" column="48" />
-        <mark key="]" line="278" column="114" />
-        <mark key="." line="278" column="114" />
-        <mark key="^" line="278" column="114" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
+        <mark key="^" line="235" column="34" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_defense_log_spec.rb" timestamp="1544518839985">
         <mark key="[" line="102" column="106" />
@@ -2733,43 +2733,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>available</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnRleHQgIndoZW4gbm90IHNhdGlzZnkgYmF0dGxlX2NvdW50IiBkbwo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgIiIgZG8KICAgICAgaXQgeyBleHBlY3QodHJ1ZSkudG8gYmUgdHJ1ZSB9CiAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dCAiIiBkbwogICAgICAgICAgICAgICAgICAgICAgICAgIGl0IHsgZXhwZWN0KHRydWUpLnRvIGJlIHRydWUgfQogICAgICAgICAgICAgICAgICAgICAgICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzYWxlc2V2ZW50Z291Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0ICIiIGRvCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpdCB7IGV4cGVjdCh0cnVlKS50byBiZSB0cnVlIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzYWxlc2V2ZW50Z291Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQgIiIgZG8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXQgeyBleHBlY3QodHJ1ZSkudG8gYmUgdHJ1ZSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2826,8 +2826,8 @@
         <entry>144</entry>
         <entry>128</entry>
         <entry>420</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
