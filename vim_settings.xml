@@ -650,7 +650,7 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545303963799">
+      <file name="/Dummy.txt" timestamp="1545307336876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -2322,8 +2322,8 @@
         <mark key="^" line="34" column="9" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" timestamp="1545300179757">
-        <mark key="'" line="37" column="47" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" timestamp="1545306702131">
+        <mark key="'" line="133" column="2" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
@@ -2335,12 +2335,12 @@
         <mark key="^" line="112" column="16" />
         <mark key="." line="112" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" timestamp="1545300271568">
-        <mark key="'" line="482" column="8" />
-        <mark key="[" line="507" column="0" />
-        <mark key="]" line="507" column="0" />
-        <mark key="^" line="507" column="0" />
-        <mark key="." line="507" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" timestamp="1545307335128">
+        <mark key="'" line="423" column="10" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="481" column="83" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/result_code.md" timestamp="1543207200395">
         <mark key="'" line="137" column="0" />
@@ -2630,10 +2630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
-      <jump line="318" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/test" />
-      <jump line="33" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/upload.rb" />
       <jump line="16" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/cli.rb" />
       <jump line="13" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/uploader.rb" />
@@ -2730,63 +2726,66 @@
       <jump line="19" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
       <jump line="18" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
       <jump line="103" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_group.rb" />
+      <jump line="133" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
+      <jump line="481" column="83" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" />
+      <jump line="433" column="70" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" />
+      <jump line="423" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2FsZXNfZXZlbnRfZ3JvdXBfY29uZGl0aW9uX2JhdHRsZV9zdGF0dXNfY29udGludW91c19jb3VudGVycywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCQVRUTEVfU1RBVFVTX0NPTlRJTlVPVVNfQ09VTlRFUlw+</text>
+        <text>battle_result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgICAgICAgICAgICAgYmVmb3JlIHsgYWxsb3dfYW55X2luc3RhbmNlX29mKFNhbGVzRXZlbnRHcm91cCkudG8gcmVjZWl2ZSg6d2luX2xvdHRlcnk/KS5hbmRfcmV0dXJuKHRydWUpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2FsZXNfZXZlbnRfZ3JvdXBfY29uZGl0aW9uX2JhdHRsZV9zdGF0dXNfY29udGludW91c19jb3VudGVycywK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0X2JlaGF2ZXNfbGlrZSAicmVsZWFzZSBzYWxlc19ldmVudF9ncm91cCIK</text>
+        <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZSB0cnVlIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpdF9iZWhhdmVzX2xpa2UgInJlbGVhc2Ugc2FsZXNfZXZlbnRfZ3JvdXAiCgo=</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgIndoZW4gaGFzIHNhbGVzX2V2ZW50X2dyb3VwX2NvbmRpdGlvbl9iYXR0bGVfc3RhdHVzX2NvbnRpbnVvdXNfY291bnRlcnMiIGRvCiAgICAgIGxldCg6c2FsZXNfZXZlbnRfZ3JvdXApIHsgRmFjdG9yeUJvdC5jcmVhdGUoOnNhbGVzX2V2ZW50X2dyb3VwLCA6d2l0aF9iYXR0bGVfc3RhdHVzX2NvbnRpbnVvdXNfY291bnRlcl9jb25kKSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0X2JlaGF2ZXNfbGlrZSAibm90IHJlbGVhc2Ugc2FsZXNfZXZlbnRfZ3JvdXAiCg==</text>
+        <text encoding="base64">ICAgICAgc2FsZXNfZXZlbnRfZ3JvdXBfY29uZGl0aW9uX2JhdHRsZV9zdGF0dXNfY29udGludW91c19jb3VudGVycywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0X2JlaGF2ZXNfbGlrZSAicmVsZWFzZSBzYWxlc19ldmVudF9ncm91cCIKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIGl0X2JlaGF2ZXNfbGlrZSAicmVsZWFzZSBzYWxlc19ldmVudF9ncm91cCIK</text>
+        <text encoding="base64">ICAgICAgICAgIGl0X2JlaGF2ZXNfbGlrZSAicmVsZWFzZSBzYWxlc19ldmVudF9ncm91cCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpdF9iZWhhdmVzX2xpa2UgInJlbGVhc2Ugc2FsZXNfZXZlbnRfZ3JvdXAiCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudDogY291bnRlci5jb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGl0X2JlaGF2ZXNfbGlrZSAibm90IHJlbGVhc2Ugc2FsZXNfZXZlbnRfZ3JvdXAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCQVRUTEVfU1RBVFVTX0NPTlRJTlVPVVNfQ09VTlRFUlw+</last-search>
+      <last-search>battle_result</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCQVRUTEVfU1RBVFVTX0NPTlRJTlVPVVNfQ09VTlRFUlw+</last-pattern>
-      <last-replace>@config</last-replace>
-      <last-substitute>secrets</last-substitute>
+      <last-pattern>battle_result</last-pattern>
+      <last-replace>battle_status</last-replace>
+      <last-substitute>battle_result</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>option</entry>
         <entry>secrets</entry>
         <entry encoding="base64">XDxjb25zdW1lX3N0YW1pbmFfb3BlcmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RfZXZlbnRzXD4=</entry>
@@ -2806,9 +2805,9 @@
         <entry>available</entry>
         <entry>sales_event_group</entry>
         <entry encoding="base64">XDxCQVRUTEVfU1RBVFVTX0NPTlRJTlVPVVNfQ09VTlRFUlw+</entry>
+        <entry>battle_result</entry>
       </history-search>
       <history-cmd>
-        <entry>32</entry>
         <entry>7</entry>
         <entry>205</entry>
         <entry>200</entry>
@@ -2827,6 +2826,7 @@
         <entry>128</entry>
         <entry>420</entry>
         <entry>W</entry>
+        <entry>%s/battle_result/battle_status/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
