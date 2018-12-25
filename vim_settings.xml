@@ -1397,6 +1397,12 @@
         <mark key="." line="777" column="0" />
         <mark key="^" line="772" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/upload.rb" timestamp="1545735072659">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/gacha_type.proto" timestamp="1536804788250">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="2" column="0" />
@@ -2423,10 +2429,10 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="24" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/storage/s3.rb" timestamp="1545731167581">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/storage/s3.rb" timestamp="1545735011232">
         <mark key="'" line="24" column="19" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="28" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="8" />
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
@@ -3029,16 +3035,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>open_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHVwbG9hZChfa2V5LCBfdmFsdWUpCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgogICAgICBlbmQK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBAY2xpZW50LnB1dF9vYmplY3QoCiAgICAgICAgICBidWNrZXQ6IGJ1Y2tldCwKICAgICAgICAgIGtleTogcGF0aCwKICAgICAgICAgIGJvZHk6IGRhdGEKICAgICAgICAp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBbXQo=</text>
