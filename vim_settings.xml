@@ -1657,8 +1657,8 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="39" column="115" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1545722498495">
-        <mark key="'" line="79" column="30" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1545732943944">
+        <mark key="'" line="67" column="19" />
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="19" />
         <mark key="." line="24" column="19" />
@@ -2467,8 +2467,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/railties-5.2.1/lib/rails/generators/actions/create_migration.rb" timestamp="1543222140093">
         <mark key="'" line="49" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_defense_map.rb" timestamp="1544160812085">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_defense_map.rb" timestamp="1545732473711">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="62" />
         <mark key="." line="2" column="0" />
@@ -2591,8 +2591,8 @@
         <mark key="^" line="34" column="9" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" timestamp="1545306702131">
-        <mark key="'" line="133" column="2" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" timestamp="1545732980225">
+        <mark key="'" line="135" column="0" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
@@ -2926,9 +2926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle_status_continuous_counter.rb" />
-      <jump line="59" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle_status_continuous_counter.rb" />
-      <jump line="44" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle_status_continuous_counter.rb" />
       <jump line="322" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_spec.rb" />
       <jump line="169" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
@@ -3026,6 +3023,9 @@
       <jump line="24" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/storage/s3.rb" />
       <jump line="100" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/sync_spec.rb" />
       <jump line="26" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/sync_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_defense_map.rb" />
+      <jump line="67" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3035,7 +3035,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mt</text>
+        <text>open_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVmIHVwbG9hZChfa2V5LCBfdmFsdWUpCiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcgogICAgICBlbmQK</text>
@@ -3072,9 +3072,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mt</last-search>
+      <last-search>open_</last-search>
       <last-offset />
-      <last-pattern>mt</last-pattern>
+      <last-pattern>open_</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3082,9 +3082,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVfYXZhaWxhYmxlX3RvX3NlbGVjdFw+</entry>
-        <entry encoding="base64">XDxzYXRpc2ZpZWRfYmF0dGxlX2NvdW50XD4=</entry>
-        <entry>battle_status</entry>
         <entry>BattleCounter</entry>
         <entry>SalesEvent</entry>
         <entry encoding="base64">XDx1cGRhdGVfYmF0dGxlX3N0YXR1c19jb250aW51b3VzX2NvdW50ZXJcPg==</entry>
@@ -3102,6 +3099,9 @@
         <entry>dst_storage</entry>
         <entry>s3</entry>
         <entry>mt</entry>
+        <entry>import</entry>
+        <entry encoding="base64">XDxkZWxldGVfbGlzdFw+</entry>
+        <entry>open_</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
