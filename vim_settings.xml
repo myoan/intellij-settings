@@ -2169,6 +2169,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer4.txt" timestamp="1545716014520">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_pack_groups_schema.rb" timestamp="1543044496535">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2767,11 +2773,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/s3.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICMgKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>battle_result</text>
