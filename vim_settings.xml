@@ -1045,12 +1045,12 @@
         <mark key="^" line="3" column="39" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/sync_spec.rb" timestamp="1545727694003">
-        <mark key="'" line="57" column="8" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="57" column="7" />
-        <mark key="." line="54" column="61" />
-        <mark key="^" line="54" column="61" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/sync_spec.rb" timestamp="1545729165793">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="23" column="13" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/api/user/login_response.proto" timestamp="1543910209182">
         <mark key="'" line="44" column="44" />
@@ -1173,11 +1173,11 @@
         <mark key="." line="47" column="112" />
         <mark key="^" line="47" column="112" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/sync.rb" timestamp="1545727443594">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="25" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/sync.rb" timestamp="1545728559024">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="29" />
+        <mark key="." line="14" column="29" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/parameter/battle_prepare.rb" timestamp="1534837036773">
         <mark key="'" line="49" column="0" />
@@ -1493,11 +1493,11 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/terraform/modules/codepipeline_rails/pipeline.tf" timestamp="1544598939513">
         <mark key="'" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/s3.rb" timestamp="1545726891566">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/s3.rb" timestamp="1545728195058">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/user_battle_status_continuous_counter.rb" timestamp="1537509631574">
         <mark key="[" line="1" column="11" />
@@ -3006,44 +3006,49 @@
       <jump line="56" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/sync_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgY29udGV4dCAid2hlbiBkZXN0aW5hdGlvbiBkb2VzIG5vdCBoYXZlIGZpbGUiIGRvCiAgICAgICAgaXQgImRvZXMgbm90aGluZ3MiIGRvCiAgICAgICAgICBleHBlY3RfYW55X2luc3RhbmNlX29mKE1hY2Fyb246OlN0YXRpY1NpdGU6OlMzKS5ub3RfdG8gcmVjZWl2ZSg6dXBsb2FkKQogICAgICAgICAgc3ViamVjdAogICAgICAgIGVuZAogICAgICBlbg==</text>
+      <register name="&quot;" type="8">
+        <text>r
+r</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>banner</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgY29udGV4dCAid2hlbiBkZXN0aW5hdGlvbiBkb2VzIG5vdCBoYXZlIGZpbGUiIGRvCiAgICAgICAgaXQgImRvZXMgbm90aGluZ3MiIGRvCiAgICAgICAgICBleHBlY3RfYW55X2luc3RhbmNlX29mKE1hY2Fyb246OlN0YXRpY1NpdGU6OlMzKS5ub3RfdG8gcmVjZWl2ZSg6dXBsb2FkKQogICAgICAgICAgc3ViamVjdAogICAgICAgIGVuZAogICAgICBlbg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxvdyhvYmopLnRvIHJlY2VpdmUoOnBhdGgpLmFuZF9yZXR1cm4oInBhdGgvdG8vZmlsZSIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>r
+r</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHMzLnVwbG9hZCgiIiwgIiIpCg==</text>
+      <register name="2" type="8">
+        <text>() receive
+() receive</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIAo=</text>
+      <register name="3" type="8">
+        <text>).to
+).to</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="8">
+        <text>allow(
+allow(</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYWxsb3dfYW55X2luc3RhbmNlX29mKE1hY2Fyb246OlN0YXRpY1NpdGU6OlMzKS50byByZWNlaXZlKDpsaXN0KS5hbmRfcmV0dXJuKFtdKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dCAid2hlbiBzMyBoYXMgb2xkIG9uZSIgZG8K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyBjb250ZXh0ICJ3aGVuIHMzIGRvZXMgbm90IGhhdmUgZmlsZSIgZG8K</text>
+        <text encoding="base64">ICAgICAgYWxsb3dfYW55X2luc3RhbmNlX29mKE1hY2Fyb246OlN0YXRpY1NpdGU6OlMzKS50byByZWNlaXZlKDpsaXN0KS5hbmRfcmV0dXJuKFtdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
