@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_ticket.rb" timestamp="1544002251187">
-        <mark key="'" line="57" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_ticket.rb" timestamp="1545812790255">
+        <mark key="'" line="66" column="17" />
         <mark key="[" line="32" column="4" />
         <mark key="]" line="32" column="4" />
         <mark key="." line="32" column="4" />
@@ -2938,7 +2938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="104" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="97" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="93" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
@@ -3038,6 +3037,7 @@
       <jump line="49" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="228" column="69" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" />
       <jump line="11" column="63" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_sales_event_spec.rb" />
+      <jump line="66" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_ticket.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3047,7 +3047,7 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>events</text>
+        <text encoding="base64">XDxjb3VudF9ieV9nb2xkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZXQoOmV2ZW50cykgeyBbZXZlbnRfMywgZXZlbnRfMSwgZXZlbnRfNSwgZXZlbnRfNCwgZXZlbnRfMl0gfQo=</text>
@@ -3087,9 +3087,9 @@
       </register>
     </registers>
     <search>
-      <last-search>events</last-search>
+      <last-search encoding="base64">XDxjb3VudF9ieV9nb2xkXD4=</last-search>
       <last-offset />
-      <last-pattern>events</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudF9ieV9nb2xkXD4=</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3097,7 +3097,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">cmVsZWFzZSA=</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVfc2FsZXNfZXZlbnRfZ3JvdXBzXD4=</entry>
         <entry>available</entry>
@@ -3117,6 +3116,7 @@
         <entry>product_type</entry>
         <entry>create_list</entry>
         <entry>events</entry>
+        <entry encoding="base64">XDxjb3VudF9ieV9nb2xkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/secrets/@config/g</entry>
