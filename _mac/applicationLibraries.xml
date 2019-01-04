@@ -1202,6 +1202,31 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/rakelib" />
       </excluded>
     </library>
+    <library name="rake (v10.5.0, rbenv: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/doc" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/test" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rake-10.5.0/rakelib" />
+      </excluded>
+    </library>
     <library name="rake (v12.3.0, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
