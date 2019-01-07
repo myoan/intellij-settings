@@ -717,7 +717,7 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546827145565">
+      <file name="/Dummy.txt" timestamp="1546830707874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -1567,12 +1567,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/terraform/modules/codepipeline_rails/pipeline.tf" timestamp="1544598939513">
         <mark key="'" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/s3.rb" timestamp="1546586248656">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/s3.rb" timestamp="1546830694902">
         <mark key="'" line="48" column="8" />
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
+        <mark key="[" line="62" column="18" />
+        <mark key="]" line="62" column="21" />
+        <mark key="." line="62" column="21" />
+        <mark key="^" line="62" column="21" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/user_battle_status_continuous_counter.rb" timestamp="1537509631574">
         <mark key="[" line="1" column="11" />
@@ -3147,11 +3147,11 @@
       <jump line="175" column="32" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/dc_maintenance.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVjc19ydW5fdGFzaygiZGMtZGV2IiwgIm9mZmljaWFsLXNpdGUtZGVwbG95Iiwgb3B0aW9uKQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrX2RlZmluaXRpb25fbmFtZVw+</text>
