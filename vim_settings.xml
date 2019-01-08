@@ -710,7 +710,7 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546946896367">
+      <file name="/Dummy.txt" timestamp="1546947252956">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -1190,12 +1190,11 @@
         <mark key="." line="48" column="80" />
         <mark key="^" line="48" column="80" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/sync.rb" timestamp="1546946388787">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="30" column="9" />
-        <mark key="." line="30" column="9" />
-        <mark key="^" line="30" column="9" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/sync.rb" timestamp="1546947282510">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/release.rb" timestamp="1546945511497">
         <mark key="'" line="29" column="10" />
@@ -3100,8 +3099,8 @@
       <jump line="225" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/2.5.0/monitor.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -3112,32 +3111,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIGFsbG93KG5vdF9yZWxlYXNlX29iaikudG8gcmVjZWl2ZSg6cmVsZWFzZSEpLmFuZF9yZXR1cm4obmlsKQo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCiAgICAgICAgIyBhbGxvdyhub3RfcmVsZWFzZV9vYmopLnRvIHJlY2VpdmUoOnJlbGVhc2UhKS5hbmRfcmV0dXJuKG5pbCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzICJob2dlIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYmVmb3JlIGRvCiAgICAgICAgIyBhbGxvdyhub3RfcmVsZWFzZV9vYmopLnRvIHJlY2VpdmUoOnJlbGVhc2UhKS5hbmRfcmV0dXJuKG5pbCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwdXRzICJob2dlIgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvdyhub3RfcmVsZWFzZV9vYmopLnRvIHJlY2VpdmUoOnJlbGVhc2UhKS5hbmRfcmV0dXJuKG5pbCkK</text>
+        <text encoding="base64">ICAgICAgICBtc2cK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoY21kKS50byByZWNlaXZlKDpwb3N0X3NsYWNrKS53aXRoKCJgZmlsZWAg44Gv5YWs6ZaL5riI44G/44Gn44GZ44CCIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
