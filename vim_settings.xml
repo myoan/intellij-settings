@@ -1610,6 +1610,12 @@
         <mark key="^" line="2" column="128" />
         <mark key="." line="2" column="128" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/containerOverrides.json" timestamp="1547186909339">
+        <mark key="[" line="4" column="71" />
+        <mark key="]" line="4" column="83" />
+        <mark key="^" line="4" column="83" />
+        <mark key="." line="4" column="83" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/special_stage_probability.md" timestamp="1542015963895">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="5" column="83" />
@@ -2832,10 +2838,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>dc-dev</text>
@@ -2844,31 +2850,31 @@
         <text encoding="base64">ICAgICAgICAgIGNtZCA8PCAiLS1kcnktcnVuIiBpZiBkcnlydW4KICAgICAgICAgIGNtZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJidW5kbGUgZXhlYyAuL2NvbnRhaW5lci9iaW4vc3RhdGljX3NpdGUgLS1maWxlICN7cGF0aH0gLWMgc3luYyAje2RyeXJ1biA/ICctLWRyeS1ydW4nIDogJyd9Ii5zdHJpcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiczM6Ly8vSHVtcHR5LmNvdW50LmVjcy50eHQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0ID0gb2Jqcy5maXJzdC5jbGFzcy5uZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJPVVRQVVQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmFpc2UgRXhtZXJnZXI6Ok5vdE1lcmdhYmxlRXJyb3IgdW5sZXNzIG9ianMuYWxsPyB7IHxvfCBvLmlzX2E/KG9ianMuZmlyc3QuY2xhc3MpIH0KICAgICAgcmFpc2UgRXhtZXJnZXI6Ok5vdE1lcmdhYmxlRXJyb3IgdW5sZXNzIG9ianMuYWxsPyB7IHxvfCBvLmNsYXNzLmluY2x1ZGU/KEV4bWVyZ2VyOjpNZXJnYWJsZSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG9ianMuZmlyc3QgaWYgb2Jqcy5zaXplID09IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGlmIG9ianMuc2l6ZSA9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJJTlBVVCIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogInMzOi8vL0h1bXB0eS50eHQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImVudmlyb25tZW50IjogWwogICAgICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICJidW5kbGUgZXhlYyAuL2NvbnRhaW5lci9iaW4vc3RhdGljX3NpdGUgLS1maWxlICN7cGF0aH0gLWMgc3luYyAje2RyeXJ1biA/ICctLWRyeS1ydW4nIDogJyd9Ii5zdHJpcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
