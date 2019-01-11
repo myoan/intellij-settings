@@ -1610,11 +1610,11 @@
         <mark key="^" line="2" column="128" />
         <mark key="." line="2" column="128" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/containerOverrides.json" timestamp="1547186909339">
-        <mark key="[" line="4" column="71" />
-        <mark key="]" line="4" column="83" />
-        <mark key="^" line="4" column="83" />
-        <mark key="." line="4" column="83" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/containerOverrides.json" timestamp="1547188975264">
+        <mark key="[" line="4" column="112" />
+        <mark key="]" line="4" column="123" />
+        <mark key="." line="4" column="123" />
+        <mark key="^" line="4" column="123" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/special_stage_probability.md" timestamp="1542015963895">
         <mark key="'" line="38" column="0" />
@@ -2838,43 +2838,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>dc-dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNtZCA8PCAiLS1kcnktcnVuIiBpZiBkcnlydW4KICAgICAgICAgIGNtZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvbW1hbmQiOiBbImJ1bmRsZSIsICJleGVjIiwgIi4vY29udGFpbmVyL2Jpbi9zdGF0aWNfc2l0ZSIsICItcyIsICIvZGF0YS9maWxlL3N0YXRpYyIsIi1jIiwgInN5bmMiLCAiLS1kcnktcnVuIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvbW1hbmQiOiBbImJ1bmRsZSIsICJleGVjIiwgIi4vY29udGFpbmVyL2Jpbi9zdGF0aWNfc2l0ZSIsICItcyIsICIvZGF0YS9maWxlL3N0YXRpYyIsIi1jIiwgInN5bmMiLCAiLS1kcnktcnVuIl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiczM6Ly8vSHVtcHR5LmNvdW50LmVjcy50eHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJPVVRQVVQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiczM6Ly8vSHVtcHR5LmNvdW50LmVjcy50eHQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJPVVRQVVQiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJJTlBVVCIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogInMzOi8vL0h1bXB0eS50eHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImVudmlyb25tZW50IjogWwogICAgICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibmFtZSI6ICJJTlBVVCIsCiAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogInMzOi8vL0h1bXB0eS50eHQiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJidW5kbGUgZXhlYyAuL2NvbnRhaW5lci9iaW4vc3RhdGljX3NpdGUgLS1maWxlICN7cGF0aH0gLWMgc3luYyAje2RyeXJ1biA/ICctLWRyeS1ydW4nIDogJyd9Ii5zdHJpcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImVudmlyb25tZW50IjogWwogICAgICAgICAgICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
