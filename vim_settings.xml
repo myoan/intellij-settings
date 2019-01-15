@@ -1388,8 +1388,12 @@
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1546570664060">
-        <mark key="'" line="10" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1547543475366">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="2" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_model.rb" timestamp="1539053981522">
         <mark key="[" line="0" column="12" />
@@ -3077,8 +3081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/site.rb" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/site.rb" />
       <jump line="25" column="35" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/spec/handlers/site_spec.rb" />
       <jump line="23" column="24" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/aws/ecs/service_params.rb" />
       <jump line="12" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle.rb" />
@@ -3177,13 +3179,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/master_data.yml" />
       <jump line="11" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/master_data.yml" />
       <jump line="206" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/master_data.yml" />
+      <jump line="56" column="36" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
+      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA6dXBsb2FkOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>更</text>
       </register>
       <register name="/" type="4">
         <text>billing</text>
@@ -3192,239 +3196,31 @@
         <text encoding="base64">ICAjIOacgOW+jOOBrueZuueUn+eiuueOhwogIHQuaW50ZWdlciAgOmxhc3RfcHJvYiwgICAgICAgICAgICAgIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA6dXBsb2FkOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSA6bmFtZTogcGFja19pdGVtcwo=</text>
+        <text encoding="base64">ICAtICjntpnntpopIFtmaXhdVXNlclNhbGVzRXZlbnRHcm91cC51cGRhdGVfYXZhaWxhYmxlX3RvX3NlbGVjdCEgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSA6bmFtZTogYmlsbGluZ19wYWNrcwogIDp1cGxvYWQ6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAtICjntpnntpopIOihjOWLleODreOCsOOBjOWPluOCjOOCi+OCiOOBhuOBqy9iYXR0bGUvZmluaXNo44KS5ouh5by1IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtICjntpnntpopIOODpuODvOOCtuOBruihjOWLleODreOCsOOCkiBiYXR0bGUgZmluaXNo44Gn6YCB44KM44KL44KI44GG44GrCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>---
-- :name: abilities
-  :upload: true
-- :name: ability_filters
-  :upload: true
-- :name: ability_filter_categories
-  :upload: true
-- :name: ability_filter_groups
-  :upload: true
-- :name: ability_types
-  :upload: true
-- :name: billing_products
-  :upload: true
-- :name: jobs
-  :upload: true
-- :name: char_abilities
-  :upload: true
-- :name: char_enemy_attacks
-  :upload: true
-- :name: char_friendship_skills
-  :upload: true
-- :name: char_levels
-  :upload: true
-- :name: char_profiles
-  :upload: false
-- :name: chars
-  :upload: true
-- :name: class_gacha_new_arrival_chars
-  :upload: true
-- :name: company_histories
-  :upload: false
-- :name: dice_growth_events
-  :upload: true
-- :name: dream_company_league_grades
-  :upload: true
-- :name: dream_company_league_classes
-  :upload: true
-- :name: enemy_attacks
-  :upload: true
-- :name: enemy_infos
-  :upload: true
-- :name: friendship_skills
-  :upload: true
-- :name: gachas
-  :upload: false
-- :name: gacha_banners
-  :upload: true
-- :name: gacha_consume_items
-  :upload: true
-- :name: gacha_chars
-  :upload: false
-- :name: gacha_feature_chars
-  :upload: true
-- :name: gacha_gifts
-  :upload: false
-- :name: gacha_throttles
-  :upload: false
-- :name: gacha_events
-  :upload: false
-- :name: gimmicks
-  :upload: true
-- :name: gimmick_infos
-  :upload: true
-- :name: gimmick_types
-  :upload: true
-- :name: labo_floor_infos
-  :upload: true
-- :name: lobby_floor_infos
-  :upload: true
-- :name: layer_stages
-  :upload: true
-- :name: layer_stage_ratio_rewards
-  :upload: true
-- :name: layer_stage_events
-  :upload: false
-- :name: layer_stage_score_items
-  :upload: false
-- :name: main_floors
-  :upload: true
-- :name: missions
-  :upload: false
-- :name: mission_events
-  :upload: false
-- :name: mission_groups
-  :upload: false
-- :name: mission_group_items
-  :upload: false
-- :name: mission_items
-  :upload: false
-- :name: mission_group_sales_event_triggers
-  :upload: false
-- :name: origin_chars
-  :upload: true
-- :name: product_floor_infos
-  :upload: true
-- :name: product_items
-  :upload: true
-- :name: product_item_types
-  :upload: true
-- :name: ranks
-  :upload: true
-- :name: sales_event_char_conditions
-  :upload: false
-- :name: sales_event_consume_items
-  :upload: true
-- :name: sales_event_rewards
-  :upload: true
-- :name: sales_events
-  :upload: true
-- :name: sales_floor_infos
-  :upload: true
-- :name: special_attack_areas
-  :upload: true
-- :name: special_attack_types
-  :upload: true
-- :name: special_attacks
-  :upload: true
-- :name: stage_advantage_jobs
-  :upload: true
-- :name: stage_advantage_job_categories
-  :upload: true
-- :name: stage_enemies
-  :upload: true
-- :name: stage_rewards
-  :upload: false
-- :name: stages
-  :upload: true
-- :name: strategy_floor_infos
-  :upload: true
-- :name: strategy_item_groups
-  :upload: true
-- :name: strategy_items
-  :upload: true
-- :name: strikeshot_growth_events
-  :upload: true
-- :name: strikeshots
-  :upload: true
-- :name: card_item_infos
-  :upload: true
-- :name: card_types
-  :upload: true
-- :name: defense_maps
-  :upload: true
-- :name: common_constants
-  :upload: true
-- :name: floors
-  :upload: true
-- :name: friend_sales_event_answers
-  :upload: true
-- :name: friend_sales_event_answer_groups
-  :upload: true
-- :name: friend_sales_event_char_messages
-  :upload: true
-- :name: friend_sales_event_char_level_rewards
-  :upload: true
-- :name: friend_sales_event_obtain_type_rewards
-  :upload: true
-- :name: npc_groups
-  :upload: false
-- :name: npc_group_corrections
-  :upload: false
-- :name: npc_stage_enemy_groups
-  :upload: false
-- :name: special_stage_probabilities
-  :upload: false
-- :name: sales_event_groups
-  :upload: true
-- :name: sales_event_group_condition_floors
-  :upload: false
-- :name: defense_score_char_score_configs
-  :upload: true
-- :name: defense_score_matching_point_configs
-  :upload: false
-- :name: defense_score_result_configs
-  :upload: false
-- :name: first_friend_rewards
-  :upload: false
-- :name: stage_backgrounds
-  :upload: true
-- :name: dc_mails
-  :upload: false
-- :name: dc_mail_items
-  :upload: false
-- :name: extra_chars
-  :upload: true
-- :name: lead_char_level_bonus_configs
-  :upload: false
-- :name : weekly_high_score_rewards
-  :upload: true
-- :name : weekly_high_score_reward_items
-  :upload: false
-- :name: banners
-  :upload: true
-- :name: defense_high_score_missions
-  :upload: true
-- :name: announcements
-  :upload: false
-- :name: shop_items
-  :upload: true
-- :name: defense_reward_configs
-  :upload: false
-- :name: sales_event_group_condition_missions
-  :upload: false
-- :name: sales_event_group_probability_configs
-  :upload: false
-- :name: ticket_items
-  :upload: false
-- :name: menus
-  :upload: true</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAtICjntpnntpopIOihjOWLleODreOCsOOBjOWPluOCjOOCi+OCiOOBhuOBqy9iYXR0bGUvZmluaXNo44KS5ouh5by1IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAtICjntpnntpopIERDUUEtODc4IENT55So44GubWFpbOOCkumFjeS/oeOBp+OBjeOCi+ODreOCuOODg+OCr+OCkuS9nOOCiyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtICjntpnntpopIFtXSVBdIHVwZGF0ZSBSdWJ5Mi42IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIOacgOW+jOOBrueZuueUn+eiuueOh+OBq+ihjOOBj+OBvuOBp+OBruaVsAogIHQuaW50ZWdlciAgOmRlbHRhX3gsICAgICAgICAgICAgICAgIG51bGw6IGZhbHNlLCBkZWZhdWx0OiAxCg==</text>
+        <text encoding="base64">ICAtICjntpnntpopIERDUUEtODc4IENT55So44GubWFpbOOCouOCpOODhuODoOOCkuWJiumZpOOBp+OBjeOCi+OCiOOBhuOBq+OBmeOCiwogIC0gKOe2mee2mikgRENRQS04NzggQ1PnlKjjga5tYWls44Ki44Kk44OG44Og44KS5Y+X44GR5Y+W44KM44KL44KI44GG44Gr44GZ44KLCiAgLSAo57aZ57aaKSBEQ1FBLTg3OCBDU+eUqOOBrm1haWzjgpLkvZzjgaPjgabjg6rjgrnjg4jjgavmt7fjgZzovrzjgoAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtICjntpnntpopIERDUUEtODc4IENT55So44GubWFpbOOCouOCpOODhuODoOOCkuWJiumZpOOBp+OBjeOCi+OCiOOBhuOBq+OBmeOCiyAg44Oe44O844K45YmN44GrYmFzZeWkieabtAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
