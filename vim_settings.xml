@@ -735,12 +735,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/ticket_item.rb" timestamp="1547690034773">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/ticket_item.rb" timestamp="1547713806970">
         <mark key="'" line="7" column="2" />
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="39" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1547690042831">
         <mark key="[" line="0" column="0" />
@@ -1747,8 +1747,8 @@
         <mark key="." line="1" column="45" />
         <mark key="^" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event.rb" timestamp="1544160156865">
-        <mark key="'" line="59" column="26" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event.rb" timestamp="1547713924943">
+        <mark key="'" line="19" column="0" />
         <mark key="[" line="104" column="29" />
         <mark key="]" line="104" column="34" />
         <mark key="." line="104" column="34" />
@@ -1761,11 +1761,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="39" column="115" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1545794266602">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1547713994794">
+        <mark key="'" line="281" column="7" />
+        <mark key="[" line="284" column="3" />
+        <mark key="]" line="285" column="0" />
+        <mark key="^" line="285" column="0" />
+        <mark key="." line="285" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/generators/document/USAGE" timestamp="1542016067901">
         <mark key="[" line="4" column="39" />
@@ -3092,10 +3093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="39" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/syncer.rb" />
-      <jump line="0" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/slack.rb" />
-      <jump line="23" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/syncer.rb" />
-      <jump line="31" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/slack_util.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/sync_spec.rb" />
       <jump line="73" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/sync_spec.rb" />
       <jump line="64" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/sync_spec.rb" />
@@ -3192,55 +3189,59 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/ticket_item_spec.rb" />
       <jump line="24" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/docker/Dockerfile.rails" />
       <jump line="23" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/ticket_item_spec.rb" />
+      <jump line="109" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event.rb" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event.rb" />
+      <jump line="84" column="53" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
+      <jump line="281" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZV9pdGVtXD4=</text>
+        <text>over_write</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZSBuaWwgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXQgeyBleHBlY3QgeyBzdWJqZWN0IH0udG8gcmFpc2VfZXJyb3IoVGlja2V0SXRlbTo6SW52YWxpZFByaWNlKSB9Cg==</text>
+        <text encoding="base64">ICBzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZSBuaWwgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCg6dGlja2V0KSB7IEZhY3RvcnlCb3QuY3JlYXRlKDpmZXNfdGlja2V0X2l0ZW0pIH0K</text>
+        <text encoding="base64">ICAgICAgaXQgeyBleHBlY3QgeyBzdWJqZWN0IH0udG8gcmFpc2VfZXJyb3IoVGlja2V0SXRlbTo6SW52YWxpZFByaWNlKSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCEoOnRpY2tldCkgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6ZmVzX3RpY2tldF9pdGVtKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZSBuaWwgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCEoOnRpY2tldCkgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6ZmVzX3RpY2tldF9pdGVtKSB9Cg==</text>
+        <text encoding="base64">ICAgIGxldCg6dGlja2V0KSB7IEZhY3RvcnlCb3QuY3JlYXRlKDpmZXNfdGlja2V0X2l0ZW0pIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxldCEoOnRpY2tldCkgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6ZmVzX3RpY2tldF9pdGVtKSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAiIgoK</text>
+        <text encoding="base64">ICAgIGxldCEoOnRpY2tldCkgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6ZmVzX3RpY2tldF9pdGVtKSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZV9pdGVtXD4=</last-search>
+      <last-search>over_write</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZV9pdGVtXD4=</last-pattern>
+      <last-pattern>over_write</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3248,7 +3249,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBseV9hbGxcPg==</entry>
         <entry>command</entry>
         <entry encoding="base64">XDxzYXZlXD4=</entry>
         <entry>save!</entry>
@@ -3268,6 +3268,7 @@
         <entry encoding="base64">XDxtYXhfY291bnRcPg==</entry>
         <entry>billing</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9pdGVtXD4=</entry>
+        <entry>over_write</entry>
       </history-search>
       <history-cmd>
         <entry>272</entry>
