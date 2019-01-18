@@ -2682,8 +2682,8 @@
         <mark key="^" line="34" column="9" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" timestamp="1547782002624">
-        <mark key="'" line="34" column="15" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" timestamp="1547800033774">
+        <mark key="'" line="177" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/config/deploy.rb" timestamp="1544427732367">
         <mark key="'" line="508" column="12" />
@@ -3041,10 +3041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/release.rb" />
-      <jump line="25" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/release.rb" />
-      <jump line="27" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/release.rb" />
-      <jump line="29" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/command/release.rb" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/release_spec.rb" />
       <jump line="61" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/release_spec.rb" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/release_spec.rb" />
@@ -3141,6 +3137,10 @@
       <jump line="14" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/plugins/handlers/site.rb" />
       <jump line="34" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="3" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/ticket_item.rb" />
+      <jump line="159" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
+      <jump line="131" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
+      <jump line="179" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
+      <jump line="177" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3150,7 +3150,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeW5jX2NvbW1hbmRcPg==</text>
+        <text encoding="base64">XDxleGVjX21heF9jb3VudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZSBuaWwgfQo=</text>
@@ -3187,9 +3187,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzeW5jX2NvbW1hbmRcPg==</last-search>
+      <last-search encoding="base64">XDxleGVjX21heF9jb3VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeW5jX2NvbW1hbmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxleGVjX21heF9jb3VudFw+</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3197,7 +3197,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save!</entry>
         <entry encoding="base64">XDxidWlsZF9tZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxleGVjXD4=</entry>
         <entry>task_definition_</entry>
@@ -3217,6 +3216,7 @@
         <entry>over_write</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxzeW5jX2NvbW1hbmRcPg==</entry>
+        <entry encoding="base64">XDxleGVjX21heF9jb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>272</entry>
