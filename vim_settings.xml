@@ -1628,12 +1628,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1545211888020">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="851" column="43" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1548050767368">
+        <mark key="'" line="25" column="51" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_tickets_schema.rb" timestamp="1541475720850">
         <mark key="[" line="4" column="4" />
@@ -3044,7 +3043,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/slack_util.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/release_spec.rb" />
       <jump line="40" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/release_spec.rb" />
       <jump line="225" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/2.5.0/monitor.rb" />
@@ -3144,10 +3142,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" />
       <jump line="20" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/app/controllers/user_controller.rb" />
       <jump line="198" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" />
+      <jump line="50" column="51" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBEYXRhSW1wb3J0ZXLmlLnkv64gCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -3159,31 +3158,31 @@
         <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZSBuaWwgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBEYXRhSW1wb3J0ZXLmlLnkv64gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpCg==</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBmaXg6IC91c2VyL3ByZV9yZXN0b3JlIEFQSeOBrnVzZXJfY29kZSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzCg==</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBtaXNzaW9uX2NvbmRpdGlvbl90eXBl44KSZW51beOBq+i/veWKoCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBZdXp1cnU6IOapn+iDveimgeacm+ODu+ODkOOCsOWgseWRiueUqFNwcmVhZFNoZWV0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXQgeyBleHBlY3QgeyBzdWJqZWN0IH0udG8gcmFpc2VfZXJyb3IoVGlja2V0SXRlbTo6SW52YWxpZFByaWNlKSB9Cg==</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSDjgqLjgqTjg4bjg6Djga7jg6zjg5njg6vjgqLjg4Pjg5fjg5/jg4Pjgrfjg6fjg7MgIOODnuODvOOCuOWJjeOBq2Jhc2XlpInmm7QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZSBuaWwgfQo=</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBbRENRQS05NDVdIOS7o+ihqOOCreODo+ODqeWkieabtOODn+ODg+OCt+ODp+ODs+OBrui/veWKoCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCg6dGlja2V0KSB7IEZhY3RvcnlCb3QuY3JlYXRlKDpmZXNfdGlja2V0X2l0ZW0pIH0K</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBiYXR0bGUvc3RhcnTmmYLjgavnmbrnlJ/jgZnjgottaXNzaW9u44KS6L+95Yqg44GZ44KLIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCEoOnRpY2tldCkgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6ZmVzX3RpY2tldF9pdGVtKSB9Cg==</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBMVualtemBlOaIkOOCreODo+ODqeOBruODn+ODg+OCt+ODp+ODs+mBlOaIkOeiuuiqjeOCkuOBmeOCiyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCEoOnRpY2tldCkgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6ZmVzX3RpY2tldF9pdGVtKSB9Cg==</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSDjg4fjg7zjgr/lvJXjgY3ntpnjgY5BUEnjgpLjg63jgrDjgqTjg7PkuI3opoHjgavjgZnjgosgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
