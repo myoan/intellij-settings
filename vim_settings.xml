@@ -499,6 +499,9 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="66" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/app/controllers/user_controller.rb" timestamp="1548038512762">
+        <mark key="'" line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user/char_ticket_spec.rb" timestamp="1541486547812">
         <mark key="'" line="11" column="6" />
         <mark key="[" line="2" column="0" />
@@ -2672,8 +2675,8 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" timestamp="1547104560956">
-        <mark key="'" line="4" column="25" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" timestamp="1548038518067">
+        <mark key="'" line="198" column="4" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service/check.rb" timestamp="1534851978500">
         <mark key="'" line="12" column="12" />
@@ -3041,9 +3044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/release_spec.rb" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/release_spec.rb" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/sync_spec.rb" />
       <jump line="41" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/slack_util.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/release_spec.rb" />
       <jump line="40" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/container/lib/static_site/command/release_spec.rb" />
@@ -3141,6 +3141,9 @@
       <jump line="179" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="177" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="119" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" />
+      <jump line="20" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/app/controllers/user_controller.rb" />
+      <jump line="198" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
