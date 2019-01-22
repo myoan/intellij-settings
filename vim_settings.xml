@@ -22,12 +22,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/battle_category.proto" timestamp="1536804303541">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/battle_category.proto" timestamp="1548141121329">
         <mark key="'" line="13" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="13" column="33" />
-        <mark key="." line="13" column="33" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/base_char_converter.rb" timestamp="1540962530854">
         <mark key="'" line="54" column="6" />
@@ -904,6 +904,11 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_floor.rb" timestamp="1544590638552">
         <mark key="'" line="73" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/friendship_skill_type.proto" timestamp="1548141056276">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.puml" timestamp="1539068282957">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="28" column="0" />
@@ -1644,12 +1649,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/defense_map_release_condition_type.proto" timestamp="1536804532390">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/defense_map_release_condition_type.proto" timestamp="1548141163603">
         <mark key="'" line="13" column="2" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="13" column="23" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/user_main_floor_action/release_shared_contexts.rb" timestamp="1543908117230">
         <mark key="'" line="29" column="8" />
@@ -2300,12 +2305,12 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" timestamp="1548140303822">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" timestamp="1548141022182">
         <mark key="'" line="72" column="65" />
-        <mark key="[" line="42" column="69" />
-        <mark key="]" line="42" column="79" />
-        <mark key="." line="42" column="79" />
-        <mark key="^" line="42" column="79" />
+        <mark key="[" line="73" column="78" />
+        <mark key="]" line="73" column="84" />
+        <mark key="." line="73" column="84" />
+        <mark key="^" line="73" column="84" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service/compile.rb" timestamp="1534852058070">
         <mark key="'" line="38" column="0" />
@@ -2938,6 +2943,9 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/static_site/syncer.rb" timestamp="1547547718227">
         <mark key="'" line="48" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/matching.rb" timestamp="1548140841271">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_spec.rb" timestamp="1544172102730">
         <mark key="'" line="113" column="4" />
         <mark key="[" line="176" column="73" />
@@ -3126,7 +3134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="33" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/slack_util.rb" />
       <jump line="128" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/app/models/user_purchase.rb" />
       <jump line="136" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/castlestrikers-repos-backup/server/app/models/user_purchase.rb" />
       <jump line="70" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
@@ -3226,57 +3233,58 @@
       <jump line="31" column="58" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" />
       <jump line="11" column="59" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" />
       <jump line="72" column="65" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/matching.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>る</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA6dwo=</text>
       </register>
       <register name="-" type="4">
-        <text>る</text>
+        <text>（</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGVjX21heF9jb3VudFw+</text>
+        <text>matching_record_not</text>
       </register>
       <register name="0" type="4">
         <text>サーバー側でハンドリングされないエラーが発生した</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA6dwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CglOb25lCeOBquOBlwoKMQlPcmIJ44Kq44O844OWCgoyCUdvbGQKCjMJU3BlY2lhbFBvaW50Cgo0CUNoYXIJCeOBk+OCjOOCkumBuOaKnuOBleOCjOOBn0l0ZW3jga5pZOOBr2NoYXJfaWTjgpLmhI/lkbPjgZfjgb7jgZnjgIIKNQlGbG9vcgoKNglHYWNoYVRpY2tldAoKNwlNYWlsCgo4CVN0YW1pbmEKCjkJQ2hhclRpY2tldAoKCgoxMAlTdGFtaW5hUmVjb3Zlckl0ZW0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CglOb25lCeOBquOBlwoKMQlPcmIJ44Kq44O844OWCgoyCUdvbGQKCjMJU3BlY2lhbFBvaW50Cgo0CUNoYXIJCeOBk+OCjOOCkumBuOaKnuOBleOCjOOBn0l0ZW3jga5pZOOBr2NoYXJfaWTjgpLmhI/lkbPjgZfjgb7jgZnjgIIKNQlGbG9vcgoKNglHYWNoYVRpY2tldAoKNwlNYWlsCgo4CVN0YW1pbmEKCjkJQ2hhclRpY2tldAoKCgoxMAlTdGFtaW5hUmVjb3Zlckl0ZW0=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>#
 #
 #</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dlwtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGVjX21heF9jb3VudFw+</last-search>
+      <last-search>matching_record_not</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGVjX21heF9jb3VudFw+</last-pattern>
+      <last-pattern>matching_record_not</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3284,8 +3292,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZF9tZXNzYWdlc1w+</entry>
-        <entry encoding="base64">XDxleGVjXD4=</entry>
         <entry>task_definition_</entry>
         <entry encoding="base64">XDxwb3N0X3NsYWNrXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVfc3RhdHVzXD4=</entry>
@@ -3304,9 +3310,10 @@
         <entry>login</entry>
         <entry encoding="base64">XDxzeW5jX2NvbW1hbmRcPg==</entry>
         <entry encoding="base64">XDxleGVjX21heF9jb3VudFw+</entry>
+        <entry>matcing_record</entry>
+        <entry>matching_record_not</entry>
       </history-search>
       <history-cmd>
-        <entry>272</entry>
         <entry>142</entry>
         <entry>w1</entry>
         <entry>144</entry>
@@ -3325,6 +3332,7 @@
         <entry>wq</entry>
         <entry>W</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
