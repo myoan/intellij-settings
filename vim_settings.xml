@@ -2584,8 +2584,8 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1548379464958">
-        <mark key="'" line="41" column="2" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" timestamp="1548825728618">
+        <mark key="'" line="24" column="0" />
         <mark key="[" line="38" column="10" />
         <mark key="]" line="38" column="9" />
         <mark key="^" line="38" column="9" />
@@ -3298,8 +3298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" />
-      <jump line="69" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/static_site/config.rb" />
       <jump line="51" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/static_site/cli.rb" />
       <jump line="38" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/static_site/movable_type.rb" />
       <jump line="14" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/static_site/config.rb" />
@@ -3398,6 +3396,8 @@
       <jump line="11" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
       <jump line="16" column="37" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
       <jump line="55" column="32" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
