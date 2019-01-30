@@ -300,8 +300,8 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/development.rb" timestamp="1544515175929">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/development.rb" timestamp="1548822084238">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.puml" timestamp="1537839221820">
         <mark key="[" line="0" column="9" />
@@ -316,8 +316,8 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" timestamp="1542702751743">
-        <mark key="'" line="15" column="8" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" timestamp="1548822228141">
+        <mark key="'" line="55" column="32" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/generate_comment_from_confluence/lib/confluence/content/heading.rb" timestamp="1536765293955">
         <mark key="'" line="25" column="6" />
@@ -3298,24 +3298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" />
-      <jump line="50" column="51" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
-      <jump line="258" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/enum.md" />
-      <jump line="84" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/data/dc/enum/result_code_pb.rb" />
-      <jump line="363" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/enum.md" />
-      <jump line="124" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="32" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/scratch.txt" />
-      <jump line="31" column="58" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" />
-      <jump line="11" column="59" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" />
-      <jump line="72" column="65" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/matching.rb" />
-      <jump line="6" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/obtain_type.proto" />
-      <jump line="24" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
-      <jump line="155" column="66" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
-      <jump line="23" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
-      <jump line="52" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/money_controller.rb" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/receipt_state.proto" />
-      <jump line="71" column="84" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/result_code.proto" />
       <jump line="69" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/static_site/config.rb" />
       <jump line="51" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/static_site/cli.rb" />
@@ -3398,6 +3380,24 @@
       <jump line="28" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/settings.yml" />
       <jump line="17" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/host_address.rb" />
       <jump line="8" column="30" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/version_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/environments/development.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="19" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="23" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="26" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="27" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="28" column="85" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="29" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="30" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="31" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="32" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="38" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="39" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="64" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="71" column="62" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="11" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="16" column="37" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
+      <jump line="55" column="32" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/redis_manager.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3407,7 +3407,7 @@
         <text>I</text>
       </register>
       <register name="/" type="4">
-        <text>store_</text>
+        <text encoding="base64">XDxjbHVzdGVyX25vZGVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdHJpbmcgc3RvcmVfaG9zdCA9IDU7Cg==</text>
@@ -3444,9 +3444,9 @@
       </register>
     </registers>
     <search>
-      <last-search>store_</last-search>
+      <last-search encoding="base64">XDxjbHVzdGVyX25vZGVzXD4=</last-search>
       <last-offset />
-      <last-pattern>store_</last-pattern>
+      <last-pattern encoding="base64">XDxjbHVzdGVyX25vZGVzXD4=</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3454,10 +3454,6 @@
     </search>
     <history>
       <history-search>
-        <entry>matching_record_not</entry>
-        <entry encoding="base64">XDxQVVJDSEFTRURcPg==</entry>
-        <entry encoding="base64">XDxTVEFSVEVEXD4=</entry>
-        <entry encoding="base64">XDxtdF9kc3RcPg==</entry>
         <entry>@src</entry>
         <entry>@config</entry>
         <entry encoding="base64">XDxmdWxsX3NyY1w+</entry>
@@ -3474,6 +3470,10 @@
         <entry>api_</entry>
         <entry>store-</entry>
         <entry>store_</entry>
+        <entry>iden</entry>
+        <entry>config</entry>
+        <entry>cache_store</entry>
+        <entry encoding="base64">XDxjbHVzdGVyX25vZGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>
