@@ -789,7 +789,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548911947788">
+      <file name="/Dummy.txt" timestamp="1548920719430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1150,7 +1150,7 @@
         <mark key="." line="5" column="97" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/master.rb" timestamp="1548839069552">
-        <mark key="'" line="72" column="8" />
+        <mark key="'" line="73" column="8" />
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="10" />
         <mark key="." line="10" column="10" />
@@ -2500,7 +2500,7 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" timestamp="1548829119638">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" timestamp="1548920324183">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -3294,7 +3294,6 @@
       <jump line="13" column="1" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition.rb" />
       <jump line="24" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/friend_sales_event_char_level_reward.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="237" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
@@ -3383,22 +3382,23 @@
       <jump line="108" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
       <jump line="43" column="29" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/dc_mail_item_spec.rb" />
       <jump line="63" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/item.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUmFrZTo6VGFza1siZGM6ZGF0YTpleHBpcmVfY2FjaGUiXS5pbnZva2UK</text>
+        <text encoding="base64">Z2VtICJpZGVudGl0eV9jYWNoZSIK</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>upload</text>
+        <text>iden</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaW1wb3J0X21hbmFnZXIuZXhwaXJlX2NhY2hlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUmFrZTo6VGFza1siZGM6ZGF0YTpleHBpcmVfY2FjaGUiXS5pbnZva2UK</text>
+        <text encoding="base64">Z2VtICJpZGVudGl0eV9jYWNoZSIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgUmFrZTo6VGFza1siZGM6ZGF0YTpleHBpcmVfY2FjaGUiXS5pbnZva2UK</text>
@@ -3407,31 +3407,31 @@
         <text encoding="base64">ICAgICAgUmFrZTo6VGFza1siZGM6ZGF0YTpleHBpcmVfY2FjaGUiXS5pbnZva2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzICJuZXcgI3tkY19tYWlsX2l0ZW0uZGNfbWFpbF9pZH0iCiAgICAgICAgcHV0cyAid2FzICN7ZGNfbWFpbF9pdGVtLmRjX21haWxfaWRfd2FzfSIK</text>
+        <text encoding="base64">ICAgICAgUmFrZTo6VGFza1siZGM6ZGF0YTpleHBpcmVfY2FjaGUiXS5pbnZva2UK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwdXRzICJuZXcgI3tkY19tYWlsX2l0ZW0uZGNfbWFpbF9pZH0iCiAgICAgICAgcHV0cyAid2FzICN7ZGNfbWFpbF9pdGVtLmRjX21haWxfaWRfd2FzfSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1dHMgQGRjX21haWxfaWRfd2FzCg==</text>
+        <text encoding="base64">ICAgICAgICBwdXRzICJuZXcgI3tkY19tYWlsX2l0ZW0uZGNfbWFpbF9pZH0iCiAgICAgICAgcHV0cyAid2FzICN7ZGNfbWFpbF9pdGVtLmRjX21haWxfaWRfd2FzfSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1dHMgImJlZm9yZV9zYXZlISEiCiAgICBwdXRzIHNlbGYuZGNfbWFpbF9pZF93YXMK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1dHMgQGRjX21haWxfaWRfd2FzCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1dHMgImJlZm9yZV9zYXZlISEiCiAgICBwdXRzIHNlbGYuZGNfbWFpbF9pZF93YXMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIHB1dHMgQGRjX21haWxfaWRfd2FzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>upload</last-search>
+      <last-search>iden</last-search>
       <last-offset />
-      <last-pattern>upload</last-pattern>
+      <last-pattern>iden</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3447,7 +3447,6 @@
         <entry>condition</entry>
         <entry>write</entry>
         <entry>fetch_</entry>
-        <entry>iden</entry>
         <entry>sales_event</entry>
         <entry>fetch</entry>
         <entry>to_select</entry>
@@ -3459,6 +3458,7 @@
         <entry encoding="base64">XDx3cml0ZVw+</entry>
         <entry>touch</entry>
         <entry>upload</entry>
+        <entry>iden</entry>
       </history-search>
       <history-cmd>
         <entry>144</entry>
