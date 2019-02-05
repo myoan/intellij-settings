@@ -1327,8 +1327,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/dc_mail.rb" timestamp="1549351249020">
         <mark key="'" line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" timestamp="1549354309526">
-        <mark key="'" line="52" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" timestamp="1549355436001">
+        <mark key="'" line="15" column="26" />
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="3" />
         <mark key="." line="13" column="3" />
@@ -3428,7 +3428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="37" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/main/maintenances_schema.rb" />
       <jump line="61" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/maintenance.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
       <jump line="79" column="87" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
@@ -3528,6 +3527,7 @@
       <jump line="200" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
       <jump line="188" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
       <jump line="52" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
+      <jump line="15" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3537,7 +3537,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wbGV0ZVw+</text>
+        <text encoding="base64">XDxjb21wYW55X2V4cGVyaWVuY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpdGVtLnZhbGlkYXRlISh1c2VyKQogICAgICAgIGl0ZW0uYWRkKHVzZXIpCg==</text>
@@ -3574,9 +3574,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wbGV0ZVw+</last-search>
+      <last-search encoding="base64">XDxjb21wYW55X2V4cGVyaWVuY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wbGV0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wYW55X2V4cGVyaWVuY2VcPg==</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3584,7 +3584,6 @@
     </search>
     <history>
       <history-search>
-        <entry>for_receive_resp</entry>
         <entry encoding="base64">XDx1c2VyX2NoYXJfY29udGFpbmVyXD4=</entry>
         <entry>user_char</entry>
         <entry encoding="base64">XDxzZXRfZGlzdHJpYnV0b3JcPg==</entry>
@@ -3604,6 +3603,7 @@
         <entry encoding="base64">XDxwdXJjaGFzZVw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0X3ZlcmlmeV9yZWNlaXB0XD4=</entry>
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
+        <entry encoding="base64">XDxjb21wYW55X2V4cGVyaWVuY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
