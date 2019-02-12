@@ -1521,6 +1521,9 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_enemy_info.rb" timestamp="1549952997956">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/stress.rb" timestamp="1542873138769">
         <mark key="'" line="6" column="25" />
         <mark key="[" line="0" column="0" />
@@ -2518,6 +2521,9 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/master.rb" timestamp="1544427912839">
         <mark key="'" line="489" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_enemy_info_cache.rb" timestamp="1549952988333">
+        <mark key="'" line="78" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/common_constants_schema.rb" timestamp="1549014651799">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2813,8 +2819,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1549536064862">
-        <mark key="'" line="201" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1549952875982">
+        <mark key="'" line="428" column="4" />
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="0" />
         <mark key="." line="201" column="0" />
@@ -2826,8 +2832,8 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="35" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_event.rb" timestamp="1542104939608">
-        <mark key="'" line="42" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_event.rb" timestamp="1549953035276">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/api/friend/delete_request.proto" timestamp="1536765997280">
         <mark key="'" line="19" column="47" />
@@ -3489,12 +3495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/maintenance.rake" />
-      <jump line="50" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/maintenance.rake" />
-      <jump line="51" column="24" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/maintenance.rake" />
-      <jump line="279" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
-      <jump line="190" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
       <jump line="147" column="54" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
       <jump line="176" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
       <jump line="137" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
@@ -3589,6 +3589,12 @@
       <jump line="201" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="203" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="201" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="428" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_enemy_info_cache.rb" />
+      <jump line="30" column="29" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_enemy_info_cache.rb" />
+      <jump line="78" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_enemy_info_cache.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_enemy_info.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3598,7 +3604,7 @@
         <text>B</text>
       </register>
       <register name="/" type="4">
-        <text>update_class_gacha</text>
+        <text>pick</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnRleHQgIndoZW4gcmVjZWl2ZSBjaGFyIiBkbwo=</text>
@@ -3635,9 +3641,9 @@
       </register>
     </registers>
     <search>
-      <last-search>update_class_gacha</last-search>
+      <last-search>pick</last-search>
       <last-offset />
-      <last-pattern>update_class_gacha</last-pattern>
+      <last-pattern>pick</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3645,9 +3651,6 @@
     </search>
     <history>
       <history-search>
-        <entry>orb</entry>
-        <entry>char_2</entry>
-        <entry>gold</entry>
         <entry>ticket</entry>
         <entry>Pickup</entry>
         <entry encoding="base64">XDxkaXN0cmlidXRvclw+</entry>
@@ -3665,6 +3668,9 @@
         <entry>celebrity</entry>
         <entry encoding="base64">XDxhZGRfY2VsZWJyaXR5XD4=</entry>
         <entry>update_class_gacha</entry>
+        <entry>get_by_user_id</entry>
+        <entry encoding="base64">XDxzZXRfZnJvbV91c2VyX3N0YWdlX2VuZW15XD4=</entry>
+        <entry>pick</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
