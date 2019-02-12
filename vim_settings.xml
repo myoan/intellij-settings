@@ -1591,6 +1591,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1549969389441">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_model.rb" timestamp="1539053981522">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="15" />
@@ -3498,8 +3504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_item_distributor_spec.rb" />
       <jump line="20" column="57" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_item_distributor_spec.rb" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_item_distributor_spec.rb" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/char_item_distributor_spec.rb" />
@@ -3598,10 +3602,12 @@
       <jump line="89" column="39" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="8" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/npc_group_spec.rb" />
       <jump line="20" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/npc_group_spec.rb" />
+      <jump line="54" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
+      <jump line="33" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>B</text>
@@ -3613,34 +3619,34 @@
         <text encoding="base64">ICAgIGNvbnRleHQgIndoZW4gcmVjZWl2ZSBjaGFyIiBkbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBbWXV6dXJ1XSDjgqjjg6njg7zjg5rjg7zjgrjov73liqAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSDjgYrnn6XjgonjgZvjg57jgrnjgr/jga7jg4njgq3jg6Xjg6Hjg7Pjg4jmm7TmlrAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHQgIndoZW4gaXRlbV90eXBlIGlzIG5vdCBDSEFSIiBkbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBpdCB7IGlzX2V4cGVjdGVkLnRvIGhhdmVfYXR0cmlidXRlcyh1c2VyOiB1c2VyLCBjb252ZXJ0ZWRfY2hhcl9pZHM6IFtpdGVtX2lkXSwgY29udmVydGVkX2l0ZW1zOiBbXSkgfQo=</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBbV0lQXSBpbXBvcnTmmYLjgavkuI3opoHjg6zjgrPjg7zjg4njgpLliYrpmaTlj6/og73jgavjgZnjgosK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">IDMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3ViamVjdCkudG8gaGF2ZV9hdHRyaWJ1dGVzKGNvbnZlcnRlZF9jaGFyX2lkczogW10sIGNvbnZlcnRlZF9pdGVtczogW10pCg==</text>
+        <text encoding="base64">IzE4OTkgb3BlbmVkIDYgZGF5cyBhZ28gYnkgb25vcG9uIOKAoiBBcHByb3ZlZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaXQgZG8K</text>
+        <text encoding="base64">IDMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwIHN1YmplY3QK</text>
+        <text encoding="base64">IzE5MDAgb3BlbmVkIDYgZGF5cyBhZ28gYnkgb25vcG9uIOKAoiBBcHByb3ZlZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3694,8 +3700,8 @@
         <entry>54</entry>
         <entry>W</entry>
         <entry>2w</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
