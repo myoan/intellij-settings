@@ -3376,11 +3376,12 @@
       <file name="$USER_HOME$/dev/src/github.com/Shopify/identity_cache/lib/identity_cache/parent_model_expiration.rb" timestamp="1548402073281">
         <mark key="'" line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_product_item.rb" timestamp="1548986436982">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_product_item.rb" timestamp="1550045867289">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="28" />
+        <mark key="]" line="67" column="45" />
+        <mark key="." line="67" column="45" />
+        <mark key="^" line="67" column="45" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_defense_log.rb" timestamp="1544518732191">
         <mark key="'" line="36" column="4" />
@@ -3552,7 +3553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="57" column="54" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="201" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="203" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
@@ -3652,13 +3652,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_lobby_floor.rb" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_lobby_floor.rb" />
       <jump line="44" column="90" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_lobby_floor.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_product_item.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaXRfYmVoYXZlc19saWtlICJyZWxlYXNlIHNhbGVzX2V2ZW50X2dyb3VwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
