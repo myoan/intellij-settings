@@ -2307,6 +2307,9 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_financial_record.rb" timestamp="1550125194879">
+        <mark key="'" line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_custom_floor.rb" timestamp="1543233866192">
         <mark key="'" line="52" column="6" />
       </file>
@@ -3471,8 +3474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="83" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="86" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="87" column="61" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="89" column="39" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
@@ -3571,6 +3572,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="98" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_product_item.rb" />
       <jump line="354" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="30" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_financial_record.rb" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_financial_record.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3580,7 +3583,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>tuto</text>
+        <text>profits</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaXRfYmVoYXZlc19saWtlICJyZWxlYXNlIHNhbGVzX2V2ZW50X2dyb3VwIgo=</text>
@@ -3617,9 +3620,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tuto</last-search>
+      <last-search>profits</last-search>
       <last-offset />
-      <last-pattern>tuto</last-pattern>
+      <last-pattern>profits</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3627,7 +3630,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxucGNfZnV0dXJlX2x2M19sb3dcPg==</entry>
         <entry encoding="base64">XDxmaW5kX2FjdGl2ZV91c2VyX2luX3JhbmtfcmFuZ2VcPg==</entry>
         <entry>rank</entry>
         <entry>remain_turn</entry>
@@ -3647,6 +3649,7 @@
         <entry encoding="base64">XDxmaW5pc2hfbGF5ZXJfc3RhZ2Vfb3BlcmF0aW9uXD4=</entry>
         <entry>tutorial</entry>
         <entry>tuto</entry>
+        <entry>profits</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
