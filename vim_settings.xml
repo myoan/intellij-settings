@@ -2485,6 +2485,11 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/char_ticket.rb" timestamp="1550656770246">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/sequencer/user_tutorial_id_schema.rb" timestamp="1540287850572">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="2" column="3" />
@@ -3706,7 +3711,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gaG9nZWhvZ2XjgpLkv67mraMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -3718,16 +3723,16 @@
         <text encoding="base64">ICAgIC0g44Of44OD44K344On44OzKDJwdCkgeCA1IOOBp+S7rue9ruOBjQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gaG9nZWhvZ2XjgpLkv67mraMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">ICAgIC0gaG9nZWhvZ2XjgpLkv67mraMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -3735,14 +3740,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">IyMjIOe1jOWWtuaIpueVpeODleODreOCogoycHQKLSDpmLLooZvvvK3vvKHvvLDjga7jgq3jg6Pjg6njg5Hjg6njg6Hjg7zjgr/jg7zopovnm7TjgZfjgavjgojjgovoqr/mlbQKICAgIC0g44OR44Op44Oh44O844K/57K+5p+7CgojIyMg5Za25qWt44OQ44OI44OrCjJwdAotIOWWtualreODkOODiOODqyjml6fjgq/jg6njgrnjg5Djg4jjg6sp44Gu44OB44Ol44O844OI44Oq44Ki44Or44KS5paw6KaP44Gn6L+95YqgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyMjIOODnuOCueOCv+ODvOODh+ODvOOCv+aVtOeQhgowcHQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIOODnuOCueOCv+ODvOODh+ODvOOCv+aVtOeQhgowcHQK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
