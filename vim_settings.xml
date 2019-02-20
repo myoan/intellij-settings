@@ -545,8 +545,8 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1550640138261">
-        <mark key="'" line="204" column="9" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1550641107858">
+        <mark key="'" line="96" column="64" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -3597,8 +3597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="265" column="39" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="186" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="229" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_layer_stage_event.rb" />
@@ -3624,7 +3622,6 @@
       <jump line="146" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="250" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="99" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_event.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="66" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="118" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="223" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
@@ -3697,6 +3694,9 @@
       <jump line="204" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="67" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="198" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="96" column="64" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3706,7 +3706,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVfY2xhc3NfZ2FjaGFcPg==</text>
+        <text>bonus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNpZCA9IHNlbGYuc2Vzc2lvbl9pZC5ibGFuaz8gPyAiIiA6IHNlbGYuc2Vzc2lvbl9pZAo=</text>
@@ -3743,9 +3743,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVfY2xhc3NfZ2FjaGFcPg==</last-search>
+      <last-search>bonus</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVfY2xhc3NfZ2FjaGFcPg==</last-pattern>
+      <last-pattern>bonus</last-pattern>
       <last-replace>@src</last-replace>
       <last-substitute>mt</last-substitute>
       <last-dir>1</last-dir>
@@ -3753,7 +3753,6 @@
     </search>
     <history>
       <history-search>
-        <entry>strikeshot</entry>
         <entry encoding="base64">XDxNSVNTSU9OX0NIRUNLRVJfS0xBU1NFU1w+</entry>
         <entry>to_proto</entry>
         <entry encoding="base64">XDxhZGRfaXRlbXNcPg==</entry>
@@ -3773,6 +3772,7 @@
         <entry encoding="base64">XDx1cGRhdGVfZmluYW5jaWFsX2Nsb3NpbmdfYm9udXNcPg==</entry>
         <entry encoding="base64">XDxhZGRfY2VsZWJyaXR5XD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVfY2xhc3NfZ2FjaGFcPg==</entry>
+        <entry>bonus</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
