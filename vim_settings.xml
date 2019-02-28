@@ -504,12 +504,11 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1551340575486">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1551344860472">
         <mark key="'" line="90" column="6" />
-        <mark key="[" line="76" column="25" />
-        <mark key="]" line="76" column="25" />
-        <mark key="." line="76" column="25" />
-        <mark key="^" line="76" column="25" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_item_consumer_spec.rb" timestamp="1541470615228">
         <mark key="'" line="24" column="12" />
@@ -2126,11 +2125,11 @@
         <mark key="^" line="39" column="1" />
         <mark key="." line="39" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish/guest.rb" timestamp="1551340421233">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish/guest.rb" timestamp="1551344835807">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_chars_schema.rb" timestamp="1540979897676">
         <mark key="[" line="7" column="55" />
@@ -3146,8 +3145,8 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" timestamp="1551340527792">
-        <mark key="'" line="136" column="4" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" timestamp="1551344868183">
+        <mark key="'" line="172" column="6" />
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
@@ -3409,7 +3408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="9" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/result_gold_calculator_spec.rb" />
       <jump line="37" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/result_gold_calculator_spec.rb" />
       <jump line="38" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
@@ -3509,55 +3507,56 @@
       <jump line="136" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="212" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="90" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="172" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>rator</text>
+        <text>lock</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgZmluaXNoX3Jld2FyZHMKICAgIEBwbGF5X3R5cGVfc3RyYXRlZ3kucmV3YXJkcyArIFt0b3RhbF9nb2xkX2FzX2l0ZW1dLmNvbXBhY3QKICAgIGxheWVyX3N0YWdlX3Njb3JlX2l0ZW1zICsgW3RvdGFsX2dvbGRfYXNfaXRlbSwgZHJhd19jaGFyX2FzX2l0ZW1dLmNvbXBhY3QKICBlbmQK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUgaWYgaXNfcmV0aXJlCgogICAgICBwYXJlbnRfdXNlcl9iYXR0bGUgPSBVc2VyQmF0dGxlLmdldF9ieV91c2VyX2lkX2FuZF9pZChwYXJlbnRfdXNlcl9pZCwgcGFyZW50X2lkKQogICAgICByYWlzZSBNYWNhcm9uOjpFeGNlcHRpb24uaW52YWxpZF9wYXJhbWV0ZXIgaWYgcGFyZW50X3VzZXJfYmF0dGxlLm5pbD8KICAgICAgcmFpc2UgTWFjYXJvbjo6RXhjZXB0aW9uLmJhdHRsZV93YWl0aW5nX2hvc3RfcmVxdWVzdCBpZiBwYXJlbnRfdXNlcl9iYXR0bGUucGhhc2UgPT0gVXNlckJhdHRsZTo6UGhhc2U6OlNUQVJURUQKICAgICAgcmFpc2UgTWFjYXJvbjo6RXhjZXB0aW9uLmJhdHRsZV9pbnZhbGlkX2hvc3RfcGhhc2UgaWYgcGFyZW50X3VzZXJfYmF0dGxlLnBoYXNlICE9IFVzZXJCYXR0bGU6OlBoYXNlOjpGSU5JU0hFRAoKICAgICAgdHJ1ZQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgZHJhd19jaGFyX2FzX2l0ZW0yCiAgICBAcGxheV90eXBlX3N0cmF0ZWd5LmRyYXdfY2hhciYudG9faXRlbShSRUFTT05fSURfRFJPUCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICBkZWYgZHJhd19jaGFyX2FzX2l0ZW0yCiAgICBAcGxheV90eXBlX3N0cmF0ZWd5LmRyYXdfY2hhciYudG9faXRlbShSRUFTT05fSURfRFJPUCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBsYXllcl9zdGFnZV9zY29yZV9pdGVtcwogICAgICBbXQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGRlZiBkcmF3X2NoYXJfYXNfaXRlbQogICAgICByZXR1cm4gdW5sZXNzIHBhcmFtZXRlci5zdGF0dXNfY2xlYXJfb3JfY29tcGxldGVfY2xlYXI/CgogICAgICBzdGFnZV9pZCA9IHVzZXJfYmF0dGxlLnN0YWdlX2lkCiAgICAgIFN0YWdlUmV3YXJkLnRha2Vfc3RhZ2VfcmV3YXJkKHN0YWdlX2lkLCB1c2VyX2JhdHRsZS5wYXJlbnRfaWQpJi50b19pdGVtKEJhdHRsZTo6RmluaXNoOjpSRUFTT05fSURfRFJPUCkKICAgIGVuZAo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVuZAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBsYXllcl9zdGFnZV9zY29yZV9pdGVtcwogICAgICBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rator</last-search>
+      <last-search>lock</last-search>
       <last-offset />
-      <last-pattern>rator</last-pattern>
+      <last-pattern>lock</last-pattern>
       <last-replace>###</last-replace>
       <last-substitute>##</last-substitute>
       <last-dir>1</last-dir>
@@ -3565,8 +3564,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBlY3RfYW55X2luc3RhbmNlX29mXD4=</entry>
-        <entry>BAESMENT</entry>
         <entry>BASEMENT</entry>
         <entry encoding="base64">XDxSRUFTT05fSURfQ0xFQVJfQk9OVVNcPg==</entry>
         <entry encoding="base64">XDxSRUFTT05fSURfRFJPUFw+</entry>
@@ -3585,6 +3582,8 @@
         <entry encoding="base64">XDxyZXZlbmdlX29wcGVyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxzZXRfcmVzdWx0X2dvbGRfY2FsY3VsYXRvclw+</entry>
         <entry>rator</entry>
+        <entry>lock!</entry>
+        <entry>lock</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
