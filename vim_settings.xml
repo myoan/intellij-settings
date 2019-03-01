@@ -504,7 +504,7 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1551405688476">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1551407374412">
         <mark key="'" line="255" column="0" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
@@ -851,6 +851,9 @@
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/data/master.rake" timestamp="1551407128511">
+        <mark key="'" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/npc_group_spec.rb" timestamp="1549967662705">
         <mark key="'" line="20" column="8" />
@@ -3399,9 +3402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="28" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" />
-      <jump line="143" column="24" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="40" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="357" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish/guest.rb" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish/guest.rb" />
       <jump line="260" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
@@ -3499,6 +3499,9 @@
       <jump line="19" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="61" column="39" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="251" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="45" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/data/master.rake" />
+      <jump line="9" column="24" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/data/master.rake" />
+      <jump line="44" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/data/master.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3508,7 +3511,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>register</text>
+        <text>update_master_ver</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlZ2lzdGVyX21pc3Npb25fY29uZGl0aW9uX2RhdGEoTWlzc2lvbkNvbmRpdGlvblR5cGU6OkNPVU5UX09GX1VTRV9TVFJJS0VfU0hPVF9JTl9QRVJJT0QsICAgICAgc3BlY2lhbF9hdHRhY2tfaWRzOiBzcGVjaWFsX2F0dGFja19pZHMsIHN0cmlrZXNob3RfY291bnRzOiBwYXJhbWV0ZXIuYmF0dGxlX2ZpbmlzaF9kZXRhaWxbOnN0cmlrZXNob3RfY291bnRzXSkK</text>
@@ -3557,9 +3560,9 @@ register_mission_condition_data(</text>
       </register>
     </registers>
     <search>
-      <last-search>register</last-search>
+      <last-search>update_master_ver</last-search>
       <last-offset />
-      <last-pattern>register</last-pattern>
+      <last-pattern>update_master_ver</last-pattern>
       <last-replace>###</last-replace>
       <last-substitute>##</last-substitute>
       <last-dir>1</last-dir>
@@ -3567,8 +3570,6 @@ register_mission_condition_data(</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5pc2hfb3BlcmF0aW9uX2Zvcl9ob3N0XD4=</entry>
-        <entry encoding="base64">XDxsYXllcl9zdGFnZV9zY29yZV9pdGVtc1w+</entry>
         <entry>solo</entry>
         <entry>host</entry>
         <entry encoding="base64">XDxmaW5pc2hfbGF5ZXJfc3RhZ2Vfb3BlcmF0aW9uXD4=</entry>
@@ -3587,6 +3588,8 @@ register_mission_condition_data(</text>
         <entry encoding="base64">XDxmaW5pc2hfcmV3YXJkc1w+</entry>
         <entry encoding="base64">XDxtaXNzaW9uX2NvbmRpdGlvbl90eXBlc1w+</entry>
         <entry>register</entry>
+        <entry encoding="base64">XDx1cGRhdGVfdmVyc2lvblw+</entry>
+        <entry>update_master_ver</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
