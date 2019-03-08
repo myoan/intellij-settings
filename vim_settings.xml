@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/config/breadcrumbs.rb" timestamp="1551770497623">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/config/breadcrumbs.rb" timestamp="1552025731745">
         <mark key="'" line="122" column="16" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_ticket.rb" timestamp="1547626145278">
         <mark key="'" line="49" column="6" />
@@ -69,6 +72,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/controllers/yuzuru/user/sales_event_controller.rb" timestamp="1552026874543">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/database_default.yml" timestamp="1551946882788">
         <mark key="'" line="40" column="0" />
@@ -557,6 +566,13 @@
         <mark key="." line="717" column="21" />
         <mark key="^" line="717" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" timestamp="1552026579890">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/language/csharp.rb" timestamp="1550624553798">
         <mark key="'" line="137" column="22" />
         <mark key="[" line="132" column="63" />
@@ -846,7 +862,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551946230861">
+      <file name="/Dummy.txt" timestamp="1552026926660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1544,8 +1560,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/show.html.erb" timestamp="1551754897599">
-        <mark key="'" line="18" column="23" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/show.html.erb" timestamp="1552026925044">
+        <mark key="[" line="75" column="53" />
+        <mark key="]" line="75" column="53" />
+        <mark key="." line="75" column="53" />
+        <mark key="^" line="75" column="53" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/gacha_gift.md" timestamp="1542015881123">
         <mark key="'" line="43" column="15" />
@@ -1705,12 +1724,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/config/routes.rb" timestamp="1551754827909">
-        <mark key="'" line="142" column="15" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/config/routes.rb" timestamp="1552025757333">
+        <mark key="'" line="25" column="10" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/gacha_type.proto" timestamp="1548152748432">
         <mark key="'" line="20" column="2" />
@@ -1751,6 +1769,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="^" line="42" column="36" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" timestamp="1552026725751">
+        <mark key="[" line="10" column="95" />
+        <mark key="]" line="10" column="107" />
+        <mark key="^" line="10" column="107" />
+        <mark key="." line="10" column="107" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/user_char_record_spec_helper.rb" timestamp="1551171478129">
         <mark key="'" line="34" column="8" />
@@ -2099,11 +2123,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/sharding_sequencers.yml" timestamp="1551946834869">
-        <mark key="'" line="62" column="2" />
-        <mark key="[" line="128" column="52" />
-        <mark key="]" line="128" column="52" />
-        <mark key="." line="128" column="52" />
-        <mark key="^" line="128" column="52" />
+        <mark key="[" line="60" column="52" />
+        <mark key="]" line="60" column="52" />
+        <mark key="." line="60" column="52" />
+        <mark key="^" line="60" column="52" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/base_item_distributor_spec.rb" timestamp="1540964165262">
         <mark key="[" line="2" column="0" />
@@ -2502,6 +2525,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" timestamp="1552024543715">
+        <mark key="'" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_main_floor.rb" timestamp="1550037291146">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="52" column="0" />
@@ -2874,10 +2900,7 @@
         <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1551940372419">
-        <mark key="'" line="456" column="14" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+        <mark key="'" line="487" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/macaron/static_site/movable_type_spec.rb" timestamp="1548225894819">
         <mark key="'" line="35" column="8" />
@@ -3290,9 +3313,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/story_event/index.html.erb" timestamp="1551770052510">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="21" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/story_event/index.html.erb" timestamp="1552025072268">
+        <mark key="'" line="24" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="5" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="21" />
       </file>
@@ -3565,6 +3589,9 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/bugsnag-6.11.1/lib/bugsnag/breadcrumbs/breadcrumb.rb" timestamp="1552025720262">
+        <mark key="'" line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/dc_mail_item.md" timestamp="1542015768436">
         <mark key="'" line="39" column="41" />
         <mark key="[" line="5" column="56" />
@@ -3586,38 +3613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_layer_stage_event.rb" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="118" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="70" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="101" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/start.rb" />
-      <jump line="157" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="3" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="4" column="23" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="7" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="21" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="48" column="33" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="49" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="52" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="53" column="40" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="54" column="50" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="56" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="68" column="81" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="77" column="44" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="87" column="81" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="97" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="98" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="99" column="45" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="102" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="103" column="28" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="106" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="107" column="99" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="228" column="36" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
-      <jump line="285" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
-      <jump line="297" column="23" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
-      <jump line="298" column="35" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
-      <jump line="461" column="43" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
       <jump line="126" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="274" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
@@ -3686,55 +3681,87 @@
       <jump line="40" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/database/database_default.yml" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_topic.rb" />
       <jump line="9" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_new_sales_event_group_conditions_schema.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" />
+      <jump line="60" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="65" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="22" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="24" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/story_event/index.html.erb" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="85" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="63" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="78" column="23" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/show.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/bugsnag-6.11.1/lib/bugsnag/breadcrumbs/breadcrumb.rb" />
+      <jump line="72" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/vendor/bundle/ruby/2.5.0/gems/bugsnag-6.11.1/lib/bugsnag/breadcrumbs/breadcrumb.rb" />
+      <jump line="122" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/config/breadcrumbs.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/config/routes.rb" />
+      <jump line="183" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/config/routes.rb" />
+      <jump line="25" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/config/routes.rb" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="23" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="57" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="40" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="74" column="13" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="67" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
+      <jump line="7" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="41" column="71" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="29" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/_list.html.erb" />
+      <jump line="21" column="33" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/yuzuru/app/views/yuzuru/user/sales_event/index.html.erb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRydWUK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>elapsed_month</text>
+        <text>story</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNBTEVTX0VWRU5UID0gMgo=</text>
+        <text encoding="base64">ICAgIDwlPSByZW5kZXIgcGFydGlhbDogImxpc3QiLCBsb2NhbHM6IHsgdGl0bGU6ICLlvZPpgbjjgqTjg5njg7Pjg4giLCBldmVudHM6IEBub3JtYWxfZXZlbnRzLCBncm91cHM6IEBub3JtYWxfZ3JvdXBzIH0gJT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRydWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNBTEVTX0VWRU5UID0gMgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIwojIAojIAojCiMgCiMgCiMgCiMKIyAKIwojIAojIAojIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">IDwvZGl2Pgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxoMiBjbGFzcz0idGl0bGUiPuW9k+mBuOOCueODiOODvOODquODvOOCpOODmeODs+ODiDwvaDI+CiAgICA8dGFibGUgY2xhc3M9InRhYmxlIj4KICAgICAgPHRoZWFkPgogICAgICA8dHI+CiAgICAgICAgPHRoPklEPC90aD4KICAgICAgICA8dGg+44K/44Kk44OI44OrPC90aD4KICAgICAgICA8dGg+R3JvdXBJRDwvdGg+CiAgICAgICAgPHRoPuOCreODo+ODqeWQjShJRCk8L3RoPgogICAgICA8L3RyPgogICAgICA8L3RoZWFkPgogICAgICA8dGJvZHk+CiAgICAgIDwlIEBzdG9yeV9ldmVudHMuZWFjaCBkbyB8dXNlfCAlPgogICAgICAgIDwlIGV2ZW50ID0gdXNlLnNhbGVzX2V2ZW50ICU+CiAgICAgICAgPHRyPgogICAgICAgICAgPHRkPjwlPSBldmVudC5pZCAlPjwvdGQ+CiAgICAgICAgICA8dGQ+PCU9IGV2ZW50Ji5uYW1lICU+PC90ZD4KICAgICAgICAgIDx0ZD48JT0gZXZlbnQuc2FsZXNfZXZlbnRfZ3JvdXBfaWQgJT48L3RkPgogICAgICAgICAgPHRkPjwlPSBDaGFyLmZpbmRfYnkoaWQ6IHVzZS5jaGFyX2lkKS5uYW1lICU+ICg8JT0gdXNlLmNoYXJfaWQgJT4pPC90ZD4KICAgICAgICA8L3RyPgogICAgICA8JSBlbmQgJT4KICAgICAgPC90Ym9keT4KICAgIDwvdGFibGU+CiA=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwvdGFibGU+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICA8L3Rib2R5Pgo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIDxoMiBjbGFzcz0idGl0bGUiPuOCpOODmeODs+ODiOW9k+iQveips+e0sDwvaDI+CiAgICA8dGFibGUgY2xhc3M9InRhYmxlIj4KICAgICAgPHRoZWFkPgogICAgICA8dHI+CiAgICAgICAgPHRoPklEPC90aD4KICAgICAgICA8dGg+44K/44Kk44OI44OrPC90aD4KICAgICAgICA8dGg+R3JvdXBJRDwvdGg+CiAgICAgICAgPHRoPumaoOWMv+acn+mWk+WkljwvdGg+CiAgICAgICAgPHRoPumWi+WCrOacn+mWk+W5tCjjgrLjg7zjg6ApPC90aD4KICAgICAgICA8dGg+5b2T6YG444Op44Oz44Kv5YaFPC90aD4KICAgICAgICA8dGg+44Kk44OZ44Oz44OI5b2T6YG456K6546HIFslXTwvdGg+CiAgICAgICAgPHRoPumWi+WCrOacn+mWk+aciCjjgrLjg7zjg6ApPC90aD4KICAgICAgICA8dGg+44Kt44Oj44Op44KS5omA5oyBPC90aD4KICAgICAgPC90cj4KICAgICAgPC90aGVhZD4KICAgICAgPHRib2R5PgogICAgICA8JSBjaGFyX2lkcyA9IEB1c2VyLnVzZXJfY2hhcnMubWFwKCY6Y2hhcl9pZCkgJT4KICAgICAgPCUgQG5vcm1hbF9ncm91cHMuZWFjaCBkbyB8dXNlZ3wgJT4KICAgICAgICA8JSBncm91cCA9IHVzZWcuc2FsZXNfZXZlbnRfZ3JvdXAgJT4KICAgICAgICA8JSBldmVudCA9IGdyb3VwLnNhbGVzX2V2ZW50c19ieV9vcmRlcltncm91cC5pbmRleF9mcm9tX2NvdW50KHVzZWcuY291bnQpXSAlPgogICAgICAgIDx0cj4KICAgICAgICAgIDx0ZD48JT0gZXZlbnQmLmlkICU+PC90ZD4KICAgICAgICAgIDx0ZD48JT0gZXZlbnQmLm5hbWUgJT48L3RkPgogICAgICAgICAgPHRkPjwlPSBncm91cC5pZCAlPjwvdGQ+CiAgICAgICAgICA8dGQ+PCU9IHVzZWcuYXBwZWFyYW5jZV9tYW5hZ2VyLmhpZGRlbj8oQHVzZXIuZWxhcHNlZF9tb250aCkgPyAieCIgOiAi4peLIiAlPjwvdGQ+CiAgICAgICAgICA8dGQ+PCU9IGdyb3VwLmF2YWlsYWJsZV9nYW1ldGltZV95ZWFyPyhAdXNlci5nYW1ldGltZV95ZWFyKSA/ICLil4siIDogIngiICU+PC90ZD4KICAgICAgICAgIDx0ZD48JT0gZ3JvdXAuYXZhaWxhYmxlX3VzZXJfcmFuaz8oQHVzZXIucmFuaykgPyAi4peLIiA6ICJ4IiAlPjwvdGQ+CiAgICAgICAgICA8dGQ+PCU9IGV2ZW50LnByb2IgJT48L3RkPgogICAgICAgICAgPHRkPjwlPSBldmVudC5hdmFpbGFibGVfZ2FtZXRpbWVfbW9udGg/KEB1c2VyLmdhbWV0aW1lX21vbnRoKSA/ICLil4siIDogIngiICU+PC90ZD4KICAgICAgICAgIDx0ZD48JT0gZXZlbnQuc2FtcGxlX2J5X2NoYXJfY29uZGl0aW9uKGNoYXJfaWRzKS5uaWw/ID8gIngiIDogIuKXiyIgJT48L3RkPgogICAgICAgIDwvdHI+CiAgICAgIDwlIGVuZCAlPgog</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQhKDpsYXllcl9zdGFnZV9ldmVudCkgeyBGYWN0b3J5Qm90LmNyZWF0ZSg6bGF5ZXJfc3RhZ2VfZXZlbnQsIDppbl9zZXNzaW9uLCBsYXllcl9zdGFnZV9ncm91cF9pZDogMSkgfQogICAgICAgICAgICAgIGxldCEoOmxheWVyX3N0YWdlKSB7IEZhY3RvcnlCb3QuY3JlYXRlKDpsYXllcl9zdGFnZSwgZ3JvdXBfaWQ6IDEpIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>elapsed_month</last-search>
+      <last-search>story</last-search>
       <last-offset />
-      <last-pattern>elapsed_month</last-pattern>
+      <last-pattern>story</last-pattern>
       <last-replace>###</last-replace>
       <last-substitute>##</last-substitute>
       <last-dir>1</last-dir>
@@ -3742,7 +3769,6 @@
     </search>
     <history>
       <history-search>
-        <entry>layer_stage?</entry>
         <entry encoding="base64">XDxMQVlFUl9TVEFHRVNcPg==</entry>
         <entry>summary</entry>
         <entry>user_company_reco</entry>
@@ -3762,6 +3788,7 @@
         <entry>guest_user</entry>
         <entry>guest_user)</entry>
         <entry>elapsed_month</entry>
+        <entry>story</entry>
       </history-search>
       <history-cmd>
         <entry>q1</entry>
