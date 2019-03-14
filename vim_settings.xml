@@ -581,11 +581,11 @@
         <mark key="^" line="132" column="76" />
         <mark key="." line="132" column="76" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" timestamp="1552549319795">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" timestamp="1552559772164">
         <mark key="'" line="12" column="12" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="78" column="7" />
-        <mark key="." line="75" column="9" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
         <mark key="^" line="75" column="9" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/clinic/lib/clinic.rb" timestamp="1537405066206">
@@ -880,7 +880,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552547528951">
+      <file name="/Dummy.txt" timestamp="1552559781454">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3791,8 +3791,8 @@
       <jump line="12" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bmQK</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -3804,22 +3804,22 @@
         <text encoding="base64">ICAgIGRlZiBmaW5pc2gKICAgICAgaWYgdXNlcl9iYXR0bGUuZ3Vlc3Q/CiAgICAgICAgZmluaXNoX2FzX2d1ZXN0CiAgICAgIGVsc2lmIHVzZXJfYmF0dGxlLmhvc3Q/CiAgICAgICAgZmluaXNoX2FzX2hvc3QKICAgICAgZWxzZQogICAgICAgIGZpbmlzaF9hc19zb2xvCiAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzb2xvX21pc3Npb25zCg==</text>
+        <text encoding="base64">bmQK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBob3N0X21pc3Npb25zCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBkZWYgZmluaXNoCiAgICAgIGlmIHVzZXJfYmF0dGxlLmd1ZXN0PwogICAgICAgIGZpbmlzaF9hc19ndWVzdAogICAgICBlbHNpZiB1c2VyX2JhdHRsZS5ob3N0PwogICAgICAgIGZpbmlzaF9hc19ob3N0CiAgICAgIGVsc2UKICAgICAgICBmaW5pc2hfYXNfc29sbwogICAgICBlbmQKICAgIGU=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpc3Npb25zCg==</text>
+        <text encoding="base64">ICAgICAgICBzb2xvX21pc3Npb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLgoK</text>
+        <text encoding="base64">ICAgICAgICBob3N0X21pc3Npb25zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAbWlzc2lvbl9wb29sLnJlZ2lzdGVyX21pc3Npb25zKHN0cmF0ZWd5Lm1pc3Npb25zKQo=</text>
+        <text encoding="base64">ICAgICAgICBpc3Npb25zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAbWlzc2lvbl9wb29sLnJlZ2lzdGVyX21pc3Npb25zKHN0cmF0ZWd5Lm1pc3Npb25zKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBzZWxmLgoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBAbWlzc2lvbl9wb29sLnJlZ2lzdGVyX21pc3Npb25zKHN0cmF0ZWd5Lm1pc3Npb25zKQo=</text>
