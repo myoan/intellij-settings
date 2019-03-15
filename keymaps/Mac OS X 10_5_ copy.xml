@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="meta alt a" />
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl a" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl c" />
+  </action>
   <action id="Debug" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl d" />
