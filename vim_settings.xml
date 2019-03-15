@@ -539,12 +539,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1552644781915">
-        <mark key="'" line="33" column="19" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="81" column="9" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1552647008079">
+        <mark key="'" line="122" column="83" />
+        <mark key="[" line="68" column="47" />
+        <mark key="]" line="68" column="52" />
+        <mark key="." line="68" column="52" />
+        <mark key="^" line="68" column="52" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_item_consumer_spec.rb" timestamp="1541470615228">
         <mark key="'" line="24" column="12" />
@@ -587,13 +587,13 @@
         <mark key="^" line="132" column="76" />
         <mark key="." line="132" column="76" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" timestamp="1552644759789">
-        <mark key="'" line="105" column="8" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" timestamp="1552646827469">
+        <mark key="'" line="106" column="8" />
         <mark key="i" line="42" column="10" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="101" column="7" />
+        <mark key="[" line="125" column="9" />
+        <mark key="]" line="125" column="9" />
+        <mark key="." line="125" column="9" />
+        <mark key="^" line="125" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/clinic/lib/clinic.rb" timestamp="1537405066206">
         <mark key="[" line="22" column="10" />
@@ -3547,7 +3547,7 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" timestamp="1552642676249">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" timestamp="1552647010357">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="128" column="54" />
         <mark key="]" line="128" column="60" />
@@ -3711,12 +3711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class.rb" />
-      <jump line="83" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
-      <jump line="54" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
-      <jump line="193" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
-      <jump line="184" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
       <jump line="205" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
       <jump line="243" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
@@ -3801,7 +3795,6 @@
       <jump line="84" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_player.rb" />
       <jump line="6" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/revenge.rb" />
       <jump line="6" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/special_ex.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" />
       <jump line="105" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
       <jump line="159" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="163" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
@@ -3811,55 +3804,62 @@
       <jump line="158" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="81" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="33" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="86" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="161" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="171" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="185" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="106" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc.rb" />
+      <jump line="122" column="83" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXZlbmdlX29wcGVyYXRpb24K</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXRpcmVcPg==</text>
+        <text encoding="base64">XDxwcm9jZXNzX3NwZWNpYWxfc3RhZ2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHVzZXIudXBkYXRlX2ZpbmFuY2lhbF9yZWNvcmRfYnlfYmF0dGxlKHBhcmFtZXRlci5zdGF0dXNfY2xlYXJfb3JfY29tcGxldGVfY2xlYXI/LCB0b3RhbF9nb2xkKQogICAgdXNlci5pbmNyZW1lbnRfZWxhcHNlZF9tb250aAogICAgZGVmZW5zZV9vcHBlcmF0aW9uCiAgICB1cGRhdGVfYmF0dGxlX3N0YXR1c19jb250aW51b3VzX2NvdW50ZXIgaWYgdXNlcl9iYXR0bGUuY291bnRhYmxlX3N0YWdlPwogICAgcmV2ZW5nZV9vcHBlcmF0aW9uCiAgICBwcm9jZXNzX3NwZWNpYWxfc3RhZ2UKICAgIEBtaXNzaW9uX3Bvb2wucmVnaXN0ZXJfbWlzc2lvbihNaXNzaW9uQ29uZGl0aW9uVHlwZTo6Q09VTlRfT0ZfRklOQU5DSUFMX0NMT1NJTkdfUEVSSU9EX0lOX1BFUklPRCkKIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBtaXNzaW9uX3Bvb2wucmVnaXN0ZXJfbWlzc2lvbnMoc3RyYXRlZ3kuZmluaXNoX21pc3Npb25zKQogICAgQG1pc3Npb25fcG9vbC5leGVjdXRlX2NoZWNrX2FuZF9hY2hpZXZlIQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXZlbmdlX29wcGVyYXRpb24K</text>
+        <text encoding="base64">ICAgICAgc3RyYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGRlZiByZXRpcmUK</text>
+        <text encoding="base64">ICAgIGlmIHVzZXJfYmF0dGxlLmd1ZXN0PwogICAgICByZXRpcmUhCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgZGVmIG5ld19yZXRpcmUhCiAgICB1c2VyX2JhdHRsZS5maW5pc2ghCiAgICBzdHJhdGVneSA9IEJhdHRsZTo6U3RhZ2VDbGFzcy5zdHJhdGVneSh1c2VyLCBwYXJhbWV0ZXIsIHVzZXJfYmF0dGxlLCBAcmV3YXJkKQogICAgc3RyYXRlZ3kuZmluaXNoIQogICAgQG1pc3Npb25fcG9vbC5yZWdpc3Rlcl9taXNzaW9ucyhzdHJhdGVneS5maW5pc2hfbWlzc2lvbnMpCiAgICBAbWlzc2lvbl9wb29sLmV4ZWN1dGVfY2hlY2tfYW5kX2FjaGlldmUhCiAgZW5kCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiB1c2VyX2JhdHRsZS5ndWVzdD8KICAgIHJldGlyZV9vcGVyYXRpb24K</text>
+        <text encoding="base64">ICAgIGVsc2lmIHVzZXJfYgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiB1c2VyX2JhdHRsZS5ndWVzdD8K</text>
+        <text encoding="base64">ICBkZWYgbmV3X3JldGlyZSEKICBlbmQKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiB1c2VyX2JhdHRsZS5ndWVzdD8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmaW5pc2hfbGF5ZXJfc3RhZ2Vfb3BlcmF0aW9uIGlmIHVzZXJfYmF0dGxlLmxheWVyX3N0YWdlPyAmJiAhdXNlcl9iYXR0bGUuZ3Vlc3Q/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXRpcmVcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzX3NwZWNpYWxfc3RhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXRpcmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzX3NwZWNpYWxfc3RhZ2VcPg==</last-pattern>
       <last-replace>gold_calculator</last-replace>
       <last-substitute>gold_calcurator</last-substitute>
       <last-dir>1</last-dir>
@@ -3875,7 +3875,6 @@
         <entry encoding="base64">XDxmaW5pc2hfYXNfcmV2ZW5nZV9ob3N0XD4=</entry>
         <entry encoding="base64">XDxmaW5pc2hfb3BlcmF0aW9uX2Zvcl9zb2xvXD4=</entry>
         <entry encoding="base64">XDxDT1VOVF9PRl9BREhPQ1w+</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX3NwZWNpYWxfc3RhZ2VcPg==</entry>
         <entry encoding="base64">XDxmaW5pc2hfb3BlcmF0aW9uX2Zvcl9ndWVzdFw+</entry>
         <entry encoding="base64">XDxleGVjXD4=</entry>
         <entry>high_score?</entry>
@@ -3883,13 +3882,13 @@
         <entry encoding="base64">XDx1cGRhdGVfaGlnaF9zY29yZVw+</entry>
         <entry encoding="base64">XDxhZGRfY2VsZWJyaXR5XD4=</entry>
         <entry>NormalNpc::Guest</entry>
-        <entry encoding="base64">XDxkZWZlbnNlX29wcGVyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxyZXZlbmdlX29wcGVyYXRpb25cPg==</entry>
-        <entry encoding="base64">XDxyZXRpcmVfb3BlcmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxyZXRpcmVcPg==</entry>
+        <entry encoding="base64">XDxyZXRpcmVfb3BlcmF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxkZWZlbnNlX29wcGVyYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX3NwZWNpYWxfc3RhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>475</entry>
         <entry>550</entry>
         <entry>401</entry>
         <entry>%s/process_special_stage/update_and_draw_special_stage/g</entry>
@@ -3908,6 +3907,7 @@
         <entry>2w</entry>
         <entry>q</entry>
         <entry>W</entry>
+        <entry>@W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
