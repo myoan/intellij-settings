@@ -7,7 +7,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl a" />
   </action>
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="Debug" />
   <action id="Diff.ShowDiff">
