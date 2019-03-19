@@ -1099,9 +1099,9 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_mission.rb" timestamp="1552978808250">
         <mark key="[" line="10" column="10" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/sales_event_triggers_schema.rb" timestamp="1542266811349">
         <mark key="'" line="4" column="1" />
@@ -3055,8 +3055,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1552971999090">
-        <mark key="'" line="345" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" timestamp="1552980960812">
+        <mark key="'" line="188" column="6" />
         <mark key="[" line="381" column="0" />
         <mark key="]" line="381" column="0" />
         <mark key="." line="381" column="0" />
@@ -3843,7 +3843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="23" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/revenge/host_spec.rb" />
       <jump line="12" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/revenge/host_spec.rb" />
       <jump line="102" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/revenge/host_spec.rb" />
       <jump line="41" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/revenge/host_spec.rb" />
@@ -3943,6 +3942,7 @@
       <jump line="29" column="23" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/application.rb" />
       <jump line="28" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/application.rb" />
+      <jump line="188" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3952,7 +3952,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>eag</text>
+        <text>high_score</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICBsZXQoOnVzZXJfYmF0dGxlX2NoYXJzKSBkbwogICAgdXNlcl9pZHMgPSBbdXNlci5pZF0gKiA0CiAgICBjaGFyX2lkcyA9IEZhY3RvcnlCb3QuY3JlYXRlX2xpc3QoOmNoYXIsIDQpLm1hcCgmOmlkKQogICAgdXNlcl9jaGFycyA9IHVzZXJfaWRzLnppcChjaGFyX2lkcykubWFwIHsgfHVzZXJfaWQsIGNoYXJfaWR8IFVzZXJDaGFyLnB1dCEodXNlcl9pZDogdXNlcl9pZCwgY2hhcl9pZDogY2hhcl9pZCkgfQogICAgdXNlcl9jaGFyX2lkcyA9IHVzZXJfY2hhcnMubWFwKCY6aWQpCiAgICBVc2VyQmF0dGxlQ2hhci5hZGRfdXNlcl9iYXR0bGVfY2hhcnMhKHVzZXJfYmF0dGxlLmlkLCB1c2VyX2lkcywgdXNlcl9jaGFyX2lkcykKICBlbmQKIA==</text>
@@ -3989,9 +3989,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eag</last-search>
+      <last-search>high_score</last-search>
       <last-offset />
-      <last-pattern>eag</last-pattern>
+      <last-pattern>high_score</last-pattern>
       <last-replace>gold_calculator</last-replace>
       <last-substitute>gold_calcurator</last-substitute>
       <last-dir>1</last-dir>
@@ -3999,7 +3999,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCYXR0bGVcPg==</entry>
         <entry encoding="base64">XDxub3JtYWxcPg==</entry>
         <entry encoding="base64">XDxOT1JNQUxfQkFUVExFU1w+</entry>
         <entry encoding="base64">XDxSZXZlbmdlXD4=</entry>
@@ -4019,6 +4018,7 @@
         <entry>rival</entry>
         <entry encoding="base64">XDx1c2VyX3N0YWdlX2V2ZW50XD4=</entry>
         <entry>eag</entry>
+        <entry>high_score</entry>
       </history-search>
       <history-cmd>
         <entry>%s/gold_calcurator/gold_calculator/g</entry>
