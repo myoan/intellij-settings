@@ -725,12 +725,6 @@
         <mark key="." line="10" column="79" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/battle_controller.rb" timestamp="1552997079973">
-        <mark key="'" line="50" column="6" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/bin/test.rb" timestamp="1544794955035">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -2293,6 +2287,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/stage.rb" timestamp="1553054641381" />
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_orbs_schema.rb" timestamp="1540368185500">
         <mark key="'" line="3" column="2" />
         <mark key="[" line="0" column="90" />
@@ -3313,6 +3308,9 @@
         <mark key="." line="10" column="4" />
         <mark key="^" line="10" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" timestamp="1553054578424">
+        <mark key="'" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/service/check.rb" timestamp="1534851978500">
         <mark key="'" line="12" column="12" />
         <mark key="[" line="35" column="0" />
@@ -3805,7 +3803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="38" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="87" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="102" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
@@ -3905,6 +3902,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" />
       <jump line="67" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/parameter/battle_finish.rb" />
       <jump line="8" column="32" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_npc/solo_spec.rb" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/controllers/user.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
