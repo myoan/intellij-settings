@@ -1028,8 +1028,8 @@
         <mark key="." line="5" column="51" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/jira-report/backlog.rb" timestamp="1545214324163">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/jira-report/backlog.rb" timestamp="1553243661831">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="43" />
         <mark key="^" line="23" column="43" />
@@ -2022,11 +2022,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1552900986193">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" timestamp="1553243660319">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_tickets_schema.rb" timestamp="1541475720850">
         <mark key="[" line="4" column="4" />
@@ -3828,9 +3828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
-      <jump line="76" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
       <jump line="35" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
       <jump line="40" column="43" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="77" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
@@ -3928,10 +3925,13 @@
       <jump line="56" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/common.rb" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" />
       <jump line="27" column="36" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" />
+      <jump line="40" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/jira-report/backlog.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/jira-report/backlog.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/jira-report/backlog.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBoaWdoX3Njb3JlX3RlYW3jga7jgq3jg6Pjg4Pjgrfjg6XljJYKICAgIC0g5Yil44Gu5pa55rOV44GnaGlnaF9zY29yZeOBmOOCg+OBquOBhOWgtOWQiOOBq25pbOOCkui/lOOBm+OBquOBhOOBi++8nwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -3943,31 +3943,31 @@
         <text encoding="base64">ICBkZWYgZmluaXNoIQogICAgc3RyYXRlZ3kgPSBCYXR0bGU6OlN0YWdlQ2xhc3Muc3RyYXRlZ3kodXNlciwgcGFyYW1ldGVyLCB1c2VyX2JhdHRsZSwgQHJld2FyZCkKICAgIHN0cmF0ZWd5LmZpbmlzaCEKICAgIEBtaXNzaW9uX3Bvb2wucmVnaXN0ZXJfbWlzc2lvbnMoc3RyYXRlZ3kuZmluaXNoX21pc3Npb25zKQogICAgQG1pc3Npb25fcG9vbC5leGVjdXRlX2NoZWNrX2FuZF9hY2hpZXZlIQogIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBoaWdoX3Njb3JlX3RlYW3jga7jgq3jg6Pjg4Pjgrfjg6XljJYKICAgIC0g5Yil44Gu5pa55rOV44GnaGlnaF9zY29yZeOBmOOCg+OBquOBhOWgtOWQiOOBq25pbOOCkui/lOOBm+OBquOBhOOBi++8nwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgc2V0X2ZpbmlzaF9yZXNwb25zZQogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0dGxlLnNldF9maW5pc2hfcmVzcG9uc2UK</text>
+        <text encoding="base64">ICBkZWYgc2V0X2ZpbmlzaF9yZXNwb25zZQogIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEByZXdhcmQuZHJhdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0dGxlLnNldF9maW5pc2hfcmVzcG9uc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIEByZXdhcmQuZHJhdwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDRUxFQlJJVFlfQ09NUExFVEVfQ0xFQVJfVkFMVUUgPSA2CiAgQ0VMRUJSSVRZX0NMRUFSX1ZBTFVFICAgICAgICAgID0gNQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDRUxFQlJJVFlfQ09NUExFVEVfQ0xFQVJfVkFMVUUgPSA2CiAgQ0VMRUJSSVRZX0NMRUFSX1ZBTFVFICAgICAgICAgID0gNQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBDRUxFQlJJVFlfQ09NUExFVEVfQ0xFQVJfVkFMVUUgPSA2CiAgQ0VMRUJSSVRZX0NMRUFSX1ZBTFVFICAgICAgICAgID0gNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4024,8 +4024,8 @@
         <entry>q</entry>
         <entry>130</entry>
         <entry>q1</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
