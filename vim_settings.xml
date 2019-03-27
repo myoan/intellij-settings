@@ -552,6 +552,11 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1553670068928">
+        <mark key="'" line="32" column="19" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="99" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_item_consumer_spec.rb" timestamp="1541470615228">
         <mark key="'" line="24" column="12" />
         <mark key="[" line="1" column="0" />
@@ -659,8 +664,8 @@
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc/solo.rb" timestamp="1553668084468">
-        <mark key="'" line="42" column="40" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc/solo.rb" timestamp="1553669849147">
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="42" column="235" />
         <mark key="]" line="42" column="235" />
         <mark key="." line="42" column="235" />
@@ -911,7 +916,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553668620664">
+      <file name="/Dummy.txt" timestamp="1553670084697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1146,8 +1151,8 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" timestamp="1553242824976">
-        <mark key="'" line="378" column="58" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" timestamp="1553669679765">
+        <mark key="'" line="102" column="53" />
         <mark key="[" line="385" column="95" />
         <mark key="]" line="385" column="95" />
         <mark key="." line="385" column="95" />
@@ -2075,6 +2080,13 @@
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/common.rb" timestamp="1553670077603">
+        <mark key="'" line="60" column="2" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="101" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/container/lib/static_site/cli.rb" timestamp="1547110192969">
         <mark key="'" line="23" column="10" />
@@ -3839,12 +3851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
-      <jump line="33" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="93" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="130" column="60" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="139" column="56" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="55" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
       <jump line="89" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
       <jump line="94" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
@@ -3939,19 +3945,25 @@
       <jump line="61" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_npc/host_spec.rb" />
       <jump line="21" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_npc/host_spec.rb" />
       <jump line="126" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_npc/host_spec.rb" />
+      <jump line="102" column="53" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc/solo.rb" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="172" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="55" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
+      <jump line="32" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVzZXJfYmF0dGxlLnVwZGF0ZV9jZWxlYnJpdHkhKHVzZXIuZHJlYW1fY29tcGFueV9sZWFndWVfZ3JhZGUuY2FsY19jZWxlYnJpdHkocGFyYW1ldGVyLnN0YXR1cykpCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDT1VOVF9PRl9VU0VfU1RSSUtFX1NIT1RfSU5fUEVSSU9EXD4=</text>
+        <text>celebrity</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgdHlwZTogTWlzc2lvbkNvbmRpdGlvblR5cGU6OkNPVU5UX09GX0FESE9DLCBwYXJhbXM6IHsgdXNlcl9hZGhvY3M6IFVzZXJBZGhvYy5nZXRfYWxsX2J5X3VzZXJfaWRfd2l0aF9jdXJyZW50X3ZlcnNpb25zKHVzZXIuaWQpIH0gfQo=</text>
+        <text encoding="base64">ICAgIHVzZXJfYmF0dGxlLnVwZGF0ZV9jZWxlYnJpdHkhKHVzZXIuZHJlYW1fY29tcGFueV9sZWFndWVfZ3JhZGUuY2FsY19jZWxlYnJpdHkocGFyYW1ldGVyLnN0YXR1cykpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
@@ -3985,9 +3997,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDT1VOVF9PRl9VU0VfU1RSSUtFX1NIT1RfSU5fUEVSSU9EXD4=</last-search>
+      <last-search>celebrity</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDT1VOVF9PRl9VU0VfU1RSSUtFX1NIT1RfSU5fUEVSSU9EXD4=</last-pattern>
+      <last-pattern>celebrity</last-pattern>
       <last-replace>gold_calculator</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZV9hbmRfc2V0X2xheWVyX3N0YWdlX2V2ZW50X2lkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -3995,8 +4007,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnb2xkX2NhbGN1bGF0b3JcPg==</entry>
-        <entry encoding="base64">XDxzdGFydF9vcGVyYXRpb25fZm9yX3NvbG9fb3JfaG9zdFw+</entry>
         <entry encoding="base64">XDxpbmNyZW1lbnRfYmF0dGxlX3N0YXJ0X2NvdW50XD4=</entry>
         <entry encoding="base64">XDxpbmNyZW1lbnRfY2hhcl91c2FnZV9jb3VudFw+</entry>
         <entry>vs_player</entry>
@@ -4015,6 +4025,8 @@
         <entry encoding="base64">XDxDT1VOVF9PRl9BQ0hJRVZFX0dPQUxfT0ZfR09MRF9JTl9QRVJJT0RcPg==</entry>
         <entry encoding="base64">XDxNQVhfREFNQUdFX0RVUklOR19CQVRUTEVfSU5fUEVSSU9EXD4=</entry>
         <entry encoding="base64">XDxDT1VOVF9PRl9VU0VfU1RSSUtFX1NIT1RfSU5fUEVSSU9EXD4=</entry>
+        <entry>set_</entry>
+        <entry>celebrity</entry>
       </history-search>
       <history-cmd>
         <entry>@W</entry>

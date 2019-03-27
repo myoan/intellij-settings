@@ -1,6 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="meta alt a" />
