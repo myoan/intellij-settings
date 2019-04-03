@@ -1113,12 +1113,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/host_spec.rb" timestamp="1554256039478">
-        <mark key="'" line="56" column="9" />
-        <mark key="[" line="88" column="102" />
-        <mark key="]" line="88" column="105" />
-        <mark key="^" line="88" column="105" />
-        <mark key="." line="88" column="105" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/host_spec.rb" timestamp="1554256836455">
+        <mark key="'" line="90" column="8" />
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/support/server-basic.puml" timestamp="1533892555455">
         <mark key="'" line="32" column="10" />
@@ -2084,10 +2084,10 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/solo_spec.rb" timestamp="1554256024625">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="53" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/solo_spec.rb" timestamp="1554256827926">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="109" />
         <mark key="^" line="82" column="94" />
         <mark key="." line="82" column="94" />
       </file>
@@ -2998,9 +2998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_player/host_spec.rb" />
-      <jump line="52" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_player/host_spec.rb" />
-      <jump line="96" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_player/host_spec.rb" />
       <jump line="120" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_player/host_spec.rb" />
       <jump line="165" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_player/host_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_player/host_spec.rb" />
@@ -3098,10 +3095,13 @@
       <jump line="106" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/host_spec.rb" />
       <jump line="119" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/host_spec.rb" />
       <jump line="56" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/host_spec.rb" />
+      <jump line="87" column="38" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/host_spec.rb" />
+      <jump line="88" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/host_spec.rb" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/score_attack/solo_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>O</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsZXQoOnVzZXJfbGF5ZXJfc3RhZ2VfZXZlbnQpIHsgVXNlckxheWVyU3RhZ2VFdmVudC5wdXQhKHVzZXJfaWQ6IHVzZXIuaWQsIGV2ZW50X2lkOiBsYXllcl9zdGFnZV9ldmVudC5pZCkgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>O</text>
@@ -3110,7 +3110,7 @@
         <text encoding="base64">XDxzdGFydF9vcGVyYXRpb25fZm9yX2hvc3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGV2ZW50X2lkOiBsYXllcl9zdGFnZV9ldmVudC5pZCwK</text>
+        <text encoding="base64">ICBsZXQoOnVzZXJfbGF5ZXJfc3RhZ2VfZXZlbnQpIHsgVXNlckxheWVyU3RhZ2VFdmVudC5wdXQhKHVzZXJfaWQ6IHVzZXIuaWQsIGV2ZW50X2lkOiBsYXllcl9zdGFnZV9ldmVudC5pZCkgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYWxsb3codXNlcl9iYXR0bGUpLnRvIHJlY2VpdmUoOnNvbG8/KS5hbmRfcmV0dXJuKGZhbHNlKQogICAgICBhbGxvdyh1c2VyX2JhdHRsZSkudG8gcmVjZWl2ZSg6aG9zdD8pLmFuZF9yZXR1cm4odHJ1ZSkKICAgICAgYWxsb3codXNlcl9iYXR0bGUpLnRvIHJlY2VpdmUoOmd1ZXN0PykuYW5kX3JldHVybihmYWxzZSkK</text>
