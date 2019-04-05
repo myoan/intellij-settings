@@ -450,11 +450,11 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1554438613005">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" timestamp="1554441034871">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="30" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/gacha_item_consumer_spec.rb" timestamp="1541470615228">
         <mark key="'" line="24" column="12" />
@@ -736,7 +736,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554433542096">
+      <file name="/Dummy.txt" timestamp="1554441073783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1432,12 +1432,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/stage_reward.md" timestamp="1542015978349">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/stage_reward.md" timestamp="1554440579117">
         <mark key="'" line="31" column="16" />
-        <mark key="[" line="5" column="56" />
-        <mark key="]" line="5" column="56" />
-        <mark key="^" line="37" column="35" />
-        <mark key="." line="5" column="56" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/data/dc/enum/result_code_pb.rb" timestamp="1548139100068">
         <mark key="'" line="84" column="8" />
@@ -2114,12 +2114,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/reward.rb" timestamp="1554439793911">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/reward.rb" timestamp="1554440947555">
         <mark key="'" line="46" column="62" />
-        <mark key="[" line="20" column="49" />
-        <mark key="]" line="20" column="61" />
-        <mark key="." line="20" column="61" />
-        <mark key="^" line="20" column="61" />
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="19" column="47" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lib/kms_wrapper.rb" timestamp="1544177780169">
         <mark key="'" line="44" column="6" />
@@ -2926,12 +2926,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" timestamp="1554439841663">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="138" column="187" />
-        <mark key="]" line="138" column="190" />
-        <mark key="." line="138" column="190" />
-        <mark key="^" line="138" column="190" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" timestamp="1554441073107">
+        <mark key="'" line="153" column="14" />
+        <mark key="[" line="133" column="109" />
+        <mark key="]" line="134" column="14" />
+        <mark key="." line="14" column="14" />
+        <mark key="^" line="134" column="14" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage_background.proto" timestamp="1535981269108">
         <mark key="'" line="1" column="0" />
@@ -3048,7 +3048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/challenge/host_spec.rb" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/parameter/battle_start.rb" />
       <jump line="43" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/parameter/battle_start.rb" />
       <jump line="29" column="44" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
@@ -3148,46 +3147,47 @@
       <jump line="118" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" />
       <jump line="46" column="62" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/reward.rb" />
+      <jump line="153" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBzdHJhdGVneS5maW5pc2hfdmFsaWRhdGUhCg==</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRUFTT05fSURfQ0xFQVJfQk9OVVNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZV9yZXdhcmQgPSBGYWN0b3J5Qm90LmNyZWF0ZSg6c3RhZ2VfcmV3YXJkKQo=</text>
+        <text encoding="base64">ICAgIEBzdHJhdGVneS5maW5pc2hfdmFsaWRhdGUhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGYWN0b3J5Qm90LmNyZWF0ZSg6c3RhZ2VfcmV3YXJkLCBzdGFnZV9pZDogc3RhZ2UuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgQHVzZXIuYWRkX2l0ZW1zKHJld2FyZHNfd2l0aG91dF9jaGFyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZSA9IEZhY3RvcnlCb3QuY3JlYXRlKDpzdGFnZSkK</text>
+        <text encoding="base64">ICAgICAgQGRpc3RyaWJ1dG9yLmRpc3RyaWJ1dGUhKGNoYXJzLm1hcCgmOml0ZW1faWQpLCBbXSwgZHJ5X3J1bikgdW5sZXNzIGNoYXJzLmVtcHR5Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZV9yZXdhcmQgPSBGYWN0b3J5Qm90LmNyZWF0ZSg6c3RhZ2VfcmV3YXJkKQo=</text>
+        <text encoding="base64">ICAgICAgQGRpc3RyaWJ1dG9yLmRpc3RyaWJ1dGUhKGNoYXJzLm1hcCgmOml0ZW1faWQpLCBbXSwgZHJ5X3J1bikgdW5sZXNzIGNoYXJzLmVtcHR5Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjX211bHRpX3RocmVhZCB7IEJhdHRsZTo6RmluaXNoLmV4ZWMhKHBhcmFtZXRlcikgfQogICAgICAgIGV4cGVjdChVc2VyUmVjb3JkOjpCYXR0bGUuZ2V0X2NvdW50X2J5X3VzZXJfaWRfYW5kX2NvdW50X2lkKHVzZXJfaWQsIFVzZXJSZWNvcmQ6OkJhdHRsZTo6Q291bnRJZDo6Q0xFQVIpKS50byBlcSAxCg==</text>
+        <text encoding="base64">ICAgIEBkaXN0cmlidXRvci5kaXN0cmlidXRlIShjaGFycy5tYXAoJjppdGVtX2lkKSwgW10sIGRyeV9ydW4pIHVubGVzcyBjaGFycy5lbXB0eT8K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEB1c2VyLmFkZF9pdGVtcyhyZXdhcmRzX3dpdGhvdXRfY2hhcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgc2V0X2ZpbmlzaF9yZXNwb25zZQogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QodXNlcikubm90X3RvIHJlY2VpdmUoOmRyYXcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
