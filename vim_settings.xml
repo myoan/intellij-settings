@@ -2985,8 +2985,8 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" timestamp="1554102120321">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" timestamp="1554445245279">
+        <mark key="'" line="111" column="0" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
@@ -3989,8 +3989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="299" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="303" column="16" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="73" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="122" column="37" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
@@ -4089,6 +4087,8 @@
       <jump line="53" column="29" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" />
+      <jump line="111" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4098,7 +4098,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>Batte</text>
+        <text>new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBzdHJhdGVneS5maW5pc2hfdmFsaWRhdGUhCg==</text>
@@ -4135,9 +4135,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Batte</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>Batte</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace>gold_calculator</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZV9hbmRfc2V0X2xheWVyX3N0YWdlX2V2ZW50X2lkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4145,8 +4145,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoaWdoZXN0X2dyYWRlc19lYWNoX2NsYXNzZXNcPg==</entry>
-        <entry>event_id</entry>
         <entry encoding="base64">XDxjaGFsbGVuZ2VfZXZlbnRcPg==</entry>
         <entry encoding="base64">XDxzdGFnZV9lbmVteV9pZFw+</entry>
         <entry encoding="base64">XDxQQVVTRV9IT1VSU1w+</entry>
@@ -4165,6 +4163,8 @@
         <entry>stage_reward</entry>
         <entry encoding="base64">XDxSRUFTT05fSURfQ0xFQVJfQk9OVVNcPg==</entry>
         <entry>Batte</entry>
+        <entry>new_reli</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
