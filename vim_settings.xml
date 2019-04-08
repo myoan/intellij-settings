@@ -4120,7 +4120,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>total_gold</text>
+        <text>saas</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii93ZWJ2aWV3L2FwcG5ld3MvYXNzZXRzL2FwcG5ld3MvY3NzL3NwLmNzcyI+Cg==</text>
@@ -4157,9 +4157,9 @@
       </register>
     </registers>
     <search>
-      <last-search>total_gold</last-search>
+      <last-search>saas</last-search>
       <last-offset />
-      <last-pattern>total_gold</last-pattern>
+      <last-pattern>saas</last-pattern>
       <last-replace>gold_calculator</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZV9hbmRfc2V0X2xheWVyX3N0YWdlX2V2ZW50X2lkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4167,8 +4167,6 @@
     </search>
     <history>
       <history-search>
-        <entry>finished_battle</entry>
-        <entry encoding="base64">XDxyYW5rX3JhbmdlXD4=</entry>
         <entry>protect</entry>
         <entry>stage_event</entry>
         <entry encoding="base64">XDxyZXdhcmRzX3dpdGhvdXRfY2hhclw+</entry>
@@ -4187,6 +4185,8 @@
         <entry>term</entry>
         <entry>プライバシ</entry>
         <entry>total_gold</entry>
+        <entry encoding="base64">Ym9vdHN0cmFwLXNhc3Mg</entry>
+        <entry>saas</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
