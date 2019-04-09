@@ -1169,7 +1169,8 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_mission.rb" timestamp="1552978808250">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_mission.rb" timestamp="1554786806983">
+        <mark key="'" line="6" column="2" />
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="3" />
         <mark key="^" line="10" column="3" />
@@ -1230,6 +1231,9 @@
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/master_data.yml" timestamp="1554786745247">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle.rb" timestamp="1554443512060">
         <mark key="'" line="1" column="0" />
@@ -4010,10 +4014,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="31" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_event.rb" />
-      <jump line="34" column="66" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_event.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/revenge/solo.rb" />
-      <jump line="91" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_player/solo.rb" />
       <jump line="445" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
       <jump line="148" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_player/solo_spec.rb" />
       <jump line="202" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/revenge/solo_spec.rb" />
@@ -4110,6 +4110,10 @@
       <jump line="6" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/application_controller.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" />
       <jump line="19" column="25" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_mission.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/master_data.yml" />
+      <jump line="2" column="7" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_mission.rb" />
+      <jump line="6" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/stage_mission.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
