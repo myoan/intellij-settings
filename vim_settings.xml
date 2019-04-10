@@ -854,6 +854,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/.circleci/config.yml" timestamp="1554864484408" />
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_npc/host_spec.rb" timestamp="1554265269814">
         <mark key="'" line="49" column="9" />
         <mark key="[" line="68" column="64" />
@@ -1719,8 +1720,11 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" timestamp="1554373500135">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" timestamp="1554864385999">
+        <mark key="'" line="65" column="54" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/tasks/term_of_service.rake" timestamp="1549420237709">
         <mark key="[" line="10" column="22" />
@@ -4014,7 +4018,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/revenge/solo_spec.rb" />
       <jump line="4" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/revenge/solo_spec.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/revenge/solo_spec.rb" />
       <jump line="210" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/revenge/solo_spec.rb" />
@@ -4114,55 +4117,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/.rubocop.yml" />
       <jump line="931" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/.rubocop.yml" />
       <jump line="1020" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/.rubocop.yml" />
+      <jump line="65" column="54" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/default/guest_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgw5gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Perf</text>
+        <text>pronto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii93ZWJ2aWV3L2FwcG5ld3MvYXNzZXRzL2FwcG5ld3MvY3NzL3NwLmNzcyI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgw5gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxCg==</text>
+        <text encoding="base64">ICAgICAgw5gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cmVxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgLSAo57aZ57aaKSBSZXF1ZXN0SGFzaOODmeODvOOCueOBruODrOOCueODneODs+OCueOCreODo+ODg+OCt+ODpSAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgLSAo57aZ57aaKSBbV0lQXSBbWXV6dXJ1XSDjg4Hjg6Pjg6zjg7Pjgrjjg6Ljg7zjg4kgCg==</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBSZXF1ZXN0SGFzaOODmeODvOOCueOBruODrOOCueODneODs+OCueOCreODo+ODg+OCt+ODpSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnVuZGxlIHVwZGF0ZSBhdCAyMDE5LTA0LTA4IDA5OjAyOjI0IEpTVCAK</text>
+        <text encoding="base64">ICAgLSAo57aZ57aaKSBbV0lQXSBbWXV6dXJ1XSDjg4Hjg6Pjg6zjg7Pjgrjjg6Ljg7zjg4kgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IzIxODggb3BlbmVkIDIgaG91cnMgYWdvIGJ5IGRjLXdha2FiYSDigKIgQXBwcm92ZWQgIDAgb2YgOQogCg==</text>
+        <text encoding="base64">YnVuZGxlIHVwZGF0ZSBhdCAyMDE5LTA0LTA4IDA5OjAyOjI0IEpTVCAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Perf</last-search>
+      <last-search>pronto</last-search>
       <last-offset />
-      <last-pattern>Perf</last-pattern>
+      <last-pattern>pronto</last-pattern>
       <last-replace>gold_calculator</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZV9hbmRfc2V0X2xheWVyX3N0YWdlX2V2ZW50X2lkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4170,7 +4174,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3RhbF9nb2xkXD4=</entry>
         <entry encoding="base64">XDxnb2FsX2Ftb3VudF9vZl9nb2xkX2JvbnVzX3JhdGlvXD4=</entry>
         <entry encoding="base64">XDxjaGFyc1w+</entry>
         <entry encoding="base64">XDxsYXllcl9zdGFnZV9zY29yZV9pdGVtc1w+</entry>
@@ -4190,6 +4193,7 @@
         <entry>request</entry>
         <entry>goal_</entry>
         <entry>Perf</entry>
+        <entry>pronto</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
