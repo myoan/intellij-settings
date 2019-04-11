@@ -969,6 +969,13 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/newrelic.json" timestamp="1554962143233">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/mission_checker/count_of_level_up_floor_checker.rb" timestamp="1544518309499">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="20" column="0" />
@@ -3088,7 +3095,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="38" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_spec.rb" />
       <jump line="535" column="33" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_spec.rb" />
       <jump line="540" column="40" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_spec.rb" />
       <jump line="856" column="24" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_spec.rb" />
@@ -3188,10 +3194,16 @@
       <jump line="196" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile.lock" />
       <jump line="346" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile.lock" />
       <jump line="42" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/settings.yml" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/newrelic.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>[
+{
+  &quot;eventType&quot;: &quot;JiraTest&quot;,
+  &quot;summary&quot;: &quot;hello, world&quot;
+}
+]</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -3202,32 +3214,37 @@
       <register name="0" type="2">
         <text encoding="base64">CQk8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii93ZWJ2aWV3L2FwcG5ld3MvYXNzZXRzL2FwcG5ld3MvY3NzL3NwLmNzcyI+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>[
+{
+  &quot;eventType&quot;: &quot;JiraTest&quot;,
+  &quot;summary&quot;: &quot;hello, world&quot;
+}
+]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgw5gK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cmVxCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgw5gK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cmVxCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgLSAo57aZ57aaKSBSZXF1ZXN0SGFzaOODmeODvOOCueOBruODrOOCueODneODs+OCueOCreODo+ODg+OCt+ODpSAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
