@@ -3719,8 +3719,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_challenge_stage.rb" timestamp="1554182731725">
         <mark key="'" line="98" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/game.rb" timestamp="1554975407994">
-        <mark key="'" line="205" column="8" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/game.rb" timestamp="1555044104109">
+        <mark key="'" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/run_task.rb" timestamp="1544608007702">
         <mark key="'" line="0" column="0" />
@@ -3773,6 +3773,11 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="15" column="39" />
         <mark key="^" line="15" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/user.rb" timestamp="1555044115598">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/term_of_service.rb" timestamp="1548988892247">
         <mark key="'" line="20" column="0" />
@@ -4062,7 +4067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/reward.rb" />
       <jump line="36" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/finish.rb" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/reward.rb" />
       <jump line="15" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/reward.rb" />
@@ -4162,10 +4166,11 @@
       <jump line="31" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition.rb" />
       <jump line="97" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition.rb" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/server/app/models/game.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCg6c2FsZXNfZXZlbnQpIHsgRmFjdG9yeUJvdC5jcmVhdGUoOnNhbGVzX2V2ZW50KSB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -4177,31 +4182,31 @@
         <text encoding="base64">ICAgIGxldCg6c2FsZXNfZXZlbnQpIHsgRmFjdG9yeUJvdC5jcmVhdGUoOnNhbGVzX2V2ZW50KSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgZndoCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgZndoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
