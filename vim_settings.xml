@@ -2333,12 +2333,13 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" timestamp="1555318025272">
-        <mark key="'" line="33" column="14" />
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="6" />
-        <mark key="." line="49" column="6" />
-        <mark key="^" line="49" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" timestamp="1555319293353">
+        <mark key="'" line="21" column="26" />
+        <mark key="j" line="22" column="4" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="136" column="9" />
+        <mark key="^" line="76" column="5" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/output/comparable.rb" timestamp="1533300176351">
         <mark key="'" line="29" column="0" />
@@ -3203,7 +3204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" />
       <jump line="29" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_char_spec.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/factories/sales_event_char_condition.rb" />
@@ -3303,10 +3303,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" />
       <jump line="33" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" />
       <jump line="69" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/maintenance.rb" />
+      <jump line="21" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29udGV4dCAid2hlbiB1c2VyIGNoYXJzIGNvdW50IG5vdCBzYXRpc2ZpZWQiIGRvCiAgICAgICAgbGV0KDpyZXF1aXJlZF9jb3VudCkgeyAyIH0KICAgICAgICBsZXQoOmNoYXJfaWRzKSB7IFtjaGFyMV8xLmlkLCBjaGFyM18xLmlkXSB9CiAgICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZV9lbXB0eSB9CiAgICAgIGVuZAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -3314,38 +3315,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxHRU9IQVNIX0xFVkVMXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgY29udGV4dCAid2hlbiB1c2VyIGNoYXJzIGluY2x1ZGUgc29tZSB0YXJnZXQgam9iX2NhdGVnb3J5IiBkbwogICAgICAgIGxldCg6Y2hhcl9pZHMpIHsgW2NoYXIxXzEuaWQsIGNoYXIzXzEuaWRdIH0KICAgICAgICBpdCB7IGlzX2V4cGVjdGVkLnRvIG1hdGNoX2FycmF5KFtjaGFyMV8xLmlkXSkgfQogICAgICBlbmQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29udGV4dCAid2hlbiB1c2VyIGNoYXJzIGNvdW50IG5vdCBzYXRpc2ZpZWQiIGRvCiAgICAgICAgbGV0KDpyZXF1aXJlZF9jb3VudCkgeyAyIH0KICAgICAgICBsZXQoOmNoYXJfaWRzKSB7IFtjaGFyMV8xLmlkLCBjaGFyM18xLmlkXSB9CiAgICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZV9lbXB0eSB9CiAgICAgIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtICjntpnntpopIFNpbXBsZVlhbWxMb2FkZXLjgpJFUkLjgavlr77lv5wgCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQoOmNoYXJfaWRzKSB7IFtjaGFyMV8xLmlkLCBjaGFyM18xLmlkXSB9CiAgICAgICAgaXQgeyBpc19leHBlY3RlZC50byBiZV9lbXB0eSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtICjntpnntpopIGJ1bmRsZSB1cGRhdGUgYXQgMjAxOS0wNC0xNSAwOTowMjo0NyBKU1QgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dCAid2hlbiB1c2VyIGNoYXJzIGNvdW50IG5vdCBmdWxsZmlsbGVkIHJlcXVpcmVkIiBkbwogICAgICAgIGxldCg6cmVxdWlyZWRfY291bnQpIHsgMiB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtICjntpnntpopIOeJueWumuOBruODm+OCueODiOOBp05ld1JlbGlj44KS5pyJ5Yq55YyW44GZ44KLIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IzIyMDkgb3BlbmVkIDUgZGF5cyBhZ28gYnkgcmV2ZXJlbnRGICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IzIyMTkgb3BlbmVkIDMgZGF5cyBhZ28gYnkgY3VyaTExMTkg4oCiIEFwcHJvdmVkICAKIDEK</text>
+        <text encoding="base64">ICAtICjntpnntpopIFNpbXBsZVlhbWxMb2FkZXLjgpJFUkLjgavlr77lv5wgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IzIyMjEgb3BlbmVkIDYgaG91cnMgYWdvIGJ5IGRjLXdha2FiYSDigKIgQXBwcm92ZWQgIDAgb2YgNQogCg==</text>
+        <text encoding="base64">ICAtICjntpnntpopIGJ1bmRsZSB1cGRhdGUgYXQgMjAxOS0wNC0xNSAwOTowMjo0NyBKU1QgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3398,9 +3399,9 @@
         <entry>%s/job/origin_char/g</entry>
         <entry>%s/target job/target job_category/g</entry>
         <entry>%s/target job/target char/g</entry>
+        <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
-        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
