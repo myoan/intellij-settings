@@ -3008,6 +3008,9 @@
         <mark key="." line="22" column="10" />
         <mark key="^" line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/matching.rb" timestamp="1555310256401">
+        <mark key="'" line="59" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_spec.rb" timestamp="1555294451410">
         <mark key="'" line="241" column="0" />
         <mark key="[" line="242" column="0" />
@@ -3200,7 +3203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition/type_job.rb" />
       <jump line="59" column="35" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_spec.rb" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_spec.rb" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_spec.rb" />
@@ -3300,6 +3302,7 @@
       <jump line="88" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" />
       <jump line="59" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
+      <jump line="59" column="50" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/matching.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3309,7 +3312,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXJtX29mX3NlcnZpY2VfdmVyc2lvblw+</text>
+        <text encoding="base64">XDxHRU9IQVNIX0xFVkVMXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuIFtdIGlmIChjb25kWzp0YXJnZXRfY2hhcl9pZHNdICYgY2hhcl9pZHMpLnNpemUgPCBjb25kWzpyZXF1aXJlX2NvdW50XQo=</text>
@@ -3346,9 +3349,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXJtX29mX3NlcnZpY2VfdmVyc2lvblw+</last-search>
+      <last-search encoding="base64">XDxHRU9IQVNIX0xFVkVMXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXJtX29mX3NlcnZpY2VfdmVyc2lvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxHRU9IQVNIX0xFVkVMXD4=</last-pattern>
       <last-replace>target char</last-replace>
       <last-substitute>target job</last-substitute>
       <last-dir>1</last-dir>
@@ -3356,7 +3359,6 @@
     </search>
     <history>
       <history-search>
-        <entry>goal_</entry>
         <entry>Perf</entry>
         <entry>pronto</entry>
         <entry>rubo</entry>
@@ -3376,6 +3378,7 @@
         <entry encoding="base64">XDxnZXRfaW50ZXJzZWN0aW9uX29mX2NoYXJfaWRzXD4=</entry>
         <entry>only_</entry>
         <entry encoding="base64">XDx0ZXJtX29mX3NlcnZpY2VfdmVyc2lvblw+</entry>
+        <entry encoding="base64">XDxHRU9IQVNIX0xFVkVMXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
