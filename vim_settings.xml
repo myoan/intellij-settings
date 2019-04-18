@@ -1866,8 +1866,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1554347877173">
-        <mark key="'" line="63" column="22" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" timestamp="1555574065506">
+        <mark key="'" line="174" column="21" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -3273,7 +3273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="213" column="57" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="226" column="58" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="184" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
@@ -3373,6 +3372,7 @@
       <jump line="87" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/challenge/host.rb" />
       <jump line="187" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event_group.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/master/stages_schema.rb" />
+      <jump line="174" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3382,7 +3382,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYWxlc19ldmVudF90cmlnZ2Vyc1w+</text>
+        <text encoding="base64">XDxmaW5pc2hcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSA6bmFtZTogbWlzc2lvbl9ncm91cF9zYWxlc19ldmVudF90cmlnZ2VycwogIDp1cGxvYWQ6IGZhbHNlCg==</text>
@@ -3419,9 +3419,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYWxlc19ldmVudF90cmlnZ2Vyc1w+</last-search>
+      <last-search encoding="base64">XDxmaW5pc2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYWxlc19ldmVudF90cmlnZ2Vyc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5pc2hcPg==</last-pattern>
       <last-replace>count</last-replace>
       <last-substitute>condition_value_2</last-substitute>
       <last-dir>1</last-dir>
@@ -3429,7 +3429,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
         <entry encoding="base64">XDxhc3NpZ25fcGFyYW1zX3doZW5fc3RhcnRcPg==</entry>
         <entry>stage_class</entry>
         <entry>premare</entry>
@@ -3449,6 +3448,7 @@
         <entry>condition_value_2</entry>
         <entry>trigger</entry>
         <entry encoding="base64">XDxzYWxlc19ldmVudF90cmlnZ2Vyc1w+</entry>
+        <entry encoding="base64">XDxmaW5pc2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
