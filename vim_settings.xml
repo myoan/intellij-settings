@@ -1221,8 +1221,8 @@
         <mark key="." line="39" column="3" />
         <mark key="^" line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/financial_closing_bonus.rb" timestamp="1555576423478">
-        <mark key="'" line="39" column="35" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/financial_closing_bonus.rb" timestamp="1555577858526">
+        <mark key="'" line="52" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2160,8 +2160,8 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" timestamp="1554774495736">
         <mark key="'" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_financial_record.rb" timestamp="1555576515805">
-        <mark key="'" line="95" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_financial_record.rb" timestamp="1555577835782">
+        <mark key="'" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/announcement_request_spec.rb" timestamp="1544522250868">
         <mark key="'" line="27" column="46" />
@@ -3282,7 +3282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_npc/solo_spec.rb" />
       <jump line="9" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/normal_npc/solo_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" />
       <jump line="22" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class.rb" />
@@ -3376,12 +3375,13 @@
       <jump line="174" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/user_controller.rb" />
       <jump line="44" column="30" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/financial_closing_bonus.rb" />
-      <jump line="2" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_financial_record.rb" />
-      <jump line="52" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/financial_closing_bonus.rb" />
       <jump line="8" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/financial_closing_bonus.rb" />
       <jump line="9" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/financial_closing_bonus.rb" />
       <jump line="39" column="35" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/financial_closing_bonus.rb" />
       <jump line="95" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_financial_record.rb" />
+      <jump line="2" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_financial_record.rb" />
+      <jump line="18" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_financial_record.rb" />
+      <jump line="52" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user/financial_closing_bonus.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3391,7 +3391,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfbGVhc3RfdW5jbG9zZWRcPg==</text>
+        <text encoding="base64">XDxVc2VyRmluYW5jaWFsUmVjb3JkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSA6bmFtZTogbWlzc2lvbl9ncm91cF9zYWxlc19ldmVudF90cmlnZ2VycwogIDp1cGxvYWQ6IGZhbHNlCg==</text>
@@ -3428,9 +3428,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfbGVhc3RfdW5jbG9zZWRcPg==</last-search>
+      <last-search encoding="base64">XDxVc2VyRmluYW5jaWFsUmVjb3JkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfbGVhc3RfdW5jbG9zZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxVc2VyRmluYW5jaWFsUmVjb3JkXD4=</last-pattern>
       <last-replace>count</last-replace>
       <last-substitute>condition_value_2</last-substitute>
       <last-dir>1</last-dir>
@@ -3438,7 +3438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>premare</entry>
         <entry>target job</entry>
         <entry>grade_id</entry>
         <entry encoding="base64">XDxzdHJhdGVneV9jbGFzc19ieV9wYXJhbWV0ZXJcPg==</entry>
@@ -3456,8 +3455,9 @@
         <entry>trigger</entry>
         <entry encoding="base64">XDxzYWxlc19ldmVudF90cmlnZ2Vyc1w+</entry>
         <entry encoding="base64">XDxmaW5pc2hcPg==</entry>
-        <entry encoding="base64">XDxVc2VyRmluYW5jaWFsUmVjb3JkXD4=</entry>
         <entry encoding="base64">XDxnZXRfbGVhc3RfdW5jbG9zZWRcPg==</entry>
+        <entry>create</entry>
+        <entry encoding="base64">XDxVc2VyRmluYW5jaWFsUmVjb3JkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
