@@ -3668,6 +3668,9 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" timestamp="1557394228657">
+        <mark key="'" line="191" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/puml/dev_flow_component_2.puml" timestamp="1537926304177">
         <mark key="'" line="36" column="8" />
         <mark key="[" line="37" column="10" />
@@ -4130,12 +4133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="47" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc/host.rb" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
-      <jump line="87" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/start.rb" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
-      <jump line="35" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_spec.rb" />
       <jump line="299" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_spec.rb" />
       <jump line="241" column="56" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_battle_spec.rb" />
@@ -4230,6 +4227,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
       <jump line="150" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
       <jump line="73" column="25" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
+      <jump line="140" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
+      <jump line="37" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
+      <jump line="128" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
+      <jump line="122" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
+      <jump line="191" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4239,7 +4242,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxldGVcPg==</text>
+        <text>build_asset_bundle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSBydW46IGJ1bmRsZSBleGVjIHJhaWxzIGRiOmRhdGFiYXNlOmNyZWF0ZSBkYjpzY2hlbWE6YXBwbHkK</text>
@@ -4276,9 +4279,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxldGVcPg==</last-search>
+      <last-search>build_asset_bundle</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxldGVcPg==</last-pattern>
+      <last-pattern>build_asset_bundle</last-pattern>
       <last-replace>count</last-replace>
       <last-substitute>condition_value_2</last-substitute>
       <last-dir>1</last-dir>
@@ -4286,8 +4289,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXR1cF9zZWVkXD4=</entry>
-        <entry>host?</entry>
         <entry>parent_id</entry>
         <entry>condition_value_2</entry>
         <entry>trigger</entry>
@@ -4306,6 +4307,8 @@
         <entry encoding="base64">XDx1cGRhdGVfbmV4dF9hcHBlYXJfbW9udGhcPg==</entry>
         <entry>delete_with</entry>
         <entry encoding="base64">XDxkZWxldGVcPg==</entry>
+        <entry>download_prof</entry>
+        <entry>build_asset_bundle</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
