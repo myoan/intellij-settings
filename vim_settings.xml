@@ -1259,7 +1259,6 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition/type_job_category.rb" timestamp="1555643318422" />
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/newrelic.json" timestamp="1554962143233">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="0" column="0" />
@@ -3150,8 +3149,8 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" timestamp="1548928052478">
-        <mark key="'" line="108" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" timestamp="1557373187223">
+        <mark key="'" line="73" column="25" />
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
@@ -4146,9 +4145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="14" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="86" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
-      <jump line="90" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
       <jump line="39" column="47" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc/host.rb" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
       <jump line="87" column="3" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
@@ -4246,6 +4242,9 @@
       <jump line="27" column="70" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition/type_origin_char.rb" />
       <jump line="247" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
       <jump line="33" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_event.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
+      <jump line="150" column="18" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
+      <jump line="73" column="25" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/cache.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4255,7 +4254,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVfbmV4dF9hcHBlYXJfbW9udGhcPg==</text>
+        <text encoding="base64">XDxkZWxldGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLSBydW46IGJ1bmRsZSBleGVjIHJhaWxzIGRiOmRhdGFiYXNlOmNyZWF0ZSBkYjpzY2hlbWE6YXBwbHkK</text>
@@ -4292,9 +4291,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVfbmV4dF9hcHBlYXJfbW9udGhcPg==</last-search>
+      <last-search encoding="base64">XDxkZWxldGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVfbmV4dF9hcHBlYXJfbW9udGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxldGVcPg==</last-pattern>
       <last-replace>count</last-replace>
       <last-substitute>condition_value_2</last-substitute>
       <last-dir>1</last-dir>
@@ -4302,8 +4301,6 @@
     </search>
     <history>
       <history-search>
-        <entry>by_param</entry>
-        <entry>assign_params</entry>
         <entry encoding="base64">XDxzZXR1cF9zZWVkXD4=</entry>
         <entry>host?</entry>
         <entry>parent_id</entry>
@@ -4322,6 +4319,8 @@
         <entry encoding="base64">XDx1cGRhdGVfc3RhdHVzX2F0X2ZpbmlzaFw+</entry>
         <entry>finish!</entry>
         <entry encoding="base64">XDx1cGRhdGVfbmV4dF9hcHBlYXJfbW9udGhcPg==</entry>
+        <entry>delete_with</entry>
+        <entry encoding="base64">XDxkZWxldGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>24</entry>
