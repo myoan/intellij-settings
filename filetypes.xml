@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="svndev" type="PLAIN_TEXT" />
+      <mapping pattern="dc-windows-build-machine" type="PLAIN_TEXT" />
       <mapping pattern="hoge" type="PLAIN_TEXT" />
       <mapping pattern="lambda" type="PLAIN_TEXT" />
-      <mapping pattern="dc-windows-build-machine" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="ios" type="PLAIN_TEXT" />
       <mapping ext="batch" type="PLAIN_TEXT" />
+      <mapping pattern="Fastfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>
