@@ -2179,11 +2179,12 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/weekly_report/app.rb" timestamp="1557464463539">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/weekly_report/app.rb" timestamp="1557466239695">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/support_pack_item.proto" timestamp="1542953889273">
         <mark key="'" line="31" column="18" />
@@ -4143,7 +4144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
       <jump line="29" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/start_spec.rb" />
       <jump line="327" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" />
       <jump line="94" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_battle.rb" />
@@ -4243,16 +4243,17 @@
       <jump line="51" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
       <jump line="85" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
       <jump line="16" column="22" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/weekly_report/app.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb252ZXJ0XD4=</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaXRlbSA9IFNQQ29udmVydGVyLmNvbnZlcnQhKGl0ZW0pIGlmIGl0ZW0uY2hhcj8gJiYgaXRlbS5mdWxsX3N0cmFnZT8KICAgICAgYWRkX2l0ZW0oaXRlbSkK</text>
@@ -4285,21 +4286,20 @@
         <text encoding="base64">ICAgIHJldHVybiBpZiBkcnlfcnVuCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb252ZXJ0XD4=</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb252ZXJ0XD4=</last-pattern>
-      <last-replace>count</last-replace>
-      <last-substitute>condition_value_2</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>trigger</entry>
         <entry encoding="base64">XDxzYWxlc19ldmVudF90cmlnZ2Vyc1w+</entry>
         <entry encoding="base64">XDxnZXRfbGVhc3RfdW5jbG9zZWRcPg==</entry>
         <entry>create</entry>
@@ -4319,9 +4319,9 @@
         <entry>build_asset_bundle</entry>
         <entry encoding="base64">XDxjb252ZXJ0X3NpbmdsZVw+</entry>
         <entry encoding="base64">XDxjb252ZXJ0XD4=</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry>232</entry>
         <entry>2w</entry>
         <entry>48</entry>
         <entry>2</entry>
@@ -4341,6 +4341,7 @@
         <entry>W</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>%s/'/&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
