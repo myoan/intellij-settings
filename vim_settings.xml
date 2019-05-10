@@ -1700,11 +1700,11 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_player/guest.rb" timestamp="1554373624241">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_session.rb" timestamp="1557470008995">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_session.rb" timestamp="1557470445802">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_trigger.rb" timestamp="1555581522685">
         <mark key="[" line="4" column="0" />
@@ -1833,8 +1833,8 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/game_time.rb" timestamp="1557469483319">
-        <mark key="'" line="6" column="16" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/game_time.rb" timestamp="1557470442391">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="16" />
         <mark key="^" line="7" column="49" />
@@ -2881,8 +2881,8 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" timestamp="1557470227913">
-        <mark key="'" line="25" column="42" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" timestamp="1557470447074">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/mission_checker/base.rb" timestamp="1553840816983">
         <mark key="'" line="6" column="28" />
@@ -4161,9 +4161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/matching.rb" />
-      <jump line="7" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/sales_event_char_condition/type_origin_char.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_job_category_spec.rb" />
       <jump line="43" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_origin_char_spec.rb" />
       <jump line="71" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_condition/type_origin_char_spec.rb" />
@@ -4260,7 +4257,10 @@
       <jump line="43" column="34" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/lib/macaron/game_time_spec.rb" />
       <jump line="35" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" />
-      <jump line="25" column="42" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" />
+      <jump line="25" column="21" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" />
+      <jump line="3" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/game_time.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_session_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
