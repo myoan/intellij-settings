@@ -2197,12 +2197,11 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/weekly_report/app.rb" timestamp="1557479708700">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/weekly_report/app.rb" timestamp="1557480924518">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="21" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="37" column="21" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/support_pack_item.proto" timestamp="1542953889273">
         <mark key="'" line="31" column="18" />
@@ -4267,44 +4266,46 @@
       <jump line="37" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/lambda/weekly_report/app.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSAicHAiCg==</text>
+        <text encoding="base64">ICBwdXRzIGRbInVzZXIiXVsibG9naW4iXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gaHR0cC5yZXF1ZXN0KCphcmdzKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICBlbmQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBOZXQ6OkhUVFAuc3RhcnQodXJpLmhvc3QsIHVyaS5wb3J0KSBkbyB8aHR0cHwK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpZiBkWyJjcmVhdGVkX2F0Il0KICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwIHVyaQogIHAgcXVlcnlfc3RyaW5nCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="8">
+        <text>&quot;
+&quot;
+&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gaHR0cC5yZXF1ZXN0KCphcmdzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdXRzIHJlc3BvbnNlLmJvZHkKfQo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TmV0OjpIVFRQLnN0YXJ0KCJ3d3cucnVieS1sYW5nLm9yZyIsIDgwKSB7fGh0dHB8CiAgcmVzcG9uc2UgPSBodHRwLmdldCgiL2phLyIpCg==</text>
+        <text encoding="base64">ICBOZXQ6OkhUVFAuc3RhcnQodXJpLmhvc3QsIHVyaS5wb3J0KSBkbyB8aHR0cHwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ck5ldDo6SFRUUC52ZXJzaW9uXzFfMgo=</text>
+        <text encoding="base64">ICBwIHVyaQogIHAgcXVlcnlfc3RyaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgVGltZS5jdXJyZW50CiAgICBwIE1hY2Fyb246OkdhbWVUaW1lLmVuZF9vZl9kYXkodXBkYXRlZF9hdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
