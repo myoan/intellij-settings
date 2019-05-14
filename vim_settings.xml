@@ -2269,6 +2269,11 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="45" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel.rb" timestamp="1557817586266">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/user_layer_stage_event_spec.rb" timestamp="1551944952706">
         <mark key="'" line="33" column="75" />
         <mark key="[" line="30" column="0" />
@@ -2853,6 +2858,11 @@
         <mark key="]" line="29" column="11" />
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" timestamp="1557817935691">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Gemfile" timestamp="1544605379116">
         <mark key="[" line="11" column="17" />
@@ -4163,7 +4173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
       <jump line="37" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
       <jump line="128" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-client/fastlane/Fastfile" />
@@ -4263,10 +4272,11 @@
       <jump line="52" column="36" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/matching_controller.rb" />
       <jump line="81" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
       <jump line="60" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -4275,34 +4285,34 @@
         <text encoding="base64">XDxjb252ZXJ0X2l0ZW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgQGRiLnBvc3QodGl0bGUsIGJvZHksIHRhZ3MsIG5vdGljZTogdHJ1ZSwgc2NvcGU6ICJncm91cCIsIGdyb3VwczogWyIxMDkwMCJdKQo=</text>
+        <text encoding="base64">ICAgIGRlZiAmKF9kYXRhKQogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFmdGVyIHsgVGltZWNvcC5yZXR1cm4gfQo=</text>
+        <text encoding="base64">ICAgIGRlZiAmKF9kYXRhKQogICAgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWVrbHlSZXBvcnQubmV3KCpwcnMpLnBvc3QK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBnaXRodWIgdG9rZW46IGNjODMwZmNmMDYyNDRjNTA2NGU4Yzg3MTAzOTJkNmM1MDEzYzI1YTcKCnJlcXVpcmUgIm5ldC9odHRwcyIKcmVxdWlyZSAidXJpIgpyZXF1aXJlICJwcCIKcmVxdWlyZSAianNvbiIKcmVxdWlyZSAiZGF0ZSIKcmVxdWlyZSAidGltZSIKCkdJVEhVQl9UT0tFTiA9ICJjYzgzMGZjZjA2MjQ0YzUwNjRlOGM4NzEwMzkyZDZjNTAxM2MyNWE3IgpET0NCQVNFX1RPS0VOID0gInR4RFUyR3lRRU1kcHNTUXJrby15IgoKQ0xJRU5UX1JFUE9TID0gJXd7bWFjYXJvbi1jbGllbnR9ClNFUlZFUl9SRVBPUyA9ICV3e21hY2Fyb24tc2VydmVyIG1hY2Fyb24tb3BzfQoKZGVmIGh0dHBfcG9zdCh1cmksIHF1ZXJ5X2hhc2ggPSB7fSwgaGVhZGVycyA9IHt9KQogIHVyaSA9IFVSSS5wYXJzZSh1cmkpIGlmIHVyaS5pc19hPyBTdHJpbmcKICBxdWVyeV9zdHJpbmcgPSBxdWVyeV9oYXNoLnRvX2pzb24KCiAgcHV0cyBxdWVyeV9zdHJpbmcKCiAgcmVxdWVzdCA9IE5ldDo6SFRUUDo6UG9zdC5uZXcodXJpLnBhdGgpCiAgaGVhZGVycy5lYWNoIHsgfGssIHZ8IHJlcXVlc3Rba10gPSB2IH0KCiAgaHR0cCA9IE5ldDo6SFRUUC5uZXcodXJpLmhvc3QsIHVyaS5wb3J0KQogIGh0dHAudXNlX3NzbCA9IHRydWUKICBodHRwLnN0YXJ0IHsgfGh0dHB8IGh0dHAucmVxdWVzdChyZXF1ZXN0LCBxdWVyeV9zdHJpbmcpIH0KZW5kCgpkZWYgaHR0cF9nZXQodXJpLCBxdWVyeV9oYXNoID0ge30pCiAgdXJpID0gVVJJLnBhcnNlKHVyaSkgaWYgdXJpLmlzX2E/IFN0cmluZwogIHF1ZXJ5X3N0cmluZyA9IChxdWVyeV9oYXNoIHx8IHt9KS5tYXAgeyB8aywgdnwKICAgIFVSSS5lbmNvZGUoay50b19zKSArICI9IiArIFVSSS5lbmNvZGUodi50b19zKQogIH0uam9pbigiJiIpCgogIGFyZ3MgPSBbTmV0OjpIVFRQOjpHZXQubmV3KHVyaS5wYXRoICsgKHF1ZXJ5X3N0cmluZy5lbXB0eT8gPyAiIiA6ICI/I3txdWVyeV9zdHJpbmd9IikpXQogIGh0dHAgPSBOZXQ6OkhUVFAubmV3KHVyaS5ob3N0LCB1cmkucG9ydCkKICBodHRwLnVzZV9zc2wgPSB0cnVlCiAgaHR0cC5zdGFydCB7IHxodHRwfCBodHRwLnJlcXVlc3QoKmFyZ3MpIH0KZW5kCgpkZWYgbGFzdF9tb25kYXkKICBsYXN0X3dkYXkoMSkKZW5kCgpkZWYgbGFzdF93ZGF5KHdkYXkpCiAgdG9kYXkgPSBEYXRlLnRvZGF5CiAgZGF5cyA9ICh0b2RheS53ZGF5IC0gd2RheSArIDcpICUgNyArIDcKICB0b2RheS5wcmV2X2RheShkYXlzKS50b190aW1lCmVuZAoKZGVmIGRjX21lbWJlcnMKICAjIGRjLW1lbWJlcnMgdGVhbSDjga4gbWVtYmVy5LiA6KanCiAgdXJsID0gImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vdGVhbXMvMjIyNzczMy9tZW1iZXJzIgogIHJldCA9IGh0dHBfZ2V0KHVybCwgYWNjZXNzX3Rva2VuOiBHSVRIVUJfVE9LRU4pCiAgZGF0YSA9IEpTT04ucGFyc2UocmV0LmJvZHkpCiAgZGF0YS5tYXAgeyB8ZHwgZFsibG9naW4iXSB9CmVuZAoKY2xhc3MgV2Vla2x5UmVwb3J0CiAgZGVmIGluaXRpYWxpemUoY2xpZW50X3Bycywgc2VydmVyX3BycykKICAgIEBjbGllbnRfcHJzID0gY2xpZW50X3BycwogICAgQHNlcnZlcl9wcnMgPSBzZXJ2ZXJfcHJzCiAgZW5kCgogIGRlZiBwb3N0KCkKICAgIHVybCA9ICJodHRwczovL2FwaS5kb2NiYXNlLmlvL3RlYW1zL21peGlncm91cC9wb3N0cyIKICAgIHBhcmFtcyA9IHsKICAgICAgdGl0bGU6IHRpdGxlLAogICAgICBib2R5OiBib2R5LAogICAgICB0YWdzOiB0YWdzLAogICAgICBkcmFmdDogdHJ1ZSwKICAgICAgbm90aWNlOiB0cnVlLAogICAgICBzY29wZTogImdyb3VwIiwKICAgICAgZ3JvdXBzOiBbIjEwOTAwIl0KICAgIH0KICAgIHB1dHMgYm9keQogICAgIyByZXQgPSBodHRwX3Bvc3QodXJsLCBwYXJhbXMsIHsiWC1Eb2NCYXNlVG9rZW4iOiBET0NCQVNFX1RPS0VOLCAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24ifSkKICAgICMgcHAgcmV0CiAgICAjIHBwIHJldC5ib2R5CiAgZW5kCgogIGRlZiB0aXRsZQogICAgIkRD44Ko44Oz44K444OL44Ki6YCx5aCxICN7VGltZS5ub3cuc3RyZnRpbWUoJyVZLSVtLSVkJyl9IgogIGVuZAoKICBkZWYgYm9keQogICAgPDwtRU9SCiMg44G+44Go44KBCgpcI3s3MTM1ODV9CgojIOOCteODnuODqgojIyDjgq/jg6njgqTjgqLjg7Pjg4gKCiMjIOOCteODvOODkAoKIyDoqbPntLAKIyMg44Kv44Op44Kk44Ki44Oz44OICgoje3JlcG9ydF9jbGllbnR9CgojIyDjgrXjg7zjg5AKCiN7cmVwb3J0X3NlcnZlcn0KICAgIEVPUgogIGVuZAoKICBkZWYgdGFncwogICAgWyJEQ+mWi+eZuiIsICLpgLHloLEiXQogIGVuZAoKICBkZWYgcmVwb3J0X2NsaWVudAogICAgQGNsaWVudF9wcnMubWFwIHsgfHByfCBwci50b19tYXJrZG93biB9LmpvaW4oIlxuIikKICBlbmQKCiAgZGVmIHJlcG9ydF9zZXJ2ZXIKICAgIEBzZXJ2ZXJfcHJzLm1hcCB7IHxwcnwgcHIudG9fbWFya2Rvd24gfS5qb2luKCJcbiIpCiAgZW5kCmVuZAoKY2xhc3MgUHVsbFJlcXVlc3QKICBhdHRyX3JlYWRlciA6Y3JlYXRlZF9hdCwgOnVwZGF0ZWRfYXQsIDpjbG9zZWRfYXQsIDp1c2VyX25hbWUKCiAgZGVmIGluaXRpYWxpemUoZGF0YSkKICAgIEBkYXRhID0gZGF0YQogICAgQHRpdGxlID0gZGF0YVsidGl0bGUiXQogICAgQHVzZXJfbmFtZSA9IGRhdGFbInVzZXIiXVsibG9naW4iXQogICAgQHVzZXJfdXJsID0gZGF0YVsidXNlciJdWyJodG1sX3VybCJdCiAgICBAdXJsID0gZGF0YVsidXJsIl0KICAgIEBodG1sX3VybCA9IGRhdGFbImh0bWxfdXJsIl0KICAgIEByZXBvX25hbWUgPSBAdXJsLm1hdGNoKCVye2h0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3MvKFteL10rL1teL10rKS9wdWxscy8qfSlbMV0KICAgIEBudW1iZXIgPSBkYXRhWyJudW1iZXIiXQogICAgQHVwZGF0ZWRfYXQgPSBUaW1lLnBhcnNlKGRhdGFbInVwZGF0ZWRfYXQiXSkgKyA5ICogMzYwMAogICAgQGNyZWF0ZWRfYXQgPSBUaW1lLnBhcnNlKGRhdGFbImNyZWF0ZWRfYXQiXSkgKyA5ICogMzYwMAogICAgQGNsb3NlZF9hdCA9IGRhdGFbImNsb3NlZF9hdCJdLm5pbD8gPyBuaWwgOiBUaW1lLnBhcnNlKGRhdGFbImNsb3NlZF9hdCJdKSArIDkgKiAzNjAwCiAgZW5kCgogIGRlZiBvcGVuPwogICAgQGNsb3NlZF9hdC5uaWw/CiAgZW5kCgogIGRlZiBpbnZhbGlkPyhtZW1iZXJzKQogICAgcmV0dXJuIHRydWUgdW5sZXNzIG1lbWJlcnMuaW5jbHVkZT8oc2VsZi51c2VyX25hbWUpCiAgICByZXR1cm4gdHJ1ZSBpZiBzZWxmLmNyZWF0ZWRfYXQgPCBsYXN0X21vbmRheQogICAgcmV0dXJuIHRydWUgaWYgc2VsZi5jcmVhdGVkX2F0IDwgbGFzdF9tb25kYXkKICAgIHJldHVybiB0cnVlIGlmICFzZWxmLm9wZW4/ICYmIHNlbGYuY2xvc2VkX2F0IDwgbGFzdF9tb25kYXkKICAgIGZhbHNlCiAgZW5kCgogIGRlZiB0b19tYXJrZG93bgogICAgPDwtRU9TCi0gI3tvcGVuPyA/ICdbKirntpnntpoqKl0nIDogJ1sqKuWujOS6hioqXSd9ICN7QHRpdGxlfQogIC0gUFI6ICAgICBbI3tAcmVwb19uYW1lfSMje0BudW1iZXJ9XSgje0BodG1sX3VybH0pCiAgLSBBdXRob3I6IFtAI3tAdXNlcl9uYW1lfV0oI3tAdXNlcl91cmx9KQogIC0g5pyA57WC5pu05pawOiAje0B1cGRhdGVkX2F0LnN0cmZ0aW1lKCclWS8lbS8lZCAlSDolTScpfQogICAgRU9TCiAgZW5kCmVuZAoKbWVtYmVycyA9IGRjX21lbWJlcnMKIyBbY2xpZW50IFBScywgc2VydmVyIFBSc10KcHJzID0gQXJyYXkubmV3KDIpIHsgW10gfQpbQ0xJRU5UX1JFUE9TLCBTRVJWRVJfUkVQT1NdLnppcChwcnMpLmVhY2ggZG8gfHJlcG9zLCBidWZ8CiAgcmVwb3MuZWFjaCBkbyB8cmVwb3wKICAgIHVybCA9ICJodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL21vbnN0ZXJzdHJpa2UvI3tyZXBvfS9wdWxscyIKICAgIHJldCA9IGh0dHBfZ2V0KHVybCwgYWNjZXNzX3Rva2VuOiBHSVRIVUJfVE9LRU4sIHN0YXRlOiAiYWxsIikKICAgIGRhdGEgPSBKU09OLnBhcnNlKHJldC5ib2R5KQoKICAgIGRhdGEuZWFjaCBkbyB8ZHwKICAgICAgcHIgPSBQdWxsUmVxdWVzdC5uZXcoZCkKICAgICAgbmV4dCBpZiBwci5pbnZhbGlkPyhtZW1iZXJzKQogICAgICBidWYgPDwgcHIKICAgIGVuZAogIGVuZAplbmQKClc=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBlbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0b2RheSA9IERhdGUudG9kYXkKICBkYXlzID0gKHRvZGF5LndkYXkgLSB3ZGF5ICsgNykgJSA3ICsgNwogIHRvZGF5LnByZXZfZGF5KGRheXMpLnRvX3RpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgQGRiLnBvc3QodGl0bGUsIGJvZHksIHRhZ3MsIG5vdGljZTogdHJ1ZSwgc2NvcGU6ICJncm91cCIsIGdyb3VwczogWyIxMDkwMCJdKQo=</text>
+        <text encoding="base64">ICAgIGFmdGVyIHsgVGltZWNvcC5yZXR1cm4gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -4359,8 +4369,8 @@
         <entry>we</entry>
         <entry>%s/'/&quot;/g</entry>
         <entry>2w</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
