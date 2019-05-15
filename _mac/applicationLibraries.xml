@@ -512,6 +512,12 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.4.4/lib/ruby/gems/2.4.0/gems/builder-3.2.3/rakelib" />
       </excluded>
     </library>
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.16.2, rbenv: 2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
