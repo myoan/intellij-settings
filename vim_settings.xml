@@ -720,8 +720,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" timestamp="1557912911225">
-        <mark key="'" line="32" column="6" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" timestamp="1557914598593">
+        <mark key="'" line="14" column="22" />
         <mark key="[" line="4" column="43" />
         <mark key="]" line="4" column="44" />
         <mark key="." line="4" column="44" />
@@ -1284,12 +1284,12 @@
         <mark key="." line="20" column="43" />
         <mark key="^" line="20" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/cli.rb" timestamp="1557911804223">
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/cli.rb" timestamp="1557914641766">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="14" column="25" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/new_finish.rb" timestamp="1551232295124">
         <mark key="[" line="11" column="0" />
@@ -3526,7 +3526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char_item_distributor.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/funnel.gemspec" />
@@ -3626,10 +3625,11 @@
       <jump line="15" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" />
       <jump line="12" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/fetch.rb" />
       <jump line="31" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" />
+      <jump line="14" column="22" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>安</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>安</text>
@@ -3638,34 +3638,34 @@
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcCBAY29uZgo=</text>
+        <text encoding="base64">ICBjbGFzcyBDTEkgPCBUaG9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGRlc2MgIm1lcmdlIFtGSUxFLCAuLi5dIiwgIm1lcmdlIGlucHV0IGZpbGVzIGFuZCBvdXRwdXQgYXMgc2VsZWN0ZWQgZm9ybWF0IgogICAgbWV0aG9kX29wdGlvbiA6aW5wdXRfZm9ybWF0LCB0eXBlOiA6c3RyaW5nLCBkZWZhdWx0OiAiY3N2IiwgYWxpYXNlczogIi1pIgogICAgbWV0aG9kX29wdGlvbiA6b3V0cHV0X2Zvcm1hdCwgdHlwZTogOnN0cmluZywgZGVmYXVsdDogImNzdiIsIGFsaWFzZXM6ICItbyIKICAgIG1ldGhvZF9vcHRpb24gOm91dHB1dF9wYXRoLCB0eXBlOiA6c3RyaW5nLCBkZWZhdWx0OiAiLiIsIGFsaWFzZXM6ICItcCIKICAgIG1ldGhvZF9vcHRpb24gOm5hbWUsIHR5cGU6IDpzdHJpbmcsIGFsaWFzZXM6ICItbiIsIHJlcXVpcmVkOiB0cnVlCgogICAgZGVmIG1lcmdlKCphcmdzKQogICAgICBGdW5uZWw6OkNvbW1hbmQ6Ok1lcmdlLmV4ZWN1dGUhKGFyZ3MsIG9wdGlvbnMpCiAgICBlbmQK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IyAKIyAKIyA=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcCBmaWxlcwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcCBzdGFnZQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcCBAY29uZgogICAgICBwIEBjb25mWyJzdGFnZSJdCg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">IyAKIyAKIyA=</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">LSAKICAKLSAKICAKICAKLSAKICAKICAKICAKLSAKICAKICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcCBmaWxlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHV0cyBGaWxlLmV4aXN0Pyhjb25maWdfcGF0aChvcHRpb25zWzpjb25maWddKSkK</text>
+        <text encoding="base64">ICAgICAgcCBzdGFnZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
