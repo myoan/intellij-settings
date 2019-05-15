@@ -799,7 +799,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557889524899">
+      <file name="/Dummy.txt" timestamp="1557893099223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2420,12 +2420,12 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" timestamp="1557892120160">
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" timestamp="1557893473121">
         <mark key="'" line="12" column="16" />
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="34" column="31" />
-        <mark key="." line="34" column="31" />
-        <mark key="^" line="34" column="31" />
+        <mark key="[" line="28" column="78" />
+        <mark key="]" line="28" column="82" />
+        <mark key="." line="28" column="82" />
+        <mark key="^" line="28" column="82" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-bot/Gemfile" timestamp="1544605379116">
         <mark key="[" line="11" column="17" />
@@ -2649,11 +2649,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" timestamp="1557891627973">
-        <mark key="'" line="33" column="6" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" timestamp="1557893425257">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="35" column="54" />
+        <mark key="]" line="35" column="54" />
+        <mark key="." line="35" column="54" />
+        <mark key="^" line="35" column="54" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_battles_schema.rb" timestamp="1553232824966">
         <mark key="'" line="38" column="2" />
@@ -3558,7 +3559,6 @@
       <jump line="48" column="17" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="37" column="45" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="16" column="10" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" />
       <jump line="35" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
@@ -3603,46 +3603,47 @@
       <jump line="41" column="19" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" />
       <jump line="12" column="16" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" />
       <jump line="33" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>headers</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIHIxWzppZF0gPCByMls6aWRdCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KCh0YmwxICsgdGJsMikucmVjb3Jkc1syXSkudG8gaW5jbHVkZShpZDogMywga2V5OiAxMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgIHB1dHMgImlkcyAje2lkc30iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcCByLm1lcmdlKGRhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcHV0cyAiLS0tIgogICAgICBwIHIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGRlZiBtZXJnZV9zY2hlbWEodGJsKQogICAgICBuZXdfaGVhZGVyID0gdGJsLmhlYWRlciAtIHNlbGYuaGVhZGVyCiAgICAgIHNlbGYuaGVhZGVyIHw9IHRibC5oZWFkZXIKICAgICAgc2VsZi5yZWNvcmRzLmVhY2ggZG8gfHJlY29yZHwKICAgICAgICBuZXdfaGVhZGVyLmVhY2ggZG8gfGh8CiAgICAgICAgICByZWNvcmRbaF0gPSBuaWwKICAgICAgICBlbmQKICAgICAgZW5kCgogICAgICBuZXdfaGVhZGVyID0gc2VsZi5oZWFkZXIgLSB0YmwuaGVhZGVyCiAgICAgIHRibC5oZWFkZXIgfD0gc2VsZi5oZWFkZXIKICAgICAgdGJsLnJlY29yZHMuZWFjaCBkbyB8cmVjb3JkfAogICAgICAgIG5ld19oZWFkZXIuZWFjaCBkbyB8aHwKICAgICAgICAgIHJlY29yZFtoXSA9IG5pbAogICAgICAgIGVuZAogICAgICBlbmQKICAgIGVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcCBpZHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlX3NjaGVtYSh0YmwpCg==</text>
+        <text encoding="base64">ICAgICAgc2VsZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGJsMi5zaG93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
