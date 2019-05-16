@@ -152,11 +152,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/file.rb" timestamp="1557987803209">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-        <mark key="." line="2" column="28" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/file.rb" timestamp="1557988820234">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/protobuf/output/enum.rb" timestamp="1533351215309">
         <mark key="'" line="33" column="31" />
@@ -3647,17 +3647,17 @@
       <jump line="11" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/cli.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZmlsZXMuc29ydF9ieSBkbyB8ZnwKICAgICAgICBGaWxlOjpTdGF0Lm5ldyhmKS5tdGltZQogICAgICBlbmQK</text>
+      <register name="&quot;" type="4">
+        <text>デ</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>デ</text>
       </register>
       <register name="/" type="4">
         <text>condif_path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0YXJnZXRfZmlsZXMoc3RhZ2UsIG5hbWUpCiAgICAgIEBjb25mWyJzdGFnZSJdW3N0YWdlXS5tYXAgeyB8cGF0aHwgRmlsZS5qb2luKHBhdGgsIHRhcmdldF9maWxlbmFtZShuYW1lKSkgfQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICMgMS4g44OH44Kj44Os44Kv44OI44Oq44Gn44K944O844OICg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZmlsZXMuc29ydF9ieSBkbyB8ZnwKICAgICAgICBGaWxlOjpTdGF0Lm5ldyhmKS5tdGltZQogICAgICBlbmQK</text>
@@ -3741,8 +3741,8 @@
         <entry>ws</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
