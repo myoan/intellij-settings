@@ -792,7 +792,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557998618392">
+      <file name="/Dummy.txt" timestamp="1558005725077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1234,10 +1234,10 @@
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/sample/funnel-config.yml" timestamp="1557986859338">
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/sample/funnel-config.yml" timestamp="1558002327544">
         <mark key="'" line="5" column="12" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="16" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
@@ -1776,11 +1776,12 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558000801503">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="27" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558005678042">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="125" column="10" />
+        <mark key="]" line="125" column="10" />
+        <mark key="^" line="125" column="10" />
+        <mark key="." line="125" column="10" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/defense_map_release_condition_type.proto" timestamp="1548152656267">
         <mark key="'" line="19" column="2" />
@@ -3430,10 +3431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/format/xlsx.rb" />
-      <jump line="6" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/format/xlsx.rb" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" />
       <jump line="12" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="23" column="3" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/format/xlsx_spec.rb" />
       <jump line="6" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/format/xlsx_spec.rb" />
@@ -3530,46 +3527,50 @@
       <jump line="27" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" />
       <jump line="17" column="32" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" />
       <jump line="21" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="82" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>①</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>①</text>
       </register>
       <register name="/" type="4">
         <text>condif_path</text>
       </register>
       <register name="0" type="4">
-        <text>conf.target_dirs(stage)</text>
+        <text>│</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGNoYXJzLnhsc3hg44Go44GE44GG44OV44Kh44Kk44Or44Gr5paw44Kt44Oj44Op44OH44O844K/44KS5L2c5oiQ44GX44Gm44GE44KL5Lq6QeOBjOOBhOOBvuOBmeOAggo=</text>
+        <text encoding="base64">IyDjgoLjgZfjgY/jga8KJCBmdW5uZWwgbWVyZ2UgLWMgZnVubmVsLWNvbmZpZy55bWwgdW5zdGFibGUgLWEgd29ya3NwYWNlL3N0YWJsZS9jaGFyXzAxLnhsc3gsd29ya3NwYWNlL3Vuc3RhYmxlL2NoYXJfMDIueGxzeAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">T3IgaW5zdGFsbCBpdCB5b3Vyc2VsZiBhczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICQgYnVuZGxlCg==</text>
+        <text encoding="base64">YGBgYmFzaAokIGZ1bm5lbCBtZXJnZSAtYyBmdW5uZWwtY29uZmlnLnltbCB1bnN0YWJsZSAtaSB3b3Jrc3BhY2Uvc3RhYmxlL2NoYXJfMDEueGxzeAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dW5zdGFibGXjga5jaGFyc18wMuOBruOBv+i/veWKoOOBl+OBn+OBhOWgtOWQiAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QW5kIHRoZW4gZXhlY3V0ZToK</text>
+        <text encoding="base64">ICAgICAgICDilJzilIDilIAgZ2ltbWlja3NfMDIueGxzeAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGBgCgo=</text>
+        <text encoding="base64">ICAgIOKUgiAgIOKUlOKUgOKUgCBjaGFyc18wMS54bHN4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgcnVieQpnZW0gJ2Z1bm5lbCcK</text>
+        <text encoding="base64">c3RhYmxl44Gn54++6KGM44Kt44Oj44Op44Gu5pS55L+u44OH44O844K/YGNoYXJzXzAxLnhsc3hg44KS5L2c5oiQ44CCCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
