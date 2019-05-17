@@ -1776,11 +1776,12 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558069586157">
-        <mark key="'" line="156" column="6" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558071255528">
+        <mark key="'" line="202" column="0" />
+        <mark key="[" line="201" column="3" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+        <mark key="^" line="202" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/defense_map_release_condition_type.proto" timestamp="1548152656267">
         <mark key="'" line="19" column="2" />
@@ -3430,10 +3431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="21" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" />
-      <jump line="28" column="2" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" />
-      <jump line="30" column="71" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/format/xlsx_spec.rb" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" />
@@ -3530,46 +3527,50 @@
       <jump line="132" column="1" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
       <jump line="183" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
       <jump line="156" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="174" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="153" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="175" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="202" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSB4bHN4L3N0YWJsZS9maXgK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>condif_path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSB4bHN4L3N0YWJsZS9maXgK</text>
+        <text encoding="base64">YGBgYmFzaAokIGZ1bm5lbCBtZXJnZSAtYyBmdW5uZWwtY29uZmlnLnltbCBwcm9kdWN0aW9uCmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSB4bHN4L3N0YWJsZS9maXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSB4bHN4L3N0YWdpbmcvZGV2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyBmZWF0dXJl44Gn6ZaL55m6KGZlYXR1cmXjg5bjg6njg7Pjg4HjgpLkvZzmiJDjgIHplovnmbopCgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiMjIyMg5a6f6KOF44Gn44GN44Gf44Gu44GnZml444G4Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">YGBgYmFzaAokZnVubmVsIHN0YWdlIGNsZWFuIFNUQUdFCiRmdW5uZWwgc3RhZ2UgY3JlYXRlIFNUQUdFCiRmdW5uZWwgc3RhZ2UgZGVsZXRlIFNUQUdFCiRmdW5uZWwgc3RhZ2UgaW5mbyBTVEFHRQokZnVubmVsIHN0YWdlIGxpc3QKYGBgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGZ1bm5lbCBzdGFnZSBsaXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CuOBk+OBruOBqOOBjeOBrgo=</text>
+        <text encoding="base64">JGZ1bm5lbCBzdGFnZSBjcmVhdGUgU1RBR0UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JCBmdW5uZWwgbWVyZ2UgLWMgZnVubmVsLWNvbmZpZy55bWwgc3RhZ2luZwo=</text>
+        <text encoding="base64">JGZ1bm5lbCBzdGFnZSBjbGVhbiBTVEFHRQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIOaWsOapn+iDvei/veWKoAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dW5zdGFibGXjga5gY2hhcnNfMDIueGxzeGDjgpJzdGFnaW5n44G444Kz44OU44O844GZ44KLCijnp7vli5XjgafjgoLjgojjgYTjgYzjgIF1bnN0YWJsZeOBruODh+ODvOOCv+OBjOWkieOCj+OCi+OBn+OCgeOCs+ODlOODvOOBjOOCiOOBhCkKCmBgYGJhc2gKLgrilJzilIDilIAgb3V0cHV0CuKUgsKgwqAg4pSc4pSA4pSAIHByb2R1Y3Rpb24K4pSCwqAgIOKUgsKgICDilJTilIDilIAgY2hhcnMuY3N2CuKUgsKgwqAg4pSc4pSA4pSAIHN0YWdpbmcK4pSCwqAgIOKUgsKgICDilJTilIDilIAgY2hhcnMuY3N2CuKUgsKgwqAg4pSc4pSA4pSAIHN0YWJsZQrilILCoCAg4pSCwqAgIOKUlOKUgOKUgCBjaGFycy5jc3YK4pSCwqDCoCDilJTilIDilIAgdW5zdGFibGUK4pSCwqAgICAgICDilJTilIDilIAgY2hhcnMuY3N2CuKUlOKUgOKUgCB3b3Jrc3BhY2UKICAgIOKUnOKUgOKUgCBzdGFnaW5nCiAgICDilIIgICDilJTilIDilIAgKGNoYXJzXzAyLnhsc3gpCiAgICDilJzilIDilIAgc3RhYmxlCiAgICDilJTilIDilIAgdW5zdGFibGUKICAgICAgICDilJTilIDilIAgY2hhcnNfMDIueGxzeApgYGAKCuenu+WLleW+jOOAgXN0YWdpbmfjgavlkJHjgZHjgaZmdW5uZWzjgrPjg57jg7Pjg4njgpLlj6njgY8K</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -3626,8 +3627,8 @@
         <entry>q</entry>
         <entry>wq</entry>
         <entry>2w</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
