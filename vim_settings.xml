@@ -1776,12 +1776,12 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558054720515">
-        <mark key="'" line="132" column="9" />
-        <mark key="[" line="125" column="10" />
-        <mark key="]" line="125" column="10" />
-        <mark key="^" line="125" column="10" />
-        <mark key="." line="125" column="10" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558056863528">
+        <mark key="'" line="153" column="9" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="31" />
+        <mark key="^" line="104" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/defense_map_release_condition_type.proto" timestamp="1548152656267">
         <mark key="'" line="19" column="2" />
@@ -3533,44 +3533,44 @@
       <jump line="132" column="9" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>①</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtZCwgWy0tZGlyZWN0b3J5PURJUkVDVE9SWV0gIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>①</text>
+        <text>│</text>
       </register>
       <register name="/" type="4">
         <text>condif_path</text>
       </register>
-      <register name="0" type="4">
-        <text>│</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAtZCwgWy0tZGlyZWN0b3J5PURJUkVDVE9SWV0gIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyDjgoLjgZfjgY/jga8KJCBmdW5uZWwgbWVyZ2UgLWMgZnVubmVsLWNvbmZpZy55bWwgdW5zdGFibGUgLWEgd29ya3NwYWNlL3N0YWJsZS9jaGFyXzAxLnhsc3gsd29ya3NwYWNlL3Vuc3RhYmxlL2NoYXJfMDIueGxzeAo=</text>
+        <text encoding="base64">ICAgICAgICDilJTilIDilIAgY2hhcnNfMDIueGxzeAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YGBgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YGBgYmFzaAokIGZ1bm5lbCBtZXJnZSAtYyBmdW5uZWwtY29uZmlnLnltbCB1bnN0YWJsZSAtaSB3b3Jrc3BhY2Uvc3RhYmxlL2NoYXJfMDEueGxzeAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dW5zdGFibGXjga5jaGFyc18wMuOBruOBv+i/veWKoOOBl+OBn+OBhOWgtOWQiAoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICDilJzilIDilIAgZ2ltbWlja3NfMDIueGxzeAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIOKUlOKUgOKUgCB1bnN0YWJsZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIOKUnOKUgOKUgCBzdGFibGUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">4pSU4pSA4pSAIHdvcmtzcGFjZQogICAg4pSc4pSA4pSAIHN0YWdpbmcK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">4pSCwqDCoCDilJTilIDilIAgdW5zdGFibGUK4pSCwqAgICAgICDilJTilIDilIAgY2hhcnMuY3N2Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">4pSCwqDCoCDilJzilIDilIAgc3RhYmxlCuKUgsKgICDilILCoCAg4pSU4pSA4pSAIGNoYXJzLmNzdgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOKUgiAgIOKUlOKUgOKUgCBjaGFyc18wMS54bHN4Cg==</text>
+        <text encoding="base64">4pSCwqDCoCDilJzilIDilIAgc3RhZ2luZwrilILCoCAg4pSCwqAgIOKUlOKUgOKUgCBjaGFycy5jc3YK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhYmxl44Gn54++6KGM44Kt44Oj44Op44Gu5pS55L+u44OH44O844K/YGNoYXJzXzAxLnhsc3hg44KS5L2c5oiQ44CCCg==</text>
+        <text encoding="base64">4pSCwqDCoCDilJzilIDilIAgcHJvZHVjdGlvbgrilILCoCAg4pSCwqAgIOKUlOKUgOKUgCBjaGFycy5jc3YK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
