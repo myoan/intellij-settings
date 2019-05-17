@@ -1776,12 +1776,12 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558066098739">
-        <mark key="'" line="191" column="9" />
-        <mark key="[" line="178" column="15" />
-        <mark key="]" line="178" column="15" />
-        <mark key="." line="178" column="15" />
-        <mark key="^" line="178" column="29" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558066881880">
+        <mark key="'" line="132" column="1" />
+        <mark key="[" line="195" column="9" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+        <mark key="^" line="196" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/defense_map_release_condition_type.proto" timestamp="1548152656267">
         <mark key="'" line="19" column="2" />
@@ -3431,11 +3431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="3" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/format/xlsx_spec.rb" />
-      <jump line="6" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/format/xlsx_spec.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/format/xlsx_spec.rb" />
-      <jump line="8" column="4" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/format/xlsx.rb" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/cli.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/cli.rb" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" />
       <jump line="0" column="21" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/command/merge.rb" />
@@ -3530,44 +3525,49 @@
       <jump line="32" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
       <jump line="82" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
       <jump line="86" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
-      <jump line="132" column="9" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="30" column="6" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="179" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="193" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="132" column="1" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>condif_path</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IyMjIOODpuODvOOCueOCseODvOOCueKRoDog44OV44Kh44Kk44Or44KS6L+95YqgCgpzdGFibGXjgafnj77ooYzjgq3jg6Pjg6njga7mlLnkv67jg4fjg7zjgr9gY2hhcnNfMDEueGxzeGDjgpLkvZzmiJDjgIIKdW5zdGFibGXjgadgY2hhcnNfMDIueGxzeGDjgpLkvZzmiJDjgZfjgabjgYTjgb7jgZnjgIIKCmBgYGJhc2gKbWFzdGVyX2RhdGEK4pSc4pSA4pSAIGNzdgrilILCoMKgIOKUnOKUgOKUgCBwcm9kdWN0aW9uCuKUgiAgIOKUgsKgwqAg4pSU4pSA4pSAIGNoYXJzLmNzdgrilILCoMKgIOKUnOKUgOKUgCBzdGFibGUK4pSCICAg4pSCwqDCoCDilJTilIDilIAgY2hhcnMuY3N2CuKUgsKgwqAg4pSc4pSA4pSAIHN0YWdpbmcK4pSCICAg4pSCwqDCoCDilJTilIDilIAgY2hhcnMuY3N2CuKUgsKgwqAg4pSU4pSA4pSAIHVuc3RhYmxlCuKUgiAgICDCoMKgIOKUlOKUgOKUgCBjaGFycy5jc3YK4pSU4pSA4pSAIHhsc3gKICAgIOKUnOKUgOKUgCBzdGFnaW5nCiAgICDilILCoMKgIOKUnOKUgOKUgCBkZXYKICAgIOKUgsKgwqAg4pSU4pSA4pSAIGZpeAogICAg4pSc4pSA4pSAIHN0YWJsZQogICAg4pSCwqDCoCDilJzilIDilIAgZGV2CiAgICDilIIgICDilIIgICDilJTilIDilIAgRENRQS0xMDAKICAgIOKUgiAgIOKUgiAgICAgICDilJTilIDilIAgY2hhcnNfMDEueGxzeAogICAg4pSCwqDCoCDilJTilIDilIAgZml4CiAgICDilJTilIDilIAgdW5zdGFibGUKICAgICAgICDilJzilIDilIAgZGV2CiAgICAgICAg4pSCICAg4pSU4pSA4pSAIERDLTEwMDAKICAgICAgICDilIIgICAgICAg4pSU4pSA4pSAIGNoYXJzXzAyLnhsc3gKICAgICAgICDilJTilIDilIAgZml4CmBgYAoKYGBgYmFzaAokIGZ1bm5lbCBtZXJnZSAtYyBmdW5uZWwtY29uZmlnLnltbCB1bnN0YWJsZQpgYGAKCuOBk+OBruOBqOOBjeOAgeS4iuiomOOCs+ODnuODs+ODieOCkuaJk+OBo+OBpuOCgmBjaGFyc18wMS54bHN4YCwgYGNoYXJzXzAyLnhsc3hg44Go44KC44GrYXBwbHnlr77osaHjgavjga/jgarjgorjgb7jgZvjgpPjgIIK44GT44KM44Gv6Kit5a6a44OV44Kh44Kk44Or44GudW5zdGFibGXjga5gdGFyZ2V0X2RpcmDjgavjgZ3jgozjgZ7jgozjga7jg5XjgqHjgqTjg6vjgYzlkKvjgb7jgozjgovjg4fjgqPjg6zjgq/jg4jjg6rjgYzoqJjov7DjgZXjgozjgabjgYTjgarjgYTjgZ/jgoHjgafjgZkKCmBgYGJhc2gKJCBmdW5uZWwgbWVyZ2UgLWMgZnVubmVsLWNvbmZpZy55bWwgdW5zdGFibGUgeGxzeC91bnN0YWJsZS9kZXYvREMtMTAwMApgYGAKCuS4iuiomOOBruOCs+ODnuODs+ODieOCkuaJk+OBpOOBk+OBqOOBp+OAgWNoYXJfMDIueGxzeOOBjGBjc3YvdW5zdGFibGUvY2hhcnMuY3N2YOOBuGFwcGx544GV44KM44G+44GZ44CCCgpgYGBiYXNoCiQgZnVubmVsIG1lcmdlIC1jIGZ1bm5lbC1jb25maWcueW1sIHVuc3RhYmxlIHhsc3gvdW5zdGFibGUvZGV2L0RDLTEwMDAgeGxzeC9zdGFibGUvZGV2L0RDUUEtMTAwCmBgYAo=</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjIOaWsOapn+iDvei/veWKoAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">6Ieq6Lqr44Gu5a6f6KOF44KS5bCC55So44Gu55Kw5aKD44G4572u44GN44Gf44GE44Go44GN44Gr5Yip55So44GX44G+44GZCg==</text>
+        <text encoding="base64">CuOBk+OBruOBqOOBjeOBrgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3RhYmxl44Gn54++6KGM44Kt44Oj44Op44Gu5pS55L+u44OH44O844K/YGNoYXJzXzAxLnhsc3hg44KS5L2c5oiQ44CCCnVuc3RhYmxl44GnYGNoYXJzXzAyLnhsc3hg44KS5L2c5oiQ44GX44Gm44GE44G+44GZ44CCCg==</text>
+        <text encoding="base64">JCBmdW5uZWwgbWVyZ2UgLWMgZnVubmVsLWNvbmZpZy55bWwgc3RhZ2luZwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">YGBgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">dW5zdGFibGXjga5gY2hhcnNfMDIueGxzeGDjgpJzdGFnaW5n44G444Kz44OU44O844GZ44KLCijnp7vli5XjgafjgoLjgojjgYTjgYzjgIF1bnN0YWJsZeOBruODh+ODvOOCv+OBjOWkieOCj+OCi+OBn+OCgeOCs+ODlOODvOOBjOOCiOOBhCkKCmBgYGJhc2gKLgrilJzilIDilIAgb3V0cHV0CuKUgsKgwqAg4pSc4pSA4pSAIHByb2R1Y3Rpb24K4pSCwqAgIOKUgsKgICDilJTilIDilIAgY2hhcnMuY3N2CuKUgsKgwqAg4pSc4pSA4pSAIHN0YWdpbmcK4pSCwqAgIOKUgsKgICDilJTilIDilIAgY2hhcnMuY3N2CuKUgsKgwqAg4pSc4pSA4pSAIHN0YWJsZQrilILCoCAg4pSCwqAgIOKUlOKUgOKUgCBjaGFycy5jc3YK4pSCwqDCoCDilJTilIDilIAgdW5zdGFibGUK4pSCwqAgICAgICDilJTilIDilIAgY2hhcnMuY3N2CuKUlOKUgOKUgCB3b3Jrc3BhY2UKICAgIOKUnOKUgOKUgCBzdGFnaW5nCiAgICDilIIgICDilJTilIDilIAgKGNoYXJzXzAyLnhsc3gpCiAgICDilJzilIDilIAgc3RhYmxlCiAgICDilJTilIDilIAgdW5zdGFibGUKICAgICAgICDilJTilIDilIAgY2hhcnNfMDIueGxzeApgYGAKCuenu+WLleW+jOOAgXN0YWdpbmfjgavlkJHjgZHjgaZmdW5uZWzjgrPjg57jg7Pjg4njgpLlj6njgY8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YGBgYmFzaAokIGZ1bm5lbCBtZXJnZSAtYyBmdW5uZWwtY29uZmlnLnltbCB1bnN0YWJsZSB4bHN4L3Vuc3RhYmxlL2Rldi9EQy0xMDAwIHhsc3gvc3RhYmxlL2Rldi9EQ1FBLTEwMAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">6Ieq6Lqr44Gu5a6f6KOF44KS5bCC55So44Gu55Kw5aKD44G4572u44GN44Gf44GE44Go44GN44Gr5Yip55So44GX44G+44GZCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">5LiK6KiY44Gu44Kz44Oe44Oz44OJ44KS5omT44Gk44GT44Go44Gn44CBY2hhcl8wMi54bHN444GMYGNzdi91bnN0YWJsZS9jaGFycy5jc3Zg44G4YXBwbHnjgZXjgozjgb7jgZnjgIIK</text>
+        <text encoding="base64">c3RhYmxl44Gn54++6KGM44Kt44Oj44Op44Gu5pS55L+u44OH44O844K/YGNoYXJzXzAxLnhsc3hg44KS5L2c5oiQ44CCCnVuc3RhYmxl44GnYGNoYXJzXzAyLnhsc3hg44KS5L2c5oiQ44GX44Gm44GE44G+44GZ44CCCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
