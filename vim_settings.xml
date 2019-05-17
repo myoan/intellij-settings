@@ -1776,12 +1776,12 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558071255528">
-        <mark key="'" line="202" column="0" />
-        <mark key="[" line="201" column="3" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="202" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" timestamp="1558072149353">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="204" column="82" />
+        <mark key="]" line="204" column="82" />
+        <mark key="." line="204" column="82" />
+        <mark key="^" line="204" column="82" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/enum/defense_map_release_condition_type.proto" timestamp="1548152656267">
         <mark key="'" line="19" column="2" />
@@ -2189,12 +2189,6 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/exe/funnel" timestamp="1557976290427">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/api/mission.md" timestamp="1547199883580">
         <mark key="'" line="133" column="42" />
@@ -3279,6 +3273,11 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/wiki.md" timestamp="1558071295408">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-ops/README.md" timestamp="1550817738433">
         <mark key="[" line="5" column="72" />
         <mark key="]" line="5" column="79" />
@@ -3431,7 +3430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/master_data.rb" />
       <jump line="16" column="9" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/spec/master_data_spec.rb" />
@@ -3531,46 +3529,47 @@
       <jump line="153" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
       <jump line="175" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
       <jump line="202" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/src/github.com/myoan/funnel/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>condif_path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgYmFzaAokIGZ1bm5lbCBtZXJnZSAtYyBmdW5uZWwtY29uZmlnLnltbCBwcm9kdWN0aW9uCmBgYAo=</text>
+        <text encoding="base64">YGBgYmFzaAokIGZ1bm5lbCBtZXJnZSAtYyBmdW5uZWwtY29uZmlnLnltbCB1bnN0YWJsZQpgYGAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMg5b+c55SoCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIyBmZWF0dXJl44Gn6ZaL55m6KGZlYXR1cmXjg5bjg6njg7Pjg4HjgpLkvZzmiJDjgIHplovnmbopCgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">YGBgYmFzaAokZnVubmVsIHN0YWdlIGNsZWFuIFNUQUdFCiRmdW5uZWwgc3RhZ2UgY3JlYXRlIFNUQUdFCiRmdW5uZWwgc3RhZ2UgZGVsZXRlIFNUQUdFCiRmdW5uZWwgc3RhZ2UgaW5mbyBTVEFHRQokZnVubmVsIHN0YWdlIGxpc3QKYGBgCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICDilJzilIDilIAgZGV2CiAgICAgICAg4pSU4pSA4pSAIGZpeAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGZ1bm5lbCBzdGFnZSBsaXN0Cg==</text>
+        <text encoding="base64">ICAgIOKUgsKgwqAg4pSc4pSA4pSAIGRldgogICAg4pSCwqDCoCDilJTilIDilIAgZml4Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JGZ1bm5lbCBzdGFnZSBjcmVhdGUgU1RBR0UK</text>
+        <text encoding="base64">ICAgIOKUgsKgwqAg4pSc4pSA4pSAIGRldgogICAg4pSCwqDCoCDilJTilIDilIAgZml4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGZ1bm5lbCBzdGFnZSBjbGVhbiBTVEFHRQo=</text>
+        <text encoding="base64">ICAgIOKUnOKUgOKUgCBzdGFnaW5nCiAgICDilILCoMKgIOKUnOKUgOKUgCBkZXYKICAgIOKUgsKgwqAg4pSU4pSA4pSAIGZpeAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIOaWsOapn+iDvei/veWKoAo=</text>
+        <text encoding="base64">KOacrOeVqueSsOWig+OBruODh+ODvOOCv+OCkuebtOaOpeabuOOBjeaPm+OBiOOBquOBhOOCiOOBhuOAgXhsc3jjgavjga9wcm9kdWN0aW9u44KS5L2c5oiQ44GX44Gm44GE44G+44Gb44KT44CCKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Myzjg4/jg7zjg5TjgqMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
