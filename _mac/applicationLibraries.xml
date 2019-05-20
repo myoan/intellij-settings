@@ -3031,6 +3031,25 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/fourflusher-2.0.1/bin" />
       </excluded>
     </library>
+    <library name="funnel (v0.1.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/funnel-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/funnel-0.1.0/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/funnel-0.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/funnel-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/funnel-0.1.0/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/funnel-0.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/funnel-0.1.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/funnel-0.1.0/exe" />
+      </excluded>
+    </library>
     <library name="fuzzy_match (v2.0.4, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
