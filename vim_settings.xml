@@ -608,7 +608,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558093350223">
+      <file name="/Dummy.txt" timestamp="1563255437617">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -736,6 +736,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="217" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/lib/funnel/command/merge.rb" timestamp="1563255605404" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer4.rb" timestamp="1537956682079">
         <mark key="'" line="9" column="6" />
         <mark key="[" line="7" column="12" />
@@ -2473,12 +2474,12 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" timestamp="1563254030716">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" timestamp="1563255282082">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="68" column="62" />
-        <mark key="]" line="68" column="62" />
-        <mark key="." line="68" column="62" />
-        <mark key="^" line="68" column="62" />
+        <mark key="[" line="84" column="114" />
+        <mark key="]" line="84" column="118" />
+        <mark key="." line="84" column="118" />
+        <mark key="^" line="84" column="118" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/protobuf/schemas/model/master/stage_background.proto" timestamp="1535981269108">
         <mark key="'" line="1" column="0" />
@@ -2699,43 +2700,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50X2ZpbmFuY2lhbF9yZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>DC::Data::Enum::BattleStatus::BattleStatus::Retire</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAgIGl0ICJzZXQgdXNlcl9iYXR0bGUuc3RhdHVzIGlzIHJldGlyZSIgZG8KICAgICAgICBleHBlY3QgeyBzdWJqZWN0IH0udG8gY2hhbmdlIHsgdXNlcl9iYXR0bGUucmVsb2FkLnN0YXR1cyB9LnRvKERDOjpEYXRhOjpFbnVtOjpCYXR0bGVTdGF0dXM6OkJhdHRsZVN0YXR1czo6UmV0aXJlKQogICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGV4cGVjdCB7IHN1YmplY3QgfS50byBjaGFuZ2UgeyB1c2VyX2JhdHRsZS5yZWxvYWQuc3RhdHVzIH0uZnJvbSgwKS50byhEQzo6RGF0YTo6RW51bTo6QmF0dGxlU3RhdHVzOjpCYXR0bGVTdGF0dXM6OlJldGlyZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3VzZXJfYmF0dGxlLnJlbG9hZC5zdGF0dXMK</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3VzZXJfYmF0dGxlLnJlbG9hZC5zdGF0dXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgc3RhdHVzX2NsZWFyIQogICAgc2V0X3N0YXR1cyEoREMuRGF0YS5FbnVtLkJhdHRsZVN0YXR1cy5CYXR0bGVTdGF0dXM6OkNsZWFyKQo=</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlbmQKICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICBkZWYgc3RhdHVzX2NsZWFyIQogICAgc2V0X3N0YXR1cyEoREMuRGF0YS5FbnVtLkJhdHRsZVN0YXR1cy5CYXR0bGVTdGF0dXM6OkNsZWFyKQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBlbmQKICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBlbmQKCg==</text>
+        <text encoding="base64">ICBkZWYgc3RhdHVzX2NsZWFyIQogICAgc2V0X3N0YXR1cyEoREMuRGF0YS5FbnVtLkJhdHRsZVN0YXR1cy5CYXR0bGVTdGF0dXM6OkNsZWFyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgc3RhdHVzX2NvbXBsZXRlX2NsZWFyIQogICAgc2V0X3N0YXR1cyEoREMuRGF0YS5FbnVtLkJhdHRsZVN0YXR1cy5CYXR0bGVTdGF0dXM6OkNvbXBsZXRlQ2xlYXIpCg==</text>
+        <text encoding="base64">ICBlbmQKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
