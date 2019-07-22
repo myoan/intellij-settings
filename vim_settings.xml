@@ -198,6 +198,9 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/dc_mail_item.rb" timestamp="1558330839709">
         <mark key="'" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" timestamp="1563759282524">
+        <mark key="'" line="103" column="0" />
+      </file>
       <file name="/finish.rb" timestamp="1563607265528">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="49" />
@@ -293,10 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" />
-      <jump line="27" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" />
-      <jump line="19" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" />
-      <jump line="102" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/macaron_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/initializers/lograge.rb" />
       <jump line="36" column="2" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/initializers/lograge.rb" />
       <jump line="38" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/initializers/lograge.rb" />
@@ -393,6 +392,10 @@
       <jump line="102" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/special_ex/host.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/normal_npc/guest.rb" />
       <jump line="227" column="10" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" />
+      <jump line="133" column="27" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
+      <jump line="136" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
+      <jump line="175" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
+      <jump line="103" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_purchase.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -402,7 +405,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVfYnlfYmF0dGxlXD4=</text>
+        <text>purchase</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyX2JhdHRsZS5zZXRfc3RhdHVzIShwYXJhbWV0ZXIuc3RhdHVzKQo=</text>
@@ -439,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVfYnlfYmF0dGxlXD4=</last-search>
+      <last-search>purchase</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVfYnlfYmF0dGxlXD4=</last-pattern>
+      <last-pattern>purchase</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>create_with</last-substitute>
       <last-dir>1</last-dir>
@@ -449,8 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry encoding="base64">XDxyZXNwb25zZV9oYXNoXD4=</entry>
         <entry>hash</entry>
         <entry>append</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9yZXNwb25zZV9hc19wcm90b2J1Zlw+</entry>
@@ -469,6 +470,8 @@
         <entry encoding="base64">XDxjdXJyZW50X2ZpbmFuY2lhbF9yZWNvcmRcPg==</entry>
         <entry>update_by</entry>
         <entry encoding="base64">XDx1cGRhdGVfYnlfYmF0dGxlXD4=</entry>
+        <entry encoding="base64">XDxwdXJjaGFzZVw+</entry>
+        <entry>purchase</entry>
       </history-search>
       <history-cmd>
         <entry>QW</entry>
