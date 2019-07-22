@@ -60,7 +60,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563764427796">
+      <file name="/Dummy.txt" timestamp="1563766063376">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -70,10 +70,16 @@
         <mark key="]" line="14" column="148" />
         <mark key="." line="14" column="112" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/special_ex/host.rb" timestamp="1563764418303">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/special_ex/host.rb" timestamp="1563765546531">
         <mark key="'" line="106" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="21" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/config/initializers/00_load_files.rb" timestamp="1563409540702">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/master.rb" timestamp="1563595010405">
         <mark key="'" line="67" column="0" />
@@ -217,6 +223,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/training/host.rb" timestamp="1563603698174">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/db/schemas/user_shard/user_pack_groups_schema.rb" timestamp="1563765671579">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/score_attack/solo.rb" timestamp="1563603757712">
         <mark key="'" line="0" column="0" />
       </file>
@@ -225,10 +237,16 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/challenge/host.rb" timestamp="1563764407488">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/lib/funnel/format.rb" timestamp="1563257712996">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/challenge/host.rb" timestamp="1563765548187">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="37" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/lib/funnel/config.rb" timestamp="1558329688076">
         <mark key="'" line="27" column="4" />
@@ -236,10 +254,10 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/challenge/solo.rb" timestamp="1563764421779">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/challenge/solo.rb" timestamp="1563765520937">
         <mark key="'" line="55" column="41" />
         <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
+        <mark key="]" line="127" column="37" />
         <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/result.txt" timestamp="1554964249299">
@@ -273,6 +291,12 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/finish_spec.rb" timestamp="1563329158069">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/lib/funnel/format/csv.rb" timestamp="1563257569006">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/funnel/wiki.md" timestamp="1558071295408">
         <mark key="[" line="0" column="0" />
@@ -396,17 +420,17 @@
       <jump line="55" column="41" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/challenge/solo.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmluY3JlbWVudF9lbGFwc2VkX21vbnRoCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>purchase</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGFwc2VfbW9udGghCg==</text>
+        <text encoding="base64">ICAgICAgICBVc2VyU2FsZXNFdmVudC5kcmF3ISh1c2VyLmlkKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyLmluY3JlbWVudF9lbGFwc2VkX21vbnRoCg==</text>
