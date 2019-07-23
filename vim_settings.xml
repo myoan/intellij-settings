@@ -1238,8 +1238,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_tutorial.rb" timestamp="1563788308579">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_tutorial.rb" timestamp="1563865111100">
+        <mark key="'" line="79" column="0" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/stage_reward.md" timestamp="1554440579117">
         <mark key="'" line="31" column="16" />
@@ -2640,7 +2640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" />
       <jump line="263" column="56" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" />
       <jump line="220" column="56" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" />
       <jump line="197" column="65" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/requests/battle_request_spec.rb" />
@@ -2740,6 +2739,7 @@
       <jump line="15" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/Gemfile" />
       <jump line="19" column="30" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/data/importer/model.rb" />
       <jump line="133" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/char.rb" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_tutorial.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2749,7 +2749,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbXBvcnRfcmVjb3JkXD4=</text>
+        <text>phase_fin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAjIHNlbGYuYmVsb25nc190b19yZXF1aXJlZF9ieV9kZWZhdWx0ID0gZmFsc2UK</text>
@@ -2786,9 +2786,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbXBvcnRfcmVjb3JkXD4=</last-search>
+      <last-search>phase_fin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbXBvcnRfcmVjb3JkXD4=</last-pattern>
+      <last-pattern>phase_fin</last-pattern>
       <last-replace>Macaron::Logger</last-replace>
       <last-substitute>logger</last-substitute>
       <last-dir>1</last-dir>
@@ -2812,10 +2812,10 @@
         <entry>purchase</entry>
         <entry>thread</entry>
         <entry>logger</entry>
-        <entry>phase_fin</entry>
         <entry>i8n</entry>
         <entry>i18n</entry>
         <entry encoding="base64">XDxpbXBvcnRfcmVjb3JkXD4=</entry>
+        <entry>phase_fin</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
