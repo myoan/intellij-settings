@@ -536,12 +536,12 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_mail.rb" timestamp="1558329416780">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/battle_controller.rb" timestamp="1563969154830">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/battle_controller.rb" timestamp="1563971982300">
         <mark key="'" line="109" column="15" />
-        <mark key="[" line="91" column="55" />
-        <mark key="]" line="91" column="55" />
-        <mark key="^" line="91" column="55" />
-        <mark key="." line="91" column="55" />
+        <mark key="[" line="95" column="69" />
+        <mark key="]" line="95" column="69" />
+        <mark key="^" line="95" column="69" />
+        <mark key="." line="95" column="69" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_47.rb" timestamp="1555488634487">
         <mark key="'" line="16" column="0" />
@@ -2886,13 +2886,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="8">
-        <text>parameter.user
-parameter.user
-parameter.user
-parameter.user</text>
+        <text>]
+]
+]
+]</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>reward</text>
@@ -2901,34 +2901,49 @@ parameter.user</text>
         <text>self.dream_company_league_grade.calc_matching_point(battle_status)</text>
       </register>
       <register name="1" type="8">
+        <text>]
+]
+]
+]</text>
+      </register>
+      <register name="2" type="8">
+        <text>[
+[
+[
+[</text>
+      </register>
+      <register name="3" type="8">
+        <text>h
+h
+h
+h</text>
+      </register>
+      <register name="4" type="8">
+        <text>]
+]
+]
+]</text>
+      </register>
+      <register name="5" type="8">
+        <text>[
+[
+[
+[</text>
+      </register>
+      <register name="6" type="8">
         <text>parameter.user
 parameter.user
 parameter.user
 parameter.user</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1dHMgInN1Y2Nlc3MiCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBwdXRzICJob2dlaGdvZSIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
