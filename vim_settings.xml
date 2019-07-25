@@ -654,7 +654,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564036103742">
+      <file name="/Dummy.txt" timestamp="1564036982143">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -711,8 +711,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/challenge/host_spec.rb" timestamp="1564036001175">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/challenge/host_spec.rb" timestamp="1564036887543">
+        <mark key="'" line="31" column="0" />
         <mark key="]" line="50" column="7" />
         <mark key="^" line="50" column="7" />
         <mark key="." line="50" column="7" />
@@ -2667,12 +2667,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_mission.rb" timestamp="1564036092970">
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_mission.rb" timestamp="1564036944533">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="98" column="46" />
-        <mark key="]" line="98" column="46" />
-        <mark key="^" line="99" column="31" />
-        <mark key="." line="98" column="46" />
+        <mark key="[" line="100" column="65" />
+        <mark key="]" line="100" column="65" />
+        <mark key="^" line="100" column="43" />
+        <mark key="." line="100" column="65" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/myoan/exmerger/spec/spec_helper.rb" timestamp="1547113699531">
         <mark key="'" line="7" column="0" />
@@ -2820,8 +2820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_challenge_stage.rb" />
-      <jump line="102" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_mission.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_mission.rb" />
       <jump line="100" column="26" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_mission.rb" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_mission.rb" />
@@ -2920,13 +2918,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/challenge/host_spec.rb" />
       <jump line="29" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer2.txt" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/challenge/host_spec.rb" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/battle/stage_class/challenge/host_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
