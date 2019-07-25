@@ -1433,6 +1433,22 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/gitlab-4.10.0/exe" />
       </excluded>
     </library>
+    <library name="gitlab (v4.12.0, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/gitlab-4.12.0/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/gitlab-4.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/gitlab-4.12.0/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/gitlab-4.12.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/gitlab-4.12.0/exe" />
+      </excluded>
+    </library>
     <library name="google-api-client (v0.23.9, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1682,6 +1698,39 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/httparty-0.16.4/script" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/httparty-0.16.4/website" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/httparty-0.16.4/examples" />
+      </excluded>
+    </library>
+    <library name="httparty (v0.17.0, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/docs" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/script" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/website" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/examples" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/docs" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/script" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/website" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/examples" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/docs" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/script" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/website" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/httparty-0.17.0/examples" />
       </excluded>
     </library>
     <library name="httpclient (v2.8.3, rbenv: 2.5.3) [gem]" type="rubylib">
@@ -1999,6 +2048,22 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/mime-types-3.2.2/test" />
       </excluded>
     </library>
+    <library name="mime-types (v3.2.2, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-3.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-3.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
     <library name="mime-types-data (v3.2018.0812, rbenv: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2035,6 +2100,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/mime-types-data-3.2019.0331/data" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/mime-types-data-3.2019.0331/types" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2019.0331, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-data-3.2019.0331/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-data-3.2019.0331/data" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-data-3.2019.0331/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-data-3.2019.0331/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-data-3.2019.0331/data" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-data-3.2019.0331/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-data-3.2019.0331/data" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/mime-types-data-3.2019.0331/types" />
       </excluded>
     </library>
     <library name="mini_magick (v4.5.1, rbenv: 2.5.3) [gem]" type="rubylib">
@@ -2195,6 +2279,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/multi_xml-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_xml (v0.6.0, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/multi_xml-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="multipart-post (v2.0.0, rbenv: 2.5.3) [gem]" type="rubylib">
@@ -2623,6 +2718,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/pronto-0.10.0/bin" />
+      </excluded>
+    </library>
+    <library name="pronto (v0.10.0, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/pronto-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/pronto-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/pronto-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/pronto-0.10.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/pronto-0.10.0/bin" />
       </excluded>
     </library>
     <library name="pry (v0.12.2, rbenv: 2.6.2) [gem]" type="rubylib">
@@ -3475,6 +3586,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/rugged-0.28.1/ext" />
+      </excluded>
+    </library>
+    <library name="rugged (v0.28.2, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rugged-0.28.2/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rugged-0.28.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rugged-0.28.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rugged-0.28.2/ext" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rugged-0.28.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rugged-0.28.2/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rugged-0.28.2/ext" />
       </excluded>
     </library>
     <library name="sawyer (v0.8.1, rbenv: 2.5.3) [gem]" type="rubylib">
