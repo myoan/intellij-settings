@@ -1152,8 +1152,8 @@
         <mark key="." line="74" column="57" />
         <mark key="^" line="74" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_layer_stage_event.rb" timestamp="1558077431973">
-        <mark key="'" line="31" column="4" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_layer_stage_event.rb" timestamp="1564126011447">
+        <mark key="'" line="72" column="17" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -2293,8 +2293,8 @@
         <mark key="^" line="1" column="3" />
         <mark key="." line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/score_attack/solo.rb" timestamp="1563603757712">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/score_attack/solo.rb" timestamp="1564125940857">
+        <mark key="'" line="50" column="20" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_char_selector_spec.rb" timestamp="1534225916925">
         <mark key="'" line="0" column="15" />
@@ -2898,12 +2898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_floor.rb" />
-      <jump line="105" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_floor.rb" />
-      <jump line="80" column="11" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_floor.rb" />
-      <jump line="64" column="12" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_floor.rb" />
-      <jump line="65" column="9" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_floor.rb" />
-      <jump line="81" column="15" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_sales_floor.rb" />
       <jump line="79" column="32" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_product_floor.rb" />
       <jump line="81" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_product_floor.rb" />
       <jump line="84" column="24" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_product_floor.rb" />
@@ -2998,6 +2992,12 @@
       <jump line="136" column="8" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/gacha.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_stage_mission.rb" />
       <jump line="93" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/score_attack/solo.rb" />
+      <jump line="78" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_layer_stage_event.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_layer_stage_event.rb" />
+      <jump line="50" column="20" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/battle/stage_class/score_attack/solo.rb" />
+      <jump line="71" column="6" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_layer_stage_event.rb" />
+      <jump line="72" column="17" filename="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_layer_stage_event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3007,7 +3007,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>append</text>
+        <text encoding="base64">XDxoaWdoX3Njb3JlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaXNzaW9uX3R5cGU6IE1pc3Npb246OlR5cGVGb3JLcGk6Ok5PUk1BTCwK</text>
@@ -3048,9 +3048,9 @@ self.</text>
       </register>
     </registers>
     <search>
-      <last-search>append</last-search>
+      <last-search encoding="base64">XDxoaWdoX3Njb3JlXD4=</last-search>
       <last-offset />
-      <last-pattern>append</last-pattern>
+      <last-pattern encoding="base64">XDxoaWdoX3Njb3JlXD4=</last-pattern>
       <last-replace>Macaron::Logger</last-replace>
       <last-substitute>logger</last-substitute>
       <last-dir>1</last-dir>
@@ -3058,10 +3058,6 @@ self.</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyX3N0YWdlX21pc3Npb25zXD4=</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZV9mb3JfbGV2ZWx1cFw+</entry>
-        <entry encoding="base64">XDxzdG9yYWdlX2FuZF9jaGFyX3RpY2tldF9jb3VudF92YWxpZFw+</entry>
-        <entry>levelup</entry>
         <entry encoding="base64">XDxsZXZlbHVwXD4=</entry>
         <entry encoding="base64">XDxMYWJvXD4=</entry>
         <entry encoding="base64">XDxzdG9yZWRfcG9pbnRcPg==</entry>
@@ -3078,6 +3074,10 @@ self.</text>
         <entry>fift</entry>
         <entry encoding="base64">XDxnYWNoYV9naWZ0X2FzX2l0ZW1zXD4=</entry>
         <entry>append</entry>
+        <entry>high_score</entry>
+        <entry>high_score_team</entry>
+        <entry encoding="base64">XDxsYXllcl9zdGFnZV9vbGRfaGlnaF9zY29yZVw+</entry>
+        <entry encoding="base64">XDxoaWdoX3Njb3JlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
