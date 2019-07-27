@@ -183,13 +183,6 @@
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/matching_controller.rb" timestamp="1564037633601">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/gacha_controller.rb" timestamp="1564115077142">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="15" column="196" />
-        <mark key="]" line="15" column="206" />
-        <mark key="." line="15" column="206" />
-        <mark key="^" line="15" column="206" />
-      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/macaron/master_data.rb" timestamp="1533275830892">
         <mark key="'" line="30" column="7" />
         <mark key="[" line="6" column="0" />
@@ -536,13 +529,6 @@
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/user_mail.rb" timestamp="1564052919038">
         <mark key="'" line="113" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/controllers/battle_controller.rb" timestamp="1564116894217">
-        <mark key="'" line="49" column="65" />
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="24" column="52" />
-        <mark key="^" line="24" column="52" />
-        <mark key="." line="24" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_47.rb" timestamp="1555488634487">
         <mark key="'" line="16" column="0" />
@@ -1297,13 +1283,6 @@
         <mark key="]" line="8" column="77" />
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="39" />
-      </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/app/models/item.rb" timestamp="1564115059732">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="78" column="17" />
-        <mark key="]" line="78" column="17" />
-        <mark key="^" line="77" column="26" />
-        <mark key="." line="78" column="17" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/lib/generators/document/sharding_generator.rb" timestamp="1541741120204">
         <mark key="'" line="3" column="13" />
@@ -2431,12 +2410,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1564034223020">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="109" />
-        <mark key="^" line="3" column="109" />
-        <mark key="." line="3" column="109" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1564192657229">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="34" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/result_code.md" timestamp="1543207200395">
         <mark key="'" line="137" column="0" />
@@ -2868,25 +2847,17 @@
       <jump line="59" column="5" filename="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/gss.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
       </register>
-      <register name="0" type="4">
-        <text>spreadsheet_id = files.first.id
-range = &quot;Class Data!A2:E&quot;
-response = service.get_spreadsheet_values(spreadsheet_id, range)
-puts &quot;Name, Major:&quot;
-puts &quot;No data found.&quot; if response.values.empty?
-response.values.each do |row|
-  # Print columns A and E, which correspond to indices 0 and 4.
-  puts &quot;#{row[0]}, #{row[2]}&quot;
-end</text>
+      <register name="0" type="2">
+        <text encoding="base64">44O7c2xhY2sgOmRhdGEgaW1wb3J0IHVuc3RhYmxlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
