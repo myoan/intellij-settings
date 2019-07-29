@@ -268,6 +268,12 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/lib/funnel/command/pull.rb" timestamp="1564405512476">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/sales_event_group_condition_mission_spec.rb" timestamp="1537497215128">
         <mark key="'" line="10" column="11" />
         <mark key="[" line="7" column="24" />
@@ -1390,12 +1396,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/lib/funnel/cli.rb" timestamp="1564223166685">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="32" column="35" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="31" column="31" />
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/lib/funnel/cli.rb" timestamp="1564405544744">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="42" column="65" />
+        <mark key="]" line="42" column="74" />
+        <mark key="." line="42" column="74" />
+        <mark key="^" line="42" column="74" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/spec/models/mission_checker/count_of_got_future_char_checker_spec.rb" timestamp="1551171179399">
         <mark key="'" line="42" column="0" />
@@ -1508,6 +1514,11 @@
         <mark key="]" line="1" column="59" />
         <mark key="^" line="27" column="50" />
         <mark key="." line="1" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/lib/funnel/command/apply.rb" timestamp="1564405318937">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/model/master/sales_event_group_condition_battle_status_continuous_count.md" timestamp="1538730130696">
         <mark key="'" line="46" column="2" />
@@ -2272,7 +2283,7 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1564401722031">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1564405555729">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="28" column="11" />
         <mark key="]" line="29" column="0" />
@@ -2554,8 +2565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/gss.rb" />
-      <jump line="27" column="19" filename="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/spec/command/fetch_spec.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rspec-core-3.8.0/lib/rspec/core/project_initializer/spec/spec_helper.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rspec-core-3.8.0/lib/rspec/core/project_initializer/spec/spec_helper.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/spec/cli_spec.rb" />
@@ -2654,44 +2663,45 @@
       <jump line="33" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/spec/command/fetch_spec.rb" />
       <jump line="1" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/lib/funnel/cli.rb" />
+      <jump line="6" column="4" filename="$USER_HOME$/dev/src/github.com/monsterstrike/funnel/lib/funnel/command/apply.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZV9sZWFndWVfZ3JhZGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">44CA44O7ZnVubmVsIHB1c2g/Cg==</text>
+        <text encoding="base64">ICAgIG1ldGhvZF9vcHRpb24gOmRpcmVjdG9yeSwgdHlwZTogOnN0cmluZywgYWxpYXNlczogIi1kIiwgZGVmYXVsdDogIiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgZGVmIHNlbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">44CA44O7ZnVubmVsIHB1c2g/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="8">
-        <text>user_battle.user_layer_stage_event.
-user_battle.user_layer_stage_event.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCB7IHN1YmplY3QgfS50byByYWlzZV9lcnJvcihNYWNhcm9uOjpFeGNlcHRpb24pCg==</text>
+        <text encoding="base64">bW9kdWxlIEZ1bm5lbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
