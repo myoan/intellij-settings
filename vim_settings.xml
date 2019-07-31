@@ -2358,12 +2358,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1564538676502">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1564551611675">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="58" column="1" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="70" column="10" />
+        <mark key="]" line="70" column="10" />
+        <mark key="." line="70" column="10" />
+        <mark key="^" line="70" column="30" />
       </file>
       <file name="$USER_HOME$/dev/src/github.com/monsterstrike/macaron-server/doc/result_code.md" timestamp="1543207200395">
         <mark key="'" line="137" column="0" />
@@ -2748,10 +2748,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>は</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>は</text>
       </register>
       <register name="/" type="4">
         <text>score</text>
@@ -2760,31 +2760,31 @@
         <text encoding="base64">ICAgICAgICBsYXllcl9ldmVudCA9IHVzZXJfYmF0dGxlLnVzZXJfbGF5ZXJfc3RhZ2VfZXZlbnQuZXZlbnQKICAgICAgICB1c2VyX2xheWVyX3N0YWdlX2V2ZW50ID0gdXNlcl9iYXR0bGUudXNlcl9sYXllcl9zdGFnZV9ldmVudAogICAgICAgIG9sZF9wbGF5YWJsZV9jb3VudCA9IExheWVyU3RhZ2UuZ2V0X3BsYXlhYmxlKGxheWVyX2V2ZW50LmxheWVyX3N0YWdlX2dyb3VwX2lkLCB1c2VyX2xheWVyX3N0YWdlX2V2ZW50LmhpZ2hfc2NvcmUpLmNvdW50CiAgICAgICAgbmV3X3BsYXlhYmxlX2NvdW50ID0gTGF5ZXJTdGFnZS5nZXRfcGxheWFibGUobGF5ZXJfZXZlbnQubGF5ZXJfc3RhZ2VfZ3JvdXBfaWQsIHRvdGFsX2dvbGQpLmNvdW50CgogICAgICAgIE1hY2Fyb24ubG9nZ2VyLmFwcGVuZCg6a3BpLCBsb2dfbmFtZTogICAgICJiYXR0bGVfc2NvcmVfYXR0YWNrX2VuZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXI6ICAgICAgICAgdXNlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NvcmU6ICAgICAgICB0b3RhbF9nb2xkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc19oaWdoc2NvcmU6IHVzZXJfbGF5ZXJfc3RhZ2VfZXZlbnQuaGlnaF9zY29yZT8odG90YWxfZ29sZCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZXB1cF9jb3VudDogbmV3X3BsYXlhYmxlX2NvdW50IC0gb2xkX3BsYXlhYmxlX2NvdW50KQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhZnRlcl9hY3Rpb24gOmNsZWFyX2xvZ2dlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhZnRlcl9hY3Rpb24gOmNsZWFyX2xvZ2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgY2xlYXJfbG9nZ2VyCiAgICBNYWNhcm9uLmxvZ2dlci5yZWdpc3QK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBlbmQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZWYgY2xlYXJfbG9nZ2VyCiAgICBNYWNhcm9uLmxvZ2dlci5yZWdpc3QK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0cyBtYXN0ZXIuZGVzdGluYXRpb24K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0cyBtb2RlbC5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0cyBtYXN0ZXIuZGVzdGluYXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0cyAiLS0tIgogICAgICAgICAgICBwdXRzIEBidWNrZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0cyBtb2RlbC5uYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
