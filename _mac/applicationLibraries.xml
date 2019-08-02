@@ -2513,6 +2513,17 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/octokit-4.14.0/lib" />
       </SOURCES>
     </library>
+    <library name="octokit (v4.14.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/octokit-4.14.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/octokit-4.14.0/lib" />
+      </SOURCES>
+    </library>
     <library name="octokit (v4.14.0, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2883,6 +2894,28 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/bin" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/data" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/public_suffix-3.0.3/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.1.0, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/data" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/data" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/data" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/public_suffix-3.1.0/test" />
       </excluded>
     </library>
     <library name="public_suffix (v3.1.0, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
@@ -3642,6 +3675,22 @@
       <excluded>
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/sawyer-0.8.1/test" />
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/sawyer-0.8.1/script" />
+      </excluded>
+    </library>
+    <library name="sawyer (v0.8.2, rbenv: 2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sawyer-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sawyer-0.8.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sawyer-0.8.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sawyer-0.8.2/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/sawyer-0.8.2/script" />
       </excluded>
     </library>
     <library name="sawyer (v0.8.2, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
