@@ -10,6 +10,7 @@
       <mapping pattern="response" type="PLAIN_TEXT" />
       <mapping pattern="hoge" type="PLAIN_TEXT" />
       <mapping pattern="svndev" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="batch" type="PLAIN_TEXT" />
       <mapping ext="ios" type="PLAIN_TEXT" />
