@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="meta alt a" />
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl a" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
@@ -18,6 +19,9 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorPageDown" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl b" />
   </action>
@@ -38,8 +42,13 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl p" />
   </action>
   <action id="SelectNextOccurrence" />
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="ctrl j" second-keystroke="shift ctrl t" />
+  </action>
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl h" />
   </action>
   <action id="TypeHierarchy" />
   <action id="VimMotionLastColumn">
