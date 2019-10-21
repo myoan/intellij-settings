@@ -3,15 +3,15 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="dc-windows-build-machine" type="PLAIN_TEXT" />
-      <mapping pattern="lambda" type="PLAIN_TEXT" />
-      <mapping pattern="response" type="PLAIN_TEXT" />
-      <mapping pattern="hermes" type="PLAIN_TEXT" />
-      <mapping pattern="hoge" type="PLAIN_TEXT" />
-      <mapping pattern="svndev" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="result" type="PLAIN_TEXT" />
+      <mapping pattern="response" type="PLAIN_TEXT" />
+      <mapping pattern="svndev" type="PLAIN_TEXT" />
+      <mapping pattern="hoge" type="PLAIN_TEXT" />
+      <mapping pattern="lambda" type="PLAIN_TEXT" />
+      <mapping pattern="hermes" type="PLAIN_TEXT" />
+      <mapping pattern="dc-windows-build-machine" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="batch" type="PLAIN_TEXT" />
       <mapping ext="ios" type="PLAIN_TEXT" />
