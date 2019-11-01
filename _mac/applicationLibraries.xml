@@ -10135,6 +10135,34 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/xpath-3.2.0/spec" />
       </excluded>
     </library>
+    <library name="yard (v0.9.20, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/docs" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/templates" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/docs" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/templates" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/docs" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/spec" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/templates" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/yard-0.9.20/benchmarks" />
+      </excluded>
+    </library>
     <library name="zeitwerk (v2.1.9, rbenv: 2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
