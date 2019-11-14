@@ -32,6 +32,10 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="RestoreDefaultLayout">
@@ -69,6 +73,7 @@
     <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl h" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="Vcs.UpdateProject" />
   <action id="VimMotionLastColumn">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
