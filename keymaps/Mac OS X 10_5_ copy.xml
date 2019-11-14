@@ -28,9 +28,6 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl p" />
   </action>
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="ctrl n" />
-  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
