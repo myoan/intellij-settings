@@ -41,6 +41,9 @@
   <action id="RunConfigurationAsAction_Run_pronto_default_target">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl p" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl f" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="TabShiftActions.StretchDown">
