@@ -19,9 +19,6 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorPageDown" />
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl b" />
   </action>
@@ -70,7 +67,7 @@
   </action>
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleInlineHintsAction">
-    <keyboard-shortcut first-keystroke="ctrl p" second-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl h" />
   </action>
   <action id="TypeHierarchy" />
   <action id="Vcs.UpdateProject" />
