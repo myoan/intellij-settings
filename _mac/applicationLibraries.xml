@@ -7121,6 +7121,98 @@
         <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/lib/ruby/gems/2.6.0/gems/rubocop-0.69.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.76.0, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/assets" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/assets" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/exe" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/assets" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-0.76.0/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-performance (v1.5.1, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-performance-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-performance-1.5.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-performance-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-performance-1.5.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-performance-1.5.1/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-rails (v2.3.2, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rails-2.3.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rails-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rails-2.3.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rails-2.3.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rails-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rails-2.3.2/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rails-2.3.2/bin" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rails-2.3.2/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-rspec (v1.36.0, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-1.36.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-1.36.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-1.36.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-1.36.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-1.36.0/config" />
+      </excluded>
+    </library>
+    <library name="rubocop-rspec-focused (v1.0.0, rbenv: 2.6.2, macaron-server) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-focused-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-focused-1.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-focused-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-focused-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.anyenv/envs/rbenv/versions/2.6.2/gemsets/macaron-server/gems/rubocop-rspec-focused-1.0.0/spec" />
+      </excluded>
+    </library>
     <library name="ruby-progressbar (v1.10.0, rbenv: 2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
