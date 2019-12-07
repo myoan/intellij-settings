@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl a" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="meta alt z" />
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl r" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
